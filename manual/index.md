@@ -1,11 +1,11 @@
 ---
-title:  PBR Resources
-weight: 3
+title:  Design Manual
+weight: 1
 ---
 
-## Heading
+## Chapters
 
-
+The Design Manual is organized into a series of chapters, each with its own page that is occasionally updated and a PDF of various versions of the text.
 
 
 
