@@ -1,7 +1,11 @@
 ---
-title: My Homepage
+title: Riverscapes Restoration Design Manual - Home
 weight: 1
 ---
+
+WELL... YOU FOUND US.
+
+We're not ready for you yet. We will make this site live when we finish it... for now pardon our dust. 
 
 This is your homepage Elit occaecat veniam nulla commodo aliqua ut sunt. Cupidatat occaecat sunt do do eiusmod id nostrud tempor quis dolor elit anim deserunt. Incididunt magna magna nostrud nulla in duis.
 
