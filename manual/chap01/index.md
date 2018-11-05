@@ -19,13 +19,13 @@ weight: 1
 
 ### Abstract
 
-ddd
+To be updated... of course. 
 
 
 
 #### Recommended Citation
 
-- <a href="http://chapterlink.com" ><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a> Wheaton JM, Shahverdian S, Bennet S, Bouwes N. **[Chapter 1 – Background & Purpose](http://chapterlink.com)**. In: [Riverscapes Restoration Design Manual: A Guide to Low-Tech Process-Based Restoration]({{ site.baseurl }}/). Wheaton JM & Shahverdian S, (Editors). Prepared for Pheasants Forever, Sage Grouse Initiative, USDA Natural Resource Conservation Service, Utah Division of Wildlife Resources, and Utah’s Watershed Restoration Initiative. Utah State University [Wheaton Ecogeomorphology & Topographic Analysis Lab](http://etal.joewheaton.org). Logan, UT. p xx - xx. DOI: [TBD](http://dx.doi.org/).
+- <a href="{{ site.baseurl }}/" ><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a> Wheaton JM, Shahverdian S, Bennet S, Bouwes N. **[Chapter 1 – Background & Purpose](http://chapterlink.com)**. In: [Riverscapes Restoration Design Manual: A Guide to Low-Tech Process-Based Restoration - Version 1.0]({{ site.baseurl }}/). Wheaton JM & Shahverdian S, (Editors). Prepared for [Pheasants Forever](https://pheasantsforever.org/Hunt/pheasant-hunting.aspx), [Sage Grouse Initiative](https://www.sagegrouseinitiative.com/), [USDA Natural Resource Conservation Service](https://www.nrcs.usda.gov/wps/portal/nrcs/detailfull/national/programs/initiatives/?cid=steldevb1027671), [Utah Division of Wildlife Resources](https://wildlife.utah.gov/), and [Utah’s Watershed Restoration Initiative](https://wri.utah.gov/). [Utah State University](http://restoration.usu.edu/) [Wheaton Ecogeomorphology & Topographic Analysis Lab](http://etal.joewheaton.org). Logan, UT.  xx pp. DOI: [TBD](http://dx.doi.org/).
 
 -----
 ## Related Resources
