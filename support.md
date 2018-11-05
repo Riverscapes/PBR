@@ -5,7 +5,7 @@ weight: 2
 
 ## Financial Support
 
-Thanks to the generous support of the [Natural Resource Conservation Service's](https://www.nrcs.usda.gov/wps/portal/nrcs/detailfull/national/programs/initiatives/?cid=steldevb1027671) [Sage Grouse Initiative](https://www.sagegrouseinitiative.com/) and [Working Lands for Wildlife Initiative](https://www.nrcs.usda.gov/wps/portal/nrcs/detail/national/plantsanimals/fishwildlife/?cid=stelprdb1046975), a grant through [Pheasants Forever](https://www.pheasantsforever.org/) to  [Joe Wheaton's](http://joewheaton.org/) [ET-AL lab](http://etal.joewheaton.org/) at Utah State University. were able to build a restoration design manual for streams and riparian areas (i.e. riverscapes) that embraces process-based restoration, low-cost restoration techniques and a 'cheap and cheerful ethos'. This effort started as a design manual by the Wheaton ETAL group for the Utah Division of Wildlife Resources and the [Utah Watershed Restoration Initiative](). Kent "Sorno" Sorrenson (UDWR) and Tyler Thompson (WRI) provided the original support and have been extremely patient. Jeremy Maestas (NRCS/SGI) had the vision for what the manual could be and was persistent and patient in pushing to see its completion.. 
+Thanks to the generous support of the [Natural Resource Conservation Service's](https://www.nrcs.usda.gov/wps/portal/nrcs/detailfull/national/programs/initiatives/?cid=steldevb1027671) [Sage Grouse Initiative](https://www.sagegrouseinitiative.com/) and [Working Lands for Wildlife Initiative](https://www.nrcs.usda.gov/wps/portal/nrcs/detail/national/plantsanimals/fishwildlife/?cid=stelprdb1046975), a grant through [Pheasants Forever](https://www.pheasantsforever.org/) to  [Joe Wheaton's](http://joewheaton.org/) [ET-AL lab](http://etal.joewheaton.org/) at Utah State University. were able to build a restoration design manual for streams and riparian areas (i.e. riverscapes) that embraces process-based restoration, low-cost restoration techniques and a 'cheap and cheerful ethos'. This effort started as a design manual by the Wheaton ETAL group for the Utah Division of Wildlife Resources and the [Utah Watershed Restoration Initiative](). Kent "Sorno" Sorrenson ([UDWR](https://wildlife.utah.gov/)) and Tyler Thompson ([WRI](https://wri.utah.gov/)) provided the original support and have been extremely patient. Jeremy Maestas (NRCS/SGI) had the vision for what the manual could be and was persistent and patient in pushing to see its completion.. 
 
 
 ### Design Manual Sponsors
@@ -21,7 +21,7 @@ Thanks to the generous support of the [Natural Resource Conservation Service's](
     <a href="https://www.nrcs.usda.gov/wps/portal/nrcs/detailfull/national/programs/initiatives/?cid=steldevb1027671"><img src="{{ site.baseurl }}/assets/images/sponsors/usda-nrcs-logo_1_orig.png"></a>
   </div>
   <div class="column column-block">
-    <a href="http://beaver.joewheaton.org/2015---udwr-workshop.html"><img src="{{ site.baseurl }}/assets/images/sponsors/Utah_DWR.jpg"></a>
+    <a href="https://wildlife.utah.gov/"><img src="{{ site.baseurl }}/assets/images/sponsors/Utah_DWR.jpg"></a>
   </div>
   <div class="column column-block">
     <a href="https://wri.utah.gov/"><img src="{{ site.baseurl }}/assets/images/sponsors/WRI.png"></a>
