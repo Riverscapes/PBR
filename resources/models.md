@@ -17,7 +17,19 @@ weight: 4
 	</div>
 </div>
 
+
+### Riverscapes Tools
+
+
+[BRAT](http://brat.riverscapes.xyz)(Beaver Restoration Assessment Tool) is useful for condition assessment as it pertains to developing expectations for beaver dam building.  [RCAT](http://rcat.riverscapes.xyz)(Riparian Condition Assessment Tool) is helpful for assessing riparian conditions, the causes of departure from historic conditions and looking at recovery potential within the valley bottom. 
+
+<div align="center">
+	<a class="button alert" href="http://brat.riverscapes.xyz"><img src="{{ site.baseurl }}/assets/images/BRAT_Logo-wGrayTxt.png"></a>
+	<a class="button alert" href="http://rcat.riverscapes.xyz"><img src="{{ site.baseurl }}/assets/images/RCAT_Logo-wTxt.png"></a>
+</div>
+
 ###  Condition Assessment
+
 
 
 ### Recovery Potential

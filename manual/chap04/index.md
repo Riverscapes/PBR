@@ -30,6 +30,11 @@ To be updated... of course.
 -----
 ## Related Resources
 
+<div align="center">
+	<a class="button" href="{{ site.baseurl }}/resources/casestudies"><img src="{{ site.baseurl }}/assets/images/PBR-LT_round_30.png"> <i class="fa fa-address-card" aria-hidden="true"></i> Low-Tech PBR Recipes</a>
+</div>
+
+
 ------
 <div align="center">
 	<a class="hollow button" href="{{ site.baseurl }}/"><i class="fa fa-arrow-circle-left" aria-hidden="true"></i>  Back to Design Manual Home <i class="fa fa-book" aria-hidden="true"></i></a>
