@@ -25,7 +25,7 @@ To be updated... of course.
 
 #### Recommended Citation
 
-- <a href="http://chapterlink.com" ><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a> Bouwes N, Macfarlane W, Shahverdian S, Bennett S, & Wheaton JM. **[Chapter 3 – Impairments: What are they, how did we get here, and how could low-tech PBR help?](http://chapterlink.com)**. In: [Riverscapes Restoration Design Manual: A Guide to Low-Tech Process-Based Restoration - Version 1.0]({{ site.baseurl }}/). Wheaton JM & Shahverdian S, (Editors). Prepared for [Pheasants Forever](https://pheasantsforever.org/Hunt/pheasant-hunting.aspx), [Sage Grouse Initiative](https://www.sagegrouseinitiative.com/), [USDA Natural Resource Conservation Service](https://www.nrcs.usda.gov/wps/portal/nrcs/detailfull/national/programs/initiatives/?cid=steldevb1027671), [Utah Division of Wildlife Resources](https://wildlife.utah.gov/), and [Utah’s Watershed Restoration Initiative](https://wri.utah.gov/). [Utah State University](http://restoration.usu.edu/) [Wheaton Ecogeomorphology & Topographic Analysis Lab](http://etal.joewheaton.org). Logan, UT.  xx pp. DOI: [TBD](http://dx.doi.org/).
+- <a href="http://chapterlink.com" ><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a> Bouwes N, Macfarlane W, Shahverdian S, Bennett S, & Wheaton JM. 2018. **[Chapter 3 – Impairments: What are they, how did we get here, and how could low-tech PBR help?](http://chapterlink.com)**. In: [Riverscapes Restoration Design Manual: A Guide to Low-Tech Process-Based Restoration - Version 1.0]({{ site.baseurl }}/). Wheaton JM & Shahverdian S, (Editors). Prepared for [Pheasants Forever](https://pheasantsforever.org/Hunt/pheasant-hunting.aspx), [Sage Grouse Initiative](https://www.sagegrouseinitiative.com/), [USDA Natural Resource Conservation Service](https://www.nrcs.usda.gov/wps/portal/nrcs/detailfull/national/programs/initiatives/?cid=steldevb1027671), [Utah Division of Wildlife Resources](https://wildlife.utah.gov/), and [Utah’s Watershed Restoration Initiative](https://wri.utah.gov/). [Utah State University](http://restoration.usu.edu/) [Wheaton Ecogeomorphology & Topographic Analysis Lab](http://etal.joewheaton.org). Logan, UT.  xx pp. DOI: [TBD](http://dx.doi.org/).
 
 -----
 ## Related Resources
@@ -53,7 +53,6 @@ To be updated... of course.
 - 2017. *Invited Webinar.* **Wheaton JM** and Zollitsch B. [BRAT (Beaver Restoration Assessment Tool) for Planning & Prioritizing Watershed Restoration](https://www.researchgate.net/publication/316796241_BRAT_Beaver_Restoration_Assessment_Tool_for_Planning_Prioritizing_Watershed_Restoration). BLM. DOI: [10.13140/RG.2.2.10896.81922](http://dx.doi.org/10.13140/RG.2.2.10896.81922). See [here](https://youtu.be/e28Ix-08PdM) for video. 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/e28Ix-08PdM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen align="center"></iframe>
-
 
 ------
 <div align="center">
