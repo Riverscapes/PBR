@@ -22,6 +22,19 @@ weight: 5
 14. Wheaton JM**,** Bennett S, Bouwes N, and Camp R. 2012. [Asotin Creek Intensively Monitored Watershed: Restoration Plan for North Fork Asotin, South Fork Asotin and Charlie Creeks](http://etal.usu.edu/Asotin/AsotinRestorationPlan_v1.pdf), Eco Logical Research, Inc., Prepared for Snake River Salmon Recovery Board. Logan, UT, 125 pp. 
 15. Pollock M, Wheaton JM, Bouwes N and Jordan CE. 2011. [Working with Beaver to Restore Salmon Habitat in the Bridge Creek Intensively Monitored Watershed: Design Rationale and Hypotheses, Interim Report](http://etal.usu.edu/BridgeCreek/NOAA/BDSS_Tech_Memo_6.07.11.pdf), NOAA Northwest Fisheries Science Center, Seattle, WA, 63 pp. 
 
+
+
+https://www.fws.gov/oregonfwo/ToolsForLandowners/RiverScience/Documents/BRG%20v.1.0%20final%20reduced.pdf Chapter 12
+
+
+
+
+Gregory Lewallen, Heidi Perryman, Carol Murdock, Mark Beardsley, Daniel Armichardy, Scott Jay Bailey, Bob Hassmiller, Sean Bistoff, David Helzer, Kendra Smith, Susan Firor, Janet Hohle, Scott Reid, Jessica Doran, Brad Johnson, Mike Claffey, Matt Weaver, David Kliegman, Julie Ashmore, Lauren Rich and Cathryn Wild (2017) [Chapter 11—Beaver Restoration Case Studies](https://www.fws.gov/oregonfwo/promo.cfm?id=177175812) in Pollock, M.M., G.M. Lewallen, K. Woodruff, C.E. Jordan and J.M. Castro (Editors) 2017. [The Beaver Restoration Guidebook: Working with Beaver to Restore Streams, Wetlands, and Floodplains. Version 2.0](https://www.fws.gov/oregonfwo/promo.cfm?id=177175812). United States Fish and Wildlife Service, Portland, Oregon.  pp 132-187.
+
+
+
+
+
 ### Restoration Planning
 
 
