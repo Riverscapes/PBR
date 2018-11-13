@@ -15,7 +15,7 @@ weight: 1
 ### Implications for Practice
 
 <div class="row small-up-2 medium-up-2">
- 
+
   <div class="column">
     <div class="card">
         <div class="card-section">
@@ -57,6 +57,24 @@ To be updated... of course.
 
 -----
 ## Related Resources
+
+
+### PBR Literature
+
+
+<div class="row small-up-2 medium-up-2 large-up-2" align="center">
+  	<div class="column column-block">
+  		<a href="https://www.fs.fed.us/rm/pubs_other/rmrs_2010_beechie_t001.pdf"><img src="{{ site.baseurl }}/assets/images/covers/Beechie_PBR.png"></a>
+<br>
+	Beechie T, Sear DA, Olden JD, Pess GR, Buffington JM, Moir H, Roni P and Pollock MM. 2010. <a href="">Process-based principles for river restoration</a>. Bioscience. 60(3): 209-222.  DOI: <a href="http://dx.doi.org/10.1525/bio.2010.60.3.7">10.1525/bio.2010.60.3.7</a>
+	</div>
+<div class="column column-block">
+	
+	<a href="https://onlinelibrary.wiley.com/doi/book/10.1002/9781118406618"><img src="{{ site.baseurl }}/assets/images/covers/RoniBeechiePBR.png"></a>
+	<br>Roni P and Beechie T (Eds). 2013. Stream and Watershed Restoration: A Guide to Restoring Riverine Processes and Habitats. Wiley: Chichester, U.K., 300 pp. DOI: <a href="http://dx.doi.org/10.1002/9781118406618">10.1002/9781118406618</a>
+	</div>
+</div>
+
 
 ------
 <div align="center">
