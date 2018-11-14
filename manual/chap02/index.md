@@ -14,8 +14,37 @@ weight: 2
 
 ### Implications for Practice
 
-- Bullet 1
-- Bullet 2
+
+<div class="row small-up-2 medium-up-2">
+
+  <div class="column">
+    <div class="card">
+        <div class="card-section">
+        <p><ul>
+	<li>We intend for this low-tech process-based restoration manual to fill a void in the scientific literature and technical guidelines with respect to LT-PBR techniques.</li>
+	<li>While PBR concepts have been around for at least two decades, details and specific examples on how to implement PBR are lacking.</li>
+	<li>While many of the specific actions (e.g.building structures, reintroducing beaver) have been used in various forms for decades to centuries, the framework for how those actions fit together and what they are intended to achieve as a LT-PBR action has not been effectively articulated.</li>
+	<li>We attempt to compile the various LT-PBR recipes into one place and a <a href="{{ site.baseurl}}/">web resource</a> for the future to help practitioners more efficiently and effectively tackle LT-PBR projects.</li>subdued.
+	</ul>
+	</p>
+      </div>
+    </div>
+  </div>
+  <div class="column">
+    <div class="card">
+      <div class="card-section">
+        <p>
+        	<ul>
+        		<li>We do not attempt to provide a complete overview of process based restoration, but instead point the reader to existing resources and plug critical knowledge gaps where guidance can help push policy,regulations, practice and adaptive management forward.</li>
+	<li>This manual does revisit many restoration topics (e.g. river health, condition & impairment assessment,  restoration planning, design, construction andadaptive management) that have been covered elsewhere, but for which the application of those topics to LT-PBR needs clarification.</li>
+	<li>We define eleven core principles of LT-PBR, which are critical to achieving success.</li>
+	<li>Detailed design guidance is provided for two specific types of treatments that the authors helped pioneer the development and use of (beaver dam analogues and post-assisted log structures placed as high-density large woody debris).</li>
+			</ul>
+        </p>
+      </div>
+    </div>
+  </div>
+</div>
 
 ### Abstract
 
@@ -38,7 +67,6 @@ To be updated... of course.
 
 Joe's slides from [NRCS/SGI Wyoming Workshop on Partnering with Beaver in Restoration Design](http://beaver.joewheaton.org/nrcs---wyoming.html) on Riparian and Stream Health (see [here](http://beaver.joewheaton.org/lander-workshop-materials.html) for this and other workshop resources):
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQsFkwC11jG0eXNIlxURTwMtAat01IRYbCU3GQdqmj59i980Zed2VnJjRAmcHhEwKx4WnTA-UbTsxER/embed?start=false&loop=false&delayms=3000" frameborder="0" width="550" height="450" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-
 
 ------
 <div align="center">
