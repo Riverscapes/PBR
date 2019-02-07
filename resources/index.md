@@ -3,7 +3,7 @@ title:  PBR Resources
 weight: 3
 ---
 
-## Heading
+## Additional Low-Tech PBR Resources
 
 
 
