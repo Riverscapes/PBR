@@ -15,15 +15,25 @@ After receiving so many inquiries from practitioners wanting to tackle these pro
 
 Over time, more companies and firms will hopefully also start filling this niche. If you think your firm does, let us know and we'll review your credentials and would be happy to post a link here.
 
-<div class="row small-up-2 medium-up-2 large-up-4">
+<div class="row small-up-2 medium-up-2 large-up-4" align="center">
 
   <div class="column column-block">
+    Western US
     <a href="http://anabranchsolutions.com"><img src="{{ site.baseurl }}/assets/images/sponsors/anabranchsolutionslogo-square-450_10.png"></a>
   </div>
   <div class="column column-block">
+    California
     <a href="http://www.swiftwaterdesign.com/"><img src="{{ site.baseurl }}/assets/images/logos/swd-1_orig.png"></a>
-  </div>
 
+  </div>
+  <div class="column column-block">
+    Montana
+    <a href="http://www.watershedconsulting.com/"><img src="{{ site.baseurl }}/assets/images/logos/WatershedConsulting.png"></a>
+  </div>
+  <div class="column column-block">
+    Colorado
+    <a href="http://www.ecometricscolorado.com/"><img src="{{ site.baseurl }}/assets/images/logos/EcoMetrics.png"></a>
+  </div>
 </div>
 
 ## Need Help with Nuisance Beaver Mitigation & Planning?
