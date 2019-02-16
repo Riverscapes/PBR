@@ -4,8 +4,8 @@ weight: 2
 ---
 
 ## Financial Support
+This design manual was made possible with financial support from the [USDA-Natural Resources Conservation Service’s](https://www.nrcs.usda.gov/wps/portal/nrcs/detailfull/national/programs/initiatives/?cid=steldevb1027671)  [Working Lands for Wildlife Initiative](https://www.nrcs.usda.gov/wps/portal/nrcs/detail/national/plantsanimals/fishwildlife/?cid=stelprdb1046975) through [Pheasants Forever](https://www.pheasantsforever.org/) (USU Award: 201426), the [Utah Watershed Restoration Initiative](https://wri.utah.gov/) through the [Utah Division of Wildlife Resources](https://wildlife.utah.gov/) (USU Award: 130942, 150102, 200225, 200896), donated from [Anabranch Solutions](http://anabranchsolutions.com) and donated time from the authors. Kent "Sorno" Sorrenson ([UDWR](https://wildlife.utah.gov/)) and Tyler Thompson ([WRI](https://wri.utah.gov/)) provided the original support and have been extremely patient. Jeremy Maestas (NRCS/SGI) had the vision for what the manual could be and was persistent and patient in pushing to see its completion.
 
-Thanks to the generous support of the [Natural Resource Conservation Service's](https://www.nrcs.usda.gov/wps/portal/nrcs/detailfull/national/programs/initiatives/?cid=steldevb1027671) [Sage Grouse Initiative](https://www.sagegrouseinitiative.com/) and [Working Lands for Wildlife Initiative](https://www.nrcs.usda.gov/wps/portal/nrcs/detail/national/plantsanimals/fishwildlife/?cid=stelprdb1046975), a grant through [Pheasants Forever](https://www.pheasantsforever.org/) to  [Joe Wheaton's](http://joewheaton.org/) [ET-AL lab](http://etal.joewheaton.org/) at Utah State University. were able to build a restoration design manual for streams and riparian areas (i.e. riverscapes) that embraces process-based restoration, low-cost restoration techniques and a 'cheap and cheerful ethos'. This effort started as a design manual by the Wheaton ETAL group for the Utah Division of Wildlife Resources and the [Utah Watershed Restoration Initiative](). Kent "Sorno" Sorrenson ([UDWR](https://wildlife.utah.gov/)) and Tyler Thompson ([WRI](https://wri.utah.gov/)) provided the original support and have been extremely patient. Jeremy Maestas (NRCS/SGI) had the vision for what the manual could be and was persistent and patient in pushing to see its completion.. 
 
 
 ### Design Manual Sponsors
@@ -30,7 +30,6 @@ Thanks to the generous support of the [Natural Resource Conservation Service's](
     <a href="http://anabranchsolutions.com"><img src="{{ site.baseurl }}/assets/images/sponsors/anabranchsolutionslogo-square-450_10.png"></a>
   </div>
 </div>
-
 ------
 <div align="center">
 	<a class="hollow button" href="{{ site.baseurl }}/"><i class="fa fa-arrow-circle-left" aria-hidden="true"></i>  Back to Design Manual Home <i class="fa fa-book" aria-hidden="true"></i></a>  
