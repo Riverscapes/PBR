@@ -3,15 +3,13 @@ title: Riverscapes Restoration Design Manual - Home
 weight: 1
 ---
 
-WELL... YOU FOUND US.
 
-We're not ready for you yet. We will make this site live when we finish it... for now pardon our dust. 
 
-This is your homepage Elit occaecat veniam nulla commodo aliqua ut sunt. Cupidatat occaecat sunt do do eiusmod id nostrud tempor quis dolor elit anim deserunt. Incididunt magna magna nostrud nulla in duis.
+**The purpose of this design manual is to provide restoration practitioners with guidelines for implementing a subset of low-tech tools**—namely beaver dam analogues (BDAs) and post-assisted log structures (PALS)—for initiating process-based restoration in structurally-starved riverscapes. While the concept of process-based restoration in riverscapes has been advocated for at least two decades, details and specific examples on how to implement it remain sparse. Here, we describe ‘low-tech process-based restoration’ as a practice of using simple, low unit-cost, structural additions (e.g. wood and beaver dams) to riverscapes to mimic functions and initiate specific processes. Hallmarks of this approach include:
 
-Enim mollit culpa eu sint velit occaecat ullamco reprehenderit dolor eu esse do officia reprehenderit. Nisi quis Lorem ex commodo officia ipsum. Et pariatur mollit sit cupidatat incididunt incididunt commodo excepteur esse Lorem labore nostrud non.
-
-Labore dolor aute in eu labore ad. Ullamco velit sit veniam qui nulla cupidatat incididunt aliquip qui ea duis nisi ipsum sit. Do incididunt id veniam esse. Aute eiusmod do incididunt dolore elit aute veniam in et magna pariatur reprehenderit. Aliquip incididunt sit officia excepteur voluptate Lorem dolore cillum non nulla culpa sint non.
+- An explicit focus on the processes that a low-tech restoration intervention is meant to promote
+- A conscious effort to use cost-effective, low-tech treatments (e.g. hand-built, natural materials, non-engineered, short-term design life-spans) because of the need to efficiently scale-up application. 
+- ‘Letting the system do the work’ which defers critical decision making to riverscapes and nature’s ecosystem engineers
 
 
 
