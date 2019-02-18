@@ -8,7 +8,7 @@ weight: 2
 
 <div class="row small-up-2 medium-up-2 large-up-2">
   <div class="column column-block">
-	We have developed a number of recipes and conceptual diagrams for low tech process based restoration structures and principles. These recipes are all open source  so you them for your purposes in your own designs, permit applications and reports.  Like most recipes, local adaptations, substitutions and changes can be made to best suit your needs. However, when getting started, or for defining minimum standards of practice, the receipes are helpful. We license all these with a <a href="https://creativecommons.org/licenses/by/4.0/legalcode">creative commons <i class="fa fa-creative-commons" aria-hidden="true"></i> attribution license</a> so you can adapt for your own purposes and, distribute and share:
+	A number of recipes and conceptual diagrams for low tech process based restoration structures and principles. Of the recipes shown here, most are open source  so you can use them for your purposes in your own designs, permit applications and reports.  Like most recipes, local adaptations, substitutions and changes can be made to best suit your needs. However, when getting started, or for defining minimum standards of practice, the receipes are helpful. We license all these with a <a href="https://creativecommons.org/licenses/by/4.0/legalcode">creative commons <i class="fa fa-creative-commons" aria-hidden="true"></i> attribution license</a> so you can adapt for your own purposes and, distribute and share:
 
 	<a href="https://creativecommons.org/licenses/by/4.0/"><img src = "{{ site.baseurl }}/assets/images/logos/cc/CC_Watermark_ETAL_600_Blue.png"></a>
 	</div>
@@ -19,14 +19,15 @@ weight: 2
 
 ### Structure Recipes
 
-#### Beaver Dam Analogues (BDAs)
+<div class="row small-up-2 medium-up-2 large-up-3" align="center">
+  <div class="column column-block">
+	<a class="hollow button" href="{{ site.baseurl }}/manual/chap10"><img src="{{ site.baseurl }}/assets/images/BeaverLogo_Orange_24.png">  <br>Beaver Dam Analogues</a>
+ </div>
+ <div class="column column-block">
+	<a class="hollow button" href="{{ site.baseurl }}/manual/chap11"><img src="{{ site.baseurl }}/assets/images/hdLWD_100_Orange.png">  <br> High Density Large Woody Debris</a>
+  </div>
+</div>
 
-#### Post-Assisted Log Structures (PALS)
-
-
-### Conceptual Diagrams
-
-#### HD LWD
 
 
 
