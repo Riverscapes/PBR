@@ -3,8 +3,20 @@ title:  Low-Tech PBR Case Studies
 weight: 5
 ---
 
-
 ## Case Studies 
+
+
+Case Studies are crtical for grounding the concepts in this design manual. As the list of case-studies is always growing, we do not summarize them in a static chapter here, but instead refer the reader to an annotated biliography of case studies maintained on this web site:
+
+
+
+If you want to see your own low-tech process based restoration case study added to the list, submit your own here:
+<div align="center">
+	<a class="button" href="https://goo.gl/forms/Ol0FQsz9W4QoU4ME3"><i class="fa fa-google" aria-hidden="true"></i>  Submit your Project as Case Study</a>
+</div>
+
+
+### From Authors
 
 1. Shahverdian, SM. and Wheaton, JM. 2017. [Birch Creek Restoration Design Report](https://www.researchgate.net/publication/322104193_Birch_Creek_Restoration_Design_Report_-_Prepared_for_Utah_Division_of_Wildlife_Resources_and_Bureau_of_Land_Management). Prepared for the Utah Division of Wildlife Resources by Anabranch Solutions, LLC. Newton, UT. 26 Pages. DOI: [10.13140/RG.2.2.11439.84646](http://dx.doi.org/10.13140/RG.2.2.11439.84646)
 2. Shahverdian SM, Macfarlane WW and Wheaton JM. 2016. [MEMO: Westerly Creek Beaver Dam Capacity Assessment: Developing Realistic Expectations for Beaver Dam Activity](https://www.researchgate.net/publication/309762206_MEMO_Westerly_Creek_Beaver_Dam_Capacity_Assessment_Developing_Realistic_Expectations_for_Beaver_Dam_Activity?ev=prf_pub). Prepared for Muller Engineering Company, Anabranch Solutions, Logan, UT, 24 pp. DOI:[ 10.13140/RG.2.2.34120.93446](http://dx.doi.org/10.13140/RG.2.2.34120.93446)
@@ -23,6 +35,7 @@ weight: 5
 15. Pollock M, Wheaton JM, Bouwes N and Jordan CE. 2011. [Working with Beaver to Restore Salmon Habitat in the Bridge Creek Intensively Monitored Watershed: Design Rationale and Hypotheses, Interim Report](http://etal.usu.edu/BridgeCreek/NOAA/BDSS_Tech_Memo_6.07.11.pdf), NOAA Northwest Fisheries Science Center, Seattle, WA, 63 pp. 
 
 
+### From Others
 
 https://www.fws.gov/oregonfwo/ToolsForLandowners/RiverScience/Documents/BRG%20v.1.0%20final%20reduced.pdf Chapter 12
 
