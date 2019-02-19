@@ -59,12 +59,13 @@ weight: 1
 
 ### PBR Literature
 
+Perhaps the two most definitive resources on Process-Based Restoration for riverscapes have been Beechie et al. (2010) and Roni & Beechie (2013).  Please also see [Appendix A]({{ site.baseurl }}/manual/chap01/appendix-A).
 
 <div class="row small-up-2 medium-up-2 large-up-2" align="center">
   	<div class="column column-block">
   		<a href="https://www.fs.fed.us/rm/pubs_other/rmrs_2010_beechie_t001.pdf"><img src="{{ site.baseurl }}/assets/images/covers/Beechie_PBR.png"></a>
 <br>
-	Beechie T, Sear DA, Olden JD, Pess GR, Buffington JM, Moir H, Roni P and Pollock MM. 2010. <a href="">Process-based principles for river restoration</a>. Bioscience. 60(3): 209-222.  DOI: <a href="http://dx.doi.org/10.1525/bio.2010.60.3.7">10.1525/bio.2010.60.3.7</a>
+	Beechie T, Sear DA, Olden JD, Pess GR, Buffington JM, Moir H, Roni P and Pollock MM. 2010. <a href="https://www.fs.fed.us/rm/pubs_other/rmrs_2010_beechie_t001.pdf">Process-based principles for river restoration</a>. Bioscience. 60(3): 209-222.  DOI: <a href="http://dx.doi.org/10.1525/bio.2010.60.3.7">10.1525/bio.2010.60.3.7</a>
 	</div>
 <div class="column column-block">
 
