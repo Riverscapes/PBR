@@ -4,7 +4,7 @@ weight: 2
 ---
 
 
-## Recipes for You to Use and Adapt
+# Recipes for You to Use and Adapt
 
 <div class="row small-up-2 medium-up-2 large-up-2">
   <div class="column column-block">
@@ -18,25 +18,25 @@ weight: 2
 </div>
 
 
-### Structure Recipes
+## Structure Recipes
 
 <div class="row small-up-2 medium-up-2 large-up-3" align="center">
   <div class="column column-block">
-	<a class="hollow button" href="{{ site.baseurl }}/manual/chap10"><img src="{{ site.baseurl }}/assets/images/BeaverLogo_Orange_24.png">  <br>Beaver Dam Analogues</a>
+	<a class="hollow button" href="{{ site.baseurl }}/resources/recipes/beaver/bda"><img src="{{ site.baseurl }}/assets/images/BeaverLogo_Orange_24.png">  <br>Beaver Dam Analogues</a>
  </div>
  <div class="column column-block">
-	<a class="hollow button" href="{{ site.baseurl }}/manual/chap11"><img src="{{ site.baseurl }}/assets/images/hdLWD_100_Orange.png">  <br> High Density Large Woody Debris</a>
+	<a class="hollow button" href="{{ site.baseurl }}/resources/recipes/wood/hdlwd"><img src="{{ site.baseurl }}/assets/images/hdLWD_100_Orange.png">  <br> High Density Large Woody Debris</a>
   </div>
 </div>
 
 
 ----
-### Other Related Low-Tech Techniques & Resources
+## Other Related Low-Tech Techniques & Resources
 Adapted from Appendix C (Table 4) in [Chapter 1 - Shahverdian et al. (2019)]({{ site.baseurl }}/manual/chap01)
 
 
 
-#### Promoting and/or Mimicking Wood Accumulation
+### Promoting and/or Mimicking Wood Accumulation
 
 
 | Name                                                          | Helpful Reference(s)                              |
@@ -47,37 +47,42 @@ Adapted from Appendix C (Table 4) in [Chapter 1 - Shahverdian et al. (2019)]({{ 
 | |[An Introduction to Rigging for Trail Work](https://www.iceagetrail.org/wp-content/uploads/Introduction-to-Rigging-for-Trails.pdf)
                                 |
 | **Structural Placement of Wood Accumulations**                    |                                                   |
-| Post-Assisted Log Structures                                  | Chapter 5 (Shahverdian et al., 2019b)             |
+| Post-Assisted Log Structures                                  | [Chapter 5 (Shahverdian et al., 2019)](({{ site.baseurl }}/manual/chap01) )             |
 | **Improving Supply of Woody Material**                            |                                                   |
 | Riparian Plantings                                            | (Hall et al., 2011)                               |
 | Grazing Management                                            | (Swanson et al., 2015)                            |
 
 
 
-#### Promoting and/or Mimicking Beaver Dam Activity
+### Promoting and/or Mimicking Beaver Dam Activity
 
 | Name                                                          | Helpful Reference(s)                              |
 |---------------------------------------------------------------|---------------------------------------------------|
 | Beaver Translocation                                          | (Woodruff and Pollock, 2015)                      |
-| Beaver Dam Analogues                                          | Chapter 5 (Shahverdian et al., 2019b)             |
+| Beaver Dam Analogues                                          | [Chapter 5 (Shahverdian et al., 2019)]({{ site.baseurl }}/manual/chap01)             |
 | Trapping Closures                                             | Figure 7; (Valachovic)                            |
+| Grazing Management (to improve vegetation availability for beaver dam activity)											| See Chapter II of [Kraebel and Pillsbury](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Workshops/CheapCheerful/2018/NRCS/Resources/Handbook+of+erosion+control+in+mountain+meadows.pdf) (1934); See [Butterfield et al. (2019)](https://www.amazon.com/Holistic-Management-Third-Commonsense-Environment/dp/1610917421/ref=sr_1_1?hvadid=241650896600&hvdev=c&hvlocphy=9029814&hvnetw=g&hvpos=1t1&hvqmt=e&hvrand=5213841885013636789&hvtargid=kwd-20994466631&keywords=holistic+management+allan+savory&qid=1550538771&s=gateway&sr=8-1&tag=googhydr-20) - [Holistic Management Handbook](https://holisticmanagement.org/free-downloads/)                           |
 
 
 
-#### Erosion Control 
+### Erosion Control 
 These are typically done in intermittent & ephemeral channels, but not exclusively.
 
 
 | Name                                                          | Helpful Reference(s)                              |
 |---------------------------------------------------------------|---------------------------------------------------|
-| Baffles                                                       | (Zeedyk and Clothier, 2009)                       |
-| One Rock Dams                                                 | (Maestas et al., 2018; Zeedyk and Clothier, 2009) |
-| Post and Brush Plugs                                          | Kraebel and Pillsbury (1934)                      |
-| Tree Dam                                                      | Kraebel and Pillsbury (1934)                      |
-| Tree Plug                                                     | Kraebel and Pillsbury (1934)                      |
-| Vanes                                                         | (Zeedyk and Clothier, 2009)                       |
-| Wicker Wiers                                                  | Kraebel and Pillsbury (1934)                      |
-| Zuni Bowls                                                    | (Maestas et al., 2018; Zeedyk and Clothier, 2009) |
+| Baffles                                                       | (Zeedyk and Clothier, 2009) - See pp. 85-91.                       |
+| One Rock Dams                                                 | ([Maestas et al., 2018](http://www.sagegrouseinitiative.com/wp-content/uploads/2018/05/CO-NRCS_Range_Technical_Note_40_Gunnison_Zeedyk-Structures_5-18.pdf); Zeedyk and Clothier, 2009) - see pp 102-104 in Zeedyke and Clothier (2009); see also [Pocket Guide](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Workshops/CheapCheerful/2018/NRCS/Idaho/Handouts/Day2_B_Field/Erosion-Control-Field-Guide.pdf)|
+| Post and Brush Dams                                          | [Kraebel and Pillsbury](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Workshops/CheapCheerful/2018/NRCS/Resources/Handbook+of+erosion+control+in+mountain+meadows.pdf) (1934) - See Structures No. 7 & 8 (Figures 20-29)                      |
+| Post and Brush Plugs                                          | [Kraebel and Pillsbury](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Workshops/CheapCheerful/2018/NRCS/Resources/Handbook+of+erosion+control+in+mountain+meadows.pdf) (1934)   - See Structure No. 2 (Figure 10)                     |
+| Tree Dam                                                      | [Kraebel and Pillsbury](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Workshops/CheapCheerful/2018/NRCS/Resources/Handbook+of+erosion+control+in+mountain+meadows.pdf) (1934) - See Structures No. 11 & 12 (Figures 36-38)                      |
+| Tree Plug                                                     | [Kraebel and Pillsbury](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Workshops/CheapCheerful/2018/NRCS/Resources/Handbook+of+erosion+control+in+mountain+meadows.pdf) (1934)   - See Structure No. 3 (Figure 11)                    |
+| Vanes                                                         | (Zeedyk and Clothier, 2009)  - See pp. 92-98.                       |
+| Wicker Wiers                                                  | (Zeedyk and Clothier, 2009) - See pp. 100-102.                      |
+| Zuni Bowls                                                    | ([Maestas et al., 2018](http://www.sagegrouseinitiative.com/wp-content/uploads/2018/05/CO-NRCS_Range_Technical_Note_40_Gunnison_Zeedyk-Structures_5-18.pdf); Zeedyk and Clothier, 2009) - See pp 106-107 in Zeedy and Clothier (2009); see also [Pocket Guide](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Workshops/CheapCheerful/2018/NRCS/Idaho/Handouts/Day2_B_Field/Erosion-Control-Field-Guide.pdf) |
+
+
+
 
 
 <div class="row small-up-2 medium-up-2 large-up-3" align="center">
