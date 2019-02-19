@@ -1,12 +1,12 @@
 ---
-title:  4. Low-Tech PBR Recipes
+title:  4. Designing Low-Tech Restoration Projects
 weight: 4
 ---
 
-## Chapter 4: . Overview of Low-Tech PBR Recipes
+## Chapter 4: . Designing Low-Tech Restoration Projects
 
 <div align="center">
-	<a class="button" href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Workshops/BRAT/2018/Burnt/Macfarlane_et_al-2018-Environmental_Management.pdf"><i class = "fa fa-file-pdf-o" ></i>  Chapter 4 UPDATE URL!</a>
+	<a class="hollow button" href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Workshops/BRAT/2018/Burnt/Macfarlane_et_al-2018-Environmental_Management.pdf"><i class = "fa fa-file-pdf-o" ></i>  Chapter 4 </a>
 	<img src="{{ site.baseurl }}/assets/images/PBR_LT_cc_100w.png">
 
 </div>
@@ -14,24 +14,49 @@ weight: 4
 
 ### Implications for Practice
 
-- Bullet 1
-- Bullet 2
+<div class="row small-up-2 medium-up-2">
+  <div class="column">
+    <div class="card">
+        <div class="card-section">
+            <ul>
+              <li>In low-tech restoration, a <b>complex</b> is a cluster or group of structures designed to work together to mimic and/or promote specific processes to achieve (a) specific restoration objective(s).</li>
+              <li>As to keep the focus on the bigger problem of <b>structural-starvation</b> and scope of degradation, design of low-tech restoration projects focuses on the complex-scale rather than the individual structure.</li>
+              <li>The hallmark of the low-tech process-based restoration design process is rapid, flexible, transparent, complex-focused, <b>field-based designs that generate clear and testable design hypotheses</b>. This approach can save significant time and money during the design process.</li>
+              <li>The design process articulates the maximum extent of a <b>zone of influence</b> (laterally constrained by valley bottom extents) that restoration might have, which allows designers to better identify risks and opportunities.</li>
+            </ul>
+		</div>
+	</div>
+  </div>
+    <div class="column">
+    <div class="card">
+        <div class="card-section">
+            <ul>
+              <li>Restoration design identifies low-flow, typical-flood, and extreme-flood hypotheses (i.e., process-based responses), which enables the communication of <b>realistic expectations</b>.</li>
+              <li>Unlike traditional design processes borrowed from engineering and architectural design, the low-tech process-based restoration design process relies less on the skill and expertise of the designer and places more <b>trust in the riverscapes</b> being restored to ‘do the work’.</li>
+              <li>Whereas traditional restoration design processes rely heavily on ‘command and control’ decisions about grading topography based on an in-depth understanding of the system hydrology, hydraulics and geomorphology, the low-tech process-based restoration design process defers that decision making to system. This focuses instead on developing realistic expectation management based on the bounds of plausible versus likely responses, and has the added advantage of <b>minimizing liability and risk</b>.</li>
+              <li><b>Learning can be maximized</b> and subsequent improvements, innovations and refinement will be more informed when the low-tech process-based restoration designer articulates clear, testable design hypotheses at the complex-scale.</li>
+            </ul>
+		</div>
+	</div>
+  </div>
+</div>
 
-### Abstract
+### Recommended Citation
 
-To be updated... of course. 
+- <a href="http://chapterlink.com" ><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a> Shahverdian, S., Wheaton, J., Bennett, S., Bouwes, N., Camp, R. and Portugal, E. 2019. **[Designing Low-Tech Restoration Projects](http://chapterlink.com)**. In: [Low-Tech Process-Based Restoration of Riverscapes: Design Manual - Version 1.0]({{ site.baseurl }}/). Wheaton JM, Bennett S, Shahverdian S, and Maestas JD, (Editors). [Utah State University](http://restoration.usu.edu/) [Wheaton Ecogeomorphology & Topographic Analysis Lab](http://etal.joewheaton.org). Logan, UT.  28 pp. DOI: [TBD](http://dx.doi.org/).
 
+## Minimum Viable Design Package
 
-
-#### Recommended Citation
-
-- <a href="http://chapterlink.com" ><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a> Bennett S, Portugal E, Shahveridan S, Camp R, Weber N & Wheaton J. 2018. **[Chapter 4 – . Overview of Low-Tech PBR Recipes](http://chapterlink.com)**. In: [Riverscapes Restoration Design Manual: A Guide to Low-Tech Process-Based Restoration - Version 1.0]({{ site.baseurl }}/). Wheaton JM & Shahverdian S, (Editors). Prepared for [Pheasants Forever](https://pheasantsforever.org/Hunt/pheasant-hunting.aspx), [Sage Grouse Initiative](https://www.sagegrouseinitiative.com/), [USDA Natural Resource Conservation Service](https://www.nrcs.usda.gov/wps/portal/nrcs/detailfull/national/programs/initiatives/?cid=steldevb1027671), [Utah Division of Wildlife Resources](https://wildlife.utah.gov/), and [Utah’s Watershed Restoration Initiative](https://wri.utah.gov/). [Utah State University](http://restoration.usu.edu/) [Wheaton Ecogeomorphology & Topographic Analysis Lab](http://etal.joewheaton.org). Logan, UT.  xx pp. DOI: [TBD](http://dx.doi.org/).
+<div align="center">
+	<img src="{{ site.baseurl }}\assets\images\diagrams\DesignPackage_600.png">
+</div>
 
 -----
 ## Related Resources
 
 <div align="center">
-	<a class="button" href="{{ site.baseurl }}/resources/casestudies"><img src="{{ site.baseurl }}/assets/images/PBR-LT_round_30.png"> <i class="fa fa-address-card" aria-hidden="true"></i> Low-Tech PBR Recipes</a>
+	<a class="button" href="{{ site.baseurl }}/resources/recipes"><img src="{{ site.baseurl }}/assets/images/PBR-LT_round_30.png"> Low-Tech PBR Recipes <i class="fa fa-address-card" aria-hidden="true"></i> </a>
+		<a class="button" href="{{ site.baseurl }}/resources/casestudies"><img src="{{ site.baseurl }}/assets/images/PBR-LT_round_30.png">  Low-Tech Design Examples <i class="fa fa-cogs" aria-hidden="true"></i></a>
 </div>
 
 
