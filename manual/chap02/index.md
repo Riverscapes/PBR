@@ -1,9 +1,9 @@
 ---
-title:  2. Healthy Lifestyles for Riverscapes 
+title:  2. Principles of Low-Tech Process-Based Restoration
 weight: 2
 ---
 
-## Chapter 2: The Role of Meals and Excercise in Restoring Healthy Lifestyles for Riverscapes 
+## Chapter 2: Principles of Low-Tech Process-Based Restoration
 
 <div align="center">
 	<a class="button" href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Workshops/BRAT/2018/Burnt/Macfarlane_et_al-2018-Environmental_Management.pdf"><i class = "fa fa-file-pdf-o" ></i>  Chapter 2 UPDATE URL!</a>
@@ -21,10 +21,13 @@ weight: 2
     <div class="card">
         <div class="card-section">
         <p><ul>
-	<li>We intend for this low-tech process-based restoration manual to fill a void in the scientific literature and technical guidelines with respect to LT-PBR techniques.</li>
-	<li>While PBR concepts have been around for at least two decades, details and specific examples on how to implement PBR are lacking.</li>
-	<li>While many of the specific actions (e.g.building structures, reintroducing beaver) have been used in various forms for decades to centuries, the framework for how those actions fit together and what they are intended to achieve as a LT-PBR action has not been effectively articulated.</li>
-	<li>We attempt to compile the various LT-PBR recipes into one place and a <a href="{{ site.baseurl}}/">web resource</a> for the future to help practitioners more efficiently and effectively tackle LT-PBR projects.</li>subdued.
+	<li>Low-tech process-based restoration principles are critical to understand as both the basis for effectively applying low-tech restoration treatments, and managing expectations about timing and magnitude of outcomes.</li>
+	<li>We propose and synthesize principles that help practitioners tackle low-tech process-based restoration of structurally-starved riverscapes. Many of these principles likely apply to a greater range of riverscapes, but we do not cover those applications here.</li>
+	<li>We break our guiding principles into:</li>
+		<ul>
+			<li><b>Riverscapes Principles</b> - those that represent an understanding of what constitutes healthy riverscapes to help define what restoration should be aiming for; and</li>
+			<li><b>Restoration Principles</b> – those that influence the choices and approach we take in planning, designing and implementing low-tech restoration</li>
+		</ul>
 	</ul>
 	</p>
       </div>
@@ -35,38 +38,37 @@ weight: 2
       <div class="card-section">
         <p>
         	<ul>
-        		<li>We do not attempt to provide a complete overview of process based restoration, but instead point the reader to existing resources and plug critical knowledge gaps where guidance can help push policy,regulations, practice and adaptive management forward.</li>
-	<li>This manual does revisit many restoration topics (e.g. river health, condition & impairment assessment,  restoration planning, design, construction andadaptive management) that have been covered elsewhere, but for which the application of those topics to LT-PBR needs clarification.</li>
-	<li>We define eleven core principles of LT-PBR, which are critical to achieving success.</li>
-	<li>Detailed design guidance is provided for two specific types of treatments that the authors helped pioneer the development and use of (beaver dam analogues and post-assisted log structures placed as high-density large woody debris).</li>
-			</ul>
+        		<li>Since we focus on structurally-starved riverscapes, low-tech restoration that mimics and promotes the processes of wood accumulation and beaver dam activity specifically emerge out of these principles.  </li>
+	<li>This manual does revisit many restoration topics (e.g. river health, condition and impairment assessment,  restoration planning, design, construction andadaptive management) that have been covered elsewhere, but for which the application of those topics to LT-PBR needs clarification.</li>
+	<li>These principles collectively provide practitioners with the rationale and strategies to attempt to tackle the true scope of degradation, with simple, smart, agile and scalable low-tech solutions that rely on the system itself to do most of the work of recovery and find self-sustaining and resilient futures. </li>
+				</ul>
         </p>
       </div>
     </div>
   </div>
 </div>
 
-### Abstract
 
-To be updated... of course. 
 
 
 
 #### Recommended Citation
 
-- <a href="http://chapterlink.com" ><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a> Wheaton JM & Brierley G. 2018. **[Chapter 2 – The Role of Meals and Exercise in Restoring Healthy Lifestyles For Riverscapes](http://chapterlink.com)**. In: [Riverscapes Restoration Design Manual: A Guide to Low-Tech Process-Based Restoration - Version 1.0]({{ site.baseurl }}/). Wheaton JM & Shahverdian S, (Editors). Prepared for [Pheasants Forever](https://pheasantsforever.org/Hunt/pheasant-hunting.aspx), [Sage Grouse Initiative](https://www.sagegrouseinitiative.com/), [USDA Natural Resource Conservation Service](https://www.nrcs.usda.gov/wps/portal/nrcs/detailfull/national/programs/initiatives/?cid=steldevb1027671), [Utah Division of Wildlife Resources](https://wildlife.utah.gov/), and [Utah’s Watershed Restoration Initiative](https://wri.utah.gov/). [Utah State University](http://restoration.usu.edu/) [Wheaton Ecogeomorphology & Topographic Analysis Lab](http://etal.joewheaton.org). Logan, UT.  xx pp. DOI: [TBD](http://dx.doi.org/).
+- <a href="{{ site.baseurl }}/" ><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a> Wheaton, J., Bennett, S., Bouwes, N., Camp, R., Maestas, J.D. and Shahverdian, S. 2019. . TBD. **[Chapter 2 – Principles of Low-Tech Process-Based Restoration](http://chapterlink.com)**. In: [Low-Tech Process-Based Restoration of Riverscapes: Design Manual - Version 1.0]({{ site.baseurl }}/). Wheaton JM, Bennett S, Shahverdian S, and Maestas JD, (Editors). [Utah State University](http://restoration.usu.edu/) [Wheaton Ecogeomorphology & Topographic Analysis Lab](http://etal.joewheaton.org). Logan, UT.  31 pp. DOI: [TBD](http://dx.doi.org/).
 
 -----
-## Related Resources
 
-### Some talks from Joe on this
+# Core Principles
+## Riverscapes Principles
+<div class="responsive-embed">
+<img src="{{ site.baseurl }}\assets\images\RiverscapesPrinciples.png">
+</div>
+## Restoration Principles
+<div class="responsive-embed">
+<img src="{{ site.baseurl }}\assets\images\RestorationPrinciples.png">
+</div>
 
 
--  **Wheaton JM**. 2018. *Invited Talk.* [River Health through Heart Surgery or a Healthy Diet](https://www.researchgate.net/publication/328203070_River_Health_through_Heart_Surgery_or_a_Healthy_Diet?_sg=LZI9Kdt0AnOcpZTIyxyOQ6p5yKSYEXeVp-TEfZr32-js1Ype6QlpzkTjXQgHy0qGiWbTCONvJzxeSXIu3yP6q_a3bJ63fN3f6r-EfP7K.QRId3ja095XpMTjXQ2H8uEEefzbh-8yjXggeX-czg9_s9YilBB178yv-CFyAW-MKRrKbkc2rgETziQLRrwsBxw)? [Sustaining Colorado's Watersheds](http://www.coloradowater.org/scw-conference-2018/). Avon, CO. DOI: [10.13140/RG.2.2.13769.19046](http://dx.doi.org/10.13140/RG.2.2.13769.19046)
-- **Wheaton JM.** 2017. *Invited Keynote*. [What is a river's health? What role do restoration treatments play in improving or sustaining good health?](https://www.researchgate.net/publication/314079209_What_is_a_river%27s_health_What_role_do_restoration_treatments_play_in_improving_or_sustaining_good_health) [Upper Midwest Stream Restoration Symposium](http://prrsum.umn.edu/symposium/2017-umsrs).  La Crosse, WI. DOI: [10.13140/RG.2.2.15857.48486](http://dx.doi.org/10.13140/RG.2.2.15857.48486) · 
-
-Joe's slides from [NRCS/SGI Wyoming Workshop on Partnering with Beaver in Restoration Design](http://beaver.joewheaton.org/nrcs---wyoming.html) on Riparian and Stream Health (see [here](http://beaver.joewheaton.org/lander-workshop-materials.html) for this and other workshop resources):
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQsFkwC11jG0eXNIlxURTwMtAat01IRYbCU3GQdqmj59i980Zed2VnJjRAmcHhEwKx4WnTA-UbTsxER/embed?start=false&loop=false&delayms=3000" frameborder="0" width="550" height="450" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 ------
 <div align="center">
