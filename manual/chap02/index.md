@@ -3,10 +3,10 @@ title:  2. Principles of Low-Tech Process-Based Restoration
 weight: 2
 ---
 
-## Chapter 2: Principles of Low-Tech Process-Based Restoration
+# Chapter 2: Principles of Low-Tech Process-Based Restoration
 
 <div align="center">
-	<a class="button" href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Workshops/BRAT/2018/Burnt/Macfarlane_et_al-2018-Environmental_Management.pdf"><i class = "fa fa-file-pdf-o" ></i>  Chapter 2 UPDATE URL!</a>
+	<a class="hollow button" href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Workshops/BRAT/2018/Burnt/Macfarlane_et_al-2018-Environmental_Management.pdf"><i class = "fa fa-file-pdf-o" ></i>  Chapter 2 UPDATE URL!</a>
 	<img src="{{ site.baseurl }}/assets/images/PBR_LT_cc_100w.png">
 
 </div>
