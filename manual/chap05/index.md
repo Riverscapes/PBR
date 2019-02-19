@@ -1,11 +1,12 @@
 ---
-title:  5. Planning & Prioritization
+title:  5. PALS and BDAs
 weight: 5
 ---
 
-## Chapter 5:  Planning & Prioritization for Working in the Right Places Effectively
+## Chapter 5:  Mimicking and Promoting Wood Accumulation and Beaver Dam Activity with Post-Assisted Log Structures and Beaver Dam Analogues
+
 <div align="center">
-	<a class="button" href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Workshops/BRAT/2018/Burnt/Macfarlane_et_al-2018-Environmental_Management.pdf"><i class = "fa fa-file-pdf-o" ></i>  Chapter 5 UPDATE URL!</a>
+	<a class="hollow button" href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Workshops/BRAT/2018/Burnt/Macfarlane_et_al-2018-Environmental_Management.pdf"><i class = "fa fa-file-pdf-o" ></i>  Chapter 5 </a>
 	<img src="{{ site.baseurl }}/assets/images/PBR_LT_cc_100w.png">
 
 </div>
@@ -13,21 +14,53 @@ weight: 5
 
 ### Implications for Practice
 
-- Bullet 1
-- Bullet 2
+<div class="row small-up-2 medium-up-2">
+  <div class="column">
+    <div class="card">
+        <div class="card-section">
+        	<img align="center" src="{{ site.baseurl }}/assets/images/diagrams/PALS_BA_XS_Blaster_250.png">
+        	<ul>
+        		<li>Post-assisted log structures (PALS) and beaver dam analogues (BDAs) are hand-built structures that <b>mimic</b> accumulations of large woody debris (LWD) and beaver dams. Both designed to influence hydrologic and geomorphic processes.</li>
+        		<li>PALS and BDAs can be built in a wide range of environments and stream conditions in order to address a range of stream impairments and restoration goals.</li>
+        		<li>PALS and BDAs can be effectively designed in the field without the use of sophisticated modeling or pre-project topographic surveys.</li>
 
-### Abstract
+        	</ul>
+      
+        </div>
+    </div>
+  </div>
+  <div class="column">
+    <div class="card">
+        <div class="card-section">
+        	<img align="center" src="{{ site.baseurl }}/assets/images/diagrams/BDA_Postless_Profile_250.png">
+        	<ul>
+        		<li>PALS and BDAs can be built using a variety of natural materials, and built to a range of different shapes, sizes and orientations.</li>
+        		<li>PALS and BDAs are most likely to achieve restoration goals when built in high numbers.</li>
+        		<li>Some PALS and BDAs are likely to breach and/or lose some wood, but when many structures are installed, the wood will accumulate on downstream structures or in natural accumulation areas leading to more complexity.</li>
+        		<li>PALS and BDAs are leaky, temporary structures built of natural materials.</li>
+        	</ul>
+        </div>
+    </div>
+  </div>
+</div>
 
-To be updated... of course. 
+
+
+
 
 
 
 #### Recommended Citation
 
-- <a href="http://chapterlink.com" ><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a> Shahveridan S, Portugal E, Bennett S, Macfarlane W & Wheaton J. 2018. **[Chapter 5 – Planning & Prioritization for Working in the Right Places Effectively](http://chapterlink.com)**. In: [Riverscapes Restoration Design Manual: A Guide to Low-Tech Process-Based Restoration - Version 1.0]({{ site.baseurl }}/). Wheaton JM & Shahverdian S, (Editors). Prepared for [Pheasants Forever](https://pheasantsforever.org/Hunt/pheasant-hunting.aspx), [Sage Grouse Initiative](https://www.sagegrouseinitiative.com/), [USDA Natural Resource Conservation Service](https://www.nrcs.usda.gov/wps/portal/nrcs/detailfull/national/programs/initiatives/?cid=steldevb1027671), [Utah Division of Wildlife Resources](https://wildlife.utah.gov/), and [Utah’s Watershed Restoration Initiative](https://wri.utah.gov/). [Utah State University](http://restoration.usu.edu/) [Wheaton Ecogeomorphology & Topographic Analysis Lab](http://etal.joewheaton.org). Logan, UT.  xx pp. DOI: [TBD](http://dx.doi.org/).
+- <a href="http://chapterlink.com" ><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a> Shahverdian, S., Wheaton, J.M, Bennett, S.N., Camp, R., Portugal, E., Weber, N., Jordan, C. and Bouwes, N. 2019. **[Chapter 5 – Mimicking and Promoting Wood Accumulation and Beaver Dam Activity with Post-Assisted Log Structures and Beaver Dam Analogues](http://chapterlink.com)**. In: [Low-Tech Process-Based Restoration of Riverscapes: Design Manual - Version 1.0]({{ site.baseurl }}/). Wheaton JM, Bennett S, Shahverdian S, and Maestas JD, (Editors). [Utah State University](http://restoration.usu.edu/) [Wheaton Ecogeomorphology & Topographic Analysis Lab](http://etal.joewheaton.org). Logan, UT.  56 pp. DOI: [TBD](http://dx.doi.org/).
 
 -----
 ## Related Resources
+
+<div align="center">
+	<a class="hollow button" href="{{ site.baseurl }}/resources/recipes/wood/pals"><img src="{{ site.baseurl }}/assets/images/BeaverLogo_Orange_24.png"> Beaver Dam Analogue Recipes <i class="fa fa-address-card" aria-hidden="true"></i> </a>
+		<a class="hollow button" href="{{ site.baseurl }}/resources/recipes/beaver/bda"><img src="{{ site.baseurl }}/assets/images/hdLWD_100_Orange.png"> Post-Assited Log Structur Recipes  <i class="fa fa-address-card" aria-hidden="true"></i></a>
+</div>
 
 ------
 <div align="center">
