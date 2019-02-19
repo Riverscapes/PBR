@@ -59,8 +59,12 @@ weight: 5
 
 <div align="center">
 	<a class="hollow button" href="{{ site.baseurl }}/resources/recipes/wood/pals"><img src="{{ site.baseurl }}/assets/images/BeaverLogo_Orange_24.png"> Beaver Dam Analogue Recipes <i class="fa fa-address-card" aria-hidden="true"></i> </a>
-		<a class="hollow button" href="{{ site.baseurl }}/resources/recipes/beaver/bda"><img src="{{ site.baseurl }}/assets/images/hdLWD_100_Orange.png"> Post-Assited Log Structur Recipes  <i class="fa fa-address-card" aria-hidden="true"></i></a>
+		<a class="hollow button" href="{{ site.baseurl }}/resources/recipes/beaver/bda"><img src="{{ site.baseurl }}/assets/images/hdLWD_100_Orange.png"> Post-Assisted Log Structure Recipes  <i class="fa fa-address-card" aria-hidden="true"></i></a>
 </div>
+<div align="center">
+	<a class=" button" href="{{ site.baseurl }}/manual/chap05/faq"><i class="fa fa-question-circle" aria-hidden="true"></i> Frequently Asked Questions about PALS & BDAs  </a>
+</div>
+
 
 ------
 <div align="center">
