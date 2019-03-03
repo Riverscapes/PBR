@@ -25,7 +25,7 @@ weight: 3
         </div>
       </div>
   </div>
-  
+
   <div class="column">
     <div class="card">
         <div class="card-section">
@@ -55,8 +55,14 @@ weight: 3
 - <a href="http://chapterlink.com" ><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a> Bennett, S., Wheaton, J., Bouwes, N., Shahverdian, S., Macfarlane, W.W. and Portugal, E. 2019. **[Planning for Low-Tech Process-Based Restoration](http://chapterlink.com)**.  In: [Low-Tech Process-Based Restoration of Riverscapes: Design Manual - Version 1.0]({{ site.baseurl }}/). Wheaton JM, Bennett S, Shahverdian S, and Maestas JD, (Editors). [Utah State University](http://restoration.usu.edu/) [Wheaton Ecogeomorphology & Topographic Analysis Lab](http://etal.joewheaton.org). Logan, UT.  28 pp. DOI: [TBD](http://dx.doi.org/).
 
 
-
 ## Planning Distilled
+
+These slides walk through a standardized Conservation Planning Process from [NRCS (2007)](https://www.nrcs.usda.gov/wps/portal/nrcs/detail/national/water/manage/restoration/?cid=stelprdb1044707), and how that differs for low-tech process-based restoration.
+
+<div align="center">
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTzyLlJau-m9uKOZCTiPn2dsVOANX6T2WbtNZC0GDGpGJNgY_W7KJK0hHwHzQrQmpR767qp3ZYlIuaR/embed?start=true&loop=false&delayms=3000" frameborder="0" width="350" height="475" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+</div>
+
 
 Table 1 from Bennett et al. (2019) - Nine planning steps, associated planning concepts, and adaptive management steps for planning, implementing, monitoring and evaluating a restoration project adapted from [NRCS (2007)](https://www.nrcs.usda.gov/wps/portal/nrcs/detail/national/water/manage/restoration/?cid=stelprdb1044707), [Yochum (2016)](https://riversedgewest.org/sites/default/files/resource-center-documents/yochumusfs-nsaec-tn102-2gudncstrmrstrtnrhbltn.pdf), [Skidmore et al. (2011)](https://repository.library.noaa.gov/view/noaa/4020), and [Bouwes et al. (2016)](https://www.researchgate.net/publication/289526568_Adapting_Adaptive_Management_for_Testing_the_Effectiveness_of_Stream_Restoration_An_Intensively_Monitored).
 
