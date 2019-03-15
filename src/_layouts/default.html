@@ -41,14 +41,17 @@
     <div id="topbarnav"></div>
     <div id="headcallout" class="text-center callout large">
       {% if page.url == "/" %}
-      <h1>{{ site.title | replace: 'Riverscapes Consortium', '<div class="RCLogo">Riverscapes Consortium</div>' }}</h1>
+		<a href="{{ site.baseurl }}/"><img src="{{ site.baseurl }}/assets/images/WATS53405350_Banner_Web.png"></a>
+		<a href="http://restoration.usu.edu"><img src="{{ site.baseurl }}/assets/images/RestorationConsortium.png"></a>
+		<!--<h1>{{ site.title | replace: 'Riverscapes Consortium', '<div class="RCLogo">Riverscapes Consortium</div>' }}</h1>-->
         {% if page.subtitle %}
-          <h3 class="post-subtitle subheader">{{ site.description }}</h3>    
+          <!--<h3 class="post-subtitle subheader">{{ site.description }}</h3>-->    
         {% endif %}
       {% else %}
 
-      
-      <h4 class="subheader show-for-medium"><a href="{{ site.baseurl }}/">{{  site.title }}</a></h4>   
+      <a href="{{ site.baseurl }}/"><img src="{{ site.baseurl }}/assets/images/WATS53405350_Banner_Web.png"></a>
+	  <a href="http://restoration.usu.edu"><img src="{{ site.baseurl }}/assets/images/RestorationConsortium.png"></a>
+      <!--<h4 class="subheader show-for-medium"><a href="{{ site.baseurl }}/">{{  site.title }}</a></h4> -->  
       <h1>{{ page.title | replace: 'Riverscapes Consortium', '<div class="RCLogo">Riverscapes Consortium</div>' }}</h1>
         {% if page.subtitle %}
           <h3 class="post-subtitle subheader">{{ page.subtitle }}</h3>    
