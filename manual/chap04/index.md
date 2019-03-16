@@ -1,12 +1,12 @@
 ---
-title:  4. Designing Low-Tech Restoration Projects
+title:  4. PALS and BDAs
 weight: 4
 ---
 
-## Chapter 4: . Designing Low-Tech Restoration Projects
+## Chapter 4:  Mimicking and Promoting Wood Accumulation and Beaver Dam Activity with Post-Assisted Log Structures and Beaver Dam Analogues
 
 <div align="center">
-	<a class="hollow button" href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Workshops/BRAT/2018/Burnt/Macfarlane_et_al-2018-Environmental_Management.pdf"><i class = "fa fa-file-pdf-o" ></i>  Chapter 4 </a>
+	<a class="hollow button" href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Workshops/BRAT/2018/Burnt/Macfarlane_et_al-2018-Environmental_Management.pdf"><i class = "fa fa-file-pdf-o" ></i>  Chapter 5 </a>
 	<img src="{{ site.baseurl }}/assets/images/PBR_LT_cc_100w.png">
 
 </div>
@@ -18,45 +18,51 @@ weight: 4
   <div class="column">
     <div class="card">
         <div class="card-section">
-            <ul>
-              <li>In low-tech restoration, a <b>complex</b> is a cluster or group of structures designed to work together to mimic and/or promote specific processes to achieve (a) specific restoration objective(s).</li>
-              <li>As to keep the focus on the bigger problem of <b>structural-starvation</b> and scope of degradation, design of low-tech restoration projects focuses on the complex-scale rather than the individual structure.</li>
-              <li>The hallmark of the low-tech process-based restoration design process is rapid, flexible, transparent, complex-focused, <b>field-based designs that generate clear and testable design hypotheses</b>. This approach can save significant time and money during the design process.</li>
-              <li>The design process articulates the maximum extent of a <b>zone of influence</b> (laterally constrained by valley bottom extents) that restoration might have, which allows designers to better identify risks and opportunities.</li>
-            </ul>
-		</div>
-	</div>
+        	<img align="center" src="{{ site.baseurl }}/assets/images/diagrams/PALS_BA_XS_Blaster_250.png">
+        	<ul>
+        		<li>Post-assisted log structures (PALS) and beaver dam analogues (BDAs) are hand-built structures that <b>mimic</b> accumulations of large woody debris (LWD) and beaver dams. Both designed to influence hydrologic and geomorphic processes.</li>
+        		<li>PALS and BDAs can be built in a wide range of environments and stream conditions in order to address a range of stream impairments and restoration goals.</li>
+        		<li>PALS and BDAs can be effectively designed in the field without the use of sophisticated modeling or pre-project topographic surveys.</li>
+
+        	</ul>
+      
+        </div>
+    </div>
   </div>
-    <div class="column">
+  <div class="column">
     <div class="card">
         <div class="card-section">
-            <ul>
-              <li>Restoration design identifies low-flow, typical-flood, and extreme-flood hypotheses (i.e., process-based responses), which enables the communication of <b>realistic expectations</b>.</li>
-              <li>Unlike traditional design processes borrowed from engineering and architectural design, the low-tech process-based restoration design process relies less on the skill and expertise of the designer and places more <b>trust in the riverscapes</b> being restored to ‘do the work’.</li>
-              <li>Whereas traditional restoration design processes rely heavily on ‘command and control’ decisions about grading topography based on an in-depth understanding of the system hydrology, hydraulics and geomorphology, the low-tech process-based restoration design process defers that decision making to system. This focuses instead on developing realistic expectation management based on the bounds of plausible versus likely responses, and has the added advantage of <b>minimizing liability and risk</b>.</li>
-              <li><b>Learning can be maximized</b> and subsequent improvements, innovations and refinement will be more informed when the low-tech process-based restoration designer articulates clear, testable design hypotheses at the complex-scale.</li>
-            </ul>
-		</div>
-	</div>
+        	<img align="center" src="{{ site.baseurl }}/assets/images/diagrams/BDA_Postless_Profile_250.png">
+        	<ul>
+        		<li>PALS and BDAs can be built using a variety of natural materials, and built to a range of different shapes, sizes and orientations.</li>
+        		<li>PALS and BDAs are most likely to achieve restoration goals when built in high numbers.</li>
+        		<li>Some PALS and BDAs are likely to breach and/or lose some wood, but when many structures are installed, the wood will accumulate on downstream structures or in natural accumulation areas leading to more complexity.</li>
+        		<li>PALS and BDAs are leaky, temporary structures built of natural materials.</li>
+        	</ul>
+        </div>
+    </div>
   </div>
 </div>
 
-### Recommended Citation
 
-- <a href="http://chapterlink.com" ><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a> Shahverdian, S., Wheaton, J., Bennett, S., Bouwes, N., Camp, R. and Portugal, E. 2019. **[Designing Low-Tech Restoration Projects](http://chapterlink.com)**. In: [Low-Tech Process-Based Restoration of Riverscapes: Design Manual - Version 1.0]({{ site.baseurl }}/). Wheaton JM, Bennett S, Shahverdian S, and Maestas JD, (Editors). [Utah State University](http://restoration.usu.edu/) [Wheaton Ecogeomorphology & Topographic Analysis Lab](http://etal.joewheaton.org). Logan, UT.  28 pp. DOI: [TBD](http://dx.doi.org/).
 
-## Minimum Viable Design Package
 
-<div align="center">
-	<img src="{{ site.baseurl }}\assets\images\diagrams\DesignPackage_600.png">
-</div>
+
+
+
+#### Recommended Citation
+
+- <a href="http://chapterlink.com" ><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a> Shahverdian, S., Wheaton, J.M, Bennett, S.N., Camp, R., Portugal, E., Weber, N., Jordan, C. and Bouwes, N. 2019. **[Chapter 5 – Mimicking and Promoting Wood Accumulation and Beaver Dam Activity with Post-Assisted Log Structures and Beaver Dam Analogues](http://chapterlink.com)**. In: [Low-Tech Process-Based Restoration of Riverscapes: Design Manual - Version 1.0]({{ site.baseurl }}/). Wheaton JM, Bennett S, Shahverdian S, and Maestas JD, (Editors). [Utah State University](http://restoration.usu.edu/) [Wheaton Ecogeomorphology & Topographic Analysis Lab](http://etal.joewheaton.org). Logan, UT.  56 pp. DOI: [TBD](http://dx.doi.org/).
 
 -----
 ## Related Resources
 
 <div align="center">
-	<a class="button" href="{{ site.baseurl }}/resources/recipes"><img src="{{ site.baseurl }}/assets/images/PBR-LT_round_30.png"> Low-Tech PBR Recipes <i class="fa fa-address-card" aria-hidden="true"></i> </a>
-		<a class="button" href="{{ site.baseurl }}/resources/casestudies"><img src="{{ site.baseurl }}/assets/images/PBR-LT_round_30.png">  Low-Tech Design Examples <i class="fa fa-cogs" aria-hidden="true"></i></a>
+	<a class="hollow button" href="{{ site.baseurl }}/resources/recipes/wood/pals"><img src="{{ site.baseurl }}/assets/images/BeaverLogo_Orange_24.png"> Beaver Dam Analogue Recipes <i class="fa fa-address-card" aria-hidden="true"></i> </a>
+		<a class="hollow button" href="{{ site.baseurl }}/resources/recipes/beaver/bda"><img src="{{ site.baseurl }}/assets/images/hdLWD_100_Orange.png"> Post-Assisted Log Structure Recipes  <i class="fa fa-address-card" aria-hidden="true"></i></a>
+</div>
+<div align="center">
+	<a class=" button" href="{{ site.baseurl }}/manual/chap05/faq"><i class="fa fa-question-circle" aria-hidden="true"></i> Frequently Asked Questions about PALS & BDAs  </a>
 </div>
 
 

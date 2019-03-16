@@ -29,11 +29,13 @@ Th Low-Tech Process Based Restoration of Riverscapes Design Manual is organized 
 	<a class="hollow button" href="{{ site.baseurl }}/manual/chap03"><i class="fa fa-chain-broken" aria-hidden="true"></i>  Chapter 3:  Planning LT-PBR <i class="fa fa-tachomater" aria-hidden="true"></i> </a>
   </div>
 
-<div class="column column-block">
-	<a class="hollow button" href="{{ site.baseurl }}/manual/chap04"> <i class="fa fa-address-card" aria-hidden="true"></i>  Chapter 4: Designing LT-PBR</a>
-  </div>
+
   <div class="column column-block">
-	<a class="hollow button" href="{{ site.baseurl }}/manual/chap05"> <img src="{{ site.baseurl }}/assets/images/PBR-LT_round_30.png">  Chapter 5: PALS & BDAs</a>
+	<a class="hollow button" href="{{ site.baseurl }}/manual/chap04"> <img src="{{ site.baseurl }}/assets/images/PBR-LT_round_30.png">  Chapter 4: PALS & BDAs</a>
+  </div>
+  
+  <div class="column column-block">
+	<a class="hollow button" href="{{ site.baseurl }}/manual/chap05"> <i class="fa fa-address-card" aria-hidden="true"></i>  Chapter 5: Designing LT-PBR</a>
   </div>
 </div>
 
@@ -43,7 +45,7 @@ Th Low-Tech Process Based Restoration of Riverscapes Design Manual is organized 
 	<a class="hollow button" href="{{ site.baseurl }}/manual/chap06"><i class="fa fa-cogs" aria-hidden="true"></i>  Chapter 6:   Implementation of LTPBR</a>
  </div>
     <div class="column column-block">
-	<a class="hollow button" href="{{ site.baseurl }}/manual/chap07"><i class="fa fa-certificate" aria-hidden="true"></i>  Chapter 7:  Call to Action, Additional Resources and Conclusions</a>
+    <a class="hollow button" href="{{ site.baseurl }}/manual/chap07"><i class="fa fa-certificate" aria-hidden="true"></i>  Chapter 7:  Call to Action, Additional Resources and Conclusions</a>
   </div>
 
 
