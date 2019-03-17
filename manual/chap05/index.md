@@ -1,5 +1,5 @@
 ---
-title:  5. Designing Low-Tech Restoration Projects
+title:  5. Design
 weight: 5
 ---
 

@@ -1,5 +1,5 @@
 ---
-title:  2. Principles of Low-Tech Process-Based Restoration
+title:  2. Principles
 weight: 2
 ---
 
@@ -67,7 +67,6 @@ weight: 2
 <div class="responsive-embed">
 <img src="{{ site.baseurl }}\assets\images\RestorationPrinciples.png">
 </div>
-
 
 
 ------
