@@ -3,46 +3,70 @@ title:  Low-Tech PBR Case Studies
 weight: 5
 ---
 
-## Case Studies 
+## Case Studies  of Low-Tech PBR
 
+Case Studies are crtical for grounding the concepts in this [design manual]({{ site.baseurl }}/manual/). As the list of case-studies is always growing, we do not summarize them in a static chapter, but instead refer the reader below to an annotated biliography of case studies maintained on this web site. Note most PDFs are availalbe for download from [ResearchGate](https://www.researchgate.net/project/Low-Tech-Process-Based-Restoration) for free if you create an account.
 
-Case Studies are crtical for grounding the concepts in this design manual. As the list of case-studies is always growing, we do not summarize them in a static chapter here, but instead refer the reader to an annotated biliography of case studies maintained on this web site:
-
-
-
-If you want to see your own low-tech process based restoration case study added to the list, submit your own here:
+If you want to see your own low-tech process based restoration case study added to the list below, submit your own here:
 <div align="center">
 	<a class="button" href="https://goo.gl/forms/Ol0FQsz9W4QoU4ME3"><i class="fa fa-google" aria-hidden="true"></i>  Submit your Project as Case Study</a>
 </div>
 
 
-### From Authors
+----
+### From [Authors]({{ site.baseurl }}/manual/people)
+<a href="https://www.researchgate.net/project/Low-Tech-Process-Based-Restoration"><img class="float-right" src="{{ site.baseurl }}/assets/images/RG.png"> </a>
+We add our reports, presentations and publications to our [Research Gate Project on Low-Tech Process Based Restoration](https://www.researchgate.net/project/Low-Tech-Process-Based-Restoration) regularlly.  
 
-1. Shahverdian, SM. and Wheaton, JM. 2017. [Birch Creek Restoration Design Report](https://www.researchgate.net/publication/322104193_Birch_Creek_Restoration_Design_Report_-_Prepared_for_Utah_Division_of_Wildlife_Resources_and_Bureau_of_Land_Management). Prepared for the Utah Division of Wildlife Resources by Anabranch Solutions, LLC. Newton, UT. 26 Pages. DOI: [10.13140/RG.2.2.11439.84646](http://dx.doi.org/10.13140/RG.2.2.11439.84646)
-2. Shahverdian SM, Macfarlane WW and Wheaton JM. 2016. [MEMO: Westerly Creek Beaver Dam Capacity Assessment: Developing Realistic Expectations for Beaver Dam Activity](https://www.researchgate.net/publication/309762206_MEMO_Westerly_Creek_Beaver_Dam_Capacity_Assessment_Developing_Realistic_Expectations_for_Beaver_Dam_Activity?ev=prf_pub). Prepared for Muller Engineering Company, Anabranch Solutions, Logan, UT, 24 pp. DOI:[ 10.13140/RG.2.2.34120.93446](http://dx.doi.org/10.13140/RG.2.2.34120.93446)
-3. Portugal, E., Wheaton, JM., Sorenson, K., Majerova, M., Hunt, B., Bouwes, N. 2015. [Hardware Ranch Adaptive Beaver Management Plan](https://www.researchgate.net/publication/309905727_Draft_-_Hardware_Ranch_Adaptive_Beaver_Management_Plan). Prepared for Utah Division of Wildlife Resources. Logan, Utah. 26 Pages. DOI: [10.13140/RG.2.2.29887.30883](http://dx.doi.org/10.13140/RG.2.2.29887.30883) 
-4. Portugal E., Wheaton, JM., Bouwes, N. 2015. [Spring Creek Wetland Area Adaptive Beaver Management Plan](https://www.researchgate.net/publication/283326474_Spring_Creek_Wetland_Area_Adaptive_Beaver_Management_Plan). Prepared for Walmart Stores Inc. and the City of Logan. Logan, Utah. 25 Pages. DOI: 10.13140/RG.2.1.2075.3361
-5. Portugal E, Wheaton JM and Bouwes N. 2015.[Technical Report: Pine Creek Watershed Scoping Plan for Restoration: Using Beaver Dam Analogs and High-Density LWD to Initiate Process-Based Stream Recovery](https://www.researchgate.net/publication/272829372_Pine_Creek_Watershed_Scoping_Plan_for_Restoration_Using_Beaver_Dam_Analogs_and_High-Density_LWD_to_Initiate_Process-Based_Stream_Recovery). Prepared for the Confederated Tribes of the Warm Springs. Logan UT, 52 pp. DOI: [10.13140/RG.2.1.1607.9527](http://dx.doi.org/10.13140/RG.2.1.1607.9527)
-6. O'Brien G, Wheaton JM and Bouwes N. 2015. [Synthesis & Recommendations from Middle Fork John Day River Styles - Leveraging the River Styles Framework in Tributary Habitat Management for the Columbia River Basin](https://www.researchgate.net/publication/270959593). Fluvial Habitats Center, Utah State University, Prepared for Eco Logical Research and Bonneville Power Administration, Logan, UT, 20 pp. DOI: [10.13140/2.1.3937.3129](http://dx.doi.org/10.13140/2.1.3937.3129).
-7. O'Brien G and Wheaton JM. 2015. [River Styles Report for the Middle Fork John Day Watershed, Oregon](https://www.researchgate.net/publication/270959675). Ecogeomorphology and Topographic Analysis Lab, Utah State University, Prepared for Eco Logical Research and the Bonneville Power Administration, Logan, UT, 207 pp. DOI: [10.13140/2.1.3251.2329](http://dx.doi.org/10.13140/2.1.3251.2329)
-8. Wheaton JM and Macfarlane WW. 2014. [The Utah Beaver Restoration Assessment Tool: A Decision Support & Planning Tool – Manager Brief](http://etal.usu.edu/Downloads/BRAT/UTAH_BRAT_Management%20Brief.pdf), Ecogeomorphology and Topographic Analysis Lab, Utah State University, Prepared for Utah Division of Wildlife Resources, Logan, UT, 16 pp. 
-9. Macfarlane WW, Wheaton JM, and Jensen ML. 2014. [The Beaver Restoration Assessment Tool: A Decision Support & Planning Tool for Utah](http://etal.usu.edu/Downloads/BRAT/UTAH_BRAT_FinalReport.pdf). Ecogeomorphology and Topographic Analysis Lab, Utah State University, Prepared for Utah Division of Wildlife Resources, Logan, Utah, 142 pp.
-10. Wheaton JM. 2013. [Scoping Study and Recommendations for an Adaptive Beaver Management Plan](http://etal.usu.edu/Reports/Beaver_Management_Plan_Recc_Park_City_%20Report_FINAL.pdf). Prepared for Park City  Municipal Corporation. Logan, Utah, 30 pp.  DOI: [10.6084/m9.figshare.903648](http://dx.doi.org/10.6084/m9.figshare.903648).
-11. MacFarlane WW and Wheaton JM. 2013. [Modeling the Capacity of Riverscapes to Support Dam-Building Beaver - Case Study: Escalante River Watershed](http://etal.usu.edu/GCT/BRAT_Final_Report.pdf), Final Report Prepared for Grand Canyon Trust and the Walton Family Foundation, Logan, UT, 79 pp. 
-12. CHaMP (Columbia Habitat Monitoring Program)♠. 2012. [Scientific protocol for salmonid habitat surveys within the Columbia Habitat Monitoring Program](https://www.champmonitoring.org/Program/Details/1#tab-documents), Prepared by the Integrated Status and Effectiveness Monitoring Program and published by Terraqua, Inc., Wauconda, WA, 188 pp. 
-13. Ward MB, Nelle P and Walker SM (Eds)♠. 2011. [CHaMP: 2011 Pilot Year Lessons Learned Project Synthesis Report](http://champmonitoring.org/Program/RetreiveProgramDocumentFile/1/Lessons%20Learned%20Annual%20Reporting/1474751431). Bonneville Power Administration: Portland, OR, 95 pp.
-14. Wheaton JM**,** Bennett S, Bouwes N, and Camp R. 2012. [Asotin Creek Intensively Monitored Watershed: Restoration Plan for North Fork Asotin, South Fork Asotin and Charlie Creeks](http://etal.usu.edu/Asotin/AsotinRestorationPlan_v1.pdf), Eco Logical Research, Inc., Prepared for Snake River Salmon Recovery Board. Logan, UT, 125 pp. 
-15. Pollock M, Wheaton JM, Bouwes N and Jordan CE. 2011. [Working with Beaver to Restore Salmon Habitat in the Bridge Creek Intensively Monitored Watershed: Design Rationale and Hypotheses, Interim Report](http://etal.usu.edu/BridgeCreek/NOAA/BDSS_Tech_Memo_6.07.11.pdf), NOAA Northwest Fisheries Science Center, Seattle, WA, 63 pp. 
+#### Examples of Plans, Resource Invetories & Prioritization Plans
+Below are examples of reports that are examples of planning, resource inventories and prioritization (i.e. [Chapter 3 of Design Manual]({{ site.baseurl }}/manual/chap03)):
+
+| Report Citation | Description | Location |
+|-----------------|-------------|-------------|
+| <i class="fa fa-file-pdf-o" aria-hidden="true"></i> Shahverdian, S.M., Bennett, S. and Wheaton, J., 2018. [Baugh Creek Post-Fire Emergency Restoration – Prioritizing and Planning Post-Fire Restoration in the Baugh Creek Watershed](http://dx.doi.org/10.13140/RG.2.2.17537.71528). Prepared for Rebecca Patton by Anabranch Solutions, LLC, Newton, UT. DOI: [10.13140/RG.2.2.17537.71528](http://dx.doi.org/10.13140/RG.2.2.17537.71528).              | A rapid assessment of current conditions and recovery potential following the 65,000 acre [Sharp's fire](https://swc.idaho.gov/media/1870/final-2018_12-december-2018-newsletter.pdf) to plan for emergency low-tech post-fire restoration.   | Baugh Creek, Idaho|
+| <i class="fa fa-file-pdf-o" aria-hidden="true"></i> Shahverdian, S., Portugal, E., Camp Reid, J., Macfalrane, W.W., Sorenson, K. and Wheaton, J.M., 2017. [Grouse Creek Watershed Restoration Plan: Using Beaver Dam Analogues to Initiate Process-Based Stream Recovery](http://dx.doi.org/10.13140/RG.2.2.29281.76641). Prepared for Utah Division of Wildlife Resources by Ecogeomorphology & Topographic Analysis Lab, Utah State University, Logan, UT. DOI: [10.13140/RG.2.2.29281.76641](http://dx.doi.org/10.13140/RG.2.2.29281.76641).              | The watershed scoping and planning associated with a low-tech PBR demonstration project with [Utah Watershed Restoration Initaitive]() and [Utah Division of Wildlife]()          | Grouse Creek, Utah|
+| <i class="fa fa-file-pdf-o" aria-hidden="true"></i> Portugal E, Wheaton JM and Bouwes N. 2015.[Technical Report: Pine Creek Watershed Scoping Plan for Restoration: Using Beaver Dam Analogs and High-Density LWD to Initiate Process-Based Stream Recovery](https://www.researchgate.net/publication/272829372_Pine_Creek_Watershed_Scoping_Plan_for_Restoration_Using_Beaver_Dam_Analogs_and_High-Density_LWD_to_Initiate_Process-Based_Stream_Recovery). Prepared for the Confederated Tribes of the Warm Springs. Logan UT, 52 pp. DOI: [10.13140/RG.2.1.1607.9527](http://dx.doi.org/10.13140/RG.2.1.1607.9527) | dd | Pine Creek, Oregon |
+| <i class="fa fa-file-pdf-o" aria-hidden="true"></i> O'Brien G, Wheaton JM and Bouwes N. 2015. [Synthesis & Recommendations from Middle Fork John Day River Styles - Leveraging the River Styles Framework in Tributary Habitat Management for the Columbia River Basin](https://www.researchgate.net/publication/270959593). Fluvial Habitats Center, Utah State University, Prepared for Eco Logical Research and Bonneville Power Administration, Logan, UT, 20 pp. DOI: [10.13140/2.1.3937.3129](http://dx.doi.org/10.13140/2.1.3937.3129).              | dd          | Middle Fork John Day Watershed, Oregon|
+| <i class="fa fa-file-pdf-o" aria-hidden="true"></i> O'Brien G and Wheaton JM. 2015. [River Styles Report for the Middle Fork John Day Watershed, Oregon](https://www.researchgate.net/publication/270959675). Ecogeomorphology and Topographic Analysis Lab, Utah State University, Prepared for Eco Logical Research and the Bonneville Power Administration, Logan, UT, 207 pp. DOI: [10.13140/2.1.3251.2329](http://dx.doi.org/10.13140/2.1.3251.2329)              | dd          |  Middle Fork John Day Watershed, Oregon|
+| <i class="fa fa-file-pdf-o" aria-hidden="true"></i> Wheaton JM**,** Bennett S, Bouwes N, and Camp R. 2012. [Asotin Creek Intensively Monitored Watershed: Restoration Plan for North Fork Asotin, South Fork Asotin and Charlie Creeks](http://etal.usu.edu/Asotin/AsotinRestorationPlan_v1.pdf), Eco Logical Research, Inc., Prepared for Snake River Salmon Recovery Board. Logan, UT, 125 pp.  | dd     | Asotin Creek Watershed, Washington|
 
 
+#### Examples of Design & Implementation Reports
+Below are examples of reports that are examples of design and implementation for low-tech PBR (i.e. [Chapter 5]({{ site.baseurl }}/manual/chap05) and [Chapter 6]({{ site.baseurl }}/manual/chap06) of [design manual]({{ site.baseurl }}/manual/)):
+
+| Report Citation | Description | Location |
+|-----------------|-------------|-------------|
+| <i class="fa fa-file-pdf-o" aria-hidden="true"></i> Shahverdian, S.M., Bennett, S. and Wheaton, J., 2018. [Baugh Creek Post-Fire Emergency Restoration – Design & Implementation](http://dx.doi.org/10.13140/RG.2.2.14182.27209), Prepared for Rebecca Patton by Anabranch Solutions, LLC, Newton, UT. DOI: [10.13140/RG.2.2.14182.27209](http://dx.doi.org/10.13140/RG.2.2.14182.27209). | dd | Baugh Creek, Idaho|
+|<i class="fa fa-file-pdf-o" aria-hidden="true"></i> Shahverdian, SM. and Wheaton, JM. 2017. [Birch Creek Restoration Design Report](https://www.researchgate.net/publication/322104193_Birch_Creek_Restoration_Design_Report_-_Prepared_for_Utah_Division_of_Wildlife_Resources_and_Bureau_of_Land_Management). Prepared for the Utah Division of Wildlife Resources by Anabranch Solutions, LLC. Newton, UT. 26 Pages. DOI: [10.13140/RG.2.2.11439.84646](http://dx.doi.org/10.13140/RG.2.2.11439.84646) | dd | Birch Creek, Utah|
+| <i class="fa fa-file-pdf-o" aria-hidden="true"></i> Portugal, E., Wheaton, J. and Bouwes, N., 2015. [Pine Creek Watershed Design Report for Pilot Restoration: Using Beaver Dam Analogues and High-Density Large Woody Debris to Initiate Process-Based Stream Recovery](http://dx.doi.org/10.13140/2.1.1209.9367). Prepared for the Confederated Tribes of  the Warm Springs by Eco Logical Research, Inc., Logan, UT. DOI: [10.13140/2.1.1209.9367](http://dx.doi.org/10.13140/2.1.1209.9367). | dd | Pine Creek Watershed, Oregon|
+| <i class="fa fa-file-pdf-o" aria-hidden="true"></i> Pollock M, Wheaton JM, Bouwes N and Jordan CE. 2011. [Working with Beaver to Restore Salmon Habitat in the Bridge Creek Intensively Monitored Watershed: Design Rationale and Hypotheses, Interim Report](http://etal.usu.edu/BridgeCreek/NOAA/BDSS_Tech_Memo_6.07.11.pdf), NOAA Northwest Fisheries Science Center, Seattle, WA, 63 pp. | dd | Bridge Creek, Oregon|
+
+
+For examples of [adaptive management plans see here]({{ site.baseurl }}/resources/adaptivemgt).
+
+#### Examples of Evaluation Reports
+
+| Report Citation | Description |
+|-----------------|-------------|
+| <i class="fa fa-file-pdf-o" aria-hidden="true"></i> Shahverdian, S., Macfarlane, W.A., Stevens, G.C., Meier, M. and Wheaton, J.M., 2017. [Geomorphic Response to Pilot River Restoration on the San Rafael River, Utah: A Pilot Installation of Beaver Dam Analogues](http://dx.doi.org/10.13140/RG.2.2.18963.37928), Utah State University Ecogeomorphology and Topographic Analysis Lab for Bureau of Land Management, Logan, UT. DOI: [10.13140/RG.2.2.18963.37928](http://dx.doi.org/10.13140/RG.2.2.18963.37928). | |
+
+
+
+
+
+
+
+----
 ### From Others
+This is based on other low-tech examples we are aware of, and those submitted by you:
+<div align="center">
+	<a class="button" href="https://goo.gl/forms/Ol0FQsz9W4QoU4ME3"><i class="fa fa-google" aria-hidden="true"></i>  Submit your Project as Case Study</a>
+</div>
 
-https://www.fws.gov/oregonfwo/ToolsForLandowners/RiverScience/Documents/BRG%20v.1.0%20final%20reduced.pdf Chapter 12
-
-
-
-
-Gregory Lewallen, Heidi Perryman, Carol Murdock, Mark Beardsley, Daniel Armichardy, Scott Jay Bailey, Bob Hassmiller, Sean Bistoff, David Helzer, Kendra Smith, Susan Firor, Janet Hohle, Scott Reid, Jessica Doran, Brad Johnson, Mike Claffey, Matt Weaver, David Kliegman, Julie Ashmore, Lauren Rich and Cathryn Wild (2017) [Chapter 11—Beaver Restoration Case Studies](https://www.fws.gov/oregonfwo/promo.cfm?id=177175812) in Pollock, M.M., G.M. Lewallen, K. Woodruff, C.E. Jordan and J.M. Castro (Editors) 2017. [The Beaver Restoration Guidebook: Working with Beaver to Restore Streams, Wetlands, and Floodplains. Version 2.0](https://www.fws.gov/oregonfwo/promo.cfm?id=177175812). United States Fish and Wildlife Service, Portland, Oregon.  pp 132-187.
+| Report Citation | Description                    |
+|-----------------|--------------------------------|
+|  |  <img width="250">|
+|  <i class="fa fa-file-pdf-o" aria-hidden="true"></i> Gregory Lewallen, Heidi Perryman, Carol Murdock, Mark Beardsley, Daniel Armichardy, Scott Jay Bailey, Bob Hassmiller, Sean Bistoff, David Helzer, Kendra Smith, Susan Firor, Janet Hohle, Scott Reid, Jessica Doran, Brad Johnson, Mike Claffey, Matt Weaver, David Kliegman, Julie Ashmore, Lauren Rich and Cathryn Wild (2017) [Chapter 11—Beaver Restoration Case Studies](https://www.fws.gov/oregonfwo/promo.cfm?id=177175812) in Pollock, M.M., G.M. Lewallen, K. Woodruff, C.E. Jordan and J.M. Castro (Editors) 2017. [The Beaver Restoration Guidebook: Working with Beaver to Restore Streams, Wetlands, and Floodplains. Version 2.0](https://www.fws.gov/oregonfwo/promo.cfm?id=177175812). United States Fish and Wildlife Service, Portland, Oregon.  pp 132-187. | A chapter from the [Beaver Restoration Guidebook](The Beaver Restoration Guidebook: Working with Beaver to Restore Streams, Wetlands, and Floodplains. Version 2.0) of beaver-based restoration examples. |
 
 
 
