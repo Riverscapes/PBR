@@ -45,7 +45,7 @@ The nuisance beaver mitigation (so-called 'living with beaver' strategies) are s
     <a href="https://www.beaverinstitute.org/"><img src="{{ site.baseurl }}/assets/images/logos/og_1.png"></a>
   </div>
   <div class="column column-block">
-    <a href="http://www.beaversolutions.com/"><img src="{{ site.baseurl }}/assets/images/logos/logo_orig.jpg"></a>
+    <a href="http://www.beaversolutions.com/"><img src="{{ site.baseurl }}/assets/images/logos/logo_orig.png"></a>
   </div>
   <div class="column column-block">
     <a href="http://www.beaverdeceivers.com/"><img src="{{ site.baseurl }}/assets/images/logos/bdlogo.png"></a>
@@ -57,7 +57,7 @@ The nuisance beaver mitigation (so-called 'living with beaver' strategies) are s
     <a href="http://www.swiftwaterdesign.com/"><img src="{{ site.baseurl }}/assets/images/logos/swd-1_orig.png"></a>
   </div>
   <div class="column column-block">
-    <a href="https://oaec.org/our-work/projects-and-partnerships/water-institute/"><img src="{{ site.baseurl }}/assets/images/logos/beaver-sticker-final.jpg"></a>
+    <a href="https://oaec.org/our-work/projects-and-partnerships/water-institute/"><img src="{{ site.baseurl }}/assets/images/logos/beaver-sticker-final.png"></a>
   </div>
 
 </div>
