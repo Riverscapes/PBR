@@ -77,7 +77,7 @@ Numerous authors contributing to the design manual with a welath of diverse expe
 <div class="row small-up-2 medium-up-2 large-up-4" align="center">
   <div class="column column-block">
     <a href="https://www.researchgate.net/profile/Elijah_Portugal"><img src="{{ site.baseurl }}/assets/images/people/portugal-round_orig.png"></a>
-    <h4><a href="https://www.researchgate.net/profile/Elijah_Portugal">Elijah Portugal<sup>7, 2,1</sup></a></h4>
+    <h4><a href="https://www.researchgate.net/profile/Elijah_Portugal">Elijah Portugal<sup>7,2,1</sup></a></h4>
   </div>
   <div class="column column-block">
 	<a href="https://www.researchgate.net/profile/Scott_Shahverdian"><img src="{{ site.baseurl }}/assets/images/people/shahverdian-round_1.png"></a>
