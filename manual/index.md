@@ -3,11 +3,14 @@ title:  Design Manual
 weight: 1
 ---
 
-The Low-Tech Process Based Restoration of Riverscapes Design Manual is organized into a series of chapters, each with its own page(s). Each chapter has its own citation and DOI, so that it is citable individually and can be updated and re-published without the entire design manual being re-issued. The recommended citation for the entire manual is:
+<a href="{{ site.baseurl }}/manual"><img class="float-right" src="{{ site.baseurl }}/assets/images/covers/Manual_Tilted_150.png"></a> The Low-Tech Process Based Restoration of Riverscapes Design Manual is organized into a series of chapters, each with its own page(s). Each chapter has its own citation and DOI, so that it is citable individually and can be updated and re-published without the entire design manual being re-issued. The recommended citation for the entire manual is:
 
-<a href="https://usu.box.com/v/LTPBR-Feb13-Review"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a> Wheaton JM, Bennett SN, Shahverdian S, and Maestas J (Editors). 2019. <a href="https://usu.box.com/v/LTPBR-Feb13-Review">Low-Tech Process-Based Restoration of Riverscapes: Design Manual. Version 1.0</a>. Utah State University <a href="http://etal.joewheaton.org">Wheaton Ecogeomorphology & Topographic Analysis Lab</a>. Logan, UT. Available at:  DOI: 
+- <a href=""><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a> Wheaton J.M., Bennett S.N., Bouwes, N., Maestas J.D. and Shahverdian S.M. (Editors). 2019. [Low-Tech Process-Based Restoration of Riverscapes: Design Manual. Version 1.0](). Utah State University Restoration Consortium. Logan, UT. Available at: http://lowtechpbr.restoration.usu.edu/manual. DOI: *Pending*
 
 ### Chapter Resources
+
+
+
 <div class="row small-up-2 medium-up-2 large-up-1" align="center" style="width:50%; margin: auto">
   <a href="{{ site.baseurl }}/manual/frontmatter">
     <div class="column column-block hollow button">
@@ -16,7 +19,7 @@ The Low-Tech Process Based Restoration of Riverscapes Design Manual is organized
   </a>
   <a href="{{ site.baseurl }}/manual/chap01">
     <div class="column column-block hollow button">
-	  <i class="fa fa-file" aria-hidden="true"></i> Chapter 1:  Background & Purpose
+	   <i class="fa fa-file" aria-hidden="true"></i> Chapter 1:  Background & Purpose 
     </div>
   </a>
   <a href="{{ site.baseurl }}/manual/chap02">
