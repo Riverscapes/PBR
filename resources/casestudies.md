@@ -3,7 +3,7 @@ title:  Low-Tech PBR Case Studies
 weight: 5
 ---
 
-## Case Studies  of Low-Tech PBR
+# Case Studies  of Low-Tech PBR
 
 Case Studies are crtical for grounding the concepts in this [design manual]({{ site.baseurl }}/manual/). As the list of case-studies is always growing, we do not summarize them in a static chapter, but instead refer the reader below to an annotated biliography of case studies maintained on this web site. Note most PDFs are availalbe for download from [ResearchGate](https://www.researchgate.net/project/Low-Tech-Process-Based-Restoration) for free if you create an account.
 
@@ -14,11 +14,11 @@ If you want to see your own low-tech process based restoration case study added 
 
 
 ----
-### From [Authors]({{ site.baseurl }}/manual/people)
+## From [Authors]({{ site.baseurl }}/manual/people)
 <a href="https://www.researchgate.net/project/Low-Tech-Process-Based-Restoration"><img class="float-right" src="{{ site.baseurl }}/assets/images/RG.png"> </a>
 We add our reports, presentations and publications to our [Research Gate Project on Low-Tech Process Based Restoration](https://www.researchgate.net/project/Low-Tech-Process-Based-Restoration) regularlly.  
 
-#### Examples of  Resource Inventories & Prioritization Plans
+### Examples of  Resource Inventories & Prioritization Plans
 Below are examples of reports that show how planning, resource inventories and prioritization (i.e. [Chapter 3 of Design Manual]({{ site.baseurl }}/manual/chap03)) were done on real projects at both project scales and network scales:
 
 | Report Citation | Description | Location |
@@ -34,7 +34,7 @@ Below are examples of reports that show how planning, resource inventories and p
 | <i class="fa fa-file-pdf-o" aria-hidden="true"></i> Wheaton JM**,** Bennett S, Bouwes N, and Camp R. 2012. [Asotin Creek Intensively Monitored Watershed: **Restoration Plan** for North Fork Asotin, South Fork Asotin and Charlie Creeks](http://etal.usu.edu/Asotin/AsotinRestorationPlan_v1.pdf), Eco Logical Research, Inc., Prepared for Snake River Salmon Recovery Board. Logan, UT, 125 pp.  | The original HDLWD and PALS report for the Asotin Intensively Monitored Watershed    | Asotin Creek Watershed, Washington (*Project-Scale*)|
 
 
-#### Examples of Design & Implementation Reports
+### Examples of Design & Implementation Reports
 Below are examples of reports that are examples of design and implementation for low-tech PBR projects (i.e. [Chapter 5]({{ site.baseurl }}/manual/chap05) and [Chapter 6]({{ site.baseurl }}/manual/chap06) of [design manual]({{ site.baseurl }}/manual/)):
 
 | Report Citation | Description | Location |
@@ -48,7 +48,7 @@ Below are examples of reports that are examples of design and implementation for
 
 For examples of [adaptive management plans see here]({{ site.baseurl }}/resources/adaptivemgt).
 
-#### Examples of Evaluation Reports
+### Examples of Evaluation Reports
 
 | Report Citation | Description | Location|
 |-----------------|-------------|-------------|
@@ -61,7 +61,7 @@ For examples of [adaptive management plans see here]({{ site.baseurl }}/resource
 
 
 ----
-### From Others
+## From Others
 This is based on other low-tech examples we are aware of, and those submitted by you:
 <div align="center">
 	<a class="button" href="https://goo.gl/forms/Ol0FQsz9W4QoU4ME3"><i class="fa fa-google" aria-hidden="true"></i>  Submit your Project as Case Study</a>
@@ -76,17 +76,11 @@ This is based on other low-tech examples we are aware of, and those submitted by
 
 
 
-### Restoration Planning
-
-
-
-
 
 ------
 <div align="center">
-	<a class="hollow button" href="{{ site.baseurl }}/"><i class="fa fa-arrow-circle-left" aria-hidden="true"></i>  Back to Design Manual Home <i class="fa fa-book" aria-hidden="true"></i></a>
+	<a class="hollow button" href="{{ site.baseurl }}/manual"><i class="fa fa-arrow-circle-left" aria-hidden="true"></i>  Back to Design Manual Table of Contents <i class="fa fa-book" aria-hidden="true"></i></a>
 	<a class="hollow button" href="{{ site.baseurl }}/resources/"><i class="fa fa-arrow-circle-up" aria-hidden="true"></i>  Return to PBR Resources <i class="fa fa-thumbs-up" aria-hidden="true"></i></a>
 
-    <a href="http://etal.joewheaton.org"><img src="{{ site.baseurl }}/assets/images/logos/ETAL@FHC_FullText_Blue_Wellsvilles_Brown_600.png"></a>
 
 </div>
