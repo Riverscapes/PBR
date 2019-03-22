@@ -5,10 +5,19 @@ weight: 4
 
 ## Chapter 4:  Mimicking and Promoting Wood Accumulation and Beaver Dam Activity with Post-Assisted Log Structures and Beaver Dam Analogues
 
-<div align="center">
-	<a class="hollow button" href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Workshops/BRAT/2018/Burnt/Macfarlane_et_al-2018-Environmental_Management.pdf"><i class = "fa fa-file-pdf-o" ></i>  Chapter 5 </a>
-	<img src="{{ site.baseurl }}/assets/images/PBR_LT_cc_100w.png">
 
+<a  href="https://usu.box.com/s/56eaksmtksmgqri3gvgnem7z28jtrkg7"><img class="float-right" src="{{ site.baseurl }}/assets/images/covers/Chap4.png"></a>
+The [fourth chapter](https://usu.box.com/s/56eaksmtksmgqri3gvgnem7z28jtrkg7) is meant to be the authoritative reference on two low-tech restoration techniques, which are lacking guidelines in the literature: **post-assisted log structures** (PALS) & **beaver dam analogues** (BDAs). The chapter focuses on helping readers understand what PALS & BDAs are, how they are used in [low-tech restoration design]({{ site.baseurl }}/manual/chap05), and a specific focus on the processes  intially *mimicked*, later *promoted*, and that eventually become *self-sustatining*; namely **wood accumulation** and **beaver dam activity**.
+
+Chapter 4 also has appendices on:
+- Appendix A. Freqently Asked Questions About PALS and BDAs 
+- Appendix B: Low-Tech Process-Based Restoration Semantics
+- Appendix C: Recent History of Beaver Dam Analogues
+- Appendix D: Typical Schematics and General Suggestions for Placement and Construction of PALS
+- Appendix E: Typical Schematics and General Suggestions for Placement and Construction of BDAs
+
+<div align="center">
+	<a class="hollow button" href="https://usu.box.com/s/56eaksmtksmgqri3gvgnem7z28jtrkg7"> Download Chapter 4 <i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>
 </div>
 
 
@@ -19,10 +28,12 @@ weight: 4
     <div class="card">
         <div class="card-section">
         	<img align="center" src="{{ site.baseurl }}/assets/images/diagrams/PALS_BA_XS_Blaster_250.png">
+        	
         	<ul>
-        		<li>Post-assisted log structures (PALS) and beaver dam analogues (BDAs) are hand-built structures that <b>mimic</b> accumulations of large woody debris (LWD) and beaver dams. Both designed to influence hydrologic and geomorphic processes.</li>
-        		<li>PALS and BDAs can be built in a wide range of environments and stream conditions in order to address a range of stream impairments and restoration goals.</li>
-        		<li>PALS and BDAs can be effectively designed in the field without the use of sophisticated modeling or pre-project topographic surveys.</li>
+        		<li>Post-assisted log structures (PALS) and beaver dam analogues (BDAs) are hand-built structures. PALS mimic and promote the processes of wood accumulation; whereas BDAs mimic and promote beaver dam activity.</li>
+        		<li>PALS and BDAs are permeable, temporary structures, built using natural materials.</li>
+        		<li>BDAs differ from PALS in and that BDAs create ponds using a variety of fill materials; PALS are built with only woody material, which tends to be larger diameter than the woody material used for BDAs.</li>
+        		
 
         	</ul>
       
@@ -34,10 +45,10 @@ weight: 4
         <div class="card-section">
         	<img align="center" src="{{ site.baseurl }}/assets/images/diagrams/BDA_Postless_Profile_250.png">
         	<ul>
+        		<li>PALS and BDAs are both intended to address the broad impairment of structural starvation in wadeable streams, but can also be used to mitigate against a range of more specific impairments.</li>
         		<li>PALS and BDAs can be built using a variety of natural materials, and built to a range of different shapes, sizes and orientations.</li>
         		<li>PALS and BDAs are most likely to achieve restoration goals when built in high numbers.</li>
-        		<li>Some PALS and BDAs are likely to breach and/or lose some wood, but when many structures are installed, the wood will accumulate on downstream structures or in natural accumulation areas leading to more complexity.</li>
-        		<li>PALS and BDAs are leaky, temporary structures built of natural materials.</li>
+        		<li>Some PALS and BDAs are likely to breach and/or lose some wood, but when many structures are installed, that material will accumulate on downstream structures or in natural accumulation areas leading to more complexity.</li>
         	</ul>
         </div>
     </div>
@@ -52,7 +63,8 @@ weight: 4
 
 #### Recommended Citation
 
-- <a href="http://chapterlink.com" ><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a> Shahverdian, S., Wheaton, J.M, Bennett, S.N., Camp, R., Portugal, E., Weber, N., Jordan, C. and Bouwes, N. 2019. **[Chapter 5 – Mimicking and Promoting Wood Accumulation and Beaver Dam Activity with Post-Assisted Log Structures and Beaver Dam Analogues](http://chapterlink.com)**. In: [Low-Tech Process-Based Restoration of Riverscapes: Design Manual - Version 1.0]({{ site.baseurl }}/). Wheaton JM, Bennett S, Shahverdian S, and Maestas JD, (Editors). [Utah State University](http://restoration.usu.edu/) [Wheaton Ecogeomorphology & Topographic Analysis Lab](http://etal.joewheaton.org). Logan, UT.  56 pp. DOI: [TBD](http://dx.doi.org/).
+- <a href="https://usu.box.com/s/56eaksmtksmgqri3gvgnem7z28jtrkg7" ><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a> Shahverdian, S.M., Wheaton, J.M., Bennett, S.N., Bouwes, N., Camp, R., Jordan, C.E., Portugal, E. and Weber, N. 2019. [**Chapter 4 – Mimicking and Promoting Wood Accumulation and Beaver Dam Activity with Post-Assisted Log Structures and Beaver Dam Analogues**](https://usu.box.com/s/56eaksmtksmgqri3gvgnem7z28jtrkg7). In: J.M. Wheaton, S.N. Bennett, N. Bouwes, J.D. Maestas and S.M. Shahverdian (Editors), [Low-Tech Process-Based Restoration of Riverscapes: Design Manual]({{ site.baseurl }}/manual). Utah State University Wheaton Restoration Consortium, Logan, Utah. 68 pp.
+
 
 -----
 ## Related Resources
@@ -62,15 +74,14 @@ weight: 4
 		<a class="hollow button" href="{{ site.baseurl }}/resources/recipes/beaver/bda"><img src="{{ site.baseurl }}/assets/images/hdLWD_100_Orange.png"> Post-Assisted Log Structure Recipes  <i class="fa fa-address-card" aria-hidden="true"></i></a>
 </div>
 <div align="center">
-	<a class=" button" href="{{ site.baseurl }}/manual/chap05/faq"><i class="fa fa-question-circle" aria-hidden="true"></i> Frequently Asked Questions about PALS & BDAs  </a>
+	<a class=" button" href="https://github.com/Riverscapes/PBR/issues"><i class="fa fa-question-circle" aria-hidden="true"></i> Ask a Queston to the Community </a>
 </div>
 
 
 ------
 <div align="center">
-	<a class="hollow button" href="{{ site.baseurl }}/"><i class="fa fa-arrow-circle-left" aria-hidden="true"></i>  Back to Design Manual Home <i class="fa fa-book" aria-hidden="true"></i></a>
 	<a class="hollow button" href="{{ site.baseurl }}/manual/"><i class="fa fa-arrow-circle-up" aria-hidden="true"></i>  Return to Table of Contents <i class="fa fa-list-ol" aria-hidden="true"></i></a>
 
-    <a href="http://etal.joewheaton.org"><img src="{{ site.baseurl }}/assets/images/logos/ETAL@FHC_FullText_Blue_Wellsvilles_Brown_600.png"></a>
 
 </div>
+![ch04_Cover]({{ site.baseurl }}\assets\images\covers\ch04_Cover.png)
