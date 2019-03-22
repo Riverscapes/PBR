@@ -5,7 +5,7 @@ weight: 1
 ## Chapter 1: Background & Purpose
 
 <a  href="https://usu.box.com/s/zyhvv9yhgtnudvs6f1uaz9cl1olycyka"><img class="float-right" src="{{ site.baseurl }}/assets/images/covers/Chap1.png"></a>
-The first chapter covers lays out the purpose and organization of the manual. It also covers the background necessary to understand low-tech process-based restoration. Speifically, the following topics are covered:
+The first chapter lays out the purpose and organization of the manual. It also covers the background necessary to understand low-tech process-based restoration. Speifically, the following topics are covered:
 - Scope of Degradation
 - Structurally-Starved Riverscapes
 - Riverscapes States and Conditions
