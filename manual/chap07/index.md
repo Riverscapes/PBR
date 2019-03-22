@@ -5,30 +5,34 @@ weight: 7
 
 ## Chapter 7:  Call to Action, Additional Resources & Conclusions
 
+<a  href="https://usu.box.com/s/bkpi5652pysctdr9g9ye0q2yk5fv4los"><img class="float-right" src="{{ site.baseurl }}/assets/images/covers/Chap7.png"></a>
+The [seventh and final chapter](https://usu.box.com/s/bkpi5652pysctdr9g9ye0q2yk5fv4los) synthesizes the entire manual with:
+- A Call to Action
+- Links to [Additional Resources]({{ site.baseurl }}/resources)
+- Conclusions
+
+
 <div align="center">
-	<img src="{{ site.baseurl }}/assets/images/PBR_LT_cc_100w.png">
+	<a class="hollow button" href="https://usu.box.com/s/bkpi5652pysctdr9g9ye0q2yk5fv4los"> Download Chapter 7 <i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>
 </div>
 
 
-#### Recommended Citation
+### Recommended Citation
 
-- <a href="http://chapterlink.com" ><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a> Bennett, S.N., Wheaton, J.M., Maestas, J., Camp, R., Bouwes, N., Jordan, C., Macfarlane, W.W., Shahverdian, S. and Weber, N. 2019. **[Chapter 7 - Call to Action, Additional Resources & Conclusions](http://chapterlink.com)**. In: [Low-Tech Process-Based Restoration of Riverscapes: Design Manual - Version 1.0]({{ site.baseurl }}/). Wheaton JM, Bennett S, Shahverdian S, and Maestas JD, (Editors). [Utah State University](http://restoration.usu.edu/) [Wheaton Ecogeomorphology & Topographic Analysis Lab](http://etal.joewheaton.org). Logan, UT.  40 pp. DOI: [TBD](http://dx.doi.org/).
 
-### Additional Resources
+- <a href="https://usu.box.com/s/bkpi5652pysctdr9g9ye0q2yk5fv4los" ><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a> Wheaton, J.M., Bennett, S.N., Bouwes, N., Camp, R., Jordan, C.E., Maestas, J.D. and Shahverdian, S.M. 2019. [**Chapter 7 - Call to Action, Additional Resources & Conclusions**](https://usu.box.com/s/bkpi5652pysctdr9g9ye0q2yk5fv4los). In: J.M. Wheaton, S.N. Bennett, N. Bouwes, J.D. Maestas and S.M. Shahverdian (Editors), [Low-Tech Process-Based Restoration of Riverscapes: Design Manual]({{ site.baseurl }}/manual). Utah State University Wheaton Restoration Consortium, Logan, Utah. 7 pp.
 
-<div align="center">
-	<a class="button" href="{{ site.baseurl }}/resources/casestudies"><i class="fa fa-weixin" aria-hidden="true"></i>  Low-Tech PBR Case Studies</a>
-</div>
+
+
 
 
 ------
 <div align="center">
-	<a class="hollow button" href="{{ site.baseurl }}/"><i class="fa fa-arrow-circle-left" aria-hidden="true"></i>  Back to Design Manual Home <i class="fa fa-book" aria-hidden="true"></i></a>
 	<a class="hollow button" href="{{ site.baseurl }}/manual/"><i class="fa fa-arrow-circle-up" aria-hidden="true"></i>  Return to Table of Contents <i class="fa fa-list-ol" aria-hidden="true"></i></a>
 
-    <a href="http://etal.joewheaton.org"><img src="{{ site.baseurl }}/assets/images/logos/ETAL@FHC_FullText_Blue_Wellsvilles_Brown_600.png"></a>
 
 </div>
+![ch01_Cover]({{ site.baseurl }}\assets\images\covers\ch07_Cover.png)
 
 
 
