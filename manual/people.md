@@ -5,20 +5,14 @@ weight: 2
 
 ## Editors
 
-<div class="row small-up-2 medium-up-2 large-up-2">
+<div class="row small-up-2 medium-up-2 large-up-3">
   <div class="column column-block">
     <a href="http://joewheaton.org"><img src="{{ site.baseurl }}/assets/images/people/Wheaton_round.png"></a>
     <h4><a href="http://joewheaton.org">Joe Wheaton</a></h4>
     Associate Professor - <a href="http://qcnr.usu.edu/wats//">Utah State University</a><br>
     Principle - <a href="http://anabranchsolutions.com">Anabranch Solutions</a>
   </div>
-  <div class="column column-block">
-    <a href="https://www.researchgate.net/profile/Scott_Shahverdian"><img src="{{ site.baseurl }}/assets/images/people/shahverdian-round_1.png"></a>
-    <h4><a href="http://www.anabranchsolutions.com/associates.html">Scott Shahveridan</a></h4>
-   Research Geomorphologist - <a href="http://qcnr.usu.edu/wats//">Utah State University</a><br>   
-   Design Geomorphologist - <a href="http://anabranchsolutions.com">Anabranch Solutions</a>
-  </div>
-
+  
   <div class="column column-block">
     <a href="https://www.researchgate.net/profile/Stephen_Bennett8"><img src="{{ site.baseurl }}/assets/images/people/bennett-round_orig.png"></a>
     <h4><a href="https://www.researchgate.net/profile/Stephen_Bennett8">Stephen N. Bennett<sup>1,2,3</sup></a></h4>
@@ -26,9 +20,23 @@ weight: 2
     Principle - <a href="http://anabranchsolutions.com">Anabranch Solutions</a>
   </div>
   
+  <div class="column column-block">
+    <a href="https://www.researchgate.net/profile/Nick_Bouwes"><img src="{{ site.baseurl }}/assets/images/people/bouwes-round_1_orig.png"></a>
+    <h4><a href="https://www.researchgate.net/profile/Nick_Bouwes">Nicolaas Bouwes</a></h4>
+    President - <a href="https://www.eco-logical-research.com/">Eco Logical Research, Inc.</a><br>
+    Adjunct Assistant Professor - <a href="http://qcnr.usu.edu/wats//">Utah State University</a><br>
+    Principle - <a href="http://anabranchsolutions.com">Anabranch Solutions</a>
+  </div>
+  
+<div class="column column-block">
+    <a href="https://www.researchgate.net/profile/Scott_Shahverdian"><img src="{{ site.baseurl }}/assets/images/people/shahverdian-round_1.png"></a>
+    <h4><a href="http://www.anabranchsolutions.com/associates.html">Scott Shahveridan</a></h4>
+   Research Geomorphologist - <a href="http://qcnr.usu.edu/wats//">Utah State University</a><br>   
+   Design Geomorphologist - <a href="http://anabranchsolutions.com">Anabranch Solutions</a>
+  </div>
 <div class="column column-block">
     <a href="https://www.researchgate.net/profile/Jeremy_Maestas"><img src="{{ site.baseurl }}/assets/images/people/Maestas_round.png"></a>
-    <h4><a href="https://www.researchgate.net/profile/Jeremy_Maestas">Jeremy Maestas<sup>6</sup></a></h4>
+    <h4><a href="https://www.researchgate.net/profile/Jeremy_Maestas">Jeremy Maestas</a></h4>
     Sagebrush Ecosystem Specialist- <a href="https://www.sagegrouseinitiative.com/about/meet-our-staff/">Sage Grouse Initiative</a> in partnership with USDA-NRCS, <a href="https://www.nrcs.usda.gov/wps/portal/nrcs/main/national/wntsc/">West National Technology Support Center</a>, Portland, Oregon
   </div>
 
@@ -36,11 +44,17 @@ weight: 2
 </div>
 
 
-
+## Graphical Editor and Copy Editor
+<div class="row small-up-2 medium-up-2 large-up-4" align="center">
+  <div class="column column-block">
+    <a href="http://www.anabranchsolutions.com/staff.html"><img src="{{ site.baseurl }}/assets/images/people/adrea-round_orig.png"></a>
+    <h4><a href="http://www.anabranchsolutions.com/staff.html">Adrea Wheaton<sup>2</sup></a></h4>
+  </div>
+</div>
 
 ## Contributors
 
-Numerous authors contributing to the design manual with a welath of diverse expertise:
+Numerous authors contributed to the design manual with a wealth of diverse expertise:
 
 <div class="row small-up-2 medium-up-2 large-up-4" align="center">
   <div class="column column-block">
@@ -98,7 +112,7 @@ Numerous authors contributing to the design manual with a welath of diverse expe
 
 #### Affiliations
 
-While the institutions the contributors are affiliated with have not officially endorsed this publication, the affiliations of the contributors are indicative of the cross section of agencies, acadamia and professional practice represented. The only institution that is officially represented in this design manual is Utah State University.
+While the institutions the contributors are affiliated with have not all officially endorsed this publication, the affiliations of the contributors are indicative of the cross section of agencies, acadamia and professional practice represented. The only institution that is officially represented in this design manual is Utah State University.
 
 <div class="row small-up-2 medium-up-2 large-up-4" align="center">
   <div class="column column-block">
