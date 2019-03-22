@@ -52,8 +52,7 @@ Chapter 6 also has appendices on:
 
 ## Recommended Citation
 
-- <a href="https://usu.box.com/s/zyhvv9yhgtnudvs6f1uaz9cl1olycyka" ><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a> Bennett, S.N., Wheaton, J.M., Bouwes, N., Camp, R., Jordan, C.E., Macfarlane, W.W., Maestas, J.D., Shahverdian, S. and Weber, N. 2019. [**Chapter 6 - Low-Tech Restoration Project Implementation**](https://usu.box.com/s/zyhvv9yhgtnudvs6f1uaz9cl1olycyka). In: J.M. Wheaton, S.N. Bennett, N. Bouwes, J.D. Maestas and S.M. Shahverdian (Editors), [Low-Tech Process-Based Restoration of Riverscapes: Design Manual]({{ site.baseurl }}/manual). Utah State University Wheaton Restoration Consortium, Logan, Utah. 37 pp.
-
+- <a href="https://usu.box.com/s/pa77wkmdmpw4m04xs4r0omdivbfxspzc" ><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a> Bennett, S.N., Wheaton, J.M., Bouwes, N., Camp, R., Jordan, C.E., Macfarlane, W.W., Maestas, J.D., Shahverdian, S. and Weber, N. 2019. [**Chapter 6 - Low-Tech Restoration Project Implementation**](https://usu.box.com/s/pa77wkmdmpw4m04xs4r0omdivbfxspzc). In: J.M. Wheaton, S.N. Bennett, N. Bouwes, J.D. Maestas and S.M. Shahverdian (Editors), [Low-Tech Process-Based Restoration of Riverscapes: Design Manual]({{ site.baseurl }}/manual). Utah State University Wheaton Restoration Consortium, Logan, Utah. 37 pp.
 
 ----
 ## Related Resources
