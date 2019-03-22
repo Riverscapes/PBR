@@ -1,6 +1,6 @@
 ---
-title:  Appendix 3C - Beaver Dams
-weight: 4
+title:  Appendix 3F - Beaver Dams
+weight: 6
 ---
 
 # Assessing Potential for Beaver Dam Activity
@@ -14,12 +14,10 @@ weight: 4
 <div class="responsive-embed">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/e28Ix-08PdM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen align="center"></iframe>
 </div>
-
 ------
 <div align="center">
-	<a class="hollow button" href="{{ site.baseurl }}/"><i class="fa fa-arrow-circle-left" aria-hidden="true"></i>  Back to Design Manual Home <i class="fa fa-book" aria-hidden="true"></i></a>
+	<a class="hollow button" href="{{ site.baseurl }}/manual"><i class="fa fa-arrow-circle-left" aria-hidden="true"></i>  Back to Design Manual Table of Contents <i class="fa fa-book" aria-hidden="true"></i></a>
 	<a class="hollow button" href="{{ site.baseurl }}/manual/chap03"><i class="fa fa-arrow-circle-up" aria-hidden="true"></i>  Return to Chapter 3 </a>
 
-    <a href="http://etal.joewheaton.org"><img src="{{ site.baseurl }}/assets/images/logos/ETAL@FHC_FullText_Blue_Wellsvilles_Brown_600.png"></a>
 
 </div>

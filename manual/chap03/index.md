@@ -5,11 +5,27 @@ weight: 3
 
 # Chapter 3: Planning for Low-Tech Process-Based Restoration
 
-<div align="center">
-	<a class="hollow button" href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Workshops/BRAT/2018/Burnt/Macfarlane_et_al-2018-Environmental_Management.pdf"><i class = "fa fa-file-pdf-o" ></i>  Chapter 3</a> 
-	<img src="{{ site.baseurl }}/assets/images/PBR_LT_cc_100w.png">
+<a  href=""><img class="float-right" src="{{ site.baseurl }}/assets/images/covers/Chap3.png"></a>
+The thrid chapter covers planning for low tech process-based restoration. We illustrate the process with the [NRCS Conservaton Planning Process](https://www.nrcs.usda.gov/wps/portal/nrcs/main/national/technical/cp/), and show what aspects are distinctive to low-tech restoration. Speifically, the following topics are covered:
+- Where to Plan?
+- Phase 1: Collection & Analysis
+- Phase 2: Decision Support & Design
+- Phase 3: Application & Evaluation
+- The Low-Tech Extension of Conservation Planning Process
 
+Chapter 3 also has appendices on:
+- [Appendix 3A]({{ site.baseurl }}/manual/chap03/AppA_Parallel):  Parallels Between Different Planning Frameworks for Restoration
+- Appendix 3B: Mapping Synthesis of Problems & Opportnities  Problems & Opportunities
+- Appendix 3C: Mapping Valley Bottom for Assessing Space
+-  Appendix 3D: Assessing Risk to Property, Infrastructure, and Public Safety
+- Appendix 3E: Assessing Riparian Conditions to support Wood accumulation
+- [Appendix 3F]({{ site.baseurl }}/manual/chap03/AppF_BRAT): Assessing Potential for Beaver Dam Activity
+- Appendix 3G: Structure Level Adaptive Management
+
+<div align="center">
+	<a class="hollow button" href=""> Download Chapter 3 <i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>
 </div>
+
 
 ### Implications for Practice
 
@@ -19,8 +35,9 @@ weight: 3
         <div class="card-section">
         <img src="{{ site.baseurl }}\assets\images\diagrams\Plan_AM_250.png">
 <ul>
-	<li>The overall process of planning for low-tech process-based restoration is similar to planning for other forms of restoration. </li>
-	<li>For situations in which the project stakeholders are unfamiliar with  the low-tech restoration process, adaptive management can be a practical way of ‘learning by doing’, and projects can proceed starting with trials, and then working towards full-scale implementation with explicit identification of concerns and triggers for maintenance and/or mitigation. </li>
+	<li>Planning for low-tech process-based restoration is similar to planning for other forms of restoration.</li>
+	<li>We adapt the Conservation Planning Process to show what aspects of the process are distinctive to low-tech process-based restoration. The Conservation Planning Process follows an adaptive management framework and has three phases: i) a Collection and Analysis Phase (focused on planning), ii) a Decision Support Phase (focused on design), and iii) an Application and Evaluation Phase (focused on implementation).</li>
+	<li>For low-tech restoration, we pose four screening questions in the process to identify exit points where and if low-tech process-based restoration may not be appropriate.</li>
 </ul>        
         </div>
       </div>
@@ -30,16 +47,9 @@ weight: 3
     <div class="card">
         <div class="card-section">
         <ul>
-	<li>For low-tech restoration, there are six key questions to address  within this planning process:</li>
-
-    <ol>
-        <li>What am I <b>managing and restoring for</b>? – Identify the management drivers and impairments.</li>
-        <li>Is my riverscape <b>structurally-starved</b>? – If system is not structurally-starved, low-tech restoration may not be the solution.</li>
-        <li>What part of the <b>valley bottom is available</b> for low-tech restoration? – Identify your valley bottom and any constraints present.</li>
-        <li>How can I describe the <b>conditions and impairments</b> in my riverscape? – Specifically, what are the geomorphic conditions (e.g. Stage in channel evolution model), and what are riparian conditions that might inhibit process of wood accumulation and beaver dam activity?</li>
-        <li>What is an <b>appropriate target</b> for what is possible? - Is Stage 0 or something less (Stage 8) appropriate?</li>
-        <li><b>Where</b> should I pick to work? – Are you working at a pre-identified (opportunistic) riverscape, or can you choose (prioritize) where to focus efforts?</li>
-    </ol>
+	<li>Out of the Collection and Analysis Phase, current conditions of the riverscape (valley bottom), constraints and recovery potential are identified to help frame appropriate and realistic treatments and targets in the design.</li>
+	<li>Low-tech restoration to reverse structural starvation of riverscapes frequently takes more than one treatment (and design), and out of the design phase expectations are set for what progress towards long-term restoration goals will be made and how many treatments might be necessary.</li>
+   <li>The implementation of a design involves an iteration between carrying out an individual treatment of structural additions and evaluation. Ultimately, it is assumed project goals will be met if the processes of wood accumulation and/or beaver dam activity make the transition from being mimicked and promoted by treatments to occurring on their own in a self-sustaining fashion. As such, the need for additional treatments versus recognizing the project has achieved its goals is evaluated with respect to the sustainability of these processes. </li>
 </ul>
         </div>
     </div>
@@ -57,6 +67,7 @@ weight: 3
 
 ## Planning Distilled
 
+<a href="https://www.nrcs.usda.gov/wps/portal/nrcs/main/national/technical/cp/"><img class="float-left" src="{{ site.baseurl }}/assets/images/nrcseprd.png"></a>
 These slides walk through a standardized Conservation Planning Process from [NRCS (2007)](https://www.nrcs.usda.gov/wps/portal/nrcs/detail/national/water/manage/restoration/?cid=stelprdb1044707), and how that differs for low-tech process-based restoration.
 
 <div align="center">
@@ -64,30 +75,6 @@ These slides walk through a standardized Conservation Planning Process from [NRC
 </div>
 
 
-Table 1 from Bennett et al. (2019) - Nine planning steps, associated planning concepts, and adaptive management steps for planning, implementing, monitoring and evaluating a restoration project adapted from [NRCS (2007)](https://www.nrcs.usda.gov/wps/portal/nrcs/detail/national/water/manage/restoration/?cid=stelprdb1044707), [Yochum (2016)](https://riversedgewest.org/sites/default/files/resource-center-documents/yochumusfs-nsaec-tn102-2gudncstrmrstrtnrhbltn.pdf), [Skidmore et al. (2011)](https://repository.library.noaa.gov/view/noaa/4020), and [Bouwes et al. (2016)](https://www.researchgate.net/publication/289526568_Adapting_Adaptive_Management_for_Testing_the_Effectiveness_of_Stream_Restoration_An_Intensively_Monitored).
-
-| Planning Step                                                   | Planning Concept(s)                                                                                     | Adaptive Management Step and Actions                                                                                         | Riverscape Design Manual Chapter |
-|-----------------------------------------------------------------|---------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------|----------------------------------|
-| 1.  Identify Overall Management Goals, Problems & Opportunities | -    Identify the management goals and setting                                                          | **Plan**                                                                                                                         | Chapter [1]({{ site.baseurl }}/manual/chap01), [2]({{ site.baseurl }}/manual/chap02), [3]({{ site.baseurl }}/manual/chap03)                  |
-|                                                                 | -    Identify causes of impairment and related processes                                                | -  Identify management goals and problem                                                                                     |                                  |
-|                                                                 | -    Look upstream and downstream and where possible address watershed issues before reach scale issues |                                                                                                                              |                                  |
-|                                                                 | -    Don’t assume the stream needs to be fixed – erosion and channel migration are natural              |                                                                                                                              |                                  |
-| 2.  Determine Initial Objectives                                | -    Identify causes of impairment and related processes                                                | **Plan**                                                                                                                         | Chapter [1]({{ site.baseurl }}/manual/chap01), [2]({{ site.baseurl }}/manual/chap02), [3]({{ site.baseurl }}/manual/chap03)                  |
-|                                                                 |                                                                                                         | -Develop initial objectives                                                                                                  |                                  |
-| 3 & 4. Inventory and Analyze Resources (aka Assessments)        | -    Synthesis of previous assessments and planning efforts                                             | **Plan**                                                                                                                         | [Chapter 3](({{ site.baseurl }}/manual/chap03))                        |
-|                                                                 | -    Embrace uncertainty due to natural variability as an asset                                         | - Review past assessments                                                                                                    |                                  |
-|                                                                 |                                                                                                         | - Develop conceptual models of riverscape function                                                                           |                                  |
-| 5 & 6. Formulate and Evaluate Alternatives                      | -    Question constraints and remove rather than introduce new constraints                              | **Plan**                                                                                                                         | [Chapter 3]({{ site.baseurl }}/manual/chap03)                       |
-|                                                                 | -    Evaluate alternative restoration strategies                                                        | -   Determine and evaluate restoration actions                                                                               |                                  |
-|                                                                 |                                                                                                         | -   Implement a trail to test conceptual models                                                                              |                                  |
-| 7.    Make Decisions & Select Restoration Action                | -    Design for resilient projects to protect restoration investment in the future.                     | **Plan**                                                                                                                         | Chapter [3]({{ site.baseurl }}/manual/chap03), [6]({{ site.baseurl }}/manual/chap06)                     |
-|                                                                 |                                                                                                         | -   Develop monitoring plan, benchmarks (triggers) for implementing maintenance and addressing risk                          |                                  |
-|                                                                 |                                                                                                         |                                                                                                                              |                                  |
-| 8.    Implement the Plan                                        | -    Maximize natural processes – restore rather than constrain natural stream processes                | **Do**                                                                                                                           | Chapter [4]({{ site.baseurl }}/manual/chap04), [5]({{ site.baseurl }}/manual/chap05), [6]({{ site.baseurl }}/manual/chap06)                  |
-|                                                                 | -    Do no lasting harm during restoration                                                              | -    Implement monitoring plan (including pre-project data)                                                                  |                                  |
-|                                                                 |                                                                                                         | -    Implement low-tech process-based restoration                                                                            |                                  |
-| 9. Evaluate the Plan                                            | -    Follow up and learn                                                                                | **Evaluate, Learn, Adjust**                                                                                                      | [Chapter  6]({{ site.baseurl }}/manual/chap06)                       |
-|                                                                 | -    Adjust to if necessary increase efficiency of future projects                                      | -    evaluate monitoring data, update conceptual models and monitoring plan if necessary, and initiate maintenance as needed |                                  |
 
 -----
 ## Related Resources
@@ -122,9 +109,7 @@ Table 1 from Bennett et al. (2019) - Nine planning steps, associated planning co
 
 ------
 <div align="center">
-	<a class="hollow button" href="{{ site.baseurl }}/"><i class="fa fa-arrow-circle-left" aria-hidden="true"></i>  Back to Design Manual Home <i class="fa fa-book" aria-hidden="true"></i></a>
 	<a class="hollow button" href="{{ site.baseurl }}/manual/"><i class="fa fa-arrow-circle-up" aria-hidden="true"></i>  Return to Table of Contents <i class="fa fa-list-ol" aria-hidden="true"></i></a>
 
-    <a href="http://etal.joewheaton.org"><img src="{{ site.baseurl }}/assets/images/logos/ETAL@FHC_FullText_Blue_Wellsvilles_Brown_600.png"></a>
-
 </div>
+![ch03_Cover]({{ site.baseurl }}\assets\images\covers\ch03_Cover.png)
