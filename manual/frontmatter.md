@@ -25,6 +25,6 @@ If you wish to cite any of the information in the front matter, simply cite the 
 
 ------
 <div align="center">
-	<a class="hollow button" href="{{ site.baseurl }}/"><i class="fa fa-arrow-circle-left" aria-hidden="true"></i>  Back to Design Manual Home <i class="fa fa-book" aria-hidden="true"></i></a>  
+	<a class="hollow button" href="{{ site.baseurl }}/manual"><i class="fa fa-arrow-circle-left" aria-hidden="true"></i>  Back to Design Manual Table of Contents <i class="fa fa-book" aria-hidden="true"></i></a>  
 </div>
 

@@ -17,3 +17,8 @@ Joe's slides from [NRCS/SGI Wyoming Workshop on Partnering with Beaver in Restor
 <div class="responsive-embed">
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQsFkwC11jG0eXNIlxURTwMtAat01IRYbCU3GQdqmj59i980Zed2VnJjRAmcHhEwKx4WnTA-UbTsxER/embed?start=false&loop=false&delayms=3000" frameborder="0" width="550" height="450" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 </div>
+
+------
+<div align="center">
+	<a class="hollow button" href="{{ site.baseurl }}/manual"><i class="fa fa-arrow-circle-left" aria-hidden="true"></i>  Back to Design Manual Table of Contents <i class="fa fa-book" aria-hidden="true"></i></a>
+	<a class="hollow button" href="{{ site.baseurl }}/manual/chap01"><i class="fa fa-arrow-circle-up" aria-hidden="true"></i>  Back to Chapter 1 </a>

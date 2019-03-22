@@ -18,12 +18,10 @@ Table 3 from [Chapter 1 - Shahverdian et al. (2019)]({{ site.baseurl }}/manual/c
 | 2016. Yochum, S. E. [Guidance for stream restoration and rehabilitation](https://riversedgewest.org/sites/default/files/resource-center-documents/yochumusfs-nsaec-tn102-2gudncstrmrstrtnrhbltn.pdf). US Department of Agriculture, Forest Service, National Stream and Aquatic Ecology Center. Technical Note no. TN-102.2, 2016.                                                                                                                                               | A recent and rather comprehensive review and annotated bibliography of various aspects of stream restoration and rehabilitation what includes many process-based restoration examples (e.g., beaver, LWD).                                                                                               |
 | 2009. Zeedyk, B. and Clothier, V. [Let the Water Do the Work: Induced Meandering, an Evolving Method for Restoring Incised Channels](https://www.chelseagreen.com/product/let-the-water-do-the-work/). Island Press, Washington D.C.                                                                                                                                                                                 | The idea of using structures that promote processes of letting ‘the water do the work’ (in this case for initiating widening and meandering in incised channels) is a prime example of process-based restoration.                                                                                        |
 
-
 ------
 <div align="center">
-	<a class="hollow button" href="{{ site.baseurl }}/"><i class="fa fa-arrow-circle-left" aria-hidden="true"></i>  Back to Design Manual Home <i class="fa fa-book" aria-hidden="true"></i></a>
+	<a class="hollow button" href="{{ site.baseurl }}/manual"><i class="fa fa-arrow-circle-left" aria-hidden="true"></i>  Back to Design Manual Table of Contents <i class="fa fa-book" aria-hidden="true"></i></a>
 	<a class="hollow button" href="{{ site.baseurl }}/manual/chap01"><i class="fa fa-arrow-circle-up" aria-hidden="true"></i>  Back to Chapter 1 </a>
 
-    <a href="http://etal.joewheaton.org"><img src="{{ site.baseurl }}/assets/images/logos/ETAL@FHC_FullText_Blue_Wellsvilles_Brown_600.png"></a>
 
 </div>

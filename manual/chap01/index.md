@@ -2,13 +2,24 @@
 title:  1. Background & Purpose
 weight: 1
 ---
-
 ## Chapter 1: Background & Purpose
 
-<div align="center">
-	<a class="button" href="https://usu.box.com/s/8agdl60rv77lrig6tco4v9dpagwmmrpc"><i class = "fa fa-file-pdf-o" ></i>  Chapter 1 UPDATE URL!</a>
-	<img src="{{ site.baseurl }}/assets/images/PBR_LT_cc_100w.png">
+<a  href="https://usu.box.com/s/zyhvv9yhgtnudvs6f1uaz9cl1olycyka"><img class="float-right" src="{{ site.baseurl }}/assets/images/covers/Chap1.png"></a>
+The first chapter covers lays out the purpose and organization of the manual. It also covers the background necessary to understand low-tech process-based restoration. Speifically, the following topics are covered:
+- Scope of Degradation
+- Structurally-Starved Riverscapes
+- Riverscapes States and Conditions
+- A Review of Restoration
 
+Chapter 1 also has appendices on:
+- [Appendix A]({{ site.baseurl }}/manual/chap01/appendix-A): Partial Selection of Past Literature Relevant to Low-Tech Restoraton 
+- Appendix B: Low-Tech Process-Based Restoration Semantics
+- Appendix C: Existing Low-Tech Practices
+- Appendix D: Nothing is Really New
+- [Appendix E]({{ site.baseurl }}/manual/chap01/appendix-E): Partial Selection of Past Literature Relevant to Low-Tech Restoration
+
+<div align="center">
+	<a class="hollow button" href="https://usu.box.com/s/zyhvv9yhgtnudvs6f1uaz9cl1olycyka"> Download Chapter 1 <i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>
 </div>
 
 
@@ -21,11 +32,10 @@ weight: 1
     <div class="card">
         <div class="card-section">
         <p><ul>
-	<li>Our over-arching goal is to improve the health of as many miles of riverscapes as possible and help those systems achieve and maintain their full potential in self-sustaining ways.</li>
-	<li>Our intent is to help the restoration community maximize its efforts at promoting healthy ‘life-styles’ for as much of the full population of riverscapes as possible.  </li>
-	<li>We identify ‘structural-starvation’ of wood and beaver dams from many riverscapes as one of the most common impairments to riverscape health, and one that low-tech restoration techniques can help improve. </li>
-	<li>We intend for this manual to fill a void in the scientific literature and technical guidelines with respect to low-tech process-based restoration techniques.</li>
-	<li>While process-based restoration concepts have been around for at least two decades, details and specific examples on how to implement such practices are lacking.</li>
+	<li>Riverscapes are composed of connected floodplain and channel habitats that together make up the valley bottom.</li>
+	<li>The scope of degradation of riverscapes is massive. Tens of thousands of miles of riverscapes are in poor or fair condition. </li>
+	<li>Structural-starvation is both a direct cause of degradation, as well as a consequence of land use changes and direct modification of stream and riparian areas.</li>
+	<li>Engineering-based restoration tends to emphasize channel form and stability, rather than promoting the processes that create and maintain healthy riverscapes, which leads to increased costs and a limited ability to restore more miles of riverscapes.</li>
 	</ul>
 	</p>
       </div>
@@ -36,22 +46,22 @@ weight: 1
       <div class="card-section">
         <p>
         	<ul>
-        		<li>While many of the specific actions (e.g., building structures, reintroducing beaver) have been used in various forms for decades to centuries, the framework for how these actions fit together and what they are intended to achieve has not been effectively articulated. </li>
-	<li>We do not attempt to provide a complete overview of process-based restoration, but instead point the reader to existing resources and address critical knowledge gaps where guidance can help push policy, regulations, practice and adaptive management forward.</li>
-	<li>This manual does revisit many restoration topics (e.g., river health, condition & impairment assessment, restoration planning, design, construction and adaptive management) that have been covered elsewhere, but for which the application of those topics to low-tech process-based restoration needs clarification. </li>
-	<li>Detailed design guidance is provided for two specific types of treatments that the authors helped pioneer the development and use of (beaver dam analogues and post-assisted log structures placed as high-density large woody debris).</li>
+        		<li>Process-based restoration focuses on restoring physical processes that lead to healthy riverscapes. </li>
+	<li>Low-cost, simple, hand-built structures have been used for over a century. Restoration principles are needed to guide the use of low-tech structures in order to address the scope of degradation, which will require that practitioners “let the system do the work.”</li>
+	<li>The overarching goal of low-tech restoration is to improve the health of as many miles of riverscapes as possible and to promote and maintain the full range of self-sustaining riverscape processes. </li>
+
 			</ul>
-        </p>
-      </div>
-    </div>
+	    </p>
+	  </div>
+	</div>
   </div>
 </div>
 
 
 
-#### Recommended Chapter Citation
+### Recommended Chapter Citation
 
-- <a href="{{ site.baseurl }}/" ><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a> Shahverdian, S., Wheaton, J., Bennett, S. and Maestas, J., 2019. . TBD. **[Chapter 1 – Background & Purpose](http://chapterlink.com)**. In: [Low-Tech Process-Based Restoration of Riverscapes: Design Manual - Version 1.0]({{ site.baseurl }}/). Wheaton JM, Bennett S, Shahverdian S, and Maestas JD, (Editors). [Utah State University](http://restoration.usu.edu/) [Wheaton Ecogeomorphology & Topographic Analysis Lab](http://etal.joewheaton.org). Logan, UT.  27 pp. DOI: [TBD](http://dx.doi.org/).
+- <a href="https://usu.box.com/s/zyhvv9yhgtnudvs6f1uaz9cl1olycyka" ><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a> Shahverdian, S., Wheaton, Shahverdian, S., Wheaton, J.M., Bennett, S.N., Bouwes, N. and Maestas, J.D., 2019. [**Chapter 1 – Background & Purpose**](https://usu.box.com/s/zyhvv9yhgtnudvs6f1uaz9cl1olycyka). In: J.M. Wheaton, S.N. Bennett, N. Bouwes, J.D. Maestas and S.M. Shahverdian (Editors), [Low-Tech Process-Based Restoration of Riverscapes: Design Manual]({{ site.baseurl }}/manual). Utah State University Wheaton Restoration Consortium, Logan, Utah. 29 pp.
 
 -----
 ## Related Resources
@@ -76,9 +86,8 @@ Perhaps the two most definitive resources on Process-Based Restoration for river
 
 ------
 <div align="center">
-	<a class="hollow button" href="{{ site.baseurl }}/"><i class="fa fa-arrow-circle-left" aria-hidden="true"></i>  Back to Design Manual Home <i class="fa fa-book" aria-hidden="true"></i></a>
 	<a class="hollow button" href="{{ site.baseurl }}/manual/"><i class="fa fa-arrow-circle-up" aria-hidden="true"></i>  Return to Table of Contents <i class="fa fa-list-ol" aria-hidden="true"></i></a>
 
-    <a href="http://etal.joewheaton.org"><img src="{{ site.baseurl }}/assets/images/logos/ETAL@FHC_FullText_Blue_Wellsvilles_Brown_600.png"></a>
 
 </div>
+![ch01_Cover]({{ site.baseurl }}\assets\images\covers\ch01_Cover.png)
