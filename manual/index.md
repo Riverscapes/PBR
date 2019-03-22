@@ -3,9 +3,9 @@ title:  Design Manual
 weight: 1
 ---
 
-<a href="{{ site.baseurl }}/manual"><img class="float-right" src="{{ site.baseurl }}/assets/images/covers/Manual_Tilted_150.png"></a> The Low-Tech Process Based Restoration of Riverscapes Design Manual is organized into a series of chapters, each with its own page(s). Each chapter has its own citation and DOI, so that it is citable individually and can be updated and re-published without the entire design manual being re-issued. The recommended citation for the entire manual is:
+<a href="https://usu.box.com/s/ealsry3jv69gapkn54511qrey6s7n42q"><img class="float-right" src="{{ site.baseurl }}/assets/images/covers/Manual_Tilted_150.png"></a> The Low-Tech Process Based Restoration of Riverscapes Design Manual is organized into a series of chapters, each with its own page(s). Each chapter has its own citation and DOI, so that it is citable individually and can be updated and re-published without the entire design manual being re-issued. The recommended citation for the entire manual is:
 
-- <a href=""><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a> Wheaton J.M., Bennett S.N., Bouwes, N., Maestas J.D. and Shahverdian S.M. (Editors). 2019. [Low-Tech Process-Based Restoration of Riverscapes: Design Manual. Version 1.0](). Utah State University Restoration Consortium. Logan, UT. Available at: http://lowtechpbr.restoration.usu.edu/manual. DOI: *Pending*
+- <a href="https://usu.box.com/s/ealsry3jv69gapkn54511qrey6s7n42q"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a> Wheaton J.M., Bennett S.N., Bouwes, N., Maestas J.D. and Shahverdian S.M. (Editors). 2019. [Low-Tech Process-Based Restoration of Riverscapes: Design Manual. Version 1.0](https://usu.box.com/s/ealsry3jv69gapkn54511qrey6s7n42q). Utah State University Restoration Consortium. Logan, UT. Available at: http://lowtechpbr.restoration.usu.edu/manual. DOI: *Pending*
 
 ### Chapter Resources
 
