@@ -80,6 +80,42 @@ These slides walk through a standardized Conservation Planning Process from [NRC
 
 - [Condition & Impairment Assessment](https://restoration-usu.github.io/WATS-5340-5350/Course_Topics/WATS_5340/Condition.html) - WATS 5340 Design Capstone Class Resources
 
+<div class="row small-up-2 medium-up-2 large-up-3" align="center">
+  	<div class="column column-block">
+  		<a href="https://rangelands.app/"><img src="{{ site.baseurl }}/assets/images/RAP.png"></a>
+	<br>
+	<a href="cmap.sagegrouseinitiative.comap.sagegrouseinitiative.com">Raneland Analysis Platform</a> -e.g.  for mapping annual cover, perrenial cover, shrub cover, tree cover, bare ground cover. - This can be helpful for inventorying vegetative resources and how they  change through time.
+	</div>
+<div class="column column-block">
+
+	<a href="http://map.sagegrouseinitiative.com"><img src="{{ site.baseurl }}/assets/images/SGIwebMap.png"></a>
+	<br>
+	<a href="map.sagegrouseinitiative.com">Sage Grouse Intitiative's Web App</a> - e.g. for mapping Mesic Resources through time. 
+	</div>
+	<div class="column column-block">
+
+	<a href="https://streamstats.usgs.gov/ss/"><img src="{{ site.baseurl }}/assets/images/USGS_StreamStats.png"></a>
+	<br>
+	<a href="https://streamstats.usgs.gov/ss/">USGS StreamStats</a> - e.g. for estimating baseflow and highflow frequency statiscs. This can be used to consider the question - <em>Does the riverscape have the flow-regime to "let the river do the work", and how long it might take for the work to be done?</em>
+	</div>
+</div>
+
+### Riverscapes Tools
+
+[RCAT](http://rcat.riverscapes.xyz)(Riparian Condition Assessment Tool) is helpful for assessing riparian conditions, the causes of departure from historic conditions and looking at recovery potential within the valley bottom. Specifically, RCAT provides one way for network-scale assessment of the question *Are the woody resources present or could they be (via restoration) to support and sustain process of wood accumulation?*. [BRAT](http://brat.riverscapes.xyz)(Beaver Restoration Assessment Tool) is useful for condition assessment as it pertains to developing expectations for beaver dam building.  Specifically, BRAT provides one way for network-scale assessment of the question of *Can (or could via restoration) the riverscape support beaver dam activity?*
+
+<div align="center">
+	<a class="button alert" href="http://brat.riverscapes.xyz"><img src="{{ site.baseurl }}/assets/images/BRAT_Logo-wGrayTxt.png"></a>
+	<a class="button alert" href="http://rcat.riverscapes.xyz"><img src="{{ site.baseurl }}/assets/images/RCAT_Logo-wTxt.png"></a>
+</div>
+
+
+<div align="center">
+	<a class="button" href="{{ site.baseurl }}/resources/models"><img src="{{ site.baseurl }}/assets/images/logos/RC-50w.png"> Riverscapes Models & Tools for low-tech PBR</a>
+	<a class="button" href="http://riverscapes.xyz"><img src="{{ site.baseurl }}/assets/images/riverscapesconsortium-logo-black-bhs-200w_orig.png"> </a>
+</div> 
+
+----
 ### References
 
 - Bouwes, N., Bennett, S. and Wheaton, J., 2016. [Adapting Adaptive Management for Testing the Effectiveness of Stream Restoration: An Intensively Monitored Watershed Example](https://www.researchgate.net/publication/289526568_Adapting_Adaptive_Management_for_Testing_the_Effectiveness_of_Stream_Restoration_An_Intensively_Monitored). Fisheries, 41(2): 84-91. DOI: [10.1080/03632415.2015.1127806](http://dx.doi.org/10.1080/03632415.2015.1127806)
@@ -88,22 +124,7 @@ These slides walk through a standardized Conservation Planning Process from [NRC
 - Yochum, S. E. 2016. [Guidance for stream restoration and rehabilitation](https://riversedgewest.org/sites/default/files/resource-center-documents/yochumusfs-nsaec-tn102-2gudncstrmrstrtnrhbltn.pdf). US Department of Agriculture, Forest Service, National Stream and Aquatic Ecology Center. Technical Note no. TN-102.2, 2016.
 
 
-### Riverscapes Tools
 
-
-
-<div align="center">
-	<a class="button" href="{{ site.baseurl }}/resources/models"><img src="{{ site.baseurl }}/assets/images/logos/RC-50w.png"> Riverscapes Models & Tools for low-tech PBR</a>
-	<a class="button" href="http://riverscapes.xyz"><img src="{{ site.baseurl }}/assets/images/riverscapesconsortium-logo-black-bhs-200w_orig.png"> </a>
-</div> 
-
-
-[BRAT](http://brat.riverscapes.xyz)(Beaver Restoration Assessment Tool) is useful for condition assessment as it pertains to developing expectations for beaver dam building.  [RCAT](http://rcat.riverscapes.xyz)(Riparian Condition Assessment Tool) is helpful for assessing riparian conditions, the causes of departure from historic conditions and looking at recovery potential within the valley bottom.. 
-
-<div align="center">
-	<a class="button alert" href="http://brat.riverscapes.xyz"><img src="{{ site.baseurl }}/assets/images/BRAT_Logo-wGrayTxt.png"></a>
-	<a class="button alert" href="http://rcat.riverscapes.xyz"><img src="{{ site.baseurl }}/assets/images/RCAT_Logo-wTxt.png"></a>
-</div>
 
 
 ------
