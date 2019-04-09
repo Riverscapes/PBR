@@ -5,8 +5,8 @@ weight: 5
 
 ## Chapter 5: Designing Low-Tech Restoration Projects
 
-<a  href="https://usu.box.com/s/z586m9va1wxwb4i421u53z9hc31eyw64"><img class="float-right" src="{{ site.baseurl }}/assets/images/covers/Chap5.png"></a>
-The [fifth chapter](https://usu.box.com/s/z586m9va1wxwb4i421u53z9hc31eyw64) covers the low-tech process-based restoration design processl. This process is generic to desiging any type of low-tech process-based restoration treatment (not just [PALS & BDAs]({{ site.baseurl }}/manual/chap04)). Speifically, the following topics are covered:
+<a  href="http://dx.doi.org/10.13140/RG.2.2.11621.45286"><img class="float-right" src="{{ site.baseurl }}/assets/images/covers/Chap5.png"></a>
+The [fifth chapter](http://dx.doi.org/10.13140/RG.2.2.11621.45286) covers the low-tech process-based restoration design processl. This process is generic to desiging any type of low-tech process-based restoration treatment (not just [PALS & BDAs]({{ site.baseurl }}/manual/chap04)). Speifically, the following topics are covered:
 - Key Principles for Designing Low-Tech Restoration Projects
 - Getting Started – Design and Required Information
 - A Low-Tech Design Plan
@@ -18,9 +18,11 @@ Chapter 5 also has an appendices on:
 - Appendix A: The Topographic Paradox 
 
 <div align="center">
-	<a class="hollow button" href="https://usu.box.com/s/z586m9va1wxwb4i421u53z9hc31eyw64"> Download Chapter 5 <i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>
+	<a class="hollow button" href="http://dx.doi.org/10.13140/RG.2.2.11621.45286"> Download Chapter 5 <i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>
 </div>
 
+
+<a href="http://dx.doi.org/10.13140/RG.2.2.11621.45286"><img class="float-right" src="{{ site.baseurl}}/assets/images/RG.png"></a> Full [PDF available for free at ResearchGate](http://dx.doi.org/10.13140/RG.2.2.11621.45286), but ResearchGate requires a [free account](https://www.researchgate.net/signup.SignUp.html?hdrsu=1).
 
 ### Implications for Practice
 
@@ -36,10 +38,10 @@ Chapter 5 also has an appendices on:
               			<li>hypothesizes the hydraulic zone of influence (laterally constrained by the valley bottom) of the treatment, which helps set expectations for the extent of impact of the treatment relative to overall project goals and reach objectives for recovery potential;</li>
               			<li>identifies low-flow, typical-flood, and extreme-flood hypotheses (i.e., process-based responses), which articulate the connection between the processes initially mimicked, later promoted, and hopefully eventually taken over naturally by the system.</li>
               		</ul>
-              
+
             </ul>
-		</div>
-	</div>
+    	</div>
+    </div>
   </div>
     <div class="column">
     <div class="card">
@@ -56,15 +58,14 @@ Chapter 5 also has an appendices on:
 
 ### Recommended Citation
 
-- <a href="https://usu.box.com/s/z586m9va1wxwb4i421u53z9hc31eyw64" ><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a> Shahverdian, S.M., Bennett, S.N., Bouwes, N., Camp, R., Portugal, E. and Wheaton, J.M. 2019. [**Chapter 5- Designing Low-Tech Restoration Projects**](https://usu.box.com/s/z586m9va1wxwb4i421u53z9hc31eyw64). In: J.M. Wheaton, S.N. Bennett, N. Bouwes, J.D. Maestas and S.M. Shahverdian (Editors), [Low-Tech Process-Based Restoration of Riverscapes: Design Manual]({{ site.baseurl }}/manual). Utah State University Wheaton Restoration Consortium, Logan, Utah. 28 pp.
- 
+- <a href="http://dx.doi.org/10.13140/RG.2.2.11621.45286" ><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a> Shahverdian, S.M., Bennett, S.N., Bouwes, N., Camp, R., Portugal, E. and Wheaton, J.M. 2019. [**Chapter 5- Designing Low-Tech Restoration Projects**](http://dx.doi.org/10.13140/RG.2.2.11621.45286). In: J.M. Wheaton, S.N. Bennett, N. Bouwes, J.D. Maestas and S.M. Shahverdian (Editors), [Low-Tech Process-Based Restoration of Riverscapes: Design Manual]({{ site.baseurl }}/manual). Utah State University Wheaton Restoration Consortium, Logan, Utah. 28 pp. DOI: [10.13140/RG.2.2.11621.45286](http://dx.doi.org/10.13140/RG.2.2.11621.45286)
+
 
 ## Minimum Viable Design Package
 
 <div align="center">
 	<img src="{{ site.baseurl }}\assets\images\diagrams\DesignPackage_600.png">
 </div>
-
 -----
 ## Related Resources
 
@@ -72,7 +73,6 @@ Chapter 5 also has an appendices on:
 	<a class="button" href="{{ site.baseurl }}/resources/recipes"><img src="{{ site.baseurl }}/assets/images/PBR-LT_round_30.png"> Low-Tech PBR Recipes <i class="fa fa-address-card" aria-hidden="true"></i> </a>
 		<a class="button" href="{{ site.baseurl }}/resources/casestudies#examples-of-design--implementation-reports"><img src="{{ site.baseurl }}/assets/images/PBR-LT_round_30.png">  Low-Tech Design Examples <i class="fa fa-cogs" aria-hidden="true"></i></a>
 </div>
-
 ------
 <div align="center">
 	<a class="hollow button" href="{{ site.baseurl }}/manual/"><i class="fa fa-arrow-circle-up" aria-hidden="true"></i>  Return to Table of Contents <i class="fa fa-list-ol" aria-hidden="true"></i></a>
