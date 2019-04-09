@@ -4,7 +4,7 @@ weight: 1
 ---
 ## Chapter 1: Background & Purpose
 
-<a  href="https://usu.box.com/s/zyhvv9yhgtnudvs6f1uaz9cl1olycyka"><img class="float-right" src="{{ site.baseurl }}/assets/images/covers/Chap1.png"></a>
+<a  href="http://dx.doi.org/10.13140/RG.2.2.14138.03529"><img class="float-right" src="{{ site.baseurl }}/assets/images/covers/Chap1.png"></a>
 The first chapter lays out the purpose and organization of the manual. It also covers the background necessary to understand low-tech process-based restoration. Speifically, the following topics are covered:
 - Scope of Degradation
 - Structurally-Starved Riverscapes
@@ -19,9 +19,10 @@ Chapter 1 also has appendices on:
 - [Appendix E]({{ site.baseurl }}/manual/chap01/appendix-E): Partial Selection of Past Literature Relevant to Low-Tech Restoration
 
 <div align="center">
-	<a class="hollow button" href="https://usu.box.com/s/zyhvv9yhgtnudvs6f1uaz9cl1olycyka"> Download Chapter 1 <i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>
+	<a class="hollow button" href="http://dx.doi.org/10.13140/RG.2.2.14138.03529"> Download Chapter 1 <i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>
 </div>
 
+<a href="http://dx.doi.org/10.13140/RG.2.2.19590.63049"><img class="float-right" src="{{ site.baseurl}}/assets/images/RG.png"></a> Full [PDF available for free at ResearchGate](http://dx.doi.org/10.13140/RG.2.2.19590.63049), but ResearchGate requires a [free account](https://www.researchgate.net/signup.SignUp.html?hdrsu=1).
 
 
 ### Implications for Practice
@@ -61,7 +62,7 @@ Chapter 1 also has appendices on:
 
 ### Recommended Chapter Citation
 
-- <a href="https://usu.box.com/s/zyhvv9yhgtnudvs6f1uaz9cl1olycyka" ><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a> Shahverdian, S., Wheaton, Shahverdian, S., Wheaton, J.M., Bennett, S.N., Bouwes, N. and Maestas, J.D., 2019. [**Chapter 1 – Background & Purpose**](https://usu.box.com/s/zyhvv9yhgtnudvs6f1uaz9cl1olycyka). In: J.M. Wheaton, S.N. Bennett, N. Bouwes, J.D. Maestas and S.M. Shahverdian (Editors), [Low-Tech Process-Based Restoration of Riverscapes: Design Manual]({{ site.baseurl }}/manual). Utah State University Wheaton Restoration Consortium, Logan, Utah. 29 pp.
+- <a href="http://dx.doi.org/10.13140/RG.2.2.14138.03529" ><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a> Shahverdian, S., Wheaton, Shahverdian, S., Wheaton, J.M., Bennett, S.N., Bouwes, N. and Maestas, J.D., 2019. [**Chapter 1 – Background & Purpose**](http://dx.doi.org/10.13140/RG.2.2.14138.03529). In: J.M. Wheaton, S.N. Bennett, N. Bouwes, J.D. Maestas and S.M. Shahverdian (Editors), [Low-Tech Process-Based Restoration of Riverscapes: Design Manual]({{ site.baseurl }}/manual). Utah State University Wheaton Restoration Consortium, Logan, Utah. 29 pp. DOI: [10.13140/RG.2.2.14138.03529](http://dx.doi.org/10.13140/RG.2.2.14138.03529)
 
 -----
 ## Related Resources
