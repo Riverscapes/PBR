@@ -5,8 +5,8 @@ weight: 6
 
 # Chapter 6:  Low-Tech Restoration Project Implementation
 
-<a  href="https://usu.box.com/s/pa77wkmdmpw4m04xs4r0omdivbfxspzc"><img class="float-right" src="{{ site.baseurl }}/assets/images/covers/Chap6.png"></a>
-The [sixth chapter](https://usu.box.com/s/pa77wkmdmpw4m04xs4r0omdivbfxspzc) is targeted at practitioners responsible for implementing low-tech process-based restoration projects. We focus on the three primary components of implementation and cover the following topics:
+<a  href="http://dx.doi.org/10.13140/RG.2.2.25043.22567"><img class="float-right" src="{{ site.baseurl }}/assets/images/covers/Chap6.png"></a>
+The [sixth chapter](http://dx.doi.org/10.13140/RG.2.2.25043.22567) is targeted at practitioners responsible for implementing low-tech process-based restoration projects. We focus on the three primary components of implementation and cover the following topics:
 - Consultation and Permitting
 - Construction
   - Building Materials for Low-Tech Structures
@@ -20,9 +20,11 @@ Chapter 6 also has appendices on:
 - Appendix B:  Wood Replenishment with Griphoists
 
 <div align="center">
-	<a class="hollow button" href="https://usu.box.com/s/pa77wkmdmpw4m04xs4r0omdivbfxspzc"> Download Chapter 6 <i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>
+	<a class="hollow button" href="http://dx.doi.org/10.13140/RG.2.2.25043.22567"> Download Chapter 6 <i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>
 </div>
 
+
+<a href="http://dx.doi.org/10.13140/RG.2.2.25043.22567"><img class="float-right" src="{{ site.baseurl}}/assets/images/RG.png"></a> Full [PDF available for free at ResearchGate](http://dx.doi.org/10.13140/RG.2.2.25043.22567), but ResearchGate requires a [free account](https://www.researchgate.net/signup.SignUp.html?hdrsu=1).
 
 ## Implications for Practice
 
@@ -52,7 +54,7 @@ Chapter 6 also has appendices on:
 
 ## Recommended Citation
 
-- <a href="https://usu.box.com/s/pa77wkmdmpw4m04xs4r0omdivbfxspzc" ><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a> Bennett, S.N., Wheaton, J.M., Bouwes, N., Camp, R., Jordan, C.E., Macfarlane, W.W., Maestas, J.D., Shahverdian, S. and Weber, N. 2019. [**Chapter 6 - Low-Tech Restoration Project Implementation**](https://usu.box.com/s/pa77wkmdmpw4m04xs4r0omdivbfxspzc). In: J.M. Wheaton, S.N. Bennett, N. Bouwes, J.D. Maestas and S.M. Shahverdian (Editors), [Low-Tech Process-Based Restoration of Riverscapes: Design Manual]({{ site.baseurl }}/manual). Utah State University Wheaton Restoration Consortium, Logan, Utah. 37 pp.
+- <a href="http://dx.doi.org/10.13140/RG.2.2.25043.22567" ><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a> Bennett, S.N., Wheaton, J.M., Bouwes, N., Camp, R., Jordan, C.E., Macfarlane, W.W., Maestas, J.D., Shahverdian, S. and Weber, N. 2019. [**Chapter 6 - Low-Tech Restoration Project Implementation**](http://dx.doi.org/10.13140/RG.2.2.25043.22567). In: J.M. Wheaton, S.N. Bennett, N. Bouwes, J.D. Maestas and S.M. Shahverdian (Editors), [Low-Tech Process-Based Restoration of Riverscapes: Design Manual]({{ site.baseurl }}/manual). Utah State University Wheaton Restoration Consortium, Logan, Utah. 38 pp. DOI: [10.13140/RG.2.2.25043.22567](http://dx.doi.org/10.13140/RG.2.2.25043.22567)
 
 ----
 ## Related Resources
@@ -60,8 +62,6 @@ Chapter 6 also has appendices on:
 <div align="center">
 	<a class="hollow button" href="{{ site.baseurl }}/resources/recipes"><img src="{{ site.baseurl }}/assets/images/PBR-LT_round_30.png"> Low-Tech PBR Recipes <i class="fa fa-address-card" aria-hidden="true"></i> </a>
 	<a class="hollow button" href="{{ site.baseurl }}/resources/contractors"><i class="fa fa-cogs" aria-hidden="true"></i>  Low-Tech PBR Contractors <i class="fa fa-list-ol" aria-hidden="true"></i></a>
-
-
 </div>
 
 ------
