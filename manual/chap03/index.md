@@ -5,8 +5,8 @@ weight: 3
 
 # Chapter 3: Planning for Low-Tech Process-Based Restoration
 
-<a  href="https://usu.box.com/s/4c4w40zibtsnw3u59r797gihlubb7rt9"><img class="float-right" src="{{ site.baseurl }}/assets/images/covers/Chap3.png"></a>
-The [thrid chapter](https://usu.box.com/s/4c4w40zibtsnw3u59r797gihlubb7rt9) covers planning for low tech process-based restoration. We illustrate the process with the [NRCS Conservaton Planning Process](https://www.nrcs.usda.gov/wps/portal/nrcs/main/national/technical/cp/), and show what aspects are distinctive to low-tech restoration. Speifically, the following topics are covered:
+<a  href="http://dx.doi.org/10.13140/RG.2.2.15815.75680"><img class="float-right" src="{{ site.baseurl }}/assets/images/covers/Chap3.png"></a>
+The [thrid chapter](http://dx.doi.org/10.13140/RG.2.2.15815.75680) covers planning for low tech process-based restoration. We illustrate the process with the [NRCS Conservaton Planning Process](https://www.nrcs.usda.gov/wps/portal/nrcs/main/national/technical/cp/), and show what aspects are distinctive to low-tech restoration. Speifically, the following topics are covered:
 - Where to Plan?
 - Phase 1: Collection & Analysis
 - Phase 2: Decision Support & Design
@@ -23,8 +23,11 @@ Chapter 3 also has appendices on:
 - Appendix 3G: Structure Level Adaptive Management
 
 <div align="center">
-	<a class="hollow button" href="https://usu.box.com/s/4c4w40zibtsnw3u59r797gihlubb7rt9"> Download Chapter 3 <i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>
+	<a class="hollow button" href="http://dx.doi.org/10.13140/RG.2.2.15815.75680"> Download Chapter 3 <i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>
 </div>
+
+
+<a href="http://dx.doi.org/10.13140/RG.2.2.15815.75680"><img class="float-right" src="{{ site.baseurl}}/assets/images/RG.png"></a> Full [PDF available for free at ResearchGate](http://dx.doi.org/10.13140/RG.2.2.15815.75680), but ResearchGate requires a [free account](https://www.researchgate.net/signup.SignUp.html?hdrsu=1).
 
 
 ### Implications for Practice
@@ -62,7 +65,7 @@ Chapter 3 also has appendices on:
 
 #### Recommended Citation
 
-- <a href="https://usu.box.com/s/4c4w40zibtsnw3u59r797gihlubb7rt9" ><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a> Bennett, S., Wheaton, J., Bouwes, N., Shahverdian, S., Macfarlane, W.W. and Portugal, E. 2019. **[Planning for Low-Tech Process-Based Restoration](https://usu.box.com/s/4c4w40zibtsnw3u59r797gihlubb7rt9)**.  In: [Low-Tech Process-Based Restoration of Riverscapes: Design Manual - Version 1.0]({{ site.baseurl }}/). Wheaton JM, Bennett S, Shahverdian S, and Maestas JD, (Editors). [Utah State University](http://restoration.usu.edu/) [Wheaton Ecogeomorphology & Topographic Analysis Lab](http://etal.joewheaton.org). Logan, UT.  28 pp. DOI: [TBD](http://dx.doi.org/).
+- <a href="http://dx.doi.org/10.13140/RG.2.2.15815.75680" ><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a> Bennett, S., Wheaton, J., Bouwes, N., Shahverdian, S., Macfarlane, W.W. and Portugal, E. 2019. **[Chapter 3 - Planning for Low-Tech Process-Based Restoration](http://dx.doi.org/10.13140/RG.2.2.15815.75680)**.  In: [Low-Tech Process-Based Restoration of Riverscapes: Design Manual - Version 1.0]({{ site.baseurl }}/). Wheaton JM, Bennett S, Shahverdian S, and Maestas JD, (Editors). [Utah State University](http://restoration.usu.edu/) [Wheaton Ecogeomorphology & Topographic Analysis Lab](http://etal.joewheaton.org). Logan, UT.  57 pp. DOI: [10.13140/RG.2.2.15815.75680](http://dx.doi.org/10.13140/RG.2.2.15815.75680).
 
 
 ## Planning Distilled
@@ -93,7 +96,7 @@ These slides walk through a standardized Conservation Planning Process from [NRC
 	<a href="map.sagegrouseinitiative.com">Sage Grouse Intitiative's Web App</a> - e.g. for mapping Mesic Resources through time. 
 	</div>
 	<div class="column column-block">
-
+	
 	<a href="https://streamstats.usgs.gov/ss/"><img src="{{ site.baseurl }}/assets/images/USGS_StreamStats.png"></a>
 	<br>
 	<a href="https://streamstats.usgs.gov/ss/">USGS StreamStats</a> - e.g. for estimating baseflow and highflow frequency statiscs. This can be used to consider the question - <em>Does the riverscape have the flow-regime to "let the river do the work", and how long it might take for the work to be done?</em>
@@ -114,7 +117,6 @@ These slides walk through a standardized Conservation Planning Process from [NRC
 	<a class="button" href="{{ site.baseurl }}/resources/models"><img src="{{ site.baseurl }}/assets/images/logos/RC-50w.png"> Riverscapes Models & Tools for low-tech PBR</a>
 	<a class="button" href="http://riverscapes.xyz"><img src="{{ site.baseurl }}/assets/images/riverscapesconsortium-logo-black-bhs-200w_orig.png"> </a>
 </div> 
-
 ----
 ### References
 
