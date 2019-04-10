@@ -6,7 +6,7 @@ weight: 3
 # Chapter 3: Planning for Low-Tech Process-Based Restoration
 
 <a  href="http://dx.doi.org/10.13140/RG.2.2.15815.75680"><img class="float-right" src="{{ site.baseurl }}/assets/images/covers/Chap3.png"></a>
-The [thrid chapter](http://dx.doi.org/10.13140/RG.2.2.15815.75680) covers planning for low tech process-based restoration. We illustrate the process with the [NRCS Conservaton Planning Process](https://www.nrcs.usda.gov/wps/portal/nrcs/main/national/technical/cp/), and show what aspects are distinctive to low-tech restoration. Speifically, the following topics are covered:
+The [third chapter](http://dx.doi.org/10.13140/RG.2.2.15815.75680) covers planning for low tech process-based restoration. We illustrate the process with the [NRCS Conservaton Planning Process](https://www.nrcs.usda.gov/wps/portal/nrcs/main/national/technical/cp/), and show what aspects are distinctive to low-tech restoration. Speifically, the following topics are covered:
 - Where to Plan?
 - Phase 1: Collection & Analysis
 - Phase 2: Decision Support & Design
