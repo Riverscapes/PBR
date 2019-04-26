@@ -17,7 +17,7 @@ weight: 4
 
 -----
 
-## Workshops & Courses
+## Low-Tech Workshops & Courses
 
 
 
@@ -63,3 +63,42 @@ weight: 4
 <i class="fa fa-users" aria-hidden="true"></i> Open to public enrollment.
 <i class="fa fa-calendar" aria-hidden="true"></i> Semester Long USU course.
 
+
+
+1. **Pheasants Forever & NRCS Sage Grouse Initiative**, September 2018, [Partnering with Beaver in Restoration Design](http://beaver.joewheaton.org/nrcs---utah.html). Logan, UT.
+
+2. **Pheasants Forever & NRCS Sage Grouse Initiative**, August 2018, [Partnering with Beaver in Restoration Design](http://beaver.joewheaton.org/nrcs---nevada.html). Elko, NV.
+
+3. **Pheasants Forever & NRCS Sage Grouse Initiative**, June 2018, [Partnering with Beaver in Restoration Design](http://beaver.joewheaton.org/nrcs---wyoming.html). Lander, WY.
+
+4. **Pheasants Forever & NRCS Sage Grouse Initiative**, June 2018, [Partnering with Beaver in Restoration Design](http://beaver.joewheaton.org/nrcs---utah.html). Panguitch, UT.
+
+5. **Pheasants Forever & NRCS Sage Grouse Initiative**, June 2018, [Partnering with Beaver in Restoration Design](http://beaver.joewheaton.org/nrcs---idaho.html). Hailey, ID.
+
+6. **Grand Ronde Model Watershed**, October 2017, ‘[Partnering with Beaver in Restoration Design](http://beaver.joewheaton.org/)’, Enterprise, Oregon.
+
+7. **Snake River Salmon Recovery Board**, September 2017, ‘[Cheap and Cheerful Restoration Design](https://cheapcheerful.weebly.com/2017---dayton-washington.html)’, Dayton, Washington.
+
+8. **US Fish & Wildlife Service**, October 2016, ‘Beaver Restoration Class’, Kingfield, Maine.
+
+9. **Sage Grouse Initiative, Pheasants Forever & NRCS**, September 2016, ‘[Partnering with Beaver in Restoration Design](http://beaver.joewheaton.org/2016---sgi-workshop.html)’, Logan, Utah.
+
+10. **Klamath Watershed Council**, Oct 2014. ‘ Partnering with Beaver in Restoration’, Chilloquin, OR.
+
+11. **Utah Natural Resource Conservation Service,** Aug 2013. – ‘[Working with Beaver in Restoration](http://beaver.joewheaton.org/syllabus/workshop-schedules/2013-nrcs-workshop)’ Short course, Logan, UT.
+
+12. **Wilburforce & Grand Canyon Trust,** April 2013. – ‘[Beaver Restoration Assessment Tool](http://brat.joewheaton.org/)’, Logan, UT.
+
+    
+
+1. **Utah State University Restoration Consortium**, April 2018, '[Implementing Cheap & Cheerful Restoration Structures](http://beaver.joewheaton.org/2018--construction-workhsop.html)'. Logan, UT.
+
+2. River Restoration Northwest Annual Symposium. Feb 2013. – ‘[Working with Beaver in Restoration](http://beaver.joewheaton.org/syllabus/workshop-schedules/2013---rrnw-workshop---detailed-schedule)’ Short course, Skamania, WA.
+
+3. *** Utah Watersheds Coordinating Council**, Oct 2012. – ‘[Partnering with Beaver in Restoration](http://beaver.joewheaton.org/syllabus/workshop-schedules/2012-uwwc---detailed-schedule)’, Logan, UT.
+
+4. **Utah State University ICRRR.** September 2012. [Partnering with Beaver in Restoration](http://beaver.joewheaton.org/2012---icrrr-workshop.html). Logan, UT.
+
+5. **Utah State University ICRRR.** September 2011. [Partnering with Beaver in Restoration](http://beaver.joewheaton.org/2011---icrrr-workshop.html). Logan, UT.
+
+   
