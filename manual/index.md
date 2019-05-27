@@ -13,6 +13,8 @@ The manual is available for free as a PDF (see below), or print versions can be 
 - **Paperback Book** - The manual is available as a print paperback book from:
   -  [BookBaby](https://store.bookbaby.com/bookshop/book/index.aspx?bookURL=Low-Tech-Process-Based-Restoration-of-Riverscapes) - *Available Now for $60 US* <a href="https://store.bookbaby.com/bookshop/book/index.aspx?bookURL=Low-Tech-Process-Based-Restoration-of-Riverscapes"><img class="float-right" src="{{ site.baseurl}}/assets/images/logos/bookbaby.png"></a>
   -  [Amazon](https://www.amazon.com/Low-Tech-Process-Based-Restoration-Riverscapes-Design/dp/1543972993/ref=sr_1_1?keywords=low+tech+process-based+restoration&qid=1558989073&s=gateway&sr=8-1) - *Available June 30, 2019 for $60 US - Accepting Preorders Now*
+  
+  
 
 ### Chapter Resources
 
