@@ -7,7 +7,12 @@ weight: 1
 
 - <a href="http://dx.doi.org/10.13140/RG.2.2.19590.63049/1"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a> Wheaton J.M., Bennett S.N., Bouwes, N., Maestas J.D. and Shahverdian S.M. (Editors). 2019. [Low-Tech Process-Based Restoration of Riverscapes: Design Manual. Version 1.0](http://dx.doi.org/10.13140/RG.2.2.19590.63049/1). Utah State University Restoration Consortium. Logan, UT. 286 pp. DOI: [10.13140/RG.2.2.19590.63049/1](http://dx.doi.org/10.13140/RG.2.2.19590.63049/1).
 
-<a href="http://dx.doi.org/10.13140/RG.2.2.19590.63049/1"><img class="float-right" src="{{ site.baseurl}}/assets/images/RG.png"></a> Full [PDF available for free at ResearchGate](http://dx.doi.org/10.13140/RG.2.2.19590.63049/1), but ResearchGate requires a [free account](https://www.researchgate.net/signup.SignUp.html?hdrsu=1).
+### Ways to Get Manual
+The manual is available for free as a PDF (see below), or print versions can be ordered online:  <a href="http://dx.doi.org/10.13140/RG.2.2.19590.63049/1"><img class="float-right" src="{{ site.baseurl}}/assets/images/RG.png"></a> 
+- **Free PDF**:  Full [PDF available for free at ResearchGate](http://dx.doi.org/10.13140/RG.2.2.19590.63049/1), but ResearchGate requires a [free account](https://www.researchgate.net/signup.SignUp.html?hdrsu=1).
+- **Paperback Book** - The manual is available as a print paperback book from:
+  -  [BookBaby](https://store.bookbaby.com/bookshop/book/index.aspx?bookURL=Low-Tech-Process-Based-Restoration-of-Riverscapes) - *Available Now for $60 US* <a href="https://store.bookbaby.com/bookshop/book/index.aspx?bookURL=Low-Tech-Process-Based-Restoration-of-Riverscapes"><img class="float-right" src="{{ site.baseurl}}/assets/images/logos/bookbaby.png"></a>
+  -  [Amazon](https://www.amazon.com/Low-Tech-Process-Based-Restoration-Riverscapes-Design/dp/1543972993/ref=sr_1_1?keywords=low+tech+process-based+restoration&qid=1558989073&s=gateway&sr=8-1) - *Available June 30, 2019 for $60 US - Accepting Preorders Now*
 
 ### Chapter Resources
 
