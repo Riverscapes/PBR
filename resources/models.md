@@ -18,10 +18,6 @@ weight: 4
 </div>
 
 
-
-CRAP
-
-
 ### Riverscapes Tools
 
 
@@ -43,6 +39,7 @@ CRAP
 
 ### Rangeland Analysis Platform
 [Rangeland Analysis Platform](http://rangelands.app)
+
 
 
 
