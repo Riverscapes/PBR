@@ -9,6 +9,7 @@ The  Low-Tech Process Based Restoration of Riverscapes Pocket Guide is an illust
 
 - Wheaton JM, Wheaton A, Maestas J, Bennett S, Bouwes N, Shahveridan S, Camp R, Jordan C, Macfarlane W, Portugal E, Weber N. 2019. Low-Tech Process-Based Restoration of Riverscapes: Pocket Field Guide. [Utah State University Restoration Consortium](http://restoration.usu.edu). DOI: [10.13140/RG.2.2.28222.13123](http://dx.doi.org/10.13140/RG.2.2.28222.13123).
 
+<<<<<<< Updated upstream
 <div align="center">
 <a href="https://issuu.com/awheaton/docs/pocketguide_pdf"> <img src="{{ site.baseurl }}/assets/images/logos/issuu_button.png"></a>
 </div> 
@@ -27,3 +28,6 @@ The  Low-Tech Process Based Restoration of Riverscapes Pocket Guide is an illust
 </div>
 
 Pocket Guide graphic design by [Adrea Wheaton](http://www.anabranchsolutions.com/staff.html). 
+=======
+<iframe src="https://cdn.flipsnack.com/widget/v2/widget.html?hash=fv7u3gv23" width="100%" height="480" seamless="seamless" scrolling="no" frameBorder="0" allowFullScreen></iframe>
+>>>>>>> Stashed changes
