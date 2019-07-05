@@ -12,6 +12,18 @@ weight: 1
 - ‘Letting the system do the work’ which defers critical decision making to riverscapes and nature’s ecosystem engineers
 
 
+<a href="{{ site.baseurl }}/resources/pocket"><img class="float-right" src="{{ site.baseurl }}/assets/images/covers/pocket_guide_cover_150w.png"></a> 
+Check out the condensed, Cliff-Notes version of the manual in our new [Pocket Guide]({{ site.baseurl }}/resources/pocket).
+
+
+#### Free!
+
+
+The above are available digitally for free thanks to the generous investments and support from our [sponsors]({{ site.baseurl }}/manual/support).
+
+-------
+
+
 <div align="center">
 <a class="hollow button" href="{{ site.baseurl }}/resources"><img src="{{ site.baseurl }}/assets/images/PBR-LT_round_30.png"> LT-PBR Resources</a>
 <a class="hollow button" href="https://twitter.com/intent/tweet?button_hashtag=lowtechPBR&ref_src=twsrc%5Etfw" class="twitter-hashtag-button" data-show-count="false">Tweet #lowtechPBR</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
