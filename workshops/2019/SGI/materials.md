@@ -11,9 +11,11 @@ Below you can find PDFs of the lecture slides and
 
 ###  1. Logistics and Introductions
 
-[<img class="float-left" src="{{ site.baseurl }}/assets/images/workshops/2019/PDF_01.png"> ](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Workshops/LTPBR/2019/SGI/01_Logistics.pdf)
+[<img class="float-right" src="{{ site.baseurl }}/assets/images/workshops/2019/PDF_01.png"> ](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Workshops/LTPBR/2019/SGI/01_Logistics.pdf)
 
-<i class="fa fa-file-pdf-o" aria-hidden="true"></i> [Logistics, Introductions](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Workshops/LTPBR/2019/SGI/01_Logistics.pdf)
+The workshop kicked off with some introductions and logistics. Slides: 
+- <i class="fa fa-file-pdf-o" aria-hidden="true"></i> [Logistics, Introductions](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Workshops/LTPBR/2019/SGI/01_Logistics.pdf)
+
 
 ### 2. Background and purpose 
 [<img class="float-right" src="{{ site.baseurl }}/assets/images/workshops/2019/PDF_02.png"> ](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Workshops/LTPBR/2019/SGI/01_Logistics.pdf)
@@ -167,7 +169,7 @@ Each day we spent the first morning in the classroom in Dayton discussing topics
 
 -----
 <div align="center">
-    <a class="hollow button" href="{{ site.baseurl }}/"><i class="fa fa-chevron-circle-left"></i>  Back to GCD Home </a>  
+    <a class="hollow button" href="{{ site.baseurl }}/workshops/2019/SGI"><i class="fa fa-chevron-circle-left"></i>  Back to 2019 Workshop Home </a>  
 
         <a class="hollow button" href="{{ site.baseurl }}/Workshops/"><i class="fa fa-graduation-cap"></i>  Back to Workshops </a>  
 </div>
