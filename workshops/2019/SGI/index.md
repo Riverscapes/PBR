@@ -88,9 +88,87 @@ There is a need to convene key interdisciplinary staff to evaluate low-cost, low
 techniques that can be implemented across large scales to meet mesic habitat restoration goals. These workshops will discuss how to restore hydrologic processes that promote riparian resilience and mesic vegetation, identify opportunities for restoration, and examine how BDAs can be applied as a bioengineering technique to achieve SGI mesic habitat goals. Participants will gain knowledge and skills
 needed to design and implement appropriate low-cost practices and foster technology transfer within their respective work areas.
 
+### Instruction Team
+
+<div class="row small-up-2 medium-up-2 large-up-4" align="center">
+  <div class="column column-block">
+    <a href="https://www.researchgate.net/profile/Mark_Beardsley"><img src="{{ site.baseurl }}/assets/images/people/beardsley-round.png"></a>
+    <h4><a href="https://www.researchgate.net/profile/Stephen_Bennett8">Mark Beardsley<sup>4</sup></a></h4>
+    Ecologist
+  </div>
+  <div class="column column-block">
+    <a href="https://www.researchgate.net/profile/Stephen_Bennett8"><img src="{{ site.baseurl }}/assets/images/people/bennett-round_orig.png"></a>
+    <h4><a href="https://www.researchgate.net/profile/Stephen_Bennett8">Stephen N. Bennett<sup>1,2,3</sup></a></h4>
+    Ecologist, Adjunct Professor
+  </div>
+  <div class="column column-block">
+    <a href="https://www.researchgate.net/profile/Nick_Bouwes"><img src="{{ site.baseurl }}/assets/images/people/bouwes-round_1_orig.png"></a>
+    <h4><a href="https://www.researchgate.net/profile/Nick_Bouwes">Nicolaas Bouwes<sup>3,2,1</sup></a></h4>
+   Aquatic  Ecologist, Adjunct Professor
+  </div>
+
+<div class="column column-block">
+    <a href="https://www.researchgate.net/profile/Jeremy_Maestas"><img src="{{ site.baseurl }}/assets/images/people/Maestas_round.png"></a>
+    <h4><a href="https://www.researchgate.net/profile/Jeremy_Maestas">Jeremy Maestas<sup>5</sup></a></h4>
+    Ecologist
+  </div>
+
+
+<div class="column column-block">
+	<a href="https://www.researchgate.net/profile/Scott_Shahverdian"><img src="{{ site.baseurl }}/assets/images/people/shahverdian-round_1.png"></a>
+    <h4><a href="https://www.researchgate.net/profile/Scott_Shahverdian">Scott Shahveridan<sup>2,1</sup></a></h4>
+    Fluvial Geomorphologist
+  </div>
+   <div class="column column-block">
+    <a href="https://www.researchgate.net/profile/Nick_Weber2"><img src="{{ site.baseurl }}/assets/images/people/webber-round_1_orig.png"></a>
+    <h4><a href="https://www.researchgate.net/profile/Nick_Weber2">Nick Weber<sup>2,3,1</sup></a></h4>
+    Fish Ecologist 
+  </div>
+  <div class="column column-block">
+    <a href="https://www.researchgate.net/profile/Joseph_Wheaton"><img src="{{ site.baseurl }}/assets/images/people/Wheaton_round.png"></a>
+    <h4><a href="https://www.researchgate.net/profile/Joseph_Wheaton">Joseph Wheaton<sup>1,2</sup></a></h4>
+    Associate Professor, Ecogeomorphologist
+  </div>
+  
+  <div class="column column-block">
+    <img src="{{ site.baseurl }}/assets/images/people/Wilde_round.png">
+    <h4>Jay Wilde</h4>
+    Rancher and Land Owner
+  </div>  
+</div>
+
+#### Instructor Affiliations
+
+<div class="row small-up-2 medium-up-2 large-up-5" align="center">
+  <div class="column column-block">
+    <a href="https://qcnr.usu.edu/wats/index"><img src="{{ site.baseurl }}/assets/images/sponsors/USU.png"></a>1. 
+  </div>
+  <div class="column column-block">
+	<a href="http://www.anabranchsolutions.com"><img src="{{ site.baseurl }}/assets/images/sponsors/anabranchsolutionslogo-square-450_10.png"></a><br>2. 
+
+  </div>
+   <div class="column column-block">
+    <a href="https://www.eco-logical-research.com/"><img src="{{ site.baseurl }}/assets/images/sponsors/ELR.png"></a><br>3.
+
+  </div>
+  <div class="column column-block">
+    <a href="http://www.ecometricscolorado.com"><img src="{{ site.baseurl }}/assets/images/logos/EcoMetrics.png"></a><br>4.
+  </div>
+
+
+
+   <div class="column column-block">
+    <a href="https://www.nrcs.usda.gov/wps/portal/nrcs/detailfull/national/about/leadership/centers/?cid=NRCS143_021469"><img src="{{ site.baseurl }}/assets/images/sponsors/usda-nrcs-logo_1_orig.png"></a><br>5.
+
+  </div>
+
+</div>
+
+
+
 ### Audience
 
-The audience is primarily NRCS staff, and key partners. NRCS SGI states will select key representatives involved in mesic restoration to participate. Anticipated NRCS participants include state/area/local specialists (biologists/engineers) and select field staff. States may also opt to invite key partners who are invested locally in helping get mesic conservation on the ground. The overall goal is to build a cadre of staff in each State to evaluate the technique and serve as local sources of expertise across the range. To keep the hands-on exercises effective, we  limited invitation only enrolment to roughly 45 participants per workshop.
+The audience for this workshop series is primarily NRCS staff, and key partners. NRCS SGI states will select key representatives involved in mesic restoration to participate. Anticipated NRCS participants include state/area/local specialists (biologists/engineers) and select field staff. States may also opt to invite key partners who are invested locally in helping get mesic conservation on the ground. The overall goal is to build a cadre of staff in each State to evaluate the technique and serve as local sources of expertise across the range. To keep the hands-on exercises effective, we  limited invitation only enrolment to roughly 45 participants per workshop.
 
 ### Make it Count
 [<img class="float-right" src="{{ site.baseurl }}/assets/images/logos/restoration-paired-03-horizontal-blueonwhite.png"> ](http://restoration.usu.edu)
