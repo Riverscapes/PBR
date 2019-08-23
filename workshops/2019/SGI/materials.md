@@ -163,10 +163,10 @@ Logistics, Safety & Post Pounding ([Chapter 6 - Design Manual]({{ site.baseurl }
 
 
 
-
 -----
 
 # References
+- <i class="fa fa-file-pdf-o" aria-hidden="true"></i> Silverman NL, Allred BW, Donnelly JP, Chapman TB, Maestas JD, Wheaton J, White J and Naugle DE. 2018. [Low-tech riparian and wet meadow restoration increases vegetation productivity and resilience across semi-arid rangelands](https://www.researchgate.net/publication/326869390_Low-tech_riparian_and_wet_meadow_restoration_increases_vegetation_productivity_and_resilience_across_semi-arid_rangelands). Restoration Ecology. DOI: [10.1111/rec.12869](https://doi.org/10.1111/rec.12869).
 - <i class="fa fa-file-pdf-o" aria-hidden="true"></i> Weber N, Bouwes N, Pollock M, Volk C,  Wheaton JM, Wathen G, and Jordan C. 2017. [Alteration of stream temperature by natural and artificial beaver dams](https://www.researchgate.net/publication/316995139_Alteration_of_stream_temperature_by_natural_and_artificial_beaver_dams). PLOS ONE. 12(5): e0176313. DOI: [10.1371/journal.pone.0176313](http://dx.doi.org/10.1371/journal.pone.0176313)
 - <i class="fa fa-file-pdf-o" aria-hidden="true"></i> Wall E, Bouwes N, Wheaton JM, Bennett SN, Saunders WC, McHugh PA, and Jordan CE. 2016. [Design and monitoring of woody structures and their benefits to juvenile steelhead trout (Oncorhynchus mykiss) using a net rate of energy intake model](https://www.researchgate.net/publication/308765970_Design_and_monitoring_of_woody_structures_and_their_benefits_to_juvenile_steelhead_trout_Oncorhynchus_mykiss_using_a_net_rate_of_energy_intake_model). Canadian Journal of Fisheries and Aquatic Sciences. DOI: [10.1139/cjfas-2016-0131](http://dx.doi.org/10.1139/cjfas-2016-0131).
 - <i class="fa fa-file-pdf-o" aria-hidden="true"></i> Bouwes N, Weber N, Jordan CE, Saunders WC, Tattam IA, Volk C, Wheaton JM and Pollock MM. 2016. [Ecosystem experiment reveals benefits of natural and simulated beaver dams to a threatened population of steelhead (Oncorhynchus mykiss)](http://www.nature.com/articles/srep28581). Scientific Reports. 6: 28581. DOI: [10.1038/srep28581](http://dx.doi.org/10.1038/srep28581).
