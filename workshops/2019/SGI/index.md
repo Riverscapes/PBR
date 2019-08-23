@@ -129,7 +129,7 @@ needed to design and implement appropriate low-cost practices and foster technol
     <h4><a href="https://www.researchgate.net/profile/Joseph_Wheaton">Joseph Wheaton<sup>1,2</sup></a></h4>
     Associate Professor, Ecogeomorphologist
   </div>
-  
+
   <div class="column column-block">
     <img src="{{ site.baseurl }}/assets/images/people/Wilde_round.png">
     <h4>Jay Wilde</h4>
@@ -180,6 +180,6 @@ Participation in the workshops is by inivitation only and is free. However, part
 
 
 <div align="center">
-        <a class="hollow button" href="{{ site.baseurl }}/Workshops/"><i class="fa fa-graduation-cap"></i>  Back to Workshops </a>  
+        <a class="hollow button" href="{{ site.baseurl }}/workshops/"><i class="fa fa-graduation-cap"></i>  Back to Workshops </a>  
 </div>
 
