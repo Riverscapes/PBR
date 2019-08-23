@@ -78,9 +78,6 @@ Through [SGI 2.0, NRCS](https://www.sagegrouseinitiative.com/new-sage-grouse-str
 
 Over the last decade, a renewed recognition of the role of the once widespread beaver has revealed insights about how this ecosystem engineer greatly impacts riparian function and accelerates recovery of degraded systems. Drawing upon lessons learned about how nature heals systems, [Beaver Dam Analogues](http://www.anabranchsolutions.com/beaver-dam-analogs.html) (BDAs) have emerged as a low-cost restoration tool designed to mimic beaver activity to restore hydrologic function and ecological processes in incised channels. BDAs are becoming an increasingly popular bioengineering technique employed by partners across the West and early results show promise for rapidly achieving a variety of riparian goals.
 
-[Water is Life: SGI's Mesic Habitat Conservation Strategy](https://www.sagegrouseinitiative.com/water-is-life/)
-
-[BDAs in Wyoming Story](https://www.sagegrouseinitiative.com/teaching-local-partners-mimic-beavers-restore-streams/) 
 
 ### Purpose & Need
 
