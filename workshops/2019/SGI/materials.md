@@ -3,161 +3,170 @@ title:  Workshop Materials
 weight: 2
 ---
 
-# Workshop Materials
 
-Below you can find PDFs of the lecture slides and 
+Below you can find PDFs of the slides we covered in the workshop. Each is licenced with a [Creative Commons licence](https://creativecommons.org/), so you are free to re-use subject to the terms of the license. 
 
-## Day 1 - Intro to Low-Tech Process Based Restoration
+# Day 1 - Intro to Low-Tech Process Based Restoration
 
-###  1. Logistics and Introductions
+##  1. Logistics and Introductions
 
 [<img class="float-right" src="{{ site.baseurl }}/assets/images/workshops/2019/PDF_01.png"> ](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Workshops/LTPBR/2019/SGI/01_Logistics.pdf)
 
-The workshop kicked off with some introductions and logistics. Slides: 
-- <i class="fa fa-file-pdf-o" aria-hidden="true"></i> [Logistics, Introductions](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Workshops/LTPBR/2019/SGI/01_Logistics.pdf)
+The workshop kicked off with some introductions and logistics.  
+- <i class="fa fa-file-pdf-o" aria-hidden="true"></i> [Logistics, Introductions - Slides](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Workshops/LTPBR/2019/SGI/01_Logistics.pdf)
 
 
-### 2. Background and purpose 
-[<img class="float-right" src="{{ site.baseurl }}/assets/images/workshops/2019/PDF_02.png"> ](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Workshops/LTPBR/2019/SGI/01_Logistics.pdf)
+## 2. Background and purpose 
 
-<i class="fa fa-file-pdf-o" aria-hidden="true"></i> [Logistics, Introductions](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Workshops/LTPBR/2019/SGI/01_Logistics.pdf)
+[<img class="float-right" src="{{ site.baseurl }}/assets/images/workshops/2019/PDF_02.png"> ](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2019/SGI/02_LowTech_BackgroundPurpose.pdf)
+Next, Jeremy Maestas set the stage for why we're here, Joe Wheaton underscored the scope of degradation, and Mark Beardsley laid out a vision for what is possible. 
+- <i class="fa fa-file-pdf-o" aria-hidden="true"></i> [Background & Purpose - Slides](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2019/SGI/02_LowTech_BackgroundPurpose.pdf)
 
-### 3. Build your first Beaver Dam Analogue exercise & Break 
+These talks are elaborated in [Chapter 1]({{ site.baseurl}}/manual/chap01) of design manual. 
 
-[<img class="float-left" src="{{ site.baseurl }}/assets/images/workshops/2019/PDF_03.png"> ](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Workshops/LTPBR/2019/SGI/01_Logistics.pdf)
+## 3. Build your first Beaver Dam Analogue exercise
 
-<i class="fa fa-file-pdf-o" aria-hidden="true"></i> [Logistics, Introductions](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Workshops/LTPBR/2019/SGI/01_Logistics.pdf)
-
-### 4. Introduction to low-tech approaches 
-
-[<img class="float-right" src="{{ site.baseurl }}/assets/images/workshops/2019/PDF_04.png"> ](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Workshops/LTPBR/2019/SGI/01_Logistics.pdf)
-
-<i class="fa fa-file-pdf-o" aria-hidden="true"></i> [Logistics, Introductions](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Workshops/LTPBR/2019/SGI/01_Logistics.pdf)
-
-Chapter 1 & 4 - Design Manual
+[<img class="float-right" src="{{ site.baseurl }}/assets/images/workshops/2019/PDF_03.png">](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2019/SGI/03_ParkingLotBDA.pdf)
+To break the ice, and get people thinking about construction, logistics and safety we went out in the parking lot to build a BDA. Scott led us through a simple wicker weave recipe. 
 
 
+- <i class="fa fa-file-pdf-o" aria-hidden="true"></i> [Build your first Beaver Dam Analogue exercise - Slides](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2019/SGI/03_ParkingLotBDA.pdf)
 
-###  5. Guiding Principles 
-[<img class="float-left" src="{{ site.baseurl }}/assets/images/workshops/2019/PDF_05.png"> ](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Workshops/LTPBR/2019/SGI/01_Logistics.pdf)
+This excercise is elaborated in the [Pocket Guide]({{ site.baseurl}}/resources/pocket). 
 
-<i class="fa fa-file-pdf-o" aria-hidden="true"></i> [Logistics, Introductions](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Workshops/LTPBR/2019/SGI/01_Logistics.pdf)
-(Chapter 2 Design Manual) 
+## 4. Introduction to low-tech approaches 
+
+
+[<img class="float-right" src="{{ site.baseurl }}/assets/images/workshops/2019/PDF_04.png"> ](https://usu.box.com/s/hwr5kj2z8bw84f978kc75j3hfd6rekmw)
+Having conqured the parking lot, Steve walked us through the diversity of low-tech approaches and structure types. 
+
+- <i class="fa fa-file-pdf-o" aria-hidden="true"></i> [ Introduction to low-tech approaches - Slides ](https://usu.box.com/s/hwr5kj2z8bw84f978kc75j3hfd6rekmw)
+
+This talk is elaborated in [Chapter 1]({{ site.baseurl}}/manual/chap01) & [Chapter 4]({{ site.baseurl}}/manual/chap04) of design manual. 
+
+
+
+##  5. Guiding Principles 
+
+[<img class="float-right" src="{{ site.baseurl }}/assets/images/workshops/2019/PDF_05.png"> ](https://usu.box.com/s/29wcjge7ezmbuyj38xt4ix6jcyo1meen)
+
+Joe walked us through perhaps the most important aspect to understand about low-tech process-based restoration: the underlying Principles:
+- <i class="fa fa-file-pdf-o" aria-hidden="true"></i> [Guiding Principles - Slides](https://usu.box.com/s/29wcjge7ezmbuyj38xt4ix6jcyo1meen)
+
+This talk is elaborated in [Chapter 2]({{ site.baseurl}}/manual/chap02)  of design manual. 
 
 -----
-##  Day 2 - Planning and Designing Low-Tech Riparian Restoration
+#  Day 2 - Planning and Designing Low-Tech Riparian Restoration
 
-### 6. Beaver Ecology 
-[<img class="float-right" src="{{ site.baseurl }}/assets/images/workshops/2019/PDF_06.png"> ](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Workshops/LTPBR/2019/SGI/01_Logistics.pdf)
+## 6. Beaver Ecology 
+[<img class="float-right" src="{{ site.baseurl }}/assets/images/workshops/2019/PDF_06.png"> ](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2019/SGI/06_Beaver.pdf)
 
-<i class="fa fa-file-pdf-o" aria-hidden="true"></i> [Logistics, Introductions](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Workshops/LTPBR/2019/SGI/01_Logistics.pdf)
+In order to take advantage of beaver dam activity (one of the two key process we focus on in low-tech process-based restoration of structurally starved systems), we need to understand a bit about beaver ecology and why they build dams in the first place. 
+- <i class="fa fa-file-pdf-o" aria-hidden="true"></i> [Beaver Ecology Slides](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2019/SGI/06_Beaver.pdf)
 
-### 7. Conservation Planning Process
+[<img class="float-left" src="{{ site.baseurl }}/assets/images/covers/eager-goldfarb_1.jpg">](https://www.amazon.com/Eager-Surprising-Secret-Beavers-Matter/dp/160358739X/ref=sr_1_6?ie=UTF8&qid=1512586233&sr=8-6&keywords=eager+beaver)
+This talk is elaborated in [Ben Goldfarb's](http://bengoldfarb.com/) new award winning book:  [Eager - The Surprising Secret Life of Beaver and Why they Matter](https://www.amazon.com/Eager-Surprising-Secret-Beavers-Matter/dp/160358739X/ref=sr_1_6?ie=UTF8&qid=1512586233&sr=8-6&keywords=eager+beaver). 
 
-[<img class="float-right" src="{{ site.baseurl }}/assets/images/workshops/2019/PDF_07.png"> ](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Workshops/LTPBR/2019/SGI/01_Logistics.pdf)
+## 7. Conservation Planning Process
 
-<i class="fa fa-file-pdf-o" aria-hidden="true"></i> [Logistics, Introductions](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Workshops/LTPBR/2019/SGI/01_Logistics.pdf)
-(Chapter 3 Design Manual) 
+[<img class="float-right" src="{{ site.baseurl }}/assets/images/workshops/2019/PDF_07.png"> ](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2019/SGI/07_Planning_I.pdf)
 
-### Field trip: Valley bottom mapping and exploring active beaver complex 
-(Pocket Guide: Page 9-10) - 2 hrs
-Site 1: Valley bottom identification exercise (quick and dirty) - Joe
-Valley bottom extent, channel position, constraints, opportunities -> Scott provide locations (pin points) -> Joe make double sided handout
-Site 2: Structurally-forced pathway (Pocket Guide: Page 5 & 6): Active beaver dam example (spend most of the time)  - All 4 Instructors
- Walk around and observe changes due to structural forcing -> Set up a BINGO (Steve volunteered: see Page 18 for some examples of https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Workshops/CheapCheerful/2018/NRCS/Idaho/Handouts/NRCS+2018+Idaho+Field+Guide.pdf; keep simple; hydraulics -> velocity uniform/parallel, flow separations) sheet on beaver activity -  Put stick in water and look and changes to hydraulics
+Joe reframed the process of undertaking low-tech restoration within the NRCS's Conservatoin Planning Process. Among the key adaptations of the Conservation Planning Process are learning how to read riverscapes.
+- <i class="fa fa-file-pdf-o" aria-hidden="true"></i> [Introduction to Conservation Planning Process & Reading Riverscapes](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2019/SGI/07_Planning_I.pdf)
+- <i class="fa fa-file-pdf-o" aria-hidden="true"></i> [Riverscape Valley Setting Excercise - Handout](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2019/SGI/ValleySetting_Exercise.pdf)
 
-
-### 8. Planning 
-[<img class="float-right" src="{{ site.baseurl }}/assets/images/workshops/2019/PDF_08.png"> ](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Workshops/LTPBR/2019/SGI/01_Logistics.pdf)
-
-<i class="fa fa-file-pdf-o" aria-hidden="true"></i> [Logistics, Introductions](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Workshops/LTPBR/2019/SGI/01_Logistics.pdf)
-Valley Bottom Mapping & Risks Assessment Exercise
-Condition Assessment
-Current vs. Potential (from Geomorphic & Riparian)
-### Mimicking and promoting wood accumulation and beaver dam activity 
-
-#### 9. Case Study: Asotin Creek
-[<img class="float-right" src="{{ site.baseurl }}/assets/images/workshops/2019/PDF_09_Asotin.png"> ](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Workshops/LTPBR/2019/SGI/01_Logistics.pdf)
-
-<i class="fa fa-file-pdf-o" aria-hidden="true"></i> [Logistics, Introductions](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Workshops/LTPBR/2019/SGI/01_Logistics.pdf)Post Assisted Log Structures (PALS; Chapter 4 - Design Manual) - Steve
- (Camp 2016)
-#### 10. Case Study: Bridge Creek
-[<img class="float-right" src="{{ site.baseurl }}/assets/images/workshops/2019/PDF_10_Bridge.png"> ](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Workshops/LTPBR/2019/SGI/01_Logistics.pdf)
-[<img class="float-right" src="{{ site.baseurl }}/assets/images/workshops/2019/PDF_10_Parish.png"> ](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Workshops/LTPBR/2019/SGI/01_Logistics.pdf)
-
-<i class="fa fa-file-pdf-o" aria-hidden="true"></i> [Logistics, Introductions](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Workshops/LTPBR/2019/SGI/01_Logistics.pdf)
-<i class="fa fa-file-pdf-o" aria-hidden="true"></i> [Logistics, Introductions](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Workshops/LTPBR/2019/SGI/01_Logistics.pdf)
-Beaver Dam Analogues (BDAs; Chapter 4 - Design Manual) - Weber & Jeremy
- (Bouwes et al (2016a) & Pollock et al (2014)
-
-### 11. Design
-[<img class="float-right" src="{{ site.baseurl }}/assets/images/workshops/2019/PDF_11.png"> ](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Workshops/LTPBR/2019/SGI/01_Logistics.pdf)
-
-<i class="fa fa-file-pdf-o" aria-hidden="true"></i> [Logistics, Introductions](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Workshops/LTPBR/2019/SGI/01_Logistics.pdf)
-Complex design - Incision recovery (Chapter 4 & 5 - Design Manual; Pocket Guide page 19-22)
-
-### 12. Implementation 
-[<img class="float-right" src="{{ site.baseurl }}/assets/images/workshops/2019/PDF_12.png"> ](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Workshops/LTPBR/2019/SGI/01_Logistics.pdf)
-
-<i class="fa fa-file-pdf-o" aria-hidden="true"></i> [Logistics, Introductions](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Workshops/LTPBR/2019/SGI/01_Logistics.pdf)
-(Chapter 3 & 6) 
+This talk is elaborated in [Chapter 3]({{ site.baseurl}}/manual/chap03)  of design manual. 
 
 
-### A Rancher’s Story: Reintroducing beaver to bring back perennial flow 
-[<img class="float-right" src="{{ site.baseurl }}/assets/images/workshops/2019/Wilde_BirchCk.png"> ](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Workshops/LTPBR/2019/SGI/01_Logistics.pdf)
 
-<i class="fa fa-file-pdf-o" aria-hidden="true"></i> [Logistics, Introductions](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Workshops/LTPBR/2019/SGI/01_Logistics.pdf)
+## 8. Planning in Detail
+[<img class="float-right" src="{{ site.baseurl }}/assets/images/workshops/2019/PDF_08.png"> ](https://usu.box.com/s/szip2pkcz0lvn1tlbb29s5fhehupvxxp)
+After returning from a field trip where we focused on reading riverscapes and identifying structurally-forced alterations to hydraulic and geomorphic porcesses, we worked through the planning phase of the CPP in detail with a series of desktop excercises. 
+- <i class="fa fa-file-pdf-o" aria-hidden="true"></i> [Conservation Planning Process  Intro - Slides](https://usu.box.com/s/szip2pkcz0lvn1tlbb29s5fhehupvxxp)
+- <i class="fa fa-file-pdf-o" aria-hidden="true"></i>  [Valley Bottom Mapping & Risks Assessment Exercise - Handout](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2019/SGI/VB_Exercises2.pdf)
+
+This talk is elaborated in [Chapter 3]({{ site.baseurl}}/manual/chap03)  of design manual. 
+
+-----
+## Mimicking and promoting wood accumulation and beaver dam activity 
+
+We took a break from some of the excercises to focus on some of the science behind mimicking and promoting wood accumulation and beaver dam activity. Specifically we focused on two Intensively Monitored Watershed Case Studies that have been the catalysts for low-tech process based restoration.
+
+These talks are elaborated in [Chapter 4]({{ site.baseurl}}/manual/chap04) of design manual. 
+
+### 9. Case Study: Asotin Creek
+[<img class="float-right" src="{{ site.baseurl }}/assets/images/workshops/2019/PDF_09_Asotin.png">](https://usu.box.com/s/ewveschvfcdf1ohk9ttpb9b7ojplkzep)
+Steve Bennett introduced the idea of Intensively Monitored Watershed and shared insights and results from the Asotin Creek IMW in Washington about mimicking and promoting processes of wood accumulation:
+- <i class="fa fa-file-pdf-o" aria-hidden="true"></i> [Case Study: Asotin Creek - Slides](https://usu.box.com/s/ewveschvfcdf1ohk9ttpb9b7ojplkzep)
+
+
+### 10. Case Study: Bridge Creek
+[<img class="float-right" src="{{ site.baseurl }}/assets/images/workshops/2019/PDF_10_Bridge.png"> ](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2019/SGI/10_PromotingProcess_Bridge_bouwes.pdf)
+The Bridge Creek IMW in Oregon case study is used to show some of the underlying science behind mimicking and promoting processes of beaver dam activity:
+- <i class="fa fa-file-pdf-o" aria-hidden="true"></i> [Case Study: Bridge Creek - Slides](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2019/SGI/10_PromotingProcess_Bridge_bouwes.pdf)
+
+#### Extra Case Study Examples
+[<img class="float-right" src="{{ site.baseurl }}/assets/images/workshops/2019/PDF_10_Parish.png"> ](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2019/SGI/10_PromotingProcess_BearParish_weber.pdf)
+In Lewistown, Nick Weber shared additonal examples from Bear Creek and Parish Creek of some BDA projects:
+- <i class="fa fa-file-pdf-o" aria-hidden="true"></i> [Nick Weber Case Studies from Oregon - Slides](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2019/SGI/10_PromotingProcess_BearParish_weber.pdf)
+
+
+Please also see the [resources]({{ site.baseurl }}/resources) pages, for more examples of [case studies]({{ site.baseurl }}/resources/casestudies) .
+
+-----
+
+## 11. Design
+[<img class="float-right" src="{{ site.baseurl }}/assets/images/workshops/2019/PDF_11.png"> ](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2019/SGI/11_Design_Main.pdf)
+
+Scott walked us through the LT-PBR design process to prepare participants for doing their own designs in Day 3 in the field:
+- <i class="fa fa-file-pdf-o" aria-hidden="true"></i> [Design - Slides](hhttps://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2019/SGI/11_Design_Main.pdf)
+
+
+This talk is elaborated in [Chapter 4]({{ site.baseurl}}/manual/chap04)  and [Chapter 5]({{ site.baseurl}}/manual/chap05) of design manual. 
+
+### Example of Vision
+[<img class="float-right" src="{{ site.baseurl }}/assets/images/workshops/2019/11_Design_Wychus.png"> ](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2019/SGI/11_Design_Wychus.pdf)
+Joe and Nick Weber shared this example from Wychus Creek to elaborate on concepts covered in Scott's design talk and show examples of:
+- Vision for Phased Implementation
+- Simple Indicators for Monitoring
+- Concept of Overlapping Complex Zones of Influence
+
+<i class="fa fa-file-pdf-o" aria-hidden="true"></i> [Wychus - Slides](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2019/SGI/11_Design_Wychus.pdf)
+
+## 12. Implementation 
+[<img class="float-right" src="{{ site.baseurl }}/assets/images/workshops/2019/PDF_12.png"> ](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2019/SGI/12_Implementation.pdf)
+
+We covered implementation on Day 3 in the field, but here are some overview slides:
+- <i class="fa fa-file-pdf-o" aria-hidden="true"></i> [Implementation](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2019/SGI/12_Implementation.pdf)
+
+This is based mainly on  [Chapter 6]({{ site.baseurl}}/manual/chap06)  of the design manual. 
+
+
+## A Rancher’s Story: Reintroducing beaver to bring back perennial flow 
+[<img class="float-right" src="{{ site.baseurl }}/assets/images/workshops/2019/Wilde_BirchCk.png"> ](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2019/SGI/Wilde+-+Brich+Creek.pdf)
+Idaho rancher Jay Wilde shared his amazing story
+- <i class="fa fa-file-pdf-o" aria-hidden="true"></i> [A Rancher’s Story: Reintroducing beaver to bring back perennial flow ](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2019/SGI/Wilde+-+Brich+Creek.pdf)
 (Wilde et al. (2019))
+If you missed it, see a version Jay gave last year [here]({{ site.baseurl }}/resources/talks).
 
 -----
-## Day 3 - Building Low-Tech Restoration Structures  
-- Design Exercise - ([Chapter 4 - Design Manual]({{ site.baseurl }}/manual/chap04/)); [Pocket Guide]({{ site.baseurl }}/resources/pocket)) 
+# Day 3 - Building Low-Tech Restoration Structures  
+
+[<img class="float-right" src="{{ site.baseurl }}/assets/images/workshops/2019/DesignForm.png"> ](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2019/SGI/Design_Sheet.pdf)
+-  Design Exercise - ([Chapter 4 - Design Manual]({{ site.baseurl }}/manual/chap04/)); [Pocket Guide]({{ site.baseurl }}/resources/pocket)) 
 - Split into  groups, discuss design objectives for their complex, layout project with flags
 Logistics, Safety & Post Pounding ([Chapter 6 - Design Manual]({{ site.baseurl }}/manual/chap06/));  [Pocket Guide]({{ site.baseurl }}/resources/pocket))
-- Hands-on construction of various structures (PALS, Post-Assisted BDAs, Postless BDAs; Chapter 6 - Design Manual;  [Pocket Guide]({{ site.baseurl }}/resources/pocket)) 
+- Hands-on construction of various structures (PALS, Post-Assisted BDAs, Postless BDAs; [Chapter 6 - Design Manual]({{ site.baseurl }}/manual/chap06/)) - Design Manual;  [Pocket Guide]({{ site.baseurl }}/resources/pocket)) 
 - Review and critique constructed structures
-- Discussions on adaptive management (Chapter 3, 4 & 6 - Design Manual)
-- Workshop synthesis (review principles) & where to turn for help 
-
-- <i class="fa fa-file-pdf-o" aria-hidden="true"></i> Weber N, Bouwes N, Pollock M, Volk C,  Wheaton JM, Wathen G, and Jordan C. 2017. [Alteration of stream temperature by natural and artificial beaver dams](https://www.researchgate.net/publication/316995139_Alteration_of_stream_temperature_by_natural_and_artificial_beaver_dams). PLOS ONE. 12(5): e0176313. DOI: [10.1371/journal.pone.0176313](http://dx.doi.org/10.1371/journal.pone.0176313)
-- <i class="fa fa-file-pdf-o" aria-hidden="true"></i> Wall E, Bouwes N, Wheaton JM, Bennett SN, Saunders WC, McHugh PA, and Jordan CE. 2016. [Design and monitoring of woody structures and their benefits to juvenile steelhead trout (Oncorhynchus mykiss) using a net rate of energy intake model](https://www.researchgate.net/publication/308765970_Design_and_monitoring_of_woody_structures_and_their_benefits_to_juvenile_steelhead_trout_Oncorhynchus_mykiss_using_a_net_rate_of_energy_intake_model). Canadian Journal of Fisheries and Aquatic Sciences. DOI: [10.1139/cjfas-2016-0131](http://dx.doi.org/10.1139/cjfas-2016-0131).
-- <i class="fa fa-file-pdf-o" aria-hidden="true"></i> Bouwes N, Weber N, Jordan CE, Saunders WC, Tattam IA, Volk C, Wheaton JM and Pollock MM. 2016. [Ecosystem experiment reveals benefits of natural and simulated beaver dams to a threatened population of steelhead (Oncorhynchus mykiss)](http://www.nature.com/articles/srep28581). Scientific Reports. 6: 28581. DOI: [10.1038/srep28581](http://dx.doi.org/10.1038/srep28581).
-- <i class="fa fa-file-pdf-o" aria-hidden="true"></i> Bouwes N, Bennett S and Wheaton JM. 2016. [Adapting Adaptive Management for Testing the Effectiveness of Stream Restoration: An Intensively Monitored Watershed Example](https://www.researchgate.net/publication/289526568_Adapting_Adaptive_Management_for_Testing_the_Effectiveness_of_Stream_Restoration_An_Intensively_Monitored). Fisheries. 41: 2: pp. 84-91.  DOI: [10.1080/03632415.2015.1127806](http://dx.doi.org/10.1080/03632415.2015.1127806)
-- <i class="fa fa-file-pdf-o" aria-hidden="true"></i> Macfarlane WW‡ , Wheaton JM, Bouwes N, Jensen M*, Hough-Snee N*, and Shivick J. 2015. [Modeling the capacity of riverscapes to support beaver dams](https://www.researchgate.net/publication/285590037_Modeling_the_capacity_of_riverscapes_to_support_beaver_dams). Geomorphology. DOI: [10.1016/j.geomorph.2015.11.019](http://dx.doi.org/10.1016/j.geomorph.2015.11.019).
-- <i class="fa fa-file-pdf-o" aria-hidden="true"></i> Pollock, M., Beechie T , Wheaton JM, Jordan C,  Bouwes N, Weber N, and Volk C. 2014. [Using Beaver Dams  to Restore Incised Stream Ecosystems](https://www.researchgate.net/publication/261215514_Using_Beaver_Dams_to_Restore_Incised_Stream_Ecosystems). Bioscience. DOI: [10.1093/biosci/biu036](http://dx.doi.org/10.1093/biosci/biu036).
-- <i class="fa fa-file-pdf-o" aria-hidden="true"></i> Wheaton J, Bennett S, Bouwes N, and Camp R. 2012. [Asotin Creek Intensively Monitored Watershed: Restoration Plan for North Fork Asotin, South Fork Asotin and Charlie Creeks](http://etal.usu.edu/Asotin/AsotinRestorationPlan_v1.pdf). Eco Logical Research, Inc., Prepared for Snake River Salmon Recovery Board. Logan, UT, 125 pp. 
-- <i class="fa fa-file-pdf-o" aria-hidden="true"></i> Pollock M, Wheaton JM, Bouwes N and Jordan CE. 2012. [Working with Beaver to Restore Salmon Habitat in the Bridge Creek Intensively Monitored Watershed: Design Rationale and Hypotheses](https://www.researchgate.net/publication/281113937_Working_with_Beaver_to_Restore_Salmon_Habitat). NOAA Technical Memorandum, NOAA Northwest Fisheries Science Center, Seattle, WA, 108 pp. 
+- Discussions on adaptive management (Chapter [3]({{ site.baseurl }}/manual/chap03/), [4]({{ site.baseurl }}/manual/chap04/) & [6]({{ site.baseurl }}/manual/chap06/)) - Design Manual)
+- Workshop synthesis (review principles) & where to turn for [help]({{ site.baseurl }}/resources/contractors) 
 
 
-### Handouts
 
-- <i class="fa fa-file-pdf-o" aria-hidden="true"></i> [Field Visit Handouts](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/etal_workshops/CheapCheerful/2017/Dayton/Cheap%26Cheerful_Handout.pdf) - Patha Creek, Little Tucannon, Tucannon
-- <i class="fa fa-file-pdf-o" aria-hidden="true"></i> [Post Pounder Summary](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/etal_workshops/CheapCheerful/2017/Dayton/Post+Pounder+Summary.pdf)
-- [Pataha Design](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/etal_workshops/CheapCheerful/2017/Dayton/Pataha+Design+2017.kmz) (KMZ) <i class="fa fa-map" aria-hidden="true"></i>
-
-### Slides from Presentations
-
-- <i class="fa fa-file-pdf-o" aria-hidden="true"></i> [Principles of Cheap & Cheerful Restoration](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/etal_workshops/CheapCheerful/2017/Dayton/Wheaton_C%26C.pdf) - Joe Wheaton
-- <i class="fa fa-file-pdf-o" aria-hidden="true"></i> [Beavers & Beaver Dam Analogs](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/etal_workshops/CheapCheerful/2017/Dayton/HowCheap%26CheerfulAreBeavers_Bennett.pdf) - Steve Bennett
-- <i class="fa fa-file-pdf-o" aria-hidden="true"></i> [Getting Wood Back in the Stream: High Density LWD and Post-Assisted Log Structures (HDLWD & PALS)](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/etal_workshops/CheapCheerful/2017/Dayton/CampR_C%26CWorkshop_PALS.pdf) - Reid Camp
-- <i class="fa fa-file-pdf-o" aria-hidden="true"></i> [Getting Wood Back in the Stream: Timber!](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/etal_workshops/CheapCheerful/2017/Dayton/Nicolai+cheap+and+cheerful+workshop.pdf) - Scott Nicolai
-- <i class="fa fa-file-pdf-o" aria-hidden="true"></i> [Pataha Creek - Recap](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/etal_workshops/CheapCheerful/2017/Dayton/Dayton+C%26C_PatahaUpdate_2017.pdf) - Steve Bennett
-
------
-## Instructors:
-<a href="http://www.joewheaton.org"><img class="float-left" src="{{ site.baseurl }}/assets/images/people/Wheaton_round.png"></a>[Joe Wheaton](http://joewheaton.org) will lead the GCD portion of class.
-Office Hours:  Mondays from 12:30 - 1:20 PM in NR 360 
-
-[Jack Scmidtt](https://qcnr.usu.edu/directory/schmidt_jack) is the lead instructor for Fluvial Geomorphology. 
-
------
-## What we did
-
-Each day we spent the first morning in the classroom in Dayton discussing topics and listening to presentations from the instruction team.  We spent the first afternoon and most of the second day in the field actually doing hands-on demos and seeing some restoration projects. Participants got to participate in design exercises, building BDAs, building PALS, and using a grip-hoist to pull some large trees and woody debris into the channel.
 
 -----
 
-## References
+# References
 - <i class="fa fa-file-pdf-o" aria-hidden="true"></i> Weber N, Bouwes N, Pollock M, Volk C,  Wheaton JM, Wathen G, and Jordan C. 2017. [Alteration of stream temperature by natural and artificial beaver dams](https://www.researchgate.net/publication/316995139_Alteration_of_stream_temperature_by_natural_and_artificial_beaver_dams). PLOS ONE. 12(5): e0176313. DOI: [10.1371/journal.pone.0176313](http://dx.doi.org/10.1371/journal.pone.0176313)
 - <i class="fa fa-file-pdf-o" aria-hidden="true"></i> Wall E, Bouwes N, Wheaton JM, Bennett SN, Saunders WC, McHugh PA, and Jordan CE. 2016. [Design and monitoring of woody structures and their benefits to juvenile steelhead trout (Oncorhynchus mykiss) using a net rate of energy intake model](https://www.researchgate.net/publication/308765970_Design_and_monitoring_of_woody_structures_and_their_benefits_to_juvenile_steelhead_trout_Oncorhynchus_mykiss_using_a_net_rate_of_energy_intake_model). Canadian Journal of Fisheries and Aquatic Sciences. DOI: [10.1139/cjfas-2016-0131](http://dx.doi.org/10.1139/cjfas-2016-0131).
 - <i class="fa fa-file-pdf-o" aria-hidden="true"></i> Bouwes N, Weber N, Jordan CE, Saunders WC, Tattam IA, Volk C, Wheaton JM and Pollock MM. 2016. [Ecosystem experiment reveals benefits of natural and simulated beaver dams to a threatened population of steelhead (Oncorhynchus mykiss)](http://www.nature.com/articles/srep28581). Scientific Reports. 6: 28581. DOI: [10.1038/srep28581](http://dx.doi.org/10.1038/srep28581).

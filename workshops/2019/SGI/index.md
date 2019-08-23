@@ -34,7 +34,7 @@ Thanks to the generous support of the [Natural Resource Conservation Service's](
 
 ## Three Workshops, Three Western States
 
-A series of workshops will be hosted in the summer of 2019 to connect local NRCS conservationists and partners in their states who are interested in how to use beaver, and beaver dam analogues as low-cost tools to restore riparian areas to benefit wildlife and working lands.
+A series of workshops will be hosted in the summer of 2019 to connect local NRCS conservationists and partners in their states who are interested in how to use low-tech process-based restoration to restore riparian areas to benefit wildlife and working lands.
 
 <div align="center">
 
@@ -179,18 +179,7 @@ Participation in the workshops is by inivitation only and is free. However, part
 -----
 
 
-
-
-### SOME WEBINARS & PRESENTATIONS
-[SOCIETY OF RANGE MANAGEMENT TALKS ON RESTORING "EMERALD ISLANDS"](https://www.sagegrouseinitiative.com/30-videos-now-available-sagebrush-countrys-resilience-resistance-emerald-islands/)
-[2017 NRCS WEBINAR ON BDAS](https://www.sagegrouseinitiative.com/page/1?s=beaver)
-[2017 ASSOCIATION OF STATE WETLAND MANAGERS - BDA WEBINAR](https://www.sagegrouseinitiative.com/webinar-partnering-beaver-benefit-sage-grouse-working-lands-restoring-emerald-islands-sagebrush-sea/)
-[2014 NRCS WEBINARS ON LIVING WITH BEAVER](https://www.sagegrouseinitiative.com/webinar-living-beavers-tools-coexistence/)
-
------
 <div align="center">
-    <a class="hollow button" href="{{ site.baseurl }}/"><i class="fa fa-chevron-circle-left"></i>  Back to GCD Home </a>  
-
         <a class="hollow button" href="{{ site.baseurl }}/Workshops/"><i class="fa fa-graduation-cap"></i>  Back to Workshops </a>  
 </div>
 
