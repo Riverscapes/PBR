@@ -4,7 +4,7 @@ weight: 4
 ---
 
 ## Need Training?
-We have worked hard through the [Utah State Univeresity Restoration Consortium](http://restoration.usu.edu) and with our many partners to deliver training to diverse audiences on low-tech process-based restoration. If you are looking for training for yourself or a small group, try our [publicly oferred courses](http://restoration.usu.edu/).  The next Low-Tech PBR Intro Workshop will be taught in Logan, Utah from October 9-11, 2019 and is set to follow the [Restoring the West Conference](https://restoringthewest.org/). For USU students, check the registrar's list of coruses for current courses. If you want to develop a custom workshop for your own audiences, please [contact us](http://restoration.usu.edu/about/contact).
+We have worked hard through the [Utah State Univeresity Restoration Consortium](http://restoration.usu.edu) and with our many partners to deliver training to diverse audiences on low-tech process-based restoration. If you are looking for training for yourself or a small group, try our [publicly oferred courses](http://restoration.usu.edu/).  The next Low-Tech PBR Intro Workshop will be taught in Logan, Utah from October 9-11, 2019 and is set to follow the [Restoring the West Conference](https://restoringthewest.org/). For USU students, check the registrar's list of courses for current courses. If you want to develop a custom workshop for your own audiences, please [contact us](http://restoration.usu.edu/about/contact).
 
 <a class="hollow button" href="http://restoration.usu.edu/courses/LTPBR_Logan"><i class="fa fa-graduation-cap"></i> Take me to  Next Workshop or Course </a>
 
