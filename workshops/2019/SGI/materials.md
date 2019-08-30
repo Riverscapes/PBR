@@ -37,10 +37,10 @@ This excercise is elaborated in the [Pocket Guide]({{ site.baseurl}}/resources/p
 ## 4. Introduction to low-tech approaches 
 
 
-[<img class="float-right" src="{{ site.baseurl }}/assets/images/workshops/2019/PDF_04.png"> ](https://usu.box.com/s/hwr5kj2z8bw84f978kc75j3hfd6rekmw)
+[<img class="float-right" src="{{ site.baseurl }}/assets/images/workshops/2019/PDF_04.png"> ](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2019/SGI/04_LowTechApproaches.pdf)
 Having conqured the parking lot, Steve walked us through the diversity of low-tech approaches and structure types. 
 
-- <i class="fa fa-file-pdf-o" aria-hidden="true"></i> [ Introduction to low-tech approaches - Slides ](https://usu.box.com/s/hwr5kj2z8bw84f978kc75j3hfd6rekmw)
+- <i class="fa fa-file-pdf-o" aria-hidden="true"></i> [ Introduction to low-tech approaches - Slides ](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2019/SGI/04_LowTechApproaches.pdf)
 
 This talk is elaborated in [Chapter 1]({{ site.baseurl}}/manual/chap01) & [Chapter 4]({{ site.baseurl}}/manual/chap04) of design manual. 
 
@@ -48,10 +48,10 @@ This talk is elaborated in [Chapter 1]({{ site.baseurl}}/manual/chap01) & [Chapt
 
 ##  5. Guiding Principles 
 
-[<img class="float-right" src="{{ site.baseurl }}/assets/images/workshops/2019/PDF_05.png"> ](https://usu.box.com/s/29wcjge7ezmbuyj38xt4ix6jcyo1meen)
+[<img class="float-right" src="{{ site.baseurl }}/assets/images/workshops/2019/PDF_05.png"> ](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2019/SGI/05_Principles.pdf)
 
 Joe walked us through perhaps the most important aspect to understand about low-tech process-based restoration: the underlying Principles:
-- <i class="fa fa-file-pdf-o" aria-hidden="true"></i> [Guiding Principles - Slides](https://usu.box.com/s/29wcjge7ezmbuyj38xt4ix6jcyo1meen)
+- <i class="fa fa-file-pdf-o" aria-hidden="true"></i> [Guiding Principles - Slides](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2019/SGI/05_Principles.pdf)
 
 This talk is elaborated in [Chapter 2]({{ site.baseurl}}/manual/chap02)  of design manual. 
 
@@ -80,9 +80,9 @@ This talk is elaborated in [Chapter 3]({{ site.baseurl}}/manual/chap03)  of desi
 
 
 ## 8. Planning in Detail
-[<img class="float-right" src="{{ site.baseurl }}/assets/images/workshops/2019/PDF_08.png"> ](https://usu.box.com/s/szip2pkcz0lvn1tlbb29s5fhehupvxxp)
+[<img class="float-right" src="{{ site.baseurl }}/assets/images/workshops/2019/PDF_08.png"> ](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2019/SGI/08_Planning_II.pdf)
 After returning from a field trip where we focused on reading riverscapes and identifying structurally-forced alterations to hydraulic and geomorphic porcesses, we worked through the planning phase of the CPP in detail with a series of desktop excercises. 
-- <i class="fa fa-file-pdf-o" aria-hidden="true"></i> [Conservation Planning Process  Intro - Slides](https://usu.box.com/s/szip2pkcz0lvn1tlbb29s5fhehupvxxp)
+- <i class="fa fa-file-pdf-o" aria-hidden="true"></i> [Conservation Planning Process  Intro - Slides](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2019/SGI/08_Planning_II.pdf)
 - <i class="fa fa-file-pdf-o" aria-hidden="true"></i>  [Valley Bottom Mapping & Risks Assessment Exercise - Handout](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2019/SGI/VB_Exercises2.pdf)
 
 This talk is elaborated in [Chapter 3]({{ site.baseurl}}/manual/chap03)  of design manual. 
@@ -95,9 +95,9 @@ We took a break from some of the excercises to focus on some of the science behi
 These talks are elaborated in [Chapter 4]({{ site.baseurl}}/manual/chap04) of design manual. 
 
 ### 9. Case Study: Asotin Creek
-[<img class="float-right" src="{{ site.baseurl }}/assets/images/workshops/2019/PDF_09_Asotin.png">](https://usu.box.com/s/ewveschvfcdf1ohk9ttpb9b7ojplkzep)
+[<img class="float-right" src="{{ site.baseurl }}/assets/images/workshops/2019/PDF_09_Asotin.png">](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2019/SGI/09_PromotingProcess_Asotin.pdf)
 Steve Bennett introduced the idea of Intensively Monitored Watershed and shared insights and results from the Asotin Creek IMW in Washington about mimicking and promoting processes of wood accumulation:
-- <i class="fa fa-file-pdf-o" aria-hidden="true"></i> [Case Study: Asotin Creek - Slides](https://usu.box.com/s/ewveschvfcdf1ohk9ttpb9b7ojplkzep)
+- <i class="fa fa-file-pdf-o" aria-hidden="true"></i> [Case Study: Asotin Creek - Slides](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2019/SGI/09_PromotingProcess_Asotin.pdf)
 
 
 ### 10. Case Study: Bridge Creek
