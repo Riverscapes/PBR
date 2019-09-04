@@ -6,7 +6,9 @@ weight:  2
 
 **October 9-11, 2019 at Utah State University's Logan Campus**
 
-[<img class="float-right" style="padding: 10px;" src="{{ site.baseurl }}/assets/images/workshops/2019/2019Flyer.png">](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Workshops/LTPBR/2019/SGI/SGI-NRCS_LTR_Workshop-Series_2019_Flyer_v2.pdf)
+[![LTPBR_2019]({{ site.baseurl }}/assets/images/workshops/2019/LTPBR_2019.png)](http://restoration.usu.edu/courses/LTPBR_Logan)
+
+[<img class="float-right" style="padding: 10px;" src="{{ site.baseurl }}/assets/images/workshops/2019/2019LoganFlyer.png">](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2019/Logan/Logan_LTR_Workshop_2019_Flyer-1.pdf)
 
 This publicly [oferred  short-course](http://restoration.usu.edu/courses/LTPBR_Logan), hosted by [Utah State University Restoration Consortium](http://restoration.usu.edu), will bring together partners interested in low-tech alternatives for restoring streams and associated riparian and mesic habitats to benefit wildlife and working lands. 
 
@@ -94,7 +96,6 @@ For the workshops, we will rely on the new [Design Manual]({{ site.baseurl }}/ma
 
 
 </div>
-
 
 
 
