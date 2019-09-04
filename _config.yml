@@ -30,10 +30,11 @@ exclude:
   - LICENSE
   - README.md
   - _config.yml
+  - Gemfile*
 
-# Where our layouts and templates are stored
-layouts_dir:  src/_layouts
-includes_dir: src/_includes
+remote_theme: Riverscapes/riverscapes-jekyll-theme
+plugins:
+  - jekyll-remote-theme 
 
 # These are theme settings that will be used to turn features on and off
 # They are not part of Jekyll, they are entirely custom.
@@ -71,14 +72,3 @@ settings:
     - title: "RC Help"
       url: http://riverscapes.xyz/rc-help.html
 
-# Redirecting from apps can be tricky so we use a key-value system
-# key: must be in the set [A-Za-z0-9_] (no spaces, no dashes)
-# url: must be relative url, no leading slash.
-# 
-# The url you have to call is: http://siteurl.com/baseurl/?APPKEY=KEY1
-# ---------------------------------------------------------------
-AppRedirects:
-  - key: KEY1
-    url: ThingsA
-  - key: KEY2
-    url: ThingsB/subpageB.html
