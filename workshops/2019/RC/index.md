@@ -34,7 +34,7 @@ In this 2.5 day workshop, you will be introduced to the principles underlying lo
 </div>
 
 ## Workshop Textbooks
-For the workshops, we will rely on the new [Design Manual]({{ site.baseurl }}/manual) and the [Pocket Guide]({{ site.baseurl }}/resources/pocket), which are both available free digitally. Print copies of manual are available for ~ $60 [on Amazon](https://www.amazon.com/Low-Tech-Process-Based-Restoration-Riverscapes-Design/dp/1543972993/ref=sr_1_1?keywords=low+tech+process-based+restoration&qid=1558989073&s=gateway&sr=8-1) and print runs of the pocket guide can be [arranged]({{ site.baseurl }}/resources/pocket). 
+For the workshops, we will rely on the new [Design Manual]({{ site.baseurl }}/manual) and the [Pocket Guide]({{ site.baseurl }}/resources/pocket), which are both available free digitally. As part of your [workshop registration fee](http://restoration.usu.edu/courses/LTPBR_Logan), a hard copy will be provided to you in person at the workshop.  Extra print copies of manual are available for ~ $60 [on Amazon](https://www.amazon.com/Low-Tech-Process-Based-Restoration-Riverscapes-Design/dp/1543972993/ref=sr_1_1?keywords=low+tech+process-based+restoration&qid=1558989073&s=gateway&sr=8-1) and print runs of the pocket guide can be [arranged]({{ site.baseurl }}/resources/pocket). 
 
 
 <a href="{{ site.baseurl }}/manual"><img class="float-right" src="{{ site.baseurl }}/assets/images/covers/Manual_Tilted_150.png"></a>
