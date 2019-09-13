@@ -110,7 +110,7 @@ For the workshops, we will rely on the new [Design Manual]({{ site.baseurl }}/ma
   </div>
  
  <div class="column column-block">
-    <a href="http://www.palousecd.org/"><img src="{{ site.baseurl }}/assets/images/sponsors/Palouse.png"></a><br>5. 
+    <a href="http://www.palousecd.org/"><img src="{{ site.baseurl }}/assets/images/logos/Palouse.png"></a><br>5. 
   </div>
 
 </div>
