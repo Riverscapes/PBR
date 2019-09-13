@@ -77,7 +77,7 @@ For the workshops, we will rely on the new [Design Manual]({{ site.baseurl }}/ma
     <h4>Jay Wilde</h4>
     Rancher and Land Owner
   </div>  
-  
+ </div> 
   <div class="row small-up-2 medium-up-2 large-up-4" align="center">
   <div class="column column-block">
     <a href="https://www.researchgate.net/profile/Chris_Jordan3"><img src="{{ site.baseurl }}/assets/images/people/Jordan_round.png"></a>
@@ -89,23 +89,26 @@ For the workshops, we will rely on the new [Design Manual]({{ site.baseurl }}/ma
     <a href="https://www.palousecd.org/district-staff"><img src="{{ site.baseurl }}/assets/images/people/brad-round.png"></a>
     <h4><a href="https://www.palousecd.org/district-staff">Brad Johnson<sup>5</sup></a></h4>
   </div>
+  
 </div>
 
 #### Instructor Affiliations
 
 <div class="row small-up-2 medium-up-2 large-up-5" align="center">
+  
   <div class="column column-block">
     <a href="https://qcnr.usu.edu/wats/index"><img src="{{ site.baseurl }}/assets/images/sponsors/USU.png"></a>1. 
   </div>
+  
   <div class="column column-block">
 	<a href="http://www.anabranchsolutions.com"><img src="{{ site.baseurl }}/assets/images/sponsors/anabranchsolutionslogo-square-450_10.png"></a><br>2. 
-
   </div>
-   <div class="column column-block">
+
+<div class="column column-block">
     <a href="https://www.eco-logical-research.com/"><img src="{{ site.baseurl }}/assets/images/sponsors/ELR.png"></a><br>3.
-
   </div>
-  <div class="column column-block">
+
+<div class="column column-block">
     <a href="https://www.nwfsc.noaa.gov/"><img src="{{ site.baseurl }}/assets/images/sponsors/NOAA.png"></a><br>4. 
   </div>
  
