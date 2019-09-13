@@ -84,7 +84,7 @@ For the workshops, we will rely on the new [Design Manual]({{ site.baseurl }}/ma
     <h4><a href="https://www.researchgate.net/profile/Chris_Jordan3">Chris Jordan<sup>4</sup></a></h4>
   </div>
   
-  <div class="row small-up-2 medium-up-2 large-up-4" align="center">
+
   <div class="column column-block">
     <a href="https://www.palousecd.org/district-staff"><img src="{{ site.baseurl }}/assets/images/people/brad_round.png"></a>
     <h4><a href="https://www.palousecd.org/district-staff">Brad Johnson<sup>5</sup></a></h4>
