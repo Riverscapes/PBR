@@ -86,7 +86,7 @@ For the workshops, we will rely on the new [Design Manual]({{ site.baseurl }}/ma
   
 
   <div class="column column-block">
-    <a href="https://www.palousecd.org/district-staff"><img src="{{ site.baseurl }}/assets/images/people/brad_round.png"></a>
+    <a href="https://www.palousecd.org/district-staff"><img src="{{ site.baseurl }}/assets/images/people/brad-round.png"></a>
     <h4><a href="https://www.palousecd.org/district-staff">Brad Johnson<sup>5</sup></a></h4>
   </div>
 </div>
