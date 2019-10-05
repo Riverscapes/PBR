@@ -64,13 +64,13 @@ We will then wander around Birch Creek and up into Mill Hollow for a wrap up dis
 ------
 # What do I need to bring?
 
-This is a hands-on workshop.  For the field portions, we will be hiking and working on real construction projects.  Your safety is our top priority, but you are the most important person in ensuring your safety and comfort.  So bring common sense. Our workshop is in the Fall in the mountains. You should be prepared for anything from sunny skies and sunburn, to snow and hypothermia (yes we've already had our first snow-storms, and yes we will work in the snow).  We will be hiking through and doing work in small, wadeable streams. We **strongly reccommend** a pair of chest waders and wading boots, to keep you warm and dry. You also should bring whatever outdoor clothing and gear to keep yourself comfortable. Layers, coats, gloves, hats, sunglasses, sunscreen, and a dry change of clothes for afterwards are all a must. 
+This is a hands-on workshop.  For the field portions, we will be hiking and working on real construction projects.  Your safety is our top priority, but you are the most important person in ensuring your safety and comfort.  So bring common sense. Our workshop is in the Fall in the mountains. You should be prepared for anything from sunny skies and sunburn, to snow and hypothermia (yes we've already had our first snow-storms, and yes we will work in the snow).  We will be hiking through and doing work in small, wadeable streams. We **strongly recommend a pair of chest waders and wading boots**, to keep you warm and dry. You also should bring whatever outdoor clothing and gear to keep yourself comfortable. Layers, coats, gloves, hats, sunglasses, sunscreen, and a dry change of clothes for afterwards are all a must.  For Day 3, no open-toed shoes will be allowed. Where work clothing suitable for a construction site. 
 
 We will provide lunches and snacks, but you should bring a water bottle. 
 
-We will provide you with basic personal protective equipment (PPEs like work gloves, eye protection, hard hats, ear protection). However, you should 
+We will provide you with basic personal protective equipment (PPEs like work gloves, eye protection, hard hats, ear protection). However, if you have any other 
 
-If you have any allergies or medical conditions that we should be aware of, please notify your instructor.  
+If you have any allergies or medical conditions that we should be aware of, please notify your instructor. We will make sure that for snacks and meals there are some vegetarian options, but those with other dietary restrictions should bring their own food. 
 
 -----
 # Where were we from?
@@ -81,9 +81,9 @@ This year's workshop included participants from 14 different states reflecting g
 # Other Logan-Specific Resources
 ## Logan Workshop Album
 
-FORTHCOMING...
-[<img class="float-right" src="{{ site.baseurl }}/assets/images/workshops/2019/Gunnison_Album.png"> ](https://photos.app.goo.gl/3QsRJZjaddmPe6gu8)
-A shared [album <i class="fa fa-picture-o" aria-hidden="true"></i>](https://photos.app.goo.gl/3QsRJZjaddmPe6gu8) was created where we posted photos from the workshop and participants can share their own photos. For those of you that visit the site in the future, please feel free to upload updates (photos and comments).
+FORTHCOMING... 
+[<img class="float-right" src="{{ site.baseurl }}/assets/images/workshops/2019/Gunnison_Album.png"> ](http://photos.google.com)
+A shared [album <i class="fa fa-picture-o" aria-hidden="true"></i>](http://photos.google.com) was created where we posted photos from the workshop and participants can share their own photos. For those of you that visit the site in the future, please feel free to upload updates (photos and comments).
 
 
 
