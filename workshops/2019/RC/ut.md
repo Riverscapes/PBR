@@ -16,7 +16,10 @@ The workshop will be an intensive 2.5 Days. We will be in different locations al
 	<iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d245991.65099962577!2d-111.95027424342676!3d41.96305750775618!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0x87547e7e0399bc71%3A0x12a17e3546d7ddb8!2sMerrill-Cazier%20Library%2C%203000%20Old%20Main%20Hill%2C%20Logan%2C%20UT%2084321!3m2!1d41.7421256!2d-111.80972949999999!4m5!1s0x875450c38a8057ed%3A0xa5ee2601f3513928!2sUnnamed%20Road%2C%20Preston%2C%20ID!3m2!1d42.1630556!2d-111.74366409999999!5e1!3m2!1sen!2sus!4v1570288296501!5m2!1sen!2sus" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
 </div>
 
-
+# Agenda
+<div class="responsive-embed">
+<iframe src="https://docs.google.com/document/d/e/2PACX-1vQQRQJ1ERbjNNW_fTO8sTWNNIXWtEVevexV6dUHsdTUZY-TQfC32N0fs34UqqG8FWmMsHUuy1NMo2fQ/pub?embedded=true"></iframe>
+</div>
 
 -----
 # Where were we? Workshop Venues & Maps
