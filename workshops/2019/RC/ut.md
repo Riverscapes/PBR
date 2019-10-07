@@ -7,16 +7,16 @@ weight: 2
 
 # Workshop Meeting Places & Times
 The workshop will be an intensive 2.5 Days. We will be in different locations all three days. Day 1 and 2 are in the [USU Merril-Cazier Library](http://www.usu.edu/map/index.cfm?id=22), but in different class rooms. The first day will be in LIB 154, which is found by entering the library, walking straight past the stairs, and you will find the class room to your left.  The second day will be in LIB 101, which is immediately to your left in the breezeway of the Library Entrance. 
-
+[<img class="float-right" src="{{ site.baseurl }}/assets/images/workshops/2019/LoganAgenda.png"> ](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2019/Logan/RC+Low-Tech+Riparian+Restoration+Workshop+Agenda+-+Logan%2C+UT.pdf)
 - **Wednesday, October 9th, 2019**  @  13:00 to 18:00. Meet in [Library 154](http://www.usu.edu/map/index.cfm?id=22) (eat lunch prior to arrival)
 - **Thursday, October 10th, 2019**  @  8:00 to 17:00. Meet in [Library 151](http://www.usu.edu/map/index.cfm?id=22)
 - **Friday, October 11th, 2019** @ 7:30 to 17:00. Meet in field in Station Creek Idaho. 
 
 
-##  Agenda
-[<img class="float-right" src="{{ site.baseurl }}/assets/images/workshops/2019/LoganAgenda.png"> ](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2019/Logan/RC+Low-Tech+Riparian+Restoration+Workshop+Agenda+-+Logan%2C+UT.pdf)
 
-<a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2019/Logan/RC+Low-Tech+Riparian+Restoration+Workshop+Agenda+-+Logan%2C+UT.pdf"><i class="fa fa-file-pdf-o" aria-hidden="true"></i> Agenda</a>
+
+
+<a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2019/Logan/RC+Low-Tech+Riparian+Restoration+Workshop+Agenda+-+Logan%2C+UT.pdf"><i class="fa fa-file-pdf-o" aria-hidden="true"></i> Full Agenda</a>
 
 -----
 # Where were we? Workshop Venues & Maps
