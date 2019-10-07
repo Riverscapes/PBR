@@ -16,8 +16,8 @@ In this 2.5 day workshop, you will be introduced to the principles underlying lo
 
 <div align="center">
 
-
-<a class= "button" href="http://restoration.usu.edu/courses/LTPBR_Logan">Click Here for Registration Information</a>
+<a class= "button" href="{{ site.baseurl }}/workshops/2019/RC/ut"> <i class="fa fa-linode" aria-hidden="true"></i> Already Registered?- <br> See Here for Logistics </a>
+<a class= "button" href="http://restoration.usu.edu/courses/LTPBR_Logan"><i class="fa fa-graduation-cap" aria-hidden="true"></i> Click Here for Registration Information</a>
 
 </div>
 
@@ -89,17 +89,17 @@ For the workshops, we will rely on the new [Design Manual]({{ site.baseurl }}/ma
     <a href="https://www.palousecd.org/district-staff"><img src="{{ site.baseurl }}/assets/images/people/brad-round.png"></a>
     <h4><a href="https://www.palousecd.org/district-staff">Brad Johnson<sup>5</sup></a></h4>
   </div>
-  
+
 </div>
 
 #### Instructor Affiliations
 
 <div class="row small-up-2 medium-up-2 large-up-5" align="center">
-  
+
   <div class="column column-block">
     <a href="https://qcnr.usu.edu/wats/index"><img src="{{ site.baseurl }}/assets/images/sponsors/USU.png"></a>1. 
   </div>
-  
+
   <div class="column column-block">
 	<a href="http://www.anabranchsolutions.com"><img src="{{ site.baseurl }}/assets/images/sponsors/anabranchsolutionslogo-square-450_10.png"></a><br>2. 
   </div>
@@ -111,7 +111,7 @@ For the workshops, we will rely on the new [Design Manual]({{ site.baseurl }}/ma
 <div class="column column-block">
     <a href="https://www.nwfsc.noaa.gov/"><img src="{{ site.baseurl }}/assets/images/sponsors/NOAA.png"></a><br>4. 
   </div>
- 
+
  <div class="column column-block">
     <a href="http://www.palousecd.org/"><img src="{{ site.baseurl }}/assets/images/logos/Palouse.png"></a><br>5. 
   </div>
