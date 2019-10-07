@@ -16,8 +16,8 @@ In this 2.5 day workshop, you will be introduced to the principles underlying lo
 
 <div align="center">
 
-<a class= "button" href="{{ site.baseurl }}/workshops/2019/RC/ut"> <i class="fa fa-linode" aria-hidden="true"></i> Already Registered?- <br> See Here for Logistics </a>
-<a class= "button" href="http://restoration.usu.edu/courses/LTPBR_Logan"><i class="fa fa-graduation-cap" aria-hidden="true"></i> Click Here for Registration Information</a>
+<a class= "button" href="{{ site.baseurl }}/workshops/2019/RC/ut"> <i class="fa fa-linode" aria-hidden="true"></i> Already Registered? <br> See Here for Logistics </a>
+<a class= "button" href="http://restoration.usu.edu/courses/LTPBR_Logan"><i class="fa fa-graduation-cap" aria-hidden="true"></i> Click Here for<br> Registration Information</a>
 
 </div>
 
