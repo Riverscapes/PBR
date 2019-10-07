@@ -10,11 +10,7 @@ The workshop will be an intensive 2.5 Days. We will be in different locations al
 
 - **Wednesday, October 9th, 2019**  @  13:00 to 18:00. Meet in [Library 154](http://www.usu.edu/map/index.cfm?id=22) (eat lunch prior to arrival)
 - **Thursday, October 10th, 2019**  @  8:00 to 17:00. Meet in [Library 151](http://www.usu.edu/map/index.cfm?id=22)
-- **Friday, October 11th, 2019** @ 7:30 to 17:00. Meet in field in Station Creek Idaho. **IMPORTANT**: Transportation will *not* be provided on Day 3 to Station Creek. To save time (and hopefully wrap up earlier, we will meet on site. You are *strongly* encouraged to carpool with other workshop participants up to Station Creek. It is about an hour drive from Logan to the Field Site. There is ample parking on site, but we should try and limit the number of vehicles. There is some cell reception. 
-
-<div class="responsive-embed">
-	<iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d245991.65099962577!2d-111.95027424342676!3d41.96305750775618!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0x87547e7e0399bc71%3A0x12a17e3546d7ddb8!2sMerrill-Cazier%20Library%2C%203000%20Old%20Main%20Hill%2C%20Logan%2C%20UT%2084321!3m2!1d41.7421256!2d-111.80972949999999!4m5!1s0x875450c38a8057ed%3A0xa5ee2601f3513928!2sUnnamed%20Road%2C%20Preston%2C%20ID!3m2!1d42.1630556!2d-111.74366409999999!5e1!3m2!1sen!2sus!4v1570288296501!5m2!1sen!2sus" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
-</div>
+- **Friday, October 11th, 2019** @ 7:30 to 17:00. Meet in field in Station Creek Idaho. 
 
 
 ##  Agenda
@@ -69,6 +65,13 @@ Here's a map of our hike route. We will be crossing streams so have closed-toe f
 </div>
 
 ### Construction - Day 3 - Station Creek 
+
+**IMPORTANT**: Transportation will *not* be provided on Day 3 to Station Creek. To save time (and hopefully wrap up earlier, we will meet on site. You are *strongly* encouraged to carpool with other workshop participants up to Station Creek. It is about an hour drive from Logan to the Field Site. There is ample parking on site, but we should try and limit the number of vehicles. There is some cell reception. 
+
+<div class="responsive-embed">
+	<iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d245991.65099962577!2d-111.95027424342676!3d41.96305750775618!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0x87547e7e0399bc71%3A0x12a17e3546d7ddb8!2sMerrill-Cazier%20Library%2C%203000%20Old%20Main%20Hill%2C%20Logan%2C%20UT%2084321!3m2!1d41.7421256!2d-111.80972949999999!4m5!1s0x875450c38a8057ed%3A0xa5ee2601f3513928!2sUnnamed%20Road%2C%20Preston%2C%20ID!3m2!1d42.1630556!2d-111.74366409999999!5e1!3m2!1sen!2sus!4v1570288296501!5m2!1sen!2sus" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
+</div>
+
 [Station Creek](http://capstone.restoration.usu.edu/Course_Topics/WATS_5350/Low-Tech/Projects/station.html) is a small, left-bank tributary to the Bear River just downstream of Oneida Narrows and about 15 minutes outside Preston, Idaho. We will be working on Terry and Wendy Westerberg's beautiful property for our design and construction exercises. See [here  for more background on Station Creek](http://capstone.restoration.usu.edu/Course_Topics/WATS_5350/Low-Tech/Projects/station.html). For drivers, the road is dirt/gravel, but passenger vehicles are fine.
 
 <div class="responsive-embed">
