@@ -140,9 +140,9 @@ This year's workshop included participants from 14 different states reflecting g
 # Other Logan-Specific Resources
 ## Logan Workshop Album
 
-FORTHCOMING... 
-[<img class="float-right" src="{{ site.baseurl }}/assets/images/workshops/2019/Gunnison_Album.png"> ](http://photos.google.com)
-A shared [album <i class="fa fa-picture-o" aria-hidden="true"></i>](http://photos.google.com) was created where we posted photos from the workshop and participants can share their own photos. For those of you that visit the site in the future, please feel free to upload updates (photos and comments).
+
+[<img class="float-right" src="{{ site.baseurl }}/assets/images/workshops/2019/Gunnison_Album.png"> ](https://photos.app.goo.gl/VLvv8GTQSJ4m1XVt5)
+A shared [album <i class="fa fa-picture-o" aria-hidden="true"></i>](https://photos.app.goo.gl/VLvv8GTQSJ4m1XVt5) was created where we posted photos from the workshop and participants can share their own photos. For those of you that visit the site in the future, please feel free to upload updates (photos and comments).
 
 
 
