@@ -81,10 +81,10 @@ Here's a map of our hike route. We will be crossing streams so have closed-toe f
 **NOTE**: For emergencies, [Franklin County Medical Center](https://goo.gl/maps/JwSKpEargiSLRPMA6) in Preston is the closest hospital to this field site @ 20 minutes away.
 
 ### Exploring Birch Creek - Day 3
-By 14:00ish we will make our way over to the Birch Creek Trailhead (about 15 minutes away) to meet Jay Wilde and the [Capstone Restoration Class](http://capstone.restoration.usu.edu).
+By 14:00ish we will make our way over to the Birch Creek Trailhead (about 15 minutes away @ [7767 East Birch Creek Road, Preston, ID 83263](https://goo.gl/maps/BWc2nGndi6Fs1paZ6)) to meet Jay Wilde and the [Capstone Restoration Class](http://capstone.restoration.usu.edu).
 
 <div class="responsive-embed">
-	<iframe src="https://www.google.com/maps/embed?pb=!1m24!1m12!1m3!1d30631.368669509102!2d-111.74467496637884!3d42.20614235761374!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m9!3e0!4m3!3m2!1d42.1874302!2d-111.73435119999999!4m3!3m2!1d42.2247901!2d-111.69438369999999!5e1!3m2!1sen!2sus!4v1570292083951!5m2!1sen!2sus" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
+	<iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d61273.65820670468!2d-111.76535094429886!3d42.19487941434256!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0x875450c38a8057ed%3A0xf37575717236751!2s5536%20E%20Station%20Creek%20Rd%2C%20Preston%2C%20ID%2083263!3m2!1d42.1631879!2d-111.74379719999999!4m5!1s0x87545220e6b7a0d3%3A0x4cdebff6cba147a8!2s7767%20E%20Birch%20Creek%20Rd%2C%20Preston%2C%20ID%2083263!3m2!1d42.2247651!2d-111.68771179999999!5e1!3m2!1sen!2sus!4v1570767587303!5m2!1sen!2sus" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
 </div>
 
 We will then combine into a smaller number of four-wheel drive vehicles to make our way up through Jay's Ranch and on to the US Forest Service land up FS Road 1054 to the Mill Hollow, Birch Creek Confluence. If conditions are wet, it will require four wheel drive and clearance. It is about 10-15 minute drive. 
