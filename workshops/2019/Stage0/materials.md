@@ -37,7 +37,7 @@ https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Workshops/Stage0/2019/
 
 ##  Stage 0: Genesis & Theory
 
-[<img class="float-right" src="{{ site.baseurl }}/assets/images/workshops/2019/PDF_01.png"> ](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Workshops/Stage0/2019/Slides/Thorne_Stage+Zero+-+Basis+and+Theory.pdff)
+[<img class="float-right" src="{{ site.baseurl }}/assets/images/workshops/2019/Zero/Day1_B_Thorne.png"> ](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Workshops/Stage0/2019/Slides/Thorne_Stage+Zero+-+Basis+and+Theory.pdff)
 
 Colin Thorne got us started with an introduction to Stage Zero River Restoration: Basis & Theory.  
 - <i class="fa fa-file-pdf-o" aria-hidden="true"></i> [Basis & Theory - Slides](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Workshops/Stage0/2019/Slides/Thorne_Stage+Zero+-+Basis+and+Theory.pdf)
@@ -46,15 +46,15 @@ Colin Thorne got us started with an introduction to Stage Zero River Restoration
 ##  Western Streams: Evidence for Stage 0 & Using Stream Evolution Model to guide restoration approaches
 
 [<img class="float-right" src="{{ site.baseurl }}/assets/images/workshops/2019/Zero/Day1_C_Cluer.png"> ](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Workshops/Stage0/2019/Slides/Western+streams+and+SEM+Black+Butte.pdf)
-Next, Brian Cluer. 
+Next, Brian Cluer showed us some of the evidence for Stage 0 in riverscapes throughout the west. 
 
 - <i class="fa fa-file-pdf-o" aria-hidden="true"></i> [Brian's Slides](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Workshops/Stage0/2019/Slides/Western+streams+and+SEM+Black+Butte.pdf)
 
-These talks are elaborated in [Chapter 1]({{ site.baseurl}}/manual/chap01) of design manual. 
 
-## Intorduction to Low-Tech Process-Based Restoration to Stage 0
 
-[<img class="float-right" src="{{ site.baseurl }}/assets/images/workshops/2019/PDF_03.png">](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Workshops/Stage0/2019/Slides/Indentify+Stage+0+Valley+Types+Class+Exercise+1.pdf)
+## Stage Zero Valley Types
+
+[<img class="float-right" src="{{ site.baseurl }}/assets/images/workshops/2019/Zero/Day1_D_Powers.png">](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Workshops/Stage0/2019/Slides/Indentify+Stage+0+Valley+Types+Class+Exercise+1.pdf)
 Paul Powers walked us through some ways of reading valley settings and riverscapes where Stage 0 may be appropriate. 
 
 
@@ -65,9 +65,9 @@ Paul Powers walked us through some ways of reading valley settings and riverscap
 
 
 
-## 4. Introduction to low-tech PBR approaches 
+## 4. Intorduction to Low-Tech Process-Based Restoration to Stage 0
 
-[<img class="float-right" src="{{ site.baseurl }}/assets/images/workshops/2019/PDF_04.png"> ](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Workshops/Stage0/2019/Slides/2019_PSU_Wheaton_LTPBR_Intro.pdf)
+[<img class="float-right" src="{{ site.baseurl }}/assets/images/workshops/2019/Zero/Day1_E_Wheaton.png"> ](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Workshops/Stage0/2019/Slides/2019_PSU_Wheaton_LTPBR_Intro.pdf)
 Having conquer the parking lot, we work through the diversity of low-tech approaches and structure types. 
 
 - <i class="fa fa-file-pdf-o" aria-hidden="true"></i> [ Introduction to low-tech approaches - Slides ](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Workshops/Stage0/2019/Slides/2019_PSU_Wheaton_LTPBR_Intro.pdf)
