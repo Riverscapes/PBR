@@ -6,7 +6,7 @@ weight: 1
 # Introduction to Stage 0 Restoration 
 October 22-24, 2019
 Black Butte Ranch, Sisters, Oregon
-RRNW & PSU Sponsored
+River Restoration North West & Portland State University Sponsored
 
 
 
@@ -157,7 +157,7 @@ Wychus Findings
 
 ## Stage 0 in UK
 
-- <i class="fa fa-file-pdf-o" aria-hidden="true"></i> Thorne, C.R., Hardwick, M., Winfield, P. and Oliver, C., Design of an environmentally aligned flood alleviation scheme: the Burn of Mosset, Moray, Scotland, Flood Risk, pp. 339-360. DOI: 10.1680/fr.41561.339
+- <i class="fa fa-file-pdf-o" aria-hidden="true"></i> Thorne, C.R., Hardwick, M., Winfield, P. and Oliver, C., [Design of an environmentally aligned flood alleviation scheme: the Burn of Mosset, Moray, Scotland](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Workshops/Stage0/2019/Reading/Thorne+et+al.+2012+-+Forres%2C+Scotland+-+Maybe+the+First+Stage+0.pdf), Flood Risk, pp. 339-360. DOI: [10.1680/fr.41561.339](http://dx.doi.org/10.1680/fr.41561.339)
 
 ## Low-Tech Process-Based Restoration
 
