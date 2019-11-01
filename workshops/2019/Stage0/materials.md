@@ -12,21 +12,6 @@ RRNW & PSU Sponsored
 
 
 
-https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Workshops/Stage0/2019/Slides/2019_PSU_Wheaton_LTPBR_Whychus.pdf
-
-https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Workshops/Stage0/2019/Slides/Design+Exercise+with+Staley+Creek%2C+Class+Exercise+2.pdf
-
-https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Workshops/Stage0/2019/Slides/Floodplain+Evaluation+Tools+-+June+4+2019.pdf
-
-
-
-https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Workshops/Stage0/2019/Slides/Stage+0_South+Fork_Oct2019.pdf
-
-https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Workshops/Stage0/2019/Slides/Stage0GeomorphicAnalysisandExamples.pdf
-
-https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Workshops/Stage0/2019/Slides/Thorne_Benefits+and+Risks+of+Restoration+to+Stage+Zero.pdf
-
-https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Workshops/Stage0/2019/Slides/Thorne_Stage+0+Monitoring%2C+Permitting+and+Adaptive+Management.pdf
 
 
 
@@ -37,7 +22,7 @@ https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Workshops/Stage0/2019/
 
 ##  Stage 0: Genesis & Theory
 
-[<img class="float-right" src="{{ site.baseurl }}/assets/images/workshops/2019/Zero/Day1_B_Thorne.png"> ](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Workshops/Stage0/2019/Slides/Thorne_Stage+Zero+-+Basis+and+Theory.pdff)
+[<img class="float-right" src="{{ site.baseurl }}/assets/images/workshops/2019/Zero/Day1_B_Thorne.png"> ](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Workshops/Stage0/2019/Slides/Thorne_Stage+Zero+-+Basis+and+Theory.pdf)
 
 Colin Thorne got us started with an introduction to Stage Zero River Restoration: Basis & Theory.  
 - <i class="fa fa-file-pdf-o" aria-hidden="true"></i> [Basis & Theory - Slides](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Workshops/Stage0/2019/Slides/Thorne_Stage+Zero+-+Basis+and+Theory.pdf)
@@ -65,91 +50,29 @@ Paul Powers walked us through some ways of reading valley settings and riverscap
 
 
 
-## 4. Intorduction to Low-Tech Process-Based Restoration to Stage 0
+##  Intorduction to Low-Tech Process-Based Restoration to Stage 0
 
-[<img class="float-right" src="{{ site.baseurl }}/assets/images/workshops/2019/Zero/Day1_E_Wheaton.png"> ](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Workshops/Stage0/2019/Slides/2019_PSU_Wheaton_LTPBR_Intro.pdf)
-Having conquer the parking lot, we work through the diversity of low-tech approaches and structure types. 
+[<img class="float-right" src="{{ site.baseurl }}/assets/images/workshops/2019/Zero/Day_E_Wheaton.png"> ](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Workshops/Stage0/2019/Slides/2019_PSU_Wheaton_LTPBR_Intro.pdf)
+Joe Wheaton gave us an overview of [Low-Tech Process-Based Restoration]({{  site.baseurl }}) and how it is used to achieve Stage 0.  
 
 - <i class="fa fa-file-pdf-o" aria-hidden="true"></i> [ Introduction to low-tech approaches - Slides ](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Workshops/Stage0/2019/Slides/2019_PSU_Wheaton_LTPBR_Intro.pdf)
 
 [<img class="float-left" src="{{ site.baseurl }}/assets/images/covers/pocket_guide_cover_150w.png"> ]({{ site.baseurl}}/resources/pocket)
 This talk is elaborated in [Chapter 1]({{ site.baseurl}}/manual/chap01) & [Chapter 2]({{ site.baseurl}}/manual/chap02) of design manual.  We also handed out a  [Pocket Guide]({{ site.baseurl}}/resources/pocket). 
 
-## Wychus - Camp Polk Field Visit & Low-Tech Construction Intro
+## AFTERNOON:  Wychus - Camp Polk Field Visit & Low-Tech Construction Intro
 
 
 
 
 -----
-#  Day 2 - Planning and Designing Low-Tech Riparian Restoration
+#  Day 2 - Field Trip to South Fork McKenzie River
 
-## 6. Beaver Ecology 
-[<img class="float-right" src="{{ site.baseurl }}/assets/images/workshops/2019/PDF_06.png"> ](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2019/SGI/06_Beaver.pdf)
+[<img class="float-right" src="{{ site.baseurl }}/assets/images/workshops/2019/Zero/Day_2_Meyer.png"> ](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Workshops/Stage0/2019/Slides/Stage+0_South+Fork_Oct2019.pdff)
+We started out with a presentation from Kate Meyer on Stage 0 Restoration in the South Fork McKenzie River, before trekking out into the wonderful mess.  
 
-In order to take advantage of beaver dam activity (one of the two key process we focus on in low-tech process-based restoration of structurally starved systems), we need to understand a bit about beaver ecology and why they build dams in the first place. 
-- <i class="fa fa-file-pdf-o" aria-hidden="true"></i> [Beaver Ecology Slides](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2019/SGI/06_Beaver.pdf)
+- <i class="fa fa-file-pdf-o" aria-hidden="true"></i> [ South Fork McKenzie - Slides ](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Workshops/Stage0/2019/Slides/Stage+0_South+Fork_Oct2019.pdf)
 
-[<img class="float-left" src="{{ site.baseurl }}/assets/images/covers/eager-goldfarb_1.jpg">](https://www.amazon.com/Eager-Surprising-Secret-Beavers-Matter/dp/160358739X/ref=sr_1_6?ie=UTF8&qid=1512586233&sr=8-6&keywords=eager+beaver)
-This talk is elaborated in [Ben Goldfarb's](http://bengoldfarb.com/) new award winning book:  [Eager - The Surprising Secret Life of Beaver and Why they Matter](https://www.amazon.com/Eager-Surprising-Secret-Beavers-Matter/dp/160358739X/ref=sr_1_6?ie=UTF8&qid=1512586233&sr=8-6&keywords=eager+beaver). 
-
-## 7. Conservation Planning Process
-
-[<img class="float-right" src="{{ site.baseurl }}/assets/images/workshops/2019/PDF_07.png"> ](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2019/SGI/07_Planning_I.pdf)
-
-We reframe the process of undertaking low-tech restoration within the NRCS's Conservation Planning Process. Among the key adaptations of the Conservation Planning Process are learning how to read riverscapes.
-- <i class="fa fa-file-pdf-o" aria-hidden="true"></i> [Introduction to Conservation Planning Process & Reading Riverscapes](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2019/SGI/07_Planning_I.pdf)
-- <i class="fa fa-file-pdf-o" aria-hidden="true"></i> [Riverscape Valley Setting Excercise - Handout](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2019/SGI/ValleySetting_Exercise.pdf)
-
-This talk is elaborated in [Chapter 3]({{ site.baseurl}}/manual/chap03)  of design manual. 
-
-
-
-## 8. Planning in Detail
-[<img class="float-right" src="{{ site.baseurl }}/assets/images/workshops/2019/PDF_08.png"> ](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2019/SGI/08_Planning_II.pdf)
-After returning from a field trip where we focused on reading riverscapes and identifying structurally-forced alterations to hydraulic and geomorphic porcesses, we worked through the planning phase of the CPP in detail with a series of desktop excercises. 
-- <i class="fa fa-file-pdf-o" aria-hidden="true"></i> [Conservation Planning Process  Intro - Slides](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2019/SGI/08_Planning_II.pdf)
-- <i class="fa fa-file-pdf-o" aria-hidden="true"></i>  [Valley Bottom Mapping & Risks Assessment Exercise - Handout](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2019/SGI/VB_Exercises2.pdf)
-
-This talk is elaborated in [Chapter 3]({{ site.baseurl}}/manual/chap03)  of design manual. 
-
------
-## Mimicking and promoting wood accumulation and beaver dam activity 
-
-We take a break from some of the exercises to focus on some of the science behind mimicking and promoting wood accumulation and beaver dam activity. Specifically, we focus on two Intensively Monitored Watershed Case Studies that have been the catalysts for low-tech process based restoration.
-
-These talks are elaborated in [Chapter 4]({{ site.baseurl}}/manual/chap04) of design manual. 
-
-### 9. Case Study: Asotin Creek
-[<img class="float-right" src="{{ site.baseurl }}/assets/images/workshops/2019/PDF_09_Asotin.png">](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2019/SGI/09_PromotingProcess_Asotin.pdf)
-We introduce the idea of Intensively Monitored Watershed and shared insights and results from the Asotin Creek IMW in Washington about mimicking and promoting processes of wood accumulation:
-
-- <i class="fa fa-file-pdf-o" aria-hidden="true"></i> [Case Study: Asotin Creek - Slides](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2019/SGI/09_PromotingProcess_Asotin.pdf)
-
-
-### 10. Case Study: Bridge Creek
-[<img class="float-right" src="{{ site.baseurl }}/assets/images/workshops/2019/PDF_10_Bridge.png"> ](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2019/SGI/10_PromotingProcess_Bridge_bouwes.pdf)
-The Bridge Creek IMW in Oregon case study is used to show some of the underlying science behind mimicking and promoting processes of beaver dam activity:
-- <i class="fa fa-file-pdf-o" aria-hidden="true"></i> [Case Study: Bridge Creek - Slides](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2019/SGI/10_PromotingProcess_Bridge_bouwes.pdf)
-
-#### Extra Case Study Examples
-[<img class="float-right" src="{{ site.baseurl }}/assets/images/workshops/2019/PDF_10_Parish.png"> ](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2019/SGI/10_PromotingProcess_BearParish_weber.pdf)
-In some workshops, Nick Weber shares additional examples from Bear Creek and Parish Creek of some BDA projects:
-
-- <i class="fa fa-file-pdf-o" aria-hidden="true"></i> [Nick Weber Case Studies from Oregon - Slides](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2019/SGI/10_PromotingProcess_BearParish_weber.pdf)
-
-
-Please also see the [resources]({{ site.baseurl }}/resources) pages, for more examples of [case studies]({{ site.baseurl }}/resources/casestudies) .
-
------
-
-## 11. Design
-[<img class="float-right" src="{{ site.baseurl }}/assets/images/workshops/2019/PDF_11.png"> ](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2019/SGI/11_Design_Main.pdf)
-
-We walk through the LT-PBR design process to prepare participants for doing their own designs in Day 3 in the field:
-- <i class="fa fa-file-pdf-o" aria-hidden="true"></i> [Design - Slides](hhttps://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2019/SGI/11_Design_Main.pdf)
-
-
-This talk is elaborated in [Chapter 4]({{ site.baseurl}}/manual/chap04)  and [Chapter 5]({{ site.baseurl}}/manual/chap05) of design manual. 
 
 ### Example of Vision
 [<img class="float-right" src="{{ site.baseurl }}/assets/images/workshops/2019/11_Design_Wychus.png"> ](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2019/SGI/11_Design_Wychus.pdf)
@@ -161,6 +84,21 @@ An example from Wychus Creek to elaborate on concepts covered in design talk and
 <i class="fa fa-file-pdf-o" aria-hidden="true"></i> [Wychus - Slides](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2019/SGI/11_Design_Wychus.pdf)
 
 
+https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Workshops/Stage0/2019/Slides/2019_PSU_Wheaton_LTPBR_Whychus.pdf
+
+https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Workshops/Stage0/2019/Slides/Design+Exercise+with+Staley+Creek%2C+Class+Exercise+2.pdf
+
+https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Workshops/Stage0/2019/Slides/Floodplain+Evaluation+Tools+-+June+4+2019.pdf
+
+
+
+
+
+https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Workshops/Stage0/2019/Slides/Stage0GeomorphicAnalysisandExamples.pdf
+
+https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Workshops/Stage0/2019/Slides/Thorne_Benefits+and+Risks+of+Restoration+to+Stage+Zero.pdf
+
+https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Workshops/Stage0/2019/Slides/Thorne_Stage+0+Monitoring%2C+Permitting+and+Adaptive+Management.pdf
 
 
 -----
@@ -175,6 +113,9 @@ Logistics, Safety & Post Pounding ([Chapter 6 - Design Manual]({{ site.baseurl }
 - Discussions on adaptive management (Chapter [3]({{ site.baseurl }}/manual/chap03/), [4]({{ site.baseurl }}/manual/chap04/) & [6]({{ site.baseurl }}/manual/chap06/)) - Design Manual)
 - Workshop synthesis (review principles) & where to turn for [help]({{ site.baseurl }}/resources/contractors) 
 
+Wychus Findings
+
+
 
 ----
 
@@ -184,6 +125,46 @@ Logistics, Safety & Post Pounding ([Chapter 6 - Design Manual]({{ site.baseurl }
 -----
 
 # References
+
+## Stage Zero 
+
+- <i class="fa fa-file-pdf-o" aria-hidden="true"></i> Cluer, B. and Thorne, C., 2013. [A Stream Evolution Model Integrating Habitat and Ecosystem Benefits](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Workshops/Stage0/2019/Reading/Copy+of+Cluer+and+Thorne+2013.pdf). River Research and Applications, 30(2): 135-154. DOI: [10.1002/rra.2631](http://dx.doi.org/10.1002/rra.2631)
+
+### In Support of Stage Zero
+
+- <i class="fa fa-file-pdf-o" aria-hidden="true"></i> Walter, R.C. and Merritts, D.J., 2008. [Natural streams and the legacy of water-powered mills](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Workshops/Stage0/2019/Reading/Walter+and+Merritts.pdf). Science, 319(5861): 299-304
+
+- <i class="fa fa-file-pdf-o" aria-hidden="true"></i> Hauer, F.R., Locke, H., Dreitz, V.J., Hebblewhite, M., Lowe, W.H., Muhlfeld, C.C., Nelson, C.R., Proctor, M.F. and Rood, S.B., 2016. [Gravel-bed river floodplains are the ecological nexus of glaciated mountain landscapes](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Workshops/Stage0/2019/Reading/Hauer+et+al+2016+ecologic+nexus.pdf). Science Advances, 2(6): e1600026. DOI: [10.1126/sciadv.1600026](http://dx.doi.org/10.1126/sciadv.1600026)
+
+## Geomorphic Grade Line 
+
+- <i class="fa fa-file-pdf-o" aria-hidden="true"></i> Powers, P.D., Helstab, M. and Niezgoda, S.L., 2018. [A process-based approach to restoring depositional river valleys to Stage 0, an anastomosing channel network](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Workshops/Stage0/2019/Reading/Copy+of+Powers_et_al-2018-River_Research_and_Applications.pdf). River Research and Applications, 0(0). DOI: [10.1002/rra.3378](http://dx.doi.org/10.1002/rra.3378)
+
+
+
+## Other Supporting Restoration / Conservation Papers
+
+- <i class="fa fa-file-pdf-o" aria-hidden="true"></i> Castro, J.M. and Thorne, C.R., 2019. [The stream evolution triangle: Integrating geology, hydrology, and biology](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Workshops/Stage0/2019/Reading/Castro+and+Thorne+SET+RRA-2019.pdf). River Research and Applications, 35(4): 315-326. DOI: [10.1002/rra.3421](http://dx.doi.org/10.1002/rra.3421)
+
+
+
+- <i class="fa fa-file-pdf-o" aria-hidden="true"></i> Hiers, J.K., Jackson, S.T., Hobbs, R.J., Bernhardt, E.S. and Valentine, L.E., 2016. [The Precision Problem in Conservation and Restoration](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Workshops/Stage0/2019/Reading/Hiers_etal_Precisionism.pdf). Trends Ecol Evol, 31(11): 820-830. DOI: [10.1016/j.tree.2016.08.001](http://dx.doi.org/10.1016/j.tree.2016.08.001)
+
+
+- <i class="fa fa-file-pdf-o" aria-hidden="true"></i> Johnson, M.F., Thorne, C.R., Castro, J.M., Kondolf, G.M., Mazzacano, C.S., Rood, S.B. and Westbrook, C., 2019. [Biomic river restoration: A new focus for river management](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Workshops/Stage0/2019/Reading/Johnson+et+al.+2019+Biomic+River+Restoration_RRA.pdf). River Research and Applications. DOI: 10.1002/rra.3529
+
+- <i class="fa fa-file-pdf-o" aria-hidden="true"></i>Sedell, J.R.a.J.L.F., 1984. [Importance of streamside forests to large rivers: the isolation of the Willamette River, Oregon, U.S.A., from its floodplain by snagging and streamside forest removal](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Workshops/Stage0/2019/Reading/Seddell1984.pdf). Verh. Internat. Verein. Limnol., 22: 1828-1834.
+
+## Stage 0 in UK
+
+- <i class="fa fa-file-pdf-o" aria-hidden="true"></i> Thorne, C.R., Hardwick, M., Winfield, P. and Oliver, C., Design of an environmentally aligned flood alleviation scheme: the Burn of Mosset, Moray, Scotland, Flood Risk, pp. 339-360. DOI: 10.1680/fr.41561.339
+
+## Low-Tech Process-Based Restoration
+
+<a href="http://lowtechpbr.restoration.usu.edu/manual"><img class="float-right" src="{{ site.baseurl }}/assets/images/covers/Manual_Tilted_150.png"></a> 
+- <a href="http://dx.doi.org/10.13140/RG.2.2.19590.63049/2"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a> Wheaton J.M., Bennett S.N., Bouwes, N., Maestas J.D. and Shahverdian S.M. (Editors). 2019. [Low-Tech Process-Based Restoration of Riverscapes: Design Manual. Version 1.0](http://lowtechpbr.restoration.usu.edu/manual). Utah State University Restoration Consortium. Logan, UT. 286 pp. DOI: [10.13140/RG.2.2.19590.63049/2](http://dx.doi.org/10.13140/RG.2.2.19590.63049/2).
+
+### Some Science in Support of Low-Tech PBR
 - <i class="fa fa-file-pdf-o" aria-hidden="true"></i> Silverman NL, Allred BW, Donnelly JP, Chapman TB, Maestas JD, Wheaton J, White J and Naugle DE. 2018. [Low-tech riparian and wet meadow restoration increases vegetation productivity and resilience across semi-arid rangelands](https://www.researchgate.net/publication/326869390_Low-tech_riparian_and_wet_meadow_restoration_increases_vegetation_productivity_and_resilience_across_semi-arid_rangelands). Restoration Ecology. DOI: [10.1111/rec.12869](https://doi.org/10.1111/rec.12869).
 - <i class="fa fa-file-pdf-o" aria-hidden="true"></i> Weber N, Bouwes N, Pollock M, Volk C,  Wheaton JM, Wathen G, and Jordan C. 2017. [Alteration of stream temperature by natural and artificial beaver dams](https://www.researchgate.net/publication/316995139_Alteration_of_stream_temperature_by_natural_and_artificial_beaver_dams). PLOS ONE. 12(5): e0176313. DOI: [10.1371/journal.pone.0176313](http://dx.doi.org/10.1371/journal.pone.0176313)
 - <i class="fa fa-file-pdf-o" aria-hidden="true"></i> Wall E, Bouwes N, Wheaton JM, Bennett SN, Saunders WC, McHugh PA, and Jordan CE. 2016. [Design and monitoring of woody structures and their benefits to juvenile steelhead trout (Oncorhynchus mykiss) using a net rate of energy intake model](https://www.researchgate.net/publication/308765970_Design_and_monitoring_of_woody_structures_and_their_benefits_to_juvenile_steelhead_trout_Oncorhynchus_mykiss_using_a_net_rate_of_energy_intake_model). Canadian Journal of Fisheries and Aquatic Sciences. DOI: [10.1139/cjfas-2016-0131](http://dx.doi.org/10.1139/cjfas-2016-0131).
