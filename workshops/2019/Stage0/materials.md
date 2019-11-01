@@ -8,56 +8,77 @@ October 22-24, 2019
 Black Butte Ranch, Sisters, Oregon
 RRNW & PSU Sponsored
 
-Below you can find PDFs of the slides we cover in the intro to low-tech process-based restoration workshops. Each is licensed with a [Creative Commons licence](https://creativecommons.org/), so you are free to re-use subject to the terms of the license. 
 
+
+
+
+https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Workshops/Stage0/2019/Slides/2019_PSU_Wheaton_LTPBR_Whychus.pdf
+
+https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Workshops/Stage0/2019/Slides/Design+Exercise+with+Staley+Creek%2C+Class+Exercise+2.pdf
+
+https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Workshops/Stage0/2019/Slides/Floodplain+Evaluation+Tools+-+June+4+2019.pdf
+
+
+
+https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Workshops/Stage0/2019/Slides/Stage+0_South+Fork_Oct2019.pdf
+
+https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Workshops/Stage0/2019/Slides/Stage0GeomorphicAnalysisandExamples.pdf
+
+https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Workshops/Stage0/2019/Slides/Thorne_Benefits+and+Risks+of+Restoration+to+Stage+Zero.pdf
+
+https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Workshops/Stage0/2019/Slides/Thorne_Stage+0+Monitoring%2C+Permitting+and+Adaptive+Management.pdf
+
+
+
+
+
+------
 # Day 1 
 
-##  1. Welcome
+##  Stage 0: Genesis & Theory
 
-[<img class="float-right" src="{{ site.baseurl }}/assets/images/workshops/2019/PDF_01.png"> ](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Workshops/LTPBR/2019/SGI/01_Logistics.pdf)
+[<img class="float-right" src="{{ site.baseurl }}/assets/images/workshops/2019/PDF_01.png"> ](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Workshops/Stage0/2019/Slides/Thorne_Stage+Zero+-+Basis+and+Theory.pdff)
 
-The workshop kicks off with some introductions and logistics from Kris Fischer & Brian Cluer.  
-- <i class="fa fa-file-pdf-o" aria-hidden="true"></i> [Logistics, Introductions - Slides](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Workshops/LTPBR/2019/SGI/01_Logistics.pdf)
+Colin Thorne got us started with an introduction to Stage Zero River Restoration: Basis & Theory.  
+- <i class="fa fa-file-pdf-o" aria-hidden="true"></i> [Basis & Theory - Slides](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Workshops/Stage0/2019/Slides/Thorne_Stage+Zero+-+Basis+and+Theory.pdf)
 
 
-## 2. Background and purpose 
+##  Western Streams: Evidence for Stage 0 & Using Stream Evolution Model to guide restoration approaches
 
-[<img class="float-right" src="{{ site.baseurl }}/assets/images/workshops/2019/PDF_02.png"> ](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2019/SGI/02_LowTech_BackgroundPurpose.pdf)
-Next, we set the stage for why we're here, underscore the scope of degradation, and lay out a vision for what is possible. 
+[<img class="float-right" src="{{ site.baseurl }}/assets/images/workshops/2019/Zero/Day1_C_Cluer.png"> ](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Workshops/Stage0/2019/Slides/Western+streams+and+SEM+Black+Butte.pdf)
+Next, Brian Cluer. 
 
-- <i class="fa fa-file-pdf-o" aria-hidden="true"></i> [Background & Purpose - Slides](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2019/SGI/02_LowTech_BackgroundPurpose.pdf)
+- <i class="fa fa-file-pdf-o" aria-hidden="true"></i> [Brian's Slides](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Workshops/Stage0/2019/Slides/Western+streams+and+SEM+Black+Butte.pdf)
 
 These talks are elaborated in [Chapter 1]({{ site.baseurl}}/manual/chap01) of design manual. 
 
-## 3. Build your first Beaver Dam Analogue exercise
+## Intorduction to Low-Tech Process-Based Restoration to Stage 0
 
-[<img class="float-right" src="{{ site.baseurl }}/assets/images/workshops/2019/PDF_03.png">](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2019/SGI/03_ParkingLotBDA.pdf)
-To break the ice, and get people thinking about construction, logistics and safety we went out in the parking lot to build a BDA. Participants follow a simple wicker weave recipe. 
+[<img class="float-right" src="{{ site.baseurl }}/assets/images/workshops/2019/PDF_03.png">](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Workshops/Stage0/2019/Slides/Indentify+Stage+0+Valley+Types+Class+Exercise+1.pdf)
+Paul Powers walked us through some ways of reading valley settings and riverscapes where Stage 0 may be appropriate. 
 
 
-- <i class="fa fa-file-pdf-o" aria-hidden="true"></i> [Build your first Beaver Dam Analogue exercise - Slides](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2019/SGI/03_ParkingLotBDA.pdf)
+- <i class="fa fa-file-pdf-o" aria-hidden="true"></i> [Slides](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Workshops/Stage0/2019/Slides/Indentify+Stage+0+Valley+Types+Class+Exercise+1.pdf)
 
-This excercise is elaborated in the [Pocket Guide]({{ site.baseurl}}/resources/pocket). 
 
-## 4. Introduction to low-tech approaches 
 
-[<img class="float-right" src="{{ site.baseurl }}/assets/images/workshops/2019/PDF_04.png"> ](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2019/SGI/04_LowTechApproaches.pdf)
+
+
+
+## 4. Introduction to low-tech PBR approaches 
+
+[<img class="float-right" src="{{ site.baseurl }}/assets/images/workshops/2019/PDF_04.png"> ](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Workshops/Stage0/2019/Slides/2019_PSU_Wheaton_LTPBR_Intro.pdf)
 Having conquer the parking lot, we work through the diversity of low-tech approaches and structure types. 
 
-- <i class="fa fa-file-pdf-o" aria-hidden="true"></i> [ Introduction to low-tech approaches - Slides ](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2019/SGI/04_LowTechApproaches.pdf)
+- <i class="fa fa-file-pdf-o" aria-hidden="true"></i> [ Introduction to low-tech approaches - Slides ](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Workshops/Stage0/2019/Slides/2019_PSU_Wheaton_LTPBR_Intro.pdf)
 
-This talk is elaborated in [Chapter 1]({{ site.baseurl}}/manual/chap01) & [Chapter 4]({{ site.baseurl}}/manual/chap04) of design manual. 
+[<img class="float-left" src="{{ site.baseurl }}/assets/images/covers/pocket_guide_cover_150w.png"> ]({{ site.baseurl}}/resources/pocket)
+This talk is elaborated in [Chapter 1]({{ site.baseurl}}/manual/chap01) & [Chapter 2]({{ site.baseurl}}/manual/chap02) of design manual.  We also handed out a  [Pocket Guide]({{ site.baseurl}}/resources/pocket). 
+
+## Wychus - Camp Polk Field Visit & Low-Tech Construction Intro
 
 
 
-##  5. Guiding Principles 
-
-[<img class="float-right" src="{{ site.baseurl }}/assets/images/workshops/2019/PDF_05.png"> ](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2019/SGI/05_Principles.pdf)
-
-Perhaps the most important aspect to understand about low-tech process-based restoration: the underlying principles:
-- <i class="fa fa-file-pdf-o" aria-hidden="true"></i> [Guiding Principles - Slides](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2019/SGI/05_Principles.pdf)
-
-This talk is elaborated in [Chapter 2]({{ site.baseurl}}/manual/chap02)  of design manual. 
 
 -----
 #  Day 2 - Planning and Designing Low-Tech Riparian Restoration
@@ -139,21 +160,8 @@ An example from Wychus Creek to elaborate on concepts covered in design talk and
 
 <i class="fa fa-file-pdf-o" aria-hidden="true"></i> [Wychus - Slides](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2019/SGI/11_Design_Wychus.pdf)
 
-## 12. Implementation 
-[<img class="float-right" src="{{ site.baseurl }}/assets/images/workshops/2019/PDF_12.png"> ](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2019/SGI/12_Implementation.pdf)
-
-We covered implementation on Day 3 in the field, but here are some overview slides:
-- <i class="fa fa-file-pdf-o" aria-hidden="true"></i> [Implementation](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2019/SGI/12_Implementation.pdf)
-
-This is based mainly on  [Chapter 6]({{ site.baseurl}}/manual/chap06)  of the design manual. 
 
 
-## A Rancher’s Story: Reintroducing beaver to bring back perennial flow 
-[<img class="float-right" src="{{ site.baseurl }}/assets/images/workshops/2019/Wilde_BirchCk.png"> ](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2019/SGI/Wilde+-+Brich+Creek.pdf)
-Idaho rancher Jay Wilde shared his amazing story
-- <i class="fa fa-file-pdf-o" aria-hidden="true"></i> [A Rancher’s Story: Reintroducing beaver to bring back perennial flow ](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2019/SGI/Wilde+-+Brich+Creek.pdf)
-(Wilde et al. (2019))
-If you missed it, see a version Jay gave last year [here]({{ site.baseurl }}/resources/talks).
 
 -----
 # Day 3 - Building Low-Tech Restoration Structures  
@@ -167,6 +175,10 @@ Logistics, Safety & Post Pounding ([Chapter 6 - Design Manual]({{ site.baseurl }
 - Discussions on adaptive management (Chapter [3]({{ site.baseurl }}/manual/chap03/), [4]({{ site.baseurl }}/manual/chap04/) & [6]({{ site.baseurl }}/manual/chap06/)) - Design Manual)
 - Workshop synthesis (review principles) & where to turn for [help]({{ site.baseurl }}/resources/contractors) 
 
+
+----
+
+# Instruction Team
 
 
 -----
