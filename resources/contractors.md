@@ -40,7 +40,7 @@ Over time, more companies and firms will hopefully also start filling this niche
 
 The nuisance beaver mitigation (so-called 'living with beaver' strategies) are slightly more mature than the practice of beaver-assisted restoration and beaver-inspired restoration. One of the most authoritative sites on such practices is the [Beaver Institute](https://www.beaverinstitute.org/), put together by Mike Callahan. They maintain an ['Installer Locator' List](https://www.beaverinstitute.org/management/installer-locator/). The companies below all are also experienced installers:
 
-<div class="row small-up-2 medium-up-2 large-up-3">
+<div class="row small-up-2 medium-up-2 large-up-4">
   <div class="column column-block">
     <a href="https://www.beaverinstitute.org/"><img src="{{ site.baseurl }}/assets/images/logos/og_1.png"></a>
   </div>
@@ -59,7 +59,12 @@ The nuisance beaver mitigation (so-called 'living with beaver' strategies) are s
   <div class="column column-block">
     <a href="https://oaec.org/our-work/projects-and-partnerships/water-institute/"><img src="{{ site.baseurl }}/assets/images/logos/beaver-sticker-final.png"></a>
   </div>
-
+  <div class="column column-block">
+    <a href="https://www.watershedartisans.com/"><img src="{{ site.baseurl }}/assets/images/logos/watershed_artisans.png"></a>
+  </div>
+    <div class="column column-block">
+    <a href="http://www.beaverstatewildlifesolutions.com/"><img src="{{ site.baseurl }}/assets/images/logos/beaver_state_wildlife_solutions.jpg"></a>
+  </div>
 </div>
 
 ------
