@@ -26,21 +26,20 @@ weight: 1
     <a href="http://anabranchsolutions.com"><img src="{{ site.baseurl }}/assets/images/sponsors/anabranchsolutionslogo-square-450_10.png"></a>
   </div>
 </div>
-[<img class="float-right" style="padding: 10px;" src="{{ site.baseurl }}/assets/images/workshops/2019/2019Flyer.png">](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Workshops/LTPBR/2019/SGI/SGI-NRCS_LTR_Workshop-Series_2019_Flyer_v2.pdf)
-Thanks to the generous support of the [Natural Resource Conservation Service's](https://www.nrcs.usda.gov/wps/portal/nrcs/detailfull/national/programs/initiatives/?cid=steldevb1027671) [Sage Grouse Initiative](https://www.sagegrouseinitiative.com/) and [Working Lands for Wildlife Initiative](https://www.nrcs.usda.gov/wps/portal/nrcs/detail/national/plantsanimals/fishwildlife/?cid=stelprdb1046975), a grant through [Pheasants Forever](https://www.pheasantsforever.org/) to [Utah State University's Restoration Consortium](http://restoration.usu.edu/) and [Joe Wheaton's](http://joewheaton.org/) [ET-AL lab](http://etal.joewheaton.org/) are able to deliver a series of workshops to NRCS conservationists and their partners throughout the west. This series was envisioned by Jeremy Maestas (NRCS/SGI) and is possible thanks to partner matches by various local organizations in each state (see each state page) and matching funds from Utah State University. This grew out of the successful 2016 Enhancing Mesic Habitat Resilience in Sagebrush Ecosystems Workshop at Utah State University and the 2018 workshop series. 
 
+Thanks to the generous support of the [Natural Resource Conservation Service's](https://www.nrcs.usda.gov/wps/portal/nrcs/detailfull/national/programs/initiatives/?cid=steldevb1027671) [Sage Grouse Initiative](https://www.sagegrouseinitiative.com/) and [Working Lands for Wildlife Initiative](https://www.nrcs.usda.gov/wps/portal/nrcs/detail/national/plantsanimals/fishwildlife/?cid=stelprdb1046975), a grant through [Pheasants Forever](https://www.pheasantsforever.org/) to [Utah State University's Restoration Consortium](http://restoration.usu.edu/) and [Joe Wheaton's](http://joewheaton.org/) [ET-AL lab](http://etal.joewheaton.org/) are able to deliver a series of workshops to NRCS conservationists and their partners throughout the west. This series was envisioned by Jeremy Maestas (NRCS/SGI) and is possible thanks to partner matches by various local organizations in each state (see each state page) and matching funds from Utah State University. This grew out of the successful 2016 Enhancing Mesic Habitat Resilience in Sagebrush Ecosystems Workshop at Utah State University and the 2018 and [2019]({{ site.baseurl }}/workshops/2019/SGI/) workshop series. 
 
 
 
 ## Two  Workshops, Two  Western States
 
-For the third consecutive year, a series of workshops will be hosted in the summer of 2020 to connect  NRCS conservationists and partnerswho are interested in how to use low-tech process-based restoration to restore riparian areas to benefit wildlife and working lands.
+For the third consecutive year, a series of workshops will be hosted in the summer of 2020 to connect  NRCS conservationists and partners who are interested in how to use low-tech process-based restoration to restore riparian areas to benefit wildlife and working lands.
 
 <div align="center">
 
-<a class="hollow button" href="{{ site.baseurl }}/workshops/2019/SGI/Venues/co"><img src="{{ site.baseurl }}/assets/images/workshops/2019/CO_50.png"> COLORADO WORKSHOP<br>July 30 to August 1, 2019<br>Gunnison, Colorado</a>
-<a class="hollow button" href="{{ site.baseurl }}/workshops/2019/SGI/Venues/mt"><img src="{{ site.baseurl }}/assets/images/workshops/2019/MO_50.png"> MONTANA WORKSHOP<br>August 6 to 8, 2019<br>Lewistown, Montana</a>
-<a class="hollow button" href="{{ site.baseurl }}/workshops/2019/SGI/Venues/id"><img src="{{ site.baseurl }}/assets/images/workshops/2019/ID_50.png"> IDAHO WORKSHOP<br>August 13 to 15, 2019<br>Hailey, Idaho</a>
+<a class="hollow button" href="{{ site.baseurl }}/workshops/2020/SGI/Venues/ut"><img src="{{ site.baseurl }}/assets/images/workshops/2020/UT_50.png"> UTAH  WORKSHOP<br>July 14 to 16, 2020<br>Logan, Utah</a>
+<a class="hollow button" href="{{ site.baseurl }}/workshops/2020/SGI/Venues/wa"><img src="{{ site.baseurl }}/assets/images/workshops/2020/WA_50.png"> WASHINGTON WORKSHOP<br>August 11 to 13, 2020<br>Asotin, Washington</a>
+
 
 </div>
 
@@ -103,10 +102,14 @@ needed to design and implement appropriate low-cost practices and foster technol
 <div class="column column-block">
     <a href="http://www.anabranchsolutions.com/andy-hill.html"><img src="{{ site.baseurl }}/assets/images/people/hill-round.png"></a>
     <h4><a href="https://www.researchgate.net/profile/Stephen_Bennett8">Andrew Hill<sup>2,3</sup></a></h4>
-    Ecologist
+    Spatial Ecologist & Designer
   </div>
 
-
+<div class="column column-block">
+    <a href="https://www.palousecd.org/district-staff"><img src="{{ site.baseurl }}/assets/images/people/brad-round.png"></a>
+    <h4><a href="https://www.palousecd.org/district-staff">Brad Johnson<sup>6</sup></a></h4>
+    Watershed Manager
+  </div>
 <div class="column column-block">
     <a href="https://www.researchgate.net/profile/Jeremy_Maestas"><img src="{{ site.baseurl }}/assets/images/people/Maestas_round.png"></a>
     <h4><a href="https://www.researchgate.net/profile/Jeremy_Maestas">Jeremy Maestas<sup>5</sup></a></h4>
@@ -159,6 +162,10 @@ needed to design and implement appropriate low-cost practices and foster technol
 
    <div class="column column-block">
     <a href="https://www.nrcs.usda.gov/wps/portal/nrcs/detailfull/national/about/leadership/centers/?cid=NRCS143_021469"><img src="{{ site.baseurl }}/assets/images/sponsors/usda-nrcs-logo_1_orig.png"></a><br>5.
+  </div>
+
+   <div class="column column-block">
+    <a href="https://www.nrcs.usda.gov/wps/portal/nrcs/detailfull/national/about/leadership/centers/?cid=NRCS143_021469"><img src="{{ site.baseurl }}/assets/images/logos/Palouse.png"></a><br>6.
 
   </div>
 
