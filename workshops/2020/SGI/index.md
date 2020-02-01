@@ -1,8 +1,8 @@
 ---
-title:  2019 NRCS WLFW Low-Tech Riparian Restoration Workshops 
+title:  2020 NRCS WLFW Low-Tech Riverscape Restoration Workshops 
 weight: 1
 ---
-# 2019 Field Workshop Series
+# 2020 Field Workshop Series
 
 
 
@@ -32,9 +32,9 @@ Thanks to the generous support of the [Natural Resource Conservation Service's](
 
 
 
-## Three Workshops, Three Western States
+## Two  Workshops, Two  Western States
 
-A series of workshops will be hosted in the summer of 2019 to connect local NRCS conservationists and partners in their states who are interested in how to use low-tech process-based restoration to restore riparian areas to benefit wildlife and working lands.
+For the third consecutive year, a series of workshops will be hosted in the summer of 2020 to connect  NRCS conservationists and partnerswho are interested in how to use low-tech process-based restoration to restore riparian areas to benefit wildlife and working lands.
 
 <div align="center">
 
@@ -88,11 +88,7 @@ needed to design and implement appropriate low-cost practices and foster technol
 ### Instruction Team
 
 <div class="row small-up-2 medium-up-2 large-up-4" align="center">
-  <div class="column column-block">
-    <a href="https://www.researchgate.net/profile/Mark_Beardsley"><img src="{{ site.baseurl }}/assets/images/people/beardsley-round.png"></a>
-    <h4><a href="https://www.researchgate.net/profile/Stephen_Bennett8">Mark Beardsley<sup>4</sup></a></h4>
-    Ecologist
-  </div>
+
   <div class="column column-block">
     <a href="https://www.researchgate.net/profile/Stephen_Bennett8"><img src="{{ site.baseurl }}/assets/images/people/bennett-round_orig.png"></a>
     <h4><a href="https://www.researchgate.net/profile/Stephen_Bennett8">Stephen N. Bennett<sup>1,2,3</sup></a></h4>
@@ -103,6 +99,13 @@ needed to design and implement appropriate low-cost practices and foster technol
     <h4><a href="https://www.researchgate.net/profile/Nick_Bouwes">Nicolaas Bouwes<sup>3,2,1</sup></a></h4>
    Aquatic  Ecologist, Adjunct Professor
   </div>
+
+<div class="column column-block">
+    <a href="http://www.anabranchsolutions.com/andy-hill.html"><img src="{{ site.baseurl }}/assets/images/people/hill-round.png"></a>
+    <h4><a href="https://www.researchgate.net/profile/Stephen_Bennett8">Andrew Hill<sup>2,3</sup></a></h4>
+    Ecologist
+  </div>
+
 
 <div class="column column-block">
     <a href="https://www.researchgate.net/profile/Jeremy_Maestas"><img src="{{ site.baseurl }}/assets/images/people/Maestas_round.png"></a>
