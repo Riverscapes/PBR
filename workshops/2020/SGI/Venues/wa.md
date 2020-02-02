@@ -19,9 +19,9 @@ weight: 2
 
 <a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2020/SGI/Low-Tech+PBR+Workshop+Agenda+-+Asotin%2C+WA.pdf"><i class="fa fa-file-pdf-o" aria-hidden="true"></i> Agenda</a>
 
-- July 30: 12 PM - 5 PM: meet @ Western Colorado University, South Ballroom 
-- July 31: 8 AM - 5 PM:  meet @ Western Colorado University, South Ballroom 
-- August 1: 7 AM - 4 PM: meet [on-site @ Beaver Creek](https://goo.gl/maps/UF2wM5Hs8Mjsv2Z38)
+- August 11: 9 AM - 5 PM: meet @ TBD 
+- July 12: 8 AM - 5 PM:  meet @ TBD
+- August 113: 7 AM - 4 PM: meet on site.
 
 ## Asotin Album
 
