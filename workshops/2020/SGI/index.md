@@ -9,6 +9,7 @@ weight: 1
 ## Overview
 
 
+
 <div class="row small-up-2 medium-up-2 large-up-6" >
   <div class="column column-block">
     <a href="https://www.nrcs.usda.gov/wps/portal/nrcs/detail/national/plantsanimals/fishwildlife/?cid=stelprdb1046975"><img src="{{ site.baseurl }}/assets/images/sponsors/WLFW.png"></a>
@@ -27,6 +28,8 @@ weight: 1
   </div>
 </div>
 
+
+
 Thanks to the generous support of the [Natural Resource Conservation Service's](https://www.nrcs.usda.gov/wps/portal/nrcs/detailfull/national/programs/initiatives/?cid=steldevb1027671) [Sage Grouse Initiative](https://www.sagegrouseinitiative.com/) and [Working Lands for Wildlife Initiative](https://www.nrcs.usda.gov/wps/portal/nrcs/detail/national/plantsanimals/fishwildlife/?cid=stelprdb1046975), a grant through [Pheasants Forever](https://www.pheasantsforever.org/) to [Utah State University's Restoration Consortium](http://restoration.usu.edu/) and [Joe Wheaton's](http://joewheaton.org/) [ET-AL lab](http://etal.joewheaton.org/) are able to deliver a series of workshops to NRCS conservationists and their partners throughout the west. This series was envisioned by Jeremy Maestas (NRCS/SGI) and is possible thanks to partner matches by various local organizations in each state (see each state page) and matching funds from Utah State University. This grew out of the successful 2016 Enhancing Mesic Habitat Resilience in Sagebrush Ecosystems Workshop at Utah State University and the 2018 and [2019]({{ site.baseurl }}/workshops/2019/SGI/) workshop series. 
 
 
@@ -43,9 +46,18 @@ For the third consecutive year, a series of workshops will be hosted in the summ
 
 </div>
 
-# Course Materials
+### Workshop Flyers
+<div align = "center">
+<a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2020/SGI/SGI-NRCS_LTR_Workshop-WA_2020_Flyer.pdf"><img src="{{ site.baseurl }}/assets/images/workshops/2020/WA_2020_Flyer.png"></a>
 
-## Slides & Handouts
+<a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2020/SGI/SGI-NRCS_LTR_Workshop-UT_2020_Flyer.pdf"><img src="{{ site.baseurl }}/assets/images/workshops/2020/UT_2020_Flyer.png"></a>
+</div>
+<br><br>
+
+------
+## Course Materials
+
+### Slides & Handouts
 
 <div align="center">
 
@@ -54,7 +66,7 @@ For the third consecutive year, a series of workshops will be hosted in the summ
 
 </div>
 
-## Workshop Textbooks
+### Workshop Textbooks
 For the workshops, we primarily relied on the new [Design Manual]({{ site.baseurl }}/manual) and the [Pocket Guide]({{ site.baseurl }}/resources/pocket), which [Working Lands for Wildlife Initiative](https://www.nrcs.usda.gov/wps/portal/nrcs/detail/national/plantsanimals/fishwildlife/?cid=stelprdb1046975) generously provided free copies of to each participant. Free electronic versions are below. Print copies of manual are available for $60 [on Amazon](https://www.amazon.com/Low-Tech-Process-Based-Restoration-Riverscapes-Design/dp/1543972993/ref=sr_1_1?keywords=low+tech+process-based+restoration&qid=1558989073&s=gateway&sr=8-1) and print runs of the pocket guide can be [arranged]({{ site.baseurl }}/resources/pocket). 
 
 
@@ -71,7 +83,7 @@ For the workshops, we primarily relied on the new [Design Manual]({{ site.baseur
 
 -----
 
-# More Background
+## More Background
 
 Through [SGI 2.0, NRCS](https://www.sagegrouseinitiative.com/new-sage-grouse-strategy-unveiled-760-million-invested-2018/) has committed to work with landowners and partners to help protect and [restore mesic habitats](https://www.sagegrouseinitiative.com/our-work/proactive-conservation/#section5), such as riparian and wet meadow areas, to benefit sage-grouse. While a variety of mesic conservation strategies exist, relatively simple and low-cost alternatives are a potentially important part of toolbox for restoration at scales relevant to sage-grouse.
 
