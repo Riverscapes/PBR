@@ -4,25 +4,14 @@ weight:  2
 ---
 # Idaho Department of Fish & Game SHORT-COURSE: Intro to Low-Tech Process-Based Restoration of Riverscapes 
 
-**June  9-11, 2019 in Pocatello, Idaho**
-
-[![LTPBR_2019]({{ site.baseurl }}/assets/images/workshops/2019/LTPBR_2019.png)](http://restoration.usu.edu/courses/LTPBR_Logan)
-
-[<img class="float-right" style="padding: 10px;" src="{{ site.baseurl }}/assets/images/workshops/2019/2019LoganFlyer.png">](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2019/Logan/Logan_LTR_Workshop_2019_Flyer-1.pdf)
-
-This publicly [oferred  short-course](http://restoration.usu.edu/courses/LTPBR_Logan), hosted by [Utah State University Restoration Consortium](http://restoration.usu.edu), will bring together partners interested in low-tech alternatives for restoring streams and associated riparian and mesic habitats to benefit wildlife and working lands. 
-
-In this 2.5 day workshop, you will be introduced to the principles underlying low-tech process-based restoration of riverscapes. You will get introduced to planning, design and construction of cost-effective, low-risk techniques that can be implemented at large scales to meet mesic habitat restoration goals including: partnering with beaver, beaver dam analogues (BDAs), post-assisted log structures (PALS), and other simple hand-built structures designed to facilitate process-based restoration.
-
-<div align="center">
-
-<a class= "button" href="{{ site.baseurl }}/workshops/2019/RC/ut"> <i class="fa fa-linode" aria-hidden="true"></i> Already Registered? <br> See Here for Logistics </a>
-<a class= "button" href="http://restoration.usu.edu/courses/LTPBR_Logan"><i class="fa fa-graduation-cap" aria-hidden="true"></i> Click Here for<br> Registration Information</a>
-
-</div>
+**Tentatively Scheudled: June  9-11, 2019 in Pocatello, Idaho**
 
 
+This invittaion only [short-course](http://restoration.usu.edu/courses/LTPBR_Logan), hosted by [Utah State University Restoration Consortium](http://restoration.usu.edu), will bring together IDFG and partners interested in low-tech alternatives for restoring streams and associated riparian and mesic habitats to benefit wildlife and working lands in southern Idaho. 
 
+In this 3 day workshop, you will be introduced to the principles underlying low-tech process-based restoration of riverscapes. You will get introduced to planning, design and construction of cost-effective, low-risk techniques that can be implemented at large scales to meet mesic habitat restoration goals including: partnering with beaver, beaver dam analogues (BDAs), post-assisted log structures (PALS), and other simple hand-built structures designed to facilitate process-based restoration.
+
+**DETAILS FORTHCOMING**
 
 # Course Materials
 
@@ -85,10 +74,6 @@ For the workshops, we will rely on the new [Design Manual]({{ site.baseurl }}/ma
   </div>
   
 
-  <div class="column column-block">
-    <a href="https://www.palousecd.org/district-staff"><img src="{{ site.baseurl }}/assets/images/people/brad-round.png"></a>
-    <h4><a href="https://www.palousecd.org/district-staff">Brad Johnson<sup>5</sup></a></h4>
-  </div>
 
 </div>
 
@@ -112,9 +97,7 @@ For the workshops, we will rely on the new [Design Manual]({{ site.baseurl }}/ma
     <a href="https://www.nwfsc.noaa.gov/"><img src="{{ site.baseurl }}/assets/images/sponsors/NOAA.png"></a><br>4. 
   </div>
 
- <div class="column column-block">
-    <a href="http://www.palousecd.org/"><img src="{{ site.baseurl }}/assets/images/logos/Palouse.png"></a><br>5. 
-  </div>
+
 
 </div>
 
