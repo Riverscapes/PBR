@@ -1,27 +1,22 @@
 ---
-title:  Utah 2020 
-weight: 1
+title:  Logan 2019 
+weight: 2
 ---
-# Utah  Low-Tech PBR Workshop 2020
-
-<a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2020/SGI/SGI-NRCS_LTR_Workshop-UT_2020_Flyer.pdf"><img class="float-right" src="{{ site.baseurl }}/assets/images/workshops/2020/WA_2020_Flyer.png"></a>
-
-<div align="center">
-<a class="hollow button" ><img src="{{ site.baseurl }}/assets/images/workshops/2020/UT_50.png"> UTAH WORKSHOP<br>July 14 to 16, 2020<br>Asotin, Washington</a>
-</div>
-
-##  Workshop Meeting Places, Agena  & Times
-
-<a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2020/SGI/Low-Tech+PBR+Workshop+Agenda+-+Logan%2C+UT.pdf"><img class="float-right" src="{{ site.baseurl }}/assets/images/workshops/2020/LoganAgenda.png"></a>
-The workshop will be an intensive 3 Days. Day 1 and 2 we meet in the [USU Merril-Cazier Library](http://www.usu.edu/map/index.cfm?id=22). Our class will be in LIB 101, which is immediately to your left in the breezeway of the Library Entrance. 
-
-
-- **Tuesday, July 14th, 2020**  @  9:00 to 18:00. Meet in [Library 101](http://www.usu.edu/map/index.cfm?id=22) 
-- **Wednesday, July 15th, 2020**  @  8:00 to 17:00. Meet in [Library 101](http://www.usu.edu/map/index.cfm?id=22)
-- **Thursday, July 16th, 2020** @ 7:30 to 17:00. Meet in field in Brich Creek Idaho. 
 
 
 
+# Workshop Meeting Places & Times
+The workshop will be an intensive 2.5 Days. We will be in different locations all three days. Day 1 and 2 are in the [USU Merril-Cazier Library](http://www.usu.edu/map/index.cfm?id=22), but in different class rooms. The first day will be in LIB 154, which is found by entering the library, walking straight past the stairs, and you will find the class room to your left.  The second day will be in LIB 101, which is immediately to your left in the breezeway of the Library Entrance. 
+[<img class="float-right" src="{{ site.baseurl }}/assets/images/workshops/2019/LoganAgenda.png"> ](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2019/Logan/RC+Low-Tech+Riparian+Restoration+Workshop+Agenda+-+Logan%2C+UT.pdf)
+- **Wednesday, October 9th, 2019**  @  13:00 to 18:00. Meet in [Library 154](http://www.usu.edu/map/index.cfm?id=22) (eat lunch prior to arrival)
+- **Thursday, October 10th, 2019**  @  8:00 to 17:00. Meet in [Library 101](http://www.usu.edu/map/index.cfm?id=22)
+- **Friday, October 11th, 2019** @ 7:30 to 17:00. Meet in field in Station Creek Idaho. 
+
+
+
+
+
+<a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2019/Logan/RC+Low-Tech+Riparian+Restoration+Workshop+Agenda+-+Logan%2C+UT.pdf"><i class="fa fa-file-pdf-o" aria-hidden="true"></i> Full Agenda</a>
 
 -----
 # Where were we? Workshop Venues & Maps
@@ -69,14 +64,23 @@ Here's a map of our hike route. We will be crossing streams so have closed-toe f
 	<iframe src="https://www.google.com/maps/d/embed?mid=1sMTn5gIjiPQf2Qq5mxEvLvTPGDRyIihO" width="640" height="480"></iframe>
 </div>
 
-### Construction - Day 3 - Brich Creek, ID
+### Construction - Day 3 - Station Creek 
 
-**IMPORTANT**: Transportation will *not* be provided on Day 3 to Birch Creek. To save time (and hopefully wrap up earlier, we will meet on site. You are *strongly* encouraged to carpool with other workshop participants up to Station Creek. It is about an hour drive from Logan to the Field Site. There is ample parking on site, but we should try and limit the number of vehicles. There is some cell reception.  
+**IMPORTANT**: Transportation will *not* be provided on Day 3 to Station Creek. To save time (and hopefully wrap up earlier, we will meet on site. You are *strongly* encouraged to carpool with other workshop participants up to Station Creek. It is about an hour drive from Logan to the Field Site. There is ample parking on site, but we should try and limit the number of vehicles. There is some cell reception.  The address is [5536 East Station Creek Road, Preston, ID 83263](https://goo.gl/maps/uyjfR6TrEZoNGE1E8).
 
+<div class="responsive-embed">
+	<iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d245998.2241805459!2d-112.01502949358752!3d41.96135491511675!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0x87547e7e0399bc71%3A0x12a17e3546d7ddb8!2sMerrill-Cazier%20Library%2C%203000%20Old%20Main%20Hill%2C%20Logan%2C%20UT%2084321!3m2!1d41.7421256!2d-111.80972949999999!4m5!1s0x875450c38a8057ed%3A0xf37575717236751!2s5536%20E%20Station%20Creek%20Rd%2C%20Preston%2C%20ID%2083263!3m2!1d42.1631879!2d-111.74379719999999!5e1!3m2!1sen!2sus!4v1570767279237!5m2!1sen!2sus" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
+</div>
+
+[Station Creek](http://capstone.restoration.usu.edu/Course_Topics/WATS_5350/Low-Tech/Projects/station.html) is a small, left-bank tributary to the Bear River just downstream of Oneida Narrows and about 15 minutes outside Preston, Idaho. We will be working on Terry and Wendy Westerberg's beautiful property for our design and construction exercises. See [here  for more background on Station Creek](http://capstone.restoration.usu.edu/Course_Topics/WATS_5350/Low-Tech/Projects/station.html). For drivers, the road is dirt/gravel, but passenger vehicles are fine.
+
+<div class="responsive-embed">
+<iframe src="https://www.google.com/maps/d/embed?mid=1aSLH1NeBsvylzH7u7eYpOLhsshE9qKvW" width="640" height="480"></iframe>
+</div>
 
 **NOTE**: For emergencies, [Franklin County Medical Center](https://goo.gl/maps/JwSKpEargiSLRPMA6) in Preston is the closest hospital to this field site @ 20 minutes away.
 
-### Exploring Upper Birch Creek - Day 3
+### Exploring Birch Creek - Day 3
 By 14:00ish we will make our way over to the Birch Creek Trailhead (about 15 minutes away @ [7767 East Birch Creek Road, Preston, ID 83263](https://goo.gl/maps/BWc2nGndi6Fs1paZ6)) to meet Jay Wilde and the [Capstone Restoration Class](http://capstone.restoration.usu.edu).
 
 <div class="responsive-embed">
@@ -106,8 +110,8 @@ If you have any allergies or medical conditions that we should be aware of, plea
 ## Meals, Snacks
 
 Meals are provided with your registration to help us run the workshop more efficiently, as follows:
-- Day 1 
-  - Lunch provided
+- Day 1  (Half Day):
+  - No lunch provided 
   - Snacks & Coffee *provided* at [Quadside Cafe](https://dining.usu.edu/locations/quadside-cafe) only in afternoon.
   - No dinner provided during evening @ [Bull's Head](http://lowtechpbr.restoration.usu.edu/workshops/2019/RC/ut.html#evening) - Open Bar & Full Restaurant   	 
 - Day 2  (Full Day):
@@ -124,7 +128,13 @@ We will make sure that for snacks and meals there are some vegetarian/vegan opti
 
 
 
+-----
+# Where were we from?
+This year's workshop included participants from 14 different states reflecting growing interest across the United States in [low-tech PBR](http://lowtechpbr.restoration.usu.edu). 
 
+<div class="responsive-embed">
+	<iframe src="https://www.google.com/maps/d/embed?mid=168QgFKSNTklVYaoKLONoRGWKXAgRFViQ" width="640" height="480"></iframe>
+</div>
 
 -------
 # Other Logan-Specific Resources
@@ -138,9 +148,9 @@ A shared [album <i class="fa fa-picture-o" aria-hidden="true"></i>](https://phot
 
 
 
-
+-----
 <div align="center">
-    <a class="hollow button" href="{{ site.baseurl }}/workshops/2020/SGI"><i class="fa fa-chevron-circle-left"></i>  Back to 2020 Workshop Home </a>  
+    <a class="hollow button" href="{{ site.baseurl }}/workshops/2019/RC"><i class="fa fa-chevron-circle-left"></i>  Back to 2019 Logan Workshop Home </a>  
 
         <a class="hollow button" href="{{ site.baseurl }}/workshops/"><i class="fa fa-graduation-cap"></i>  Back to Workshops </a>  
 </div>
