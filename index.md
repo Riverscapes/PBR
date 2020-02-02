@@ -25,15 +25,12 @@ The above are available digitally for free thanks to the generous investments an
 ## Training
 
 <div align="center">
-<a class="hollow button" href="http://restoration.usu.edu/courses/LTPBR_Logan"><i class="fa fa-graduation-cap"></i> Take me to  Next Workshop or Course </a>
-<a class="hollow button" href="{{ site.baseurl }}/workshops/2019/SGI"><i class="fa fa-leanpub" aria-hidden="true"></i> NRCS 2019 Low Tech Riparian Restoration Workshop Series </a>
+<a class="hollow button" href="{{ site.baseurl }}/workshops"><i class="fa fa-graduation-cap"></i> Take me to  Next LTPBR Workshop or Course </a>
+<a class="hollow button" href="{{ site.baseurl }}/workshops/2020/SGI"><i class="fa fa-leanpub" aria-hidden="true"></i> NRCS 2020 Low Tech Riparian Restoration Workshop Series </a>
 
 </div>
 
-<div style="width:195px; text-align:center;" ><iframe  src="https://www.eventbrite.com/countdown-widget?eid=57549362693" frameborder="0" height="347" width="195" marginheight="0" marginwidth="0" scrolling="no" allowtransparency="true"></iframe><div style="font-family:Helvetica, Arial; font-size:12px; padding:10px 0 5px; margin:2px; width:195px; text-align:center;" ><a class="powered-by-eb" style="color: #ADB0B6; text-decoration: none;" target="_blank" href="http://www.eventbrite.com/">Powered by Eventbrite</a></div></div>
 
-
-[![LTPBR_2019]({{ site.baseurl }}/assets/images/workshops/2019/LTPBR_2019.png)](http://restoration.usu.edu/courses/LTPBR_Logan)
 
 -------
 
