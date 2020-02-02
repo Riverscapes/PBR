@@ -4,10 +4,10 @@ weight: 1
 ---
 # Utah  Low-Tech PBR Workshop 2020
 
-<a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2020/SGI/SGI-NRCS_LTR_Workshop-UT_2020_Flyer.pdf"><img class="float-right" src="{{ site.baseurl }}/assets/images/workshops/2020/WA_2020_Flyer.png"></a>
+<a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2020/SGI/SGI-NRCS_LTR_Workshop-UT_2020_Flyer.pdf"><img class="float-right" src="{{ site.baseurl }}/assets/images/workshops/2020/UT_2020_Flyer.png"></a>
 
 <div align="center">
-<a class="hollow button" ><img src="{{ site.baseurl }}/assets/images/workshops/2020/UT_50.png"> UTAH WORKSHOP<br>July 14 to 16, 2020<br>Asotin, Washington</a>
+<a class="hollow button" ><img src="{{ site.baseurl }}/assets/images/workshops/2020/UT_50.png"> UTAH WORKSHOP<br>July 14 to 16, 2020<br>Logan, Utah</a>
 </div>
 
 ##  Workshop Meeting Places, Agena  & Times
@@ -19,7 +19,6 @@ The workshop will be an intensive 3 Days. Day 1 and 2 we meet in the [USU Merril
 - **Tuesday, July 14th, 2020**  @  9:00 to 18:00. Meet in [Library 101](http://www.usu.edu/map/index.cfm?id=22) 
 - **Wednesday, July 15th, 2020**  @  8:00 to 17:00. Meet in [Library 101](http://www.usu.edu/map/index.cfm?id=22)
 - **Thursday, July 16th, 2020** @ 7:30 to 17:00. Meet in field in Brich Creek Idaho. 
-
 
 
 
