@@ -6,7 +6,7 @@ weight: 1
 # Introduction to Stage 0 Restoration 
 October 22-24, 2019
 Black Butte Ranch, Sisters, Oregon
-River Restoration North West & Portland State University Sponsored
+[River Restoration North West](http://www.rrnw.org/) & [Portland State University]() Sponsored
 
 
 
@@ -153,7 +153,7 @@ Wychus Findings
 
 - <i class="fa fa-file-pdf-o" aria-hidden="true"></i> Johnson, M.F., Thorne, C.R., Castro, J.M., Kondolf, G.M., Mazzacano, C.S., Rood, S.B. and Westbrook, C., 2019. [Biomic river restoration: A new focus for river management](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Workshops/Stage0/2019/Reading/Johnson+et+al.+2019+Biomic+River+Restoration_RRA.pdf). River Research and Applications. DOI: 10.1002/rra.3529
 
-- <i class="fa fa-file-pdf-o" aria-hidden="true"></i>Sedell, J.R.a.J.L.F., 1984. [Importance of streamside forests to large rivers: the isolation of the Willamette River, Oregon, U.S.A., from its floodplain by snagging and streamside forest removal](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Workshops/Stage0/2019/Reading/Seddell1984.pdf). Verh. Internat. Verein. Limnol., 22: 1828-1834.
+- <i class="fa fa-file-pdf-o" aria-hidden="true"></i> Sedell, J.R., 1984. [Importance of streamside forests to large rivers: the isolation of the Willamette River, Oregon, U.S.A., from its floodplain by snagging and streamside forest removal](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Workshops/Stage0/2019/Reading/Seddell1984.pdf). Verh. Internat. Verein. Limnol., 22: 1828-1834.
 
 ## Stage 0 in UK
 
