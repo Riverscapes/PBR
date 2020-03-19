@@ -33,7 +33,7 @@ To break the ice, and get people thinking about construction, logistics and safe
 
 - <i class="fa fa-file-pdf-o" aria-hidden="true"></i> [Build your first Beaver Dam Analogue exercise - Slides](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2019/SGI/03_ParkingLotBDA.pdf)
 
-This excercise is elaborated in the [Pocket Guide]({{ site.baseurl}}/resources/pocket). 
+This exercise is elaborated in the [Pocket Guide]({{ site.baseurl}}/resources/pocket). 
 
 ## 4. Introduction to low-tech approaches 
 
@@ -81,7 +81,7 @@ This talk is elaborated in [Chapter 3]({{ site.baseurl}}/manual/chap03)  of desi
 
 ## 8. Planning in Detail
 [<img class="float-right" src="{{ site.baseurl }}/assets/images/workshops/2019/PDF_08.png"> ](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2019/SGI/08_Planning_II.pdf)
-After returning from a field trip where we focused on reading riverscapes and identifying structurally-forced alterations to hydraulic and geomorphic porcesses, we worked through the planning phase of the CPP in detail with a series of desktop excercises. 
+After returning from a field trip where we focused on reading riverscapes and identifying structurally-forced alterations to hydraulic and geomorphic processes, we worked through the planning phase of the CPP in detail with a series of desktop exercises. 
 - <i class="fa fa-file-pdf-o" aria-hidden="true"></i> [Conservation Planning Process  Intro - Slides](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2019/SGI/08_Planning_II.pdf)
 - <i class="fa fa-file-pdf-o" aria-hidden="true"></i>  [Valley Bottom Mapping & Risks Assessment Exercise - Handout](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2019/SGI/VB_Exercises2.pdf)
 
