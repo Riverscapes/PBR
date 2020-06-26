@@ -57,11 +57,12 @@ For a more detailed draft agenda, to help you plan which modules you might want 
 ## Course Materials
 
 ### Slides & Handouts
+These will be updated and posted immediately prior to virtual workshop.
 
 <div align="center">
 
 
-<a class="hollow button" href="{{ site.baseurl }}/workshops/Materials/Intro/materials.html"><img src="{{ site.baseurl }}/assets/images/diagrams/presentation.png"> Slides & Handouts<br>as PDFs <i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>
+<a class="hollow button" href="{{ site.baseurl }}/workshops/Materials/Intro/materials.html"><img src="{{ site.baseurl }}/assets/images/diagrams/presentation.png"> Past Years Slides & Handouts<br>as PDFs <i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>
 
 </div>
 
