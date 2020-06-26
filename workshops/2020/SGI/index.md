@@ -28,29 +28,30 @@ weight: 1
 
 
 
-Thanks to the generous support of the [Natural Resource Conservation Service's](https://www.nrcs.usda.gov/wps/portal/nrcs/detailfull/national/programs/initiatives/?cid=steldevb1027671) [Sage Grouse Initiative](https://www.sagegrouseinitiative.com/) and [Working Lands for Wildlife Initiative](https://www.nrcs.usda.gov/wps/portal/nrcs/detail/national/plantsanimals/fishwildlife/?cid=stelprdb1046975), a grant through [Pheasants Forever](https://www.pheasantsforever.org/) to [Utah State University's Restoration Consortium](http://restoration.usu.edu/) and [Joe Wheaton's](http://joewheaton.org/) [ET-AL lab](http://etal.joewheaton.org/) are able to deliver a series of workshops to NRCS conservationists and their partners throughout the west. This series was envisioned by Jeremy Maestas (NRCS/SGI) and is possible thanks to partner matches by various local organizations in each state (see each state page) and matching funds from Utah State University. This grew out of the successful 2016 Enhancing Mesic Habitat Resilience in Sagebrush Ecosystems Workshop at Utah State University and the 2018 and [2019]({{ site.baseurl }}/workshops/2019/SGI/) workshop series. 
+Thanks to the generous support of the [Natural Resource Conservation Service's](https://www.nrcs.usda.gov/wps/portal/nrcs/detailfull/national/programs/initiatives/?cid=steldevb1027671) [Working Lands for Wildlife](https://www.nrcs.usda.gov/wps/portal/nrcs/detail/national/plantsanimals/fishwildlife/?cid=stelprdb1046975), and a grant through [Pheasants Forever](https://www.pheasantsforever.org/) to [Utah State University's Restoration Consortium](http://restoration.usu.edu/) and [Joe Wheaton's](http://joewheaton.org/) [ET-AL lab](http://etal.joewheaton.org/) are able to deliver a free virtual workshops to NRCS conservationists and their partners. This series was envisioned by Jeremy Maestas (NRCS) and is possible thanks to partner matches by various local organizations in each state (see each state page) and matching funds from Utah State University. This grew out of the successful 2016 Enhancing Mesic Habitat Resilience in Sagebrush Ecosystems Workshop at Utah State University and the 2018 and [2019]({{ site.baseurl }}/workshops/2019/SGI/) workshop series. 
+
+## Odd 2020 Opportunity
+With COVID-19, we have all had to make adjustments to how we work. Unfortunately, this has required us to cancel our popular field workshop series this summer on Low-Tech Process-Based Restoration of Riverscapes. However, with challenges come new opportunities. We reimagined our workshop (normally capped at 50) in order to offer a virtual version open to all! Thanks to NRCS’ Working Lands for Wildlife partnership, this is being offered for free to you.
+
+
+## Virtual Workshop Description
+This virtual workshop will introduce conservationists to ‘low-tech’ process-based approaches for restoring streams and their associated riparian areas (riverscapes) to benefit fish, wildlife, and working lands. Participants will learn principles guiding low-tech process-based restoration and become familiar with simple, hand-built tools, including Beaver Dam Analogues (BDAs) and Post-Assisted Log Structures (PALS), intended to mimic and promote specific ecosystem processes. Participants will gain basic skills in the planning, design, and implementation phases of project development. Course content is supported by a published [Design Manual]({{ site.baseurl }}/manual/).
+
+#### Overview - Pick and Choose
+<a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2020/SGI/SGI-NRCS_LTR_Workshop-Virtual_2020_Flyer.pdf"><img class="float-right" src="{{ site.baseurl }}/assets/images/workshops/2020/VirtualFlyer.png"></a> To make participating remotely and/or from home more manageable, we have spread our curriculum out over four days with lots of time for breaks and self-paced exercises. There is no substitute for the field experience, but we will try our best to simulate some of that virtually. Everyone should take Moulde 1, but after that you can take all the modules, or just the ones relevant to you. All workshop materials, exercises and presentations will be available online for a self-paced delivery by module at any time, but the virtual workshop gathering will provide pacing, panel discussions and engagement with other professionals and participants. 
 
 
 
-## Two  Workshops, Two  Western States
+### Agenda
+<a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2020/SGI/WLFW_LTPBR+2020+Virtual+Workshop+Agenda.pdf"><img class="float-right" src="{{ site.baseurl }}/assets/images/workshops/2020/VirtualAgenda.png"></a>
+- Module 1: **Introduction to Low-Tech Process-Based Restoration** - Day 1 (3/4-day)
+- Module 2: **Underlying Science & Case Studies for Low-Tech** -  Day 2 (half-day morning)
+- Module 3: **Planning Low-Tech Process-Based Restoration** -  Day 2 (half-day afternoon)
+- Module 4: **Designing Low-Tech Process-Based Restoration** - Day 3 (3/4 day)
+- Module 5: **Implementing Low-Tech Process-Based Restoration** - Day 4 (half-day morning) 
 
-For the third consecutive year, a series of workshops will be hosted in the summer of 2020 to connect  NRCS conservationists and partners who are interested in how to use low-tech process-based restoration to restore riparian areas to benefit wildlife and working lands.
+For a more detailed draft agenda, to help you plan which modules you might want to participate in, see [here](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2020/SGI/WLFW_LTPBR+2020+Virtual+Workshop+Agenda.pdf).
 
-<div align="center">
-
-<a class="hollow button" href="{{ site.baseurl }}/workshops/2020/SGI/Venues/ut"><img src="{{ site.baseurl }}/assets/images/workshops/2020/UT_50.png"> UTAH  WORKSHOP<br>July 14 to 16, 2020<br>Logan, Utah</a>
-<a class="hollow button" href="{{ site.baseurl }}/workshops/2020/SGI/Venues/wa"><img src="{{ site.baseurl }}/assets/images/workshops/2020/WA_50.png"> WASHINGTON WORKSHOP<br>August 11 to 13, 2020<br>Asotin, Washington</a>
-
-
-</div>
-
-### Workshop Flyers
-<div align = "center">
-<a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2020/SGI/SGI-NRCS_LTR_Workshop-WA_2020_Flyer.pdf"><img src="{{ site.baseurl }}/assets/images/workshops/2020/WA_2020_Flyer.png"></a>
-
-<a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2020/SGI/SGI-NRCS_LTR_Workshop-UT_2020_Flyer.pdf"><img src="{{ site.baseurl }}/assets/images/workshops/2020/UT_2020_Flyer.png"></a>
-</div>
-<br><br>
 
 ------
 ## Course Materials
@@ -65,9 +66,9 @@ For the third consecutive year, a series of workshops will be hosted in the summ
 </div>
 
 ### Workshop Textbooks
-For the workshops, we primarily relied on the new [Design Manual]({{ site.baseurl }}/manual) and the [Pocket Guide]({{ site.baseurl }}/resources/pocket), which [Working Lands for Wildlife Initiative](https://www.nrcs.usda.gov/wps/portal/nrcs/detail/national/plantsanimals/fishwildlife/?cid=stelprdb1046975) generously provided free copies of to each participant. Free electronic versions are below. Print copies of manual are available for $60 [on Amazon](https://www.amazon.com/Low-Tech-Process-Based-Restoration-Riverscapes-Design/dp/1543972993/ref=sr_1_1?keywords=low+tech+process-based+restoration&qid=1558989073&s=gateway&sr=8-1) and print runs of the pocket guide can be [arranged]({{ site.baseurl }}/resources/pocket). 
+For the workshops, we rely on the new [Design Manual]({{ site.baseurl }}/manual) and the [Pocket Guide]({{ site.baseurl }}/resources/pocket), which [Working Lands for Wildlife Initiative](https://www.nrcs.usda.gov/wps/portal/nrcs/detail/national/plantsanimals/fishwildlife/?cid=stelprdb1046975) generously provided free copies of to each participant. Free electronic versions are below. Print copies of manual are available for $60 [on Amazon](https://www.amazon.com/Low-Tech-Process-Based-Restoration-Riverscapes-Design/dp/1543972993/ref=sr_1_1?keywords=low+tech+process-based+restoration&qid=1558989073&s=gateway&sr=8-1) and print runs of the pocket guide can be [arranged]({{ site.baseurl }}/resources/pocket). 
 
-
+Note, thanks to [Working Lands for Wildlife](https://www.nrcs.usda.gov/wps/portal/nrcs/detail/national/plantsanimals/fishwildlife/?cid=stelprdb1046975), the first 100 NRCS invitees to register will recieve a free copy of manual and pocket guide by mail!
 
 <a href="{{ site.baseurl }}/manual"><img class="float-right" src="{{ site.baseurl }}/assets/images/covers/Manual_Tilted_150.png"></a>
 
@@ -109,17 +110,7 @@ needed to design and implement appropriate low-cost practices and foster technol
    Aquatic  Ecologist, Adjunct Professor
   </div>
 
-<div class="column column-block">
-    <a href="http://www.anabranchsolutions.com/andy-hill.html"><img src="{{ site.baseurl }}/assets/images/people/hill-round.png"></a>
-    <h4><a href="https://www.researchgate.net/profile/Stephen_Bennett8">Andrew Hill<sup>2,3</sup></a></h4>
-    Spatial Ecologist & Designer
-  </div>
 
-<div class="column column-block">
-    <a href="https://www.palousecd.org/district-staff"><img src="{{ site.baseurl }}/assets/images/people/brad-round.png"></a>
-    <h4><a href="https://www.palousecd.org/district-staff">Brad Johnson<sup>6</sup></a></h4>
-    Watershed Manager
-  </div>
 <div class="column column-block">
     <a href="https://www.researchgate.net/profile/Jeremy_Maestas"><img src="{{ site.baseurl }}/assets/images/people/Maestas_round.png"></a>
     <h4><a href="https://www.researchgate.net/profile/Jeremy_Maestas">Jeremy Maestas<sup>5</sup></a></h4>
@@ -143,11 +134,7 @@ needed to design and implement appropriate low-cost practices and foster technol
     Associate Professor, Ecogeomorphologist
   </div>
 
-  <div class="column column-block">
-    <img src="{{ site.baseurl }}/assets/images/people/Wilde_round.png">
-    <h4>Jay Wilde</h4>
-    Rancher and Land Owner
-  </div>  
+ 
 </div>
 
 #### Instructor Affiliations
@@ -174,10 +161,7 @@ needed to design and implement appropriate low-cost practices and foster technol
     <a href="https://www.nrcs.usda.gov/wps/portal/nrcs/detailfull/national/about/leadership/centers/?cid=NRCS143_021469"><img src="{{ site.baseurl }}/assets/images/sponsors/usda-nrcs-logo_1_orig.png"></a><br>5.
   </div>
 
-   <div class="column column-block">
-    <a href="https://www.nrcs.usda.gov/wps/portal/nrcs/detailfull/national/about/leadership/centers/?cid=NRCS143_021469"><img src="{{ site.baseurl }}/assets/images/logos/Palouse.png"></a><br>6.
 
-  </div>
 
 </div>
 
