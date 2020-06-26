@@ -38,7 +38,7 @@ With COVID-19, we have all had to make adjustments to how we work. Unfortunately
 This virtual workshop will introduce conservationists to ‘low-tech’ process-based approaches for restoring streams and their associated riparian areas (riverscapes) to benefit fish, wildlife, and working lands. Participants will learn principles guiding low-tech process-based restoration and become familiar with simple, hand-built tools, including Beaver Dam Analogues (BDAs) and Post-Assisted Log Structures (PALS), intended to mimic and promote specific ecosystem processes. Participants will gain basic skills in the planning, design, and implementation phases of project development. Course content is supported by a published [Design Manual]({{ site.baseurl }}/manual/).
 
 #### Overview - Pick and Choose
-<a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2020/SGI/SGI-NRCS_LTR_Workshop-Virtual_2020_Flyer.pdf"><img class="float-right" src="{{ site.baseurl }}/assets/images/workshops/2020/VirtualFlyer.png"></a> To make participating remotely and/or from home more manageable, we have spread our curriculum out over four days with lots of time for breaks and self-paced exercises. There is no substitute for the field experience, but we will try our best to simulate some of that virtually. Everyone should take Moulde 1, but after that you can take all the modules, or just the ones relevant to you. All workshop materials, exercises and presentations will be available online for a self-paced delivery by module at any time, but the virtual workshop gathering will provide pacing, panel discussions and engagement with other professionals and participants. 
+<a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2020/SGI/SGI-NRCS_LTR_Workshop-Virtual_2020_Flyer.pdf"><img class="float-right" src="{{ site.baseurl }}/assets/images/workshops/2020/VirtualFlyer.png"></a> To make participating remotely and/or from home more manageable, we have spread our curriculum out over four days with lots of time for breaks and self-paced exercises. There is no substitute for the field experience, but we will try our best to simulate some of that virtually. Everyone should take Module 1, but after that you can take all the modules, or just the ones relevant to you. All workshop materials, exercises and presentations will be available online for a self-paced delivery by module at any time, but the virtual workshop gathering will provide pacing, panel discussions and engagement with other professionals and participants. 
 
 
 
@@ -51,7 +51,6 @@ This virtual workshop will introduce conservationists to ‘low-tech’ process-
 - Module 5: **Implementing Low-Tech Process-Based Restoration** - Day 4 (half-day morning) 
 
 For a more detailed draft agenda, to help you plan which modules you might want to participate in, see [here](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2020/SGI/WLFW_LTPBR+2020+Virtual+Workshop+Agenda.pdf).
-
 
 ------
 ## Course Materials
@@ -135,7 +134,7 @@ needed to design and implement appropriate low-cost practices and foster technol
     Associate Professor, Ecogeomorphologist
   </div>
 
- 
+
 </div>
 
 #### Instructor Affiliations
