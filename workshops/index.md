@@ -3,74 +3,48 @@ title: Low-Tech PBR Workshops
 weight: 4
 ---
 
-## Need Training?
-We have worked hard through the [Utah State Univeresity Restoration Consortium](http://restoration.usu.edu) and with our many partners to deliver training to diverse audiences on low-tech process-based restoration. 
-- If you are looking for training for yourself or a small group, try our [publicly oferred courses](http://restoration.usu.edu/).  The last publicly offered Low-Tech PBR Intro Workshop was taught in Logan, Utah on October 9-11, 2019. The next publicly offered LTPBR Workshop through USU will likely be Fall of 2021. 
-- A publicly offered "Advanced Beaver Assisted Restoration" workshop through [Portland State University](https://www.pdx.edu/environmental-professional-program/river-restoration-certificate) will be offered October 20-22, 2020 in Washington. 
-- For matriculated  USU students, check the registrar's list of courses for current courses. 
-- If you want to develop a custom workshop for your own audiences, please [contact us](http://restoration.usu.edu/about/contact). 
 
+<img class="float-right" src="{{ site.baseurl }}/assets/images/workshops/teaching.jpg">We have taught over 20 workshops, short-courses and full semester long classes since 2010 on geomorphic change detection (see table below).  There are four ways in which we have offered this training:
+1. Semester-long graduate student course through Utah State University Department of Watershed Sciences ([WATS 6850 & WATS 5150]({{ site.baseurl }}/Workshops/About/how-to-register)) 
+2. Short courses & workshops open to [public enrollment]({{ site.baseurl }}/Workshops/About/how-to-register.html) administered through Utah State University [Restoration Consortium](http://restoration.usu.edu) and/or Geospatial Consortium 
+3. Bespoke short courses & workshops open to public enrollment administered by other sponsor
+4.  Custom short course for private audience (paid for by sponsor)
 
-### Upcoming 
-
-<div class="row small-up-2 medium-up-3">
-  <div class="column">
-    <div class="card">
-      <div align="center" align="middle" class="responsive-embed"> <img src="{{ site.baseurl }}/assets/images/logos/Logo_IdahoFG.png"> </div>
-      <div class="card-section" align="center">
-        <h4><a href="{{ site.baseurl }}/workshops/2020/IDFG">IDFG LTPBR Intro Workshop</a></h4>
-      <b>June 9 - 11, 2020</b> <br>
-      Pocatello, Idaho<br>
- 		<em>Invitation Only</em>
-      </div><br><br><br><br><br>
-  </div>
- </div> 
-  <div class="column">
-<div class="card">
-      <div align="center" align="middle" class="responsive-embed"> <img src="{{ site.baseurl }}/assets/images/logos/SGI-Sponsors.png"> </div>
-      <div class="card-section" align="center">
-        <h4><a href="{{ site.baseurl }}/workshops/2020/SGI/Venues/ut">NRCS 2020 Field Workshop Series - UTAH</a></h4>
-     Low-Tech Restoration of Riverscapes - Sage Grouse Initaiative, Working Lands for Wildife, NRCS, & Pheasants Forever<br>
-      <b>July 14 - 16, 2020</b> <br>
-      Logan, UT<br>
- 		<em>Open to NRCS & Partners</em>
-      </div>
-    </div>
-   </div>   
-  <div class="column">
-    <div class="card">
-           <div align="center" align="middle" class="responsive-embed"> <img src="{{ site.baseurl }}/assets/images/logos/SGI-Sponsors.png"> </div>
-      <div class="card-section" align="center">
-        <h4><a href="{{ site.baseurl }}/workshops/2020/SGI/Venues/wa">NRCS 2020 Field Workshop Series - WASHINGTON</a></h4>
-     Low-Tech Restoration of Riverscapes - Sage Grouse Initaiative, Working Lands for Wildife, NRCS, & Pheasants Forever<br>
-      <b>August 11 - 13, 2020</b> <br>
-      Asotin, WA<br>
- 		<em>Invitation Only</em>
-      </div>
-      </div>
-    </div>
-  </div>
-
+<div align="center" align="middle">
+	<a href="http://restoration.usu.edu"><img class="float-right" src="{{ site.baseurl }}/assets/images/logos/Restoration-PAIRED-05_Horizontal_BlueOnWhite.png"></a>
+	<a class="button" href="{{ site.baseurl }}/Workshops/About/how-to-register"><i class="fa fa-graduation-cap"></i> Take me to  Next Workshop or Course </a>
+</div>
 
 
 -----
-# Types of Training
 
-<img class="float-right" src="{{ site.baseurl }}/assets/images/workshops/teaching.jpg">We have taught over 25 workshops, short-courses and full semester long classes since 2010 on restoration.  There are four ways in which we have offered this training:
-1. Semester-long courses through Utah State University Department of Watershed Sciences ([WATS 6860 - Partnering with Beaver in Restoration Design](http://beaver.joewheaton.org) and [WATS 5340 & 5350 - Capstone Restoraton Design](http://capstone.restoration.usu.edu)) 
-2. Short courses & workshops open to public enrollment administered through Utah State University [Restoration Consortium](http://restoration.usu.edu) and/or Geospatial Consortium 
-3. Bespoke short courses & workshops open to public enrollment administered by other sponsor (e.g. [River Restoration Northwest](http://beaver.joewheaton.org/2013---rrnw-short-course.html))
-4.  Custom short course for private audience  and paid for by sponsor (e.g. [NRCS]({{ site.baseurl }}/workshops/2019/SGI), [USFS](http://beaver.joewheaton.org/2015---usfs-workshop.html),  [UDWR](http://beaver.joewheaton.org/2015---udwr-workshop.html))
+## Workshops & Courses
 
-------
+| Year  | Workshop | Location | Audience |
+| ------ | ------ | ------ | ------ |
+| 2019, April 30 - May 2 | [Geomorphic Change Detection: Restoration Monitoring Workshop - WATS 6850 & CEWA 6850]({{ site.baseurl }}/Workshops/2019/wats6850/) | Logan, UT | [USU Restoraton Consortium](http://restoration.usu.edu) & USU Geospatial Consortium Professionals & [USU](http://qcnr.usu.edu/wats//) Graduate Students <i class="fa fa-users" aria-hidden="true"></i> |
+| 2019, Spring | [Fluvial Geomorphology WATS 5150]({{ site.baseurl }}/Workshops/2019/wats5150/) <i class="fa fa-calendar" aria-hidden="true"></i> | Logan, UT | [Utah State University](http://qcnr.usu.edu/wats//) |
+|2018, Spring | [WATS 6850/4950](http://gcdworkshop.joewheaton.org/workshop-schedules/2018/wats-6850---spring-2018) <i class="fa fa-calendar" aria-hidden="true"></i> | Logan, UT | [Utah State University](http://qcnr.usu.edu/wats//) |
+|2018, April | [GeoTERM Workshop]({{ site.baseurl }}/Workshops/2018/Aberdeen/) | Aberndeen, Scotland | [Scottish Environmental Protection Agency](https://www.sepa.org.uk/) |
+|2017, April |[Geomorphic Change Detection Workshop](http://gcdworkshop.joewheaton.org/workshop-schedules/2017/university-of-bologna-italy---april-2017) |Bologna, Italy| University of Bologna |
+| 2017, Spring | [WATS 6850](http://gcdworkshop.joewheaton.org/workshop-schedules/2017/usu-logan---spring-2017-semester-long) <i class="fa fa-calendar" aria-hidden="true"></i> | Logan, UT | [Utah State University](http://qcnr.usu.edu/wats//) |
+| 2016, June | [Workshop: Quantifying Geomorphic Change in the Environment](http://gcdworkshop.joewheaton.org/workshop-schedules/2016/spain---june-2016) | Lleida, Spain | [University of Lleida](http://www.fluvialdynamics.com/) <i class="fa fa-users" aria-hidden="true"></i>|
+| 2015, Feb | [RRNW GCD Workshop](http://gcdworkshop.joewheaton.org/workshop-schedules/2015/rrnw---february-2015) | Skamania, WA | [River Restoration North West](http://www.rrnwsymposium.org/program/) <i class="fa fa-users" aria-hidden="true"></i> |
+| 2015, April | [Geomorphic Change Detection Workshop](http://gcdworkshop.joewheaton.org/workshop-schedules/2015/usu---april-2015) | Logan, UT | [Utah State University](http://qcnr.usu.edu/wats//) <i class="fa fa-users" aria-hidden="true"></i> |
+| 2015, August | [New Zealand - GCD Workshops](http://gcdworkshop.joewheaton.org/workshop-schedules/2015/new-zealand---august-2016) | Auckland & Christchurch, New Zealand | Regional Councils and Universities |
+| 2015, Sept | [Gravel Bed Rivers - GCD Workshops](http://gcdworkshop.joewheaton.org/workshop-schedules/2015/japan---gravel-bed-rivers-8---post-conference-short-course) | Japan | Gravel Bed Rivers 8 - Post Conference Short Course for Postgrads |
+| 2014, May | [Geomorphic Change Detection Workshop](http://gcdworkshop.joewheaton.org/workshop-schedules/2014/usu---may-2014) | Park City, UT | [Utah State University](http://qcnr.usu.edu/wats//) <i class="fa fa-users" aria-hidden="true"></i> |
+| 2014, Dec | [ANZGG - GCD Workshop](http://gcdworkshop.joewheaton.org/workshop-schedules/2014/anzgg---december-2014) | Brisbane, Australia | University of Queensland - [Australia New Zealand Geomorphology Group](http://www.anzgg.org/) <i class="fa fa-users" aria-hidden="true"></i> |
+|2013, March | [Geomorphic Change Detection Workshop](http://gcdkwo.joewheaton.org/) |Lawrence, KS |Kansas Water Office |
+|2012, May |[Geomorphic Change Detection Workshop](http://gcd-usace.joewheaton.org/) |Kansas City, MO | US Army Corps of Engineers |
+|2012, May |[Geomorphic Change Detection Workshop](http://gcd.riverscapes.xyz/Workshops/) |Park City, UT | Utah State University ICRRR <i class="fa fa-users" aria-hidden="true"></i> |
+|2012, April | ‘2012 Annual Lecture Series – [Near Census Assessment of Fluvial Form, Process,  Change & Associated Ecosystem Services](http://borlecture.joewheaton.org/home)’ |Denver, CO |US Bureau of Reclamation |
+|2011, May | [Geomorphic Change Detection Workshop](http://gcd.riverscapes.xyz/Workshops/) |Park City, UT |Utah State University ICRRR <i class="fa fa-users" aria-hidden="true"></i> |
+|2011, May |Geomorphic Change Detection Workshop |Flagstaff, AZ |US Geologic Survey Grand Canyon Monitoring Research Center |
+|2010, May |[Geomorphic Change Detection Workshop](http://gcd.riverscapes.xyz/Workshops/) |Logan, UT |Utah State University ICRRR <i class="fa fa-users" aria-hidden="true"></i> |
+|2010, July |[NSF LiDaR Workshop on ‘New Tools in Process-Based Analysis of LiDaR Topographic Data](https://opentopography.org/community/workshops/lidar2_2010) |Boulder, CO |National Science Foundation <i class="fa fa-users" aria-hidden="true"></i> |
+|2010, Nov |[Geomorphic Change Detection Workshop](http://gcdworkshop.joewheaton.org/) |Boise, ID |Idaho Power |
 
-
-## Migration In Progress
-Note that most of our past workshop pages for low-tech are hosted on the old [Partnering with Beaver in Restoration Design](http://beaver.joewheaton.org/) pages. We will be working on migrating that content to this site over the next 6 months. For now, for workshops from Spring of 2019 and prior, please refer to the old [Partnering with Beaver in Restoration Design](http://beaver.joewheaton.org/) pages.
-
-------
-<div align="center" align="middle">
-	<a href="http://restoration.usu.edu"><img class="float-right" src="{{ site.baseurl }}/assets/images/logos/Restoration-PAIRED-05_Horizontal_BlueOnWhite.png"></a>
-	<a class="button" href="http://restoration.usu.edu/courses/LTPBR_Logan"><i class="fa fa-graduation-cap"></i> Take me to  Next Workshop or Course </a>
-</div>
+<i class="fa fa-users" aria-hidden="true"></i> Open to public enrollment.
+<i class="fa fa-calendar" aria-hidden="true"></i> Semester Long USU course.
 
