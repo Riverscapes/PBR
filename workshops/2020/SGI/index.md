@@ -1,8 +1,8 @@
 ---
-title:  2020 NRCS WLFW Low-Tech Riverscape Restoration Workshops 
+title:  2020 NRCS WLFW Low-Tech Riverscape Restoration Workshop 
 weight: 1
 ---
-# 2020 Field Workshop Series
+# 2020 Virtual Workshop 
 
 
 
@@ -17,9 +17,7 @@ weight: 1
   <div class="column column-block">
     <a href="https://pheasantsforever.org/Hunt/pheasant-hunting.aspx"><img src="{{ site.baseurl }}/assets/images/sponsors/pf-logo_2.png"></a>
   </div>
-  <div class="column column-block">
-    <a href="https://www.sagegrouseinitiative.com/"><img src="{{ site.baseurl }}/assets/images/sponsors/sgilogo-1_1_orig.png"></a>
-  </div>
+
   <div class="column column-block">
     <a href="https://www.nrcs.usda.gov/wps/portal/nrcs/detailfull/national/programs/initiatives/?cid=steldevb1027671"><img src="{{ site.baseurl }}/assets/images/sponsors/usda-nrcs-logo_1_orig.png"></a>
   </div>
