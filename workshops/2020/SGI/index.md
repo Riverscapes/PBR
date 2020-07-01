@@ -4,7 +4,7 @@ weight: 1
 ---
 # 2020 Virtual Workshop 
 
-
+**August 10-14, 2020 - Anywhere with Internet**
 
 ## Overview
 
