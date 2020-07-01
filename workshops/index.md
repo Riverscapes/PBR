@@ -9,7 +9,7 @@ weight: 4
 2. Short courses & workshops open to public enrollment administered through Utah State University [Restoration Consortium](http://restoration.usu.edu) 
 3. Custom short course for private audience (paid for by sponsor)
 
-Note that Undergraduates in the [Department of Watershed Sciences](https://qcnr.usu.edu/wats/)  [Management and Restoration of Aquatic Ecosystems](https://qcnr.usu.edu/undergraduates/prospective/degrees/aquatic_ecosystems) Major get a full year of training on low-tech process-based restoration in the [Capstone Classes (WATS 5340 & 5350)](http://capstone.restoration.usu.edu)
+Note that Undergraduates in the [Department of Watershed Sciences](https://qcnr.usu.edu/wats/)  [Management and Restoration of Aquatic Ecosystems](https://qcnr.usu.edu/undergraduates/prospective/degrees/aquatic_ecosystems) Major get a full year of training on low-tech process-based restoration in the [Capstone Classes (WATS 5340 & 5350)](http://capstone.restoration.usu.edu). 
 
 
 <div align="center" align="middle">
