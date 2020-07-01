@@ -4,7 +4,7 @@ weight: 1
 ---
 # 2020 Virtual Workshop 
 
-**August 10-14, 2020 - Anywhere with Internet**
+**August 11-14, 2020 - Anywhere with Internet**
 
 ## Overview
 
@@ -46,11 +46,11 @@ This virtual workshop will introduce conservationists to ‘low-tech’ process-
 
 ### Agenda
 <a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2020/SGI/WLFW_LTPBR+2020+Virtual+Workshop+Agenda.pdf"><img class="float-right" src="{{ site.baseurl }}/assets/images/workshops/2020/VirtualAgenda.png"></a>
-- Module 1: **Introduction to Low-Tech Process-Based Restoration** - Day 1 (3/4-day)
-- Module 2: **Underlying Science & Case Studies for Low-Tech** -  Day 2 (half-day morning)
-- Module 3: **Planning Low-Tech Process-Based Restoration** -  Day 2 (half-day afternoon)
-- Module 4: **Designing Low-Tech Process-Based Restoration** - Day 3 (3/4 day)
-- Module 5: **Implementing Low-Tech Process-Based Restoration** - Day 4 (half-day morning) 
+- Module 1: **Introduction to Low-Tech Process-Based Restoration** - Day 1 - August 11 (3/4-day)
+- Module 2: **Underlying Science & Case Studies for Low-Tech** -  Day 2 - August 12 (half-day morning)
+- Module 3: **Planning Low-Tech Process-Based Restoration** -  Day 2 - August 12 (half-day afternoon)
+- Module 4: **Designing Low-Tech Process-Based Restoration** - Day 3 - August 13 (3/4 day)
+- Module 5: **Implementing Low-Tech Process-Based Restoration** - Day 4 - August 14 (half-day morning) 
 
 For a more detailed draft agenda, to help you plan which modules you might want to participate in, see [here](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2020/SGI/WLFW_LTPBR+2020+Virtual+Workshop+Agenda.pdf).
 

@@ -23,7 +23,6 @@ Note that Undergraduates in the [Department of Watershed Sciences](https://qcnr.
 <div class="responsive-embed">
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=11j18BJXFTUUEOYZZIS_mLex6ijZx0sFf" width="640" height="480"></iframe>
 </div>
-
 -----
 
 ## Workshops &  Short-Courses
@@ -49,7 +48,7 @@ Note that Undergraduates in the [Department of Watershed Sciences](https://qcnr.
 
 | Year  | Workshop | Location(s) | Sponsor(s) |
 | ------ | ------ | ------ | ------ |
-| 2020, August | [Low-Tech Process-Based Restoration of Riverscapes Workshop](http://127.0.0.1:4001/workshops/2020/IDFG/) | Pocatello, ID | [IDFG](https://idfg.idaho.gov/), [USFWS](https://www.fws.gov/), [IWJV](https://iwjv.org/) |
+| 2020, August | [Low-Tech Process-Based Restoration of Riverscapes Workshop]({{ site.baseurl }}/workshops/2020/IDFG/) | Pocatello, ID | [IDFG](https://idfg.idaho.gov/), [USFWS](https://www.fws.gov/), [IWJV](https://iwjv.org/) |
 | 2019, August | [Low-Tech Riparian Restoration - 2019 Field Workshop Series]({{ site.baseurl }}/workshops/2019/SGI/) | Gunnison, CO;  Lewistown, MT;  Haiely, ID | NRCS, [WLFW](https://www.nrcs.usda.gov/wps/portal/nrcs/detail/national/plantsanimals/fishwildlife/?cid=stelprdb1046975), [Pheasants Forever](https://pheasantsforever.org/Hunt/pheasant-hunting.aspx), [SGI](https://www.sagegrouseinitiative.com/), and  [USU Restoration Consortium](http://restoration.usu.edu/) |
 | 2018, June - Sept | Partnering with Beaver in Restoration Design - 2018 Field Workshop Series | Logan, UT;  Elko, NV;  Lander, WY;  Cedar City, UT; Hailey, ID | NRCS, [WLFW](https://www.nrcs.usda.gov/wps/portal/nrcs/detail/national/plantsanimals/fishwildlife/?cid=stelprdb1046975), [Pheasants Forever](https://pheasantsforever.org/Hunt/pheasant-hunting.aspx), [SGI](https://www.sagegrouseinitiative.com/), and [USU Restoration Consortium](http://restoration.usu.edu/) |
 | 2017, October | Partnering with Beaver in Restoration Design | Enterprise, OR | Grand Ronde Model Watershed |
