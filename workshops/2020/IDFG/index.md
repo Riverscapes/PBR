@@ -2,16 +2,32 @@
 title:  IDFG- Intro to Low-Tech PBR of Riverscapes 
 weight:  2
 ---
-# Idaho Department of Fish & Game SHORT-COURSE: Intro to Low-Tech Process-Based Restoration of Riverscapes 
+<img src="{{ site.baseurl }}/assets/images/workshops/2020/IDFG_Pocatallo_header_600.png">
 
-**Tentatively Scheudled: June  9-11, 2019 in Pocatello, Idaho**
+**August 25-27, 2020 in Pocatello, Idaho**
 
 
-This invittaion only [short-course](http://restoration.usu.edu/courses/LTPBR_Logan), hosted by [Utah State University Restoration Consortium](http://restoration.usu.edu), will bring together IDFG and partners interested in low-tech alternatives for restoring streams and associated riparian and mesic habitats to benefit wildlife and working lands in southern Idaho. 
+<a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2020/IDFG/IDFG_LTPBR_Workshop-2020_Flyer.pdf"><img class="float-right" src="{{ site.baseurl }}/assets/images/workshops/2020/ID_2020_Flyer.png"></a> This invitation only short-course, hosted by [Utah State University Restoration Consortium](http://restoration.usu.edu), will bring together IDFG, USFWS, BLM and other partners interested in low-tech alternatives for restoring streams and associated riparian and mesic habitats to benefit wildlife and working lands in southeastern Idaho. 
 
-In this 3 day workshop, you will be introduced to the principles underlying low-tech process-based restoration of riverscapes. You will get introduced to planning, design and construction of cost-effective, low-risk techniques that can be implemented at large scales to meet mesic habitat restoration goals including: partnering with beaver, beaver dam analogues (BDAs), post-assisted log structures (PALS), and other simple hand-built structures designed to facilitate process-based restoration.
+In this 3 day workshop, participants will be introduced to ‘low-tech’ process-based approaches for restoring streams and their associated riparian areas (riverscapes) to benefit fish, wildlife, and working lands. Participants will learn principles guiding low-tech process-based restoration and become familiar with simple, hand-built tools, including Beaver Dam Analogues (BDAs) and Post-Assisted Log Structures (PALS), intended to mimic and promote specific ecosystem processes. Participants will gain basic skills in the planning, design, and implementation phases of project development. Course content is supported by a published [Design Manual](http://lowtechpbr.restoration.usu.edu/).
 
-**DETAILS FORTHCOMING**
+## Support
+
+
+<a href="https://www.nrcs.usda.gov/wps/portal/nrcs/detail/national/plantsanimals/fishwildlife/?cid=stelprdb1046975"><img class="float-right" src="{{ site.baseurl }}/assets/images/workshops/2020/IDFG_WorkshopAcknowledgements.png"></a> Thanks to the generosity of Working Lands for Wildlife, we can offer these contingency plans for free. Thanks to the leadership and support of Idaho Department of Fish & Game, Idaho Fish & Wildlife Foundation, and the Intermountain West Joint Venture, this workshop is also offered for free to invited participants. 
+
+
+
+## 2020 Context
+
+With COVID-19, we have all had to make adjustments to how we work. This workshop was originally scheduled for June and was moved to August. We had to cancel another [workshop series for Working Lands for Wildlife and shift to a virtual format delivery](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/). However, given that the audience for this workshop is from a smaller region (southeast Idaho), it is a smaller group (< 35) and we can put in place some mitigations to help keep everyone socially distanced and safe for both classroom and field days, we have decided to proceed. Our plan is contingent on the [State of Idaho’s Covid-19 Stages of Reopening](https://rebound.idaho.gov/stages-of-reopening/). If:
+- Conditions in August remain in Stage 4 or Stage 3, we will continue with the in person workshop. 
+- The situation regresses to Stage 2, we will direct participants to [Working Lands for Wildlife’s Virtual LTPBR Workshop on August 11-14](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/) for the classroom content and offer three days on August 25-27 of field trips limited to 10 participants each. 
+- The situation regreses to Stage 1 and lockdowns, we will direct all participants to the [Working Lands for Wildlife’s Virtual LTPBR Workshop on August 11-14](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/) for both classroom content and *virtual* field content. Any participant at high risk or would prefer not to meet in person, is welcome to use the [Working Lands for Wildlife’s Virtual LTPBR Workshop on August 11-14](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/) as a substitute. 
+
+
+
+
 
 # Course Materials
 
@@ -25,7 +41,7 @@ In this 3 day workshop, you will be introduced to the principles underlying low-
 </div>
 
 ## Workshop Textbooks
-For the workshops, we will rely on the new [Design Manual]({{ site.baseurl }}/manual) and the [Pocket Guide]({{ site.baseurl }}/resources/pocket), which are both available free digitally. As part of your [workshop registration fee](http://restoration.usu.edu/courses/LTPBR_Logan), a hard copy will be provided to you in person at the workshop.  Extra print copies of manual are available for ~ $60 [on Amazon](https://www.amazon.com/Low-Tech-Process-Based-Restoration-Riverscapes-Design/dp/1543972993/ref=sr_1_1?keywords=low+tech+process-based+restoration&qid=1558989073&s=gateway&sr=8-1) and print runs of the pocket guide can be [arranged]({{ site.baseurl }}/resources/pocket). 
+For the workshops, we will rely on the new [Design Manual]({{ site.baseurl }}/manual) and the [Pocket Guide]({{ site.baseurl }}/resources/pocket), which are both available free digitally.   Extra print copies of manual are available for ~ $60 [on Amazon](https://www.amazon.com/Low-Tech-Process-Based-Restoration-Riverscapes-Design/dp/1543972993/ref=sr_1_1?keywords=low+tech+process-based+restoration&qid=1558989073&s=gateway&sr=8-1) and waterproof versions of the pocket guide can be [purchased here](http://www.anabranchsolutions.com/store/p7/pocketguide.html). 
 
 
 <a href="{{ site.baseurl }}/manual"><img class="float-right" src="{{ site.baseurl }}/assets/images/covers/Manual_Tilted_150.png"></a>
@@ -67,15 +83,7 @@ For the workshops, we will rely on the new [Design Manual]({{ site.baseurl }}/ma
     Rancher and Land Owner
   </div>  
  </div> 
-  <div class="row small-up-2 medium-up-2 large-up-4" align="center">
-  <div class="column column-block">
-    <a href="https://www.researchgate.net/profile/Chris_Jordan3"><img src="{{ site.baseurl }}/assets/images/people/Jordan_round.png"></a>
-    <h4><a href="https://www.researchgate.net/profile/Chris_Jordan3">Chris Jordan<sup>4</sup></a></h4>
-  </div>
-  
 
-
-</div>
 
 #### Instructor Affiliations
 
@@ -93,9 +101,7 @@ For the workshops, we will rely on the new [Design Manual]({{ site.baseurl }}/ma
     <a href="https://www.eco-logical-research.com/"><img src="{{ site.baseurl }}/assets/images/sponsors/ELR.png"></a><br>3.
   </div>
 
-<div class="column column-block">
-    <a href="https://www.nwfsc.noaa.gov/"><img src="{{ site.baseurl }}/assets/images/sponsors/NOAA.png"></a><br>4. 
-  </div>
+
 
 
 
