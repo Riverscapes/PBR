@@ -39,6 +39,7 @@ Thanks to the generous support of the [Natural Resource Conservation Service's](
 ## Odd 2020 Opportunity
 With COVID-19, we have all had to make adjustments to how we work. Unfortunately, this has required us to cancel our popular field workshop series this summer on Low-Tech Process-Based Restoration of Riverscapes. However, with challenges come new opportunities. We reimagined our workshop (normally capped at 50) in order to offer a virtual version open to all! Thanks to NRCS’ Working Lands for Wildlife partnership, this is being offered for free to you.
 
+<img src="{{ site.baseurl }}/assets/images/workshops/2020/NoField_600.png"></a>
 
 ## Virtual Workshop Description
 This virtual workshop will introduce conservationists to ‘low-tech’ process-based approaches for restoring streams and their associated riparian areas (riverscapes) to benefit fish, wildlife, and working lands. Participants will learn principles guiding low-tech process-based restoration and become familiar with simple, hand-built tools, including Beaver Dam Analogues (BDAs) and Post-Assisted Log Structures (PALS), intended to mimic and promote specific ecosystem processes. Participants will gain basic skills in the planning, design, and implementation phases of project development. Course content is supported by a published [Design Manual]({{ site.baseurl }}/manual/).
