@@ -2,6 +2,10 @@
 title: Riverscapes Restoration Design Manual - Home
 weight: 1
 ---
+<div align="center">
+<a class=" button" href="{{ site.baseurl }}/workshops/2020/SGI/"><img src="{{ site.baseurl }}/assets/images/PBR-LT_round_30.png"> Register for Virtual LTPBR Workshop - <b>FREE!</b> <i class="fa fa-graduation-cap"></i>  August 11-14, 2020 </a>
+</div>
+
 ## Manual
 <a href="{{ site.baseurl }}/manual"><img class="float-right" src="{{ site.baseurl }}/assets/images/covers/Manual_Tilted_400.png"></a> 
 
@@ -16,19 +20,18 @@ weight: 1
 Check out the condensed, Cliff-Notes version of the manual in our new [Pocket Guide]({{ site.baseurl }}/resources/pocket).
 
 
-#### Free!
+#### Free Resources!
 
+The [design manual]({{ site.baseurl }}/manual) and  [Pocket Guide]({{ site.baseurl }}/resources/pocket) are available digitally for free thanks to the generous investments and support from our [sponsors]({{ site.baseurl }}/manual/support).
 
-The above are available digitally for free thanks to the generous investments and support from our [sponsors]({{ site.baseurl }}/manual/support).
-
-
+-------
 ## Training
+<a href="https://www.nrcs.usda.gov/wps/portal/nrcs/detail/national/plantsanimals/fishwildlife/?cid=stelprdb1046975"><img class="float-left" src="{{ site.baseurl }}/assets/images/sponsors/WLFW_100.png"> </a> Due to COVID-19, the NRCS, [Working Lands for Wildlife](https://www.nrcs.usda.gov/wps/portal/nrcs/detail/national/plantsanimals/fishwildlife/?cid=stelprdb1046975) Low-Tech PBR Field Workshop Series was switched to a [virtual webinar format]({{ site.baseurl }}/workshops/2020/SGI/). This year's in-person trainings would have reached 100 invited participants in two events. The equivalent publicly offered workshops are normally $900 to $1100 per person.  Thanks to the [NRCS Working Lands for Wildlife](https://www.nrcs.usda.gov/wps/portal/nrcs/detail/national/plantsanimals/fishwildlife/?cid=stelprdb1046975) partnership, this [virtual workshop]({{ site.baseurl }}/workshops/2020/SGI/) is available for anyone interested on August 11-14, 2020. We can accommodate up to the first 1000, and you can pick and choose from five modules. Those that can't make those dates can take advantage of self-paced recordings, exercises and content after the workshop. Thank you NRCS!
 
 <div align="center">
-<a class="hollow button" href="{{ site.baseurl }}/workshops"><i class="fa fa-graduation-cap"></i> Take me to  Next LTPBR Workshop or Course </a>
-<a class="hollow button" href="{{ site.baseurl }}/workshops/2020/SGI"><i class="fa fa-leanpub" aria-hidden="true"></i> NRCS 2020 Low Tech Riparian Restoration Workshop Series </a>
-
+<a class=" button" href="{{ site.baseurl }}/workshops/2020/SGI/"><img src="{{ site.baseurl }}/assets/images/PBR-LT_round_30.png"> <b>FREE! Virtual LTPBR Workshop</b><br> See here for more information and how to register<br> <i class="fa fa-graduation-cap"></i>  August 11-14, 2020 </a>
 </div>
+
 
 
 
