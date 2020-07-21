@@ -64,7 +64,6 @@ Registration is free [here](https://register.gotowebinar.com/register/4100135342
 <div align="center">
 <a class=" hollow button" href="https://register.gotowebinar.com/register/4100135342905955595"><img src="{{ site.baseurl }}/assets/images/PBR-LT_round_30.png"> Registration for Virtual LTPBR Workshop - <b>FREE!</b> <i class="fa fa-graduation-cap"></i>  August 11-14, 2020 </a>
 </div>
-
 ------
 ## Course Materials
 
@@ -147,13 +146,13 @@ needed to design and implement appropriate low-cost practices and foster technol
     <h4><a href="https://www.researchgate.net/profile/Scott_Shahverdian">Scott Shahveridan<sup>2,1</sup></a></h4>
     Fluvial Geomorphologist
   </div>
-   
+
    <div class="column column-block">
     <a href="https://www.researchgate.net/profile/Colin_Thorne"><img src="{{ site.baseurl }}/assets/images/people/Colin_Round.png"></a>
     <h4><a href="https://www.researchgate.net/profile/Colin_Thorne">Colin Thorne<sup>6</sup></a></h4>
     Professor of Physical Geography
   </div>
-  
+
    <div class="column column-block">
     <a href="https://www.researchgate.net/profile/Nick_Weber2"><img src="{{ site.baseurl }}/assets/images/people/webber-round_1_orig.png"></a>
     <h4><a href="https://www.researchgate.net/profile/Nick_Weber2">Nick Weber<sup>2,3,1</sup></a></h4>
@@ -183,7 +182,7 @@ needed to design and implement appropriate low-cost practices and foster technol
 
   </div>
   <div class="column column-block">
-    <a href="http://www.ecometricscolorado.com"><img src="{{ site.baseurl }}/assets/images/logos/EcoMetrics.png"></a><br>4.
+    <a href="http://www.ecometricscolorado.net"><img src="{{ site.baseurl }}/assets/images/logos/EcoMetrics.png"></a><br>4.
   </div>
 
 
