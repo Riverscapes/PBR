@@ -6,6 +6,10 @@ weight: 1
 
 **August 11-14, 2020 - Anywhere with Internet**
 
+<div align="center">
+<a class=" hollow button" href="https://register.gotowebinar.com/register/4100135342905955595"><img src="{{ site.baseurl }}/assets/images/PBR-LT_round_30.png"> Registration for Virtual LTPBR Workshop - <b>FREE!</b> <i class="fa fa-graduation-cap"></i>  August 11-14, 2020 </a>
+</div>
+
 ## Overview
 
 
@@ -54,6 +58,13 @@ This virtual workshop will introduce conservationists to ‘low-tech’ process-
 
 For a more detailed draft agenda, to help you plan which modules you might want to participate in, see [here](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2020/SGI/WLFW_LTPBR+2020+Virtual+Workshop+Agenda.pdf).
 
+### Registration
+Registration is free [here](https://register.gotowebinar.com/register/4100135342905955595).  You register once and acquire access to any of the modules. Participation is limited to 1000 participants (first come first serve) each module. 
+
+<div align="center">
+<a class=" hollow button" href="https://register.gotowebinar.com/register/4100135342905955595"><img src="{{ site.baseurl }}/assets/images/PBR-LT_round_30.png"> Registration for Virtual LTPBR Workshop - <b>FREE!</b> <i class="fa fa-graduation-cap"></i>  August 11-14, 2020 </a>
+</div>
+
 ------
 ## Course Materials
 
@@ -62,13 +73,14 @@ These will be updated and posted immediately prior to virtual workshop.
 
 <div align="center">
 
-
 <a class="hollow button" href="{{ site.baseurl }}/workshops/Materials/Intro/materials.html"><img src="{{ site.baseurl }}/assets/images/diagrams/presentation.png"> Past Years Slides & Handouts<br>as PDFs <i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>
 
 </div>
 
 ### Workshop Textbooks
-For the workshops, we rely on the new [Design Manual]({{ site.baseurl }}/manual) and the [Pocket Guide]({{ site.baseurl }}/resources/pocket), which  free electronic versions are below. Print copies of manual are available for $60 [on Amazon](https://www.amazon.com/Low-Tech-Process-Based-Restoration-Riverscapes-Design/dp/1543972993/ref=sr_1_1?keywords=low+tech+process-based+restoration&qid=1558989073&s=gateway&sr=8-1) and waterproof versions of the pocket guide can be [purchased here](http://www.anabranchsolutions.com/store/p7/pocketguide.html). 
+**Mandatory Texts** - A hard copy of both the manual and pocket-guide will make your participation in the virtual workshop webinars easier , but free digital versions are available below. If you do not have hard copies, please have a PDF open in the background.  
+
+For the workshop, we rely on the a [Design Manual]({{ site.baseurl }}/manual) and the [Pocket Guide]({{ site.baseurl }}/resources/pocket), which  free electronic versions are below. Print copies of manual are available for ~ $60 [on Amazon](https://www.amazon.com/Low-Tech-Process-Based-Restoration-Riverscapes-Design/dp/1543972993/ref=sr_1_1?keywords=low+tech+process-based+restoration&qid=1558989073&s=gateway&sr=8-1) and waterproof versions of the pocket guide can be [purchased here](http://www.anabranchsolutions.com/store/p7/pocketguide.html). 
 
 Note, thanks to [Working Lands for Wildlife](https://www.nrcs.usda.gov/wps/portal/nrcs/detail/national/plantsanimals/fishwildlife/?cid=stelprdb1046975), the first 100 NRCS invitees to register will recieve a free copy of manual and pocket guide by mail!
 
@@ -102,6 +114,11 @@ needed to design and implement appropriate low-cost practices and foster technol
 <div class="row small-up-2 medium-up-2 large-up-4" align="center">
 
   <div class="column column-block">
+    <a href="https://www.researchgate.net/profile/Mark_Beardsley"><img src="{{ site.baseurl }}/assets/images/people/beardsley-round.png"></a>
+    <h4><a href="https://www.researchgate.net/profile/Stephen_Bennett8">Mark Beardsley<sup>4</sup></a></h4>
+    Ecologist
+  </div>
+  <div class="column column-block">
     <a href="https://www.researchgate.net/profile/Stephen_Bennett8"><img src="{{ site.baseurl }}/assets/images/people/bennett-round_orig.png"></a>
     <h4><a href="https://www.researchgate.net/profile/Stephen_Bennett8">Stephen N. Bennett<sup>1,2,3</sup></a></h4>
     Ecologist, Adjunct Professor
@@ -112,6 +129,11 @@ needed to design and implement appropriate low-cost practices and foster technol
    Aquatic  Ecologist, Adjunct Professor
   </div>
 
+<div class="column column-block">
+    <a href="http://bengoldfarb.com/"><img src="{{ site.baseurl }}/assets/images/people/Goldfarb_Round.png"></a>
+    <h4><a href="http://bengoldfarb.com/">Ben Goldfarb</a></h4>
+    Author, Environmental Journalist, & Beaver Believer
+  </div>
 
 <div class="column column-block">
     <a href="https://www.researchgate.net/profile/Jeremy_Maestas"><img src="{{ site.baseurl }}/assets/images/people/Maestas_round.png"></a>
@@ -125,6 +147,13 @@ needed to design and implement appropriate low-cost practices and foster technol
     <h4><a href="https://www.researchgate.net/profile/Scott_Shahverdian">Scott Shahveridan<sup>2,1</sup></a></h4>
     Fluvial Geomorphologist
   </div>
+   
+   <div class="column column-block">
+    <a href="https://www.researchgate.net/profile/Colin_Thorne"><img src="{{ site.baseurl }}/assets/images/people/Colin_Round.png"></a>
+    <h4><a href="https://www.researchgate.net/profile/Colin_Thorne">Colin Thorne<sup>6</sup></a></h4>
+    Professor of Physical Geography
+  </div>
+  
    <div class="column column-block">
     <a href="https://www.researchgate.net/profile/Nick_Weber2"><img src="{{ site.baseurl }}/assets/images/people/webber-round_1_orig.png"></a>
     <h4><a href="https://www.researchgate.net/profile/Nick_Weber2">Nick Weber<sup>2,3,1</sup></a></h4>
@@ -133,7 +162,7 @@ needed to design and implement appropriate low-cost practices and foster technol
   <div class="column column-block">
     <a href="https://www.researchgate.net/profile/Joseph_Wheaton"><img src="{{ site.baseurl }}/assets/images/people/Wheaton_round.png"></a>
     <h4><a href="https://www.researchgate.net/profile/Joseph_Wheaton">Joseph Wheaton<sup>1,2</sup></a></h4>
-    Associate Professor, Ecogeomorphologist
+    Associate Professor of Riverscapes
   </div>
 
 
@@ -162,22 +191,27 @@ needed to design and implement appropriate low-cost practices and foster technol
    <div class="column column-block">
     <a href="https://www.nrcs.usda.gov/wps/portal/nrcs/detailfull/national/about/leadership/centers/?cid=NRCS143_021469"><img src="{{ site.baseurl }}/assets/images/sponsors/usda-nrcs-logo_1_orig.png"></a><br>5.
   </div>
-
+   <div class="column column-block">
+    <a href="https://www.nottingham.ac.uk/geography/"><img src="{{ site.baseurl }}/assets/images/logos/Nottingham_150.png"></a><br>6.
+  </div>
 
 
 </div>
 
+-----
 
+## Audience
+The  audience for the virtual field workshop is any one interested in improving the health of riverscapes with low-tech PBR. This is likely to include practitioners, land or resource managers, scientists, land owners, regulators, conservationists and students.  
 
-### Audience
+#### When it is taught as a field workshop.
+The target audience for the field workshop series was primarily NRCS staff, and key partners. NRCS SGI states will select key representatives involved in mesic restoration to participate. Anticipated NRCS participants include state/area/local specialists (biologists/engineers) and select field staff. States may also opt to invite key partners who are invested locally in helping get mesic conservation on the ground. The overall goal is to build a cadre of staff in each State to evaluate the technique and serve as local sources of expertise across the range. To keep the hands-on exercises effective, we  limited invitation only enrolment to roughly 45 participants per workshop.
 
-The audience for this workshop series is primarily NRCS staff, and key partners. NRCS SGI states will select key representatives involved in mesic restoration to participate. Anticipated NRCS participants include state/area/local specialists (biologists/engineers) and select field staff. States may also opt to invite key partners who are invested locally in helping get mesic conservation on the ground. The overall goal is to build a cadre of staff in each State to evaluate the technique and serve as local sources of expertise across the range. To keep the hands-on exercises effective, we  limited invitation only enrolment to roughly 45 participants per workshop.
-
-### Make it Count
+-----
+## Make it Count
 [<img class="float-right" src="{{ site.baseurl }}/assets/images/logos/restoration-paired-03-horizontal-blueonwhite.png"> ](http://restoration.usu.edu)
 
 
-Participation in the workshops is by inivitation only and is free. However, participants can receive 1.5 Continuing Education Units from [Utah State University's Restoration Consortium](http://restoration.usu.edu) for $95.
+Participation in the workshops is free. However, participants can earn University Credit or   Continuing Education Units from [Utah State University's Restoration Consortium](http://restoration.usu.edu).  Online courses will be offered Fall 2020 Semester, and participation in this virtual workshop can count towards those courses (assessed assignments required as well).  
 
 -----
 

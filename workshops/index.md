@@ -3,6 +3,12 @@ title: Low-Tech PBR Workshops
 weight: 4
 ---
 
+<div align="center">
+<a class=" button" href="{{ site.baseurl }}/workshops/2020/SGI/"><img src="{{ site.baseurl }}/assets/images/PBR-LT_round_30.png"> Register for Virtual LTPBR Workshop - <b>FREE!</b> <i class="fa fa-graduation-cap"></i>  August 11-14, 2020 </a>
+</div>
+
+## Formats
+
 <img class="float-right" src="{{ site.baseurl }}/assets/images/workshops/teaching.jpg">We have taught over 20 workshops, short-courses and full semester long classes since 2010 on low-tech process-based restoration (see table below).  There are three ways in which we have offered this training:
 
 1. Semester-long graduate student course through Utah State University Department of Watershed Sciences (WATS 6860 - Check USU Registrar for offerings) 
@@ -32,7 +38,7 @@ Note that Undergraduates in the [Department of Watershed Sciences](https://qcnr.
 
 | Year  | Workshop | Location | Audience |
 | ------ | ------ | ------ | ------ |
-| 2020, August 10-14 | [Low-Tech Process-Based Restoration of Riverscapes - 2020 Virtual Workshop]({{ site.baseurl }}/workshops/2020/SGI/) | Online | NRCS, [WLFW](https://www.nrcs.usda.gov/wps/portal/nrcs/detail/national/plantsanimals/fishwildlife/?cid=stelprdb1046975), [Pheasants Forever](https://pheasantsforever.org/Hunt/pheasant-hunting.aspx), [USU Restoration Consortium](http://restoration.usu.edu/), |
+| 2020, August 11-14 | [Low-Tech Process-Based Restoration of Riverscapes - 2020 Virtual Workshop]({{ site.baseurl }}/workshops/2020/SGI/) | Online | NRCS, [WLFW](https://www.nrcs.usda.gov/wps/portal/nrcs/detail/national/plantsanimals/fishwildlife/?cid=stelprdb1046975), [Pheasants Forever](https://pheasantsforever.org/Hunt/pheasant-hunting.aspx), [USU Restoration Consortium](http://restoration.usu.edu/), |
 | 2019, October | [Stage Zero Restoration]({{ site.baseurl }}/workshops/2019/Stage0/materials.html) | Sisters, OR | [River Restoration Northwest](http://restoration.usu.edu/) & [Portland State University](https://www.pdx.edu/environmental-professional-program/river-restoration-certificate) |
 | 2019, September | [Introduction to Low-Tech Process-Based Restoration]({{ site.baseurl }}/workshops/2019/RC/) | Logan, UT | [USU Restoration Consortium](http://restoration.usu.edu/) |
 | 2016,  October | Beaver Restoration Class | Prineville, Oregon | [Portland State University](https://www.pdx.edu/environmental-professional-program/river-restoration-certificate) |
