@@ -19,7 +19,7 @@ We have water-proof, field ready Pocket Guides available. For small orders (e.g.
 <a class=" button" href="http://www.anabranchsolutions.com/store/p7/pocketguide.html"><img src="{{ site.baseurl }}/assets/images/PBR-LT_round_30.png"> Get your print Pocket Guide Here</a>
 </div> 
 
-For larger quantity runs, pricing can be as low as $9 to $11 per copy. To order print versions, please contact <a href = "mailto: adrea@anabranchsolutions.com">Adrea Wheaton.</a>
+For larger quantity runs, pricing can be as low as $9 to $11 per copy. To order bulk print versions, please contact <a href = "mailto: adrea@anabranchsolutions.com">Adrea Wheaton</a>. For quantities less than 10, you can purchase them individually [here](http://www.anabranchsolutions.com/store/p7/pocketguide.html). 
 
 <br><br>
 
