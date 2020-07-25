@@ -24,6 +24,10 @@ defaults:
     values:
       layout: "default"
 
+# Google Analytics
+google_analytics: UA-146434571-3
+
+
 # Files/Folders to exclude from publishing
 exclude:
   - src
