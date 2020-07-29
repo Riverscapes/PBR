@@ -8,34 +8,15 @@ Below you can find PDFs and video recordings of the slides we cover in the intro
 
 # Module 1 - Introduction to Low-Tech Process-Based Restoration
 
+## Live Scheudle & Agenda:
 Tuesday, Aug 11: 10:00 AM - 4:00 PM (Mountain Time)
 
-## Slides & Handouts
------
-### Logistics, learning objectives, and introductions 
+--------
+# Materials
 
-[<img class="float-right" src="{{ site.baseurl }}/assets/images/workshops/2019/PDF_01.png"> ](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Workshops/LTPBR/2019/SGI/01_Logistics.pdf)
+--------
+## Logistics
 
-The workshop kicks off with some introductions and logistics.  
-- <i class="fa fa-file-pdf-o" aria-hidden="true"></i> [Logistics, Introductions - Slides](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Workshops/LTPBR/2019/SGI/01_Logistics.pdf)
-
------
-### Background and purpose 
-[<img class="float-right" src="{{ site.baseurl }}/assets/images/workshops/2019/PDF_02.png"> ](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2019/SGI/02_LowTech_BackgroundPurpose.pdf)
-Next, we set the stage for why we're here, underscore the scope of degradation, and lay out a vision for what is possible. 
-
-- <i class="fa fa-file-pdf-o" aria-hidden="true"></i> [Background & Purpose - Slides](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2019/SGI/02_LowTech_BackgroundPurpose.pdf)
-
-These talks are elaborated in [Chapter 1]({{ site.baseurl}}/manual/chap01) of design manual. 
-#### Background & Why we’re Here 
-Jeremy Masestas
- 
-
-#### Scope of Problem - Joseph Wheaton
-
-#### Missing Reference Condition: Stage Zero -  Colin Thorne
-#### What Riverscapes Could Be - Mark Beardsley
-#### Build your first Beaver Dam Analogue exercise (Pocket Guide) 
 
 -----
 ### Introduction to low-tech tools (Chapter 1 & 4 - Design Manual) 
@@ -54,6 +35,53 @@ Jeremy Masestas
 
 -----
 ### Questions & plans for rest of workshop module
+
+--------
+## Background
+
+### Background & Why we’re Here 
+Jeremy Masestas
+
+
+### Scope of Problem - Joseph Wheaton
+
+### Missing Reference Condition: Stage Zero -  Colin Thorne
+### What Riverscapes Could Be - Mark Beardsley
+### Build your first Beaver Dam Analogue exercise (Pocket Guide) 
+
+
+--------
+## Low-Tech Intro
+
+--------
+## Guiding Principles
+
+
+--------
+## Beaver
+
+
+--------
+## Synthesis
+
+# OLD Slides & Handouts
+-----
+### Logistics, learning objectives, and introductions 
+
+[<img class="float-right" src="{{ site.baseurl }}/assets/images/workshops/2019/PDF_01.png"> ](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Workshops/LTPBR/2019/SGI/01_Logistics.pdf)
+
+The workshop kicks off with some introductions and logistics.  
+- <i class="fa fa-file-pdf-o" aria-hidden="true"></i> [Logistics, Introductions - Slides](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Workshops/LTPBR/2019/SGI/01_Logistics.pdf)
+
+-----
+### Background and purpose 
+[<img class="float-right" src="{{ site.baseurl }}/assets/images/workshops/2019/PDF_02.png"> ](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2019/SGI/02_LowTech_BackgroundPurpose.pdf)
+Next, we set the stage for why we're here, underscore the scope of degradation, and lay out a vision for what is possible. 
+
+- <i class="fa fa-file-pdf-o" aria-hidden="true"></i> [Background & Purpose - Slides](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2019/SGI/02_LowTech_BackgroundPurpose.pdf)
+
+These talks are elaborated in [Chapter 1]({{ site.baseurl}}/manual/chap01) of design manual. 
+
 
 
 ##  1. Logistics and Introductions
