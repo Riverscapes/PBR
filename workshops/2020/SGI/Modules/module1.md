@@ -17,56 +17,71 @@ Tuesday, Aug 11: 10:00 AM - 4:00 PM (Mountain Time)
 --------
 ## Logistics
 
------
-### Introduction to low-tech tools (Chapter 1 & 4 - Design Manual) 
 
------
-### Build your first Beaver Dam Analogue exercise (Pocket Guide) 
 
------
-### Guiding principles (Chapter 2 - Design Manual) 
-
------
-### Partnering with Beaver & Beaver Ecology 
-#### Beaver History & Biology- Ben Goldfarb (tentative)
-#### Beaver Ecology & Feedbacks, plus why do beaver build dams? - Nick Bouwes
-#### Why partner with beavers? - Jeremy Maestas
-
------
-### Questions & plans for rest of workshop module
-
+--------
 --------
 ## Background
 
+These talks are elaborated in [Chapter 1]({{ site.baseurl}}/manual/chap01) of design manual. 
+
 ### Background & Why we’re Here 
-Jeremy Masestas
 
-https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2020/SGI/Materials/Moudle1/01_B_LowTech_Background%26Purpose.pdf
+[<img class="float-right" src="{{ site.baseurl }}/assets/images/workshops/2020/modules/01_B.png"> ](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2020/SGI/Materials/Moudle1/01_B_LowTech_Background%26Purpose.pdf)
 
+To kick off,  [Jeremy Maestas]({{ site.baseurl }}/workshops/2020/SGI/#instruction-team) sets the stage for why we're here, underscores the scope of degradation, and lays out a shared vision for what is possible. 
 
+- <i class="fa fa-file-pdf-o" aria-hidden="true"></i> [Background & Why we’re Here  - Slides](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2020/SGI/Materials/Moudle1/01_B_LowTech_Background%26Purpose.pdf)
+
+#### Video
+<div class="responsive-embed"> 
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/x3eH6QVMCL0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+--------
 ### Scope of Problem - Joseph Wheaton
 
+--------
 ### Missing Reference Condition: Stage Zero -  Colin Thorne
+
+--------
 ### What Riverscapes Could Be - Mark Beardsley
+
+-------
 ### Build your first Beaver Dam Analogue exercise (Pocket Guide) 
 
+--------
 --------
 ## Low-Tech Intro
 
 --------
+--------
 ## Guiding Principles
 
---------
-## Beaver
 
 --------
+--------
+## Parntering with Beaver
+
+--------
+### Beaver History & Biology- Ben Goldfarb (tentative)
+
+--------
+#### Beaver Ecology & Feedbacks, plus why do beaver build dams? - Nick Bouwes
+
+--------
+#### Why partner with beavers? - Jeremy Maestas
+
+--------
+--------
 ## Synthesis
+
+### Questions & plans for rest of workshop module
 
 # OLD Slides & Handouts
 -----
 ### Logistics, learning objectives, and introductions 
 
-[<img class="float-right" src="{{ site.baseurl }}/assets/images/workshops/2019/PDF_01.png"> ](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Workshops/LTPBR/2019/SGI/01_Logistics.pdf)
 
 The workshop kicks off with some introductions and logistics.  
 - <i class="fa fa-file-pdf-o" aria-hidden="true"></i> [Logistics, Introductions - Slides](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Workshops/LTPBR/2019/SGI/01_Logistics.pdf)
