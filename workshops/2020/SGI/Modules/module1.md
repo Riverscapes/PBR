@@ -8,7 +8,7 @@ Below you can find PDFs and video recordings of the slides we cover in the intro
 
 # Module 1 - Introduction to Low-Tech Process-Based Restoration
 
-## Live Scheudle & Agenda:
+## Live Schedule & Agenda:
 Tuesday, Aug 11: 10:00 AM - 4:00 PM (Mountain Time)
 
 --------
