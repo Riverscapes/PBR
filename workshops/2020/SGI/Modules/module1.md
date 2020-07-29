@@ -17,7 +17,6 @@ Tuesday, Aug 11: 10:00 AM - 4:00 PM (Mountain Time)
 --------
 ## Logistics
 
-
 -----
 ### Introduction to low-tech tools (Chapter 1 & 4 - Design Manual) 
 
@@ -42,6 +41,8 @@ Tuesday, Aug 11: 10:00 AM - 4:00 PM (Mountain Time)
 ### Background & Why we’re Here 
 Jeremy Masestas
 
+https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2020/SGI/Materials/Moudle1/01_B_LowTech_Background%26Purpose.pdf
+
 
 ### Scope of Problem - Joseph Wheaton
 
@@ -49,17 +50,14 @@ Jeremy Masestas
 ### What Riverscapes Could Be - Mark Beardsley
 ### Build your first Beaver Dam Analogue exercise (Pocket Guide) 
 
-
 --------
 ## Low-Tech Intro
 
 --------
 ## Guiding Principles
 
-
 --------
 ## Beaver
-
 
 --------
 ## Synthesis
