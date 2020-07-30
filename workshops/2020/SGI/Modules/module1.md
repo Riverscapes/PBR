@@ -12,8 +12,8 @@ Below you can find PDFs and video recordings of the topics we covered in the int
 *Tuesday*, **Aug 11, 2020**
 10:00 AM - 4:00 PM (Mountain Time)
 
-<a href="https://calendar.google.com/calendar/r/eventedit?text=Module+01+LTPBR&dates=20200811T100000/20200811T160000&ctz=America/Denver&details=For+details,+see+here:+http://lowtechpbr.restoration.usu.edu//workshops/2020/SGI/" class="button"><i class="fa fa-calendar-plus-o" aria-hidden="true"></i>
- Add to My <i class="fa fa-google" aria-hidden="true"></i> Calendar </a>
+<a href="https://calendar.google.com/calendar/r/eventedit?text=Module+01+LTPBR&dates=20200811T100000/20200811T160000&ctz=America/Denver&details=For+details,+see+here:+http://lowtechpbr.restoration.usu.edu//workshops/2020/SGI/" class="button hollow"><i class="fa fa-calendar-plus-o" aria-hidden="true"></i>
+ Add Module 1 to My <i class="fa fa-google" aria-hidden="true"></i> Calendar </a>
 
 --------
 # Materials
