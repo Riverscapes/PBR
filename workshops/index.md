@@ -3,9 +3,7 @@ title: Low-Tech PBR Workshops
 weight: 4
 ---
 
-<div align="center">
-<a class=" button" href="{{ site.baseurl }}/workshops/2020/SGI/"><img src="{{ site.baseurl }}/assets/images/PBR-LT_round_30.png"> Register for Virtual LTPBR Workshop - <b>FREE!</b> <i class="fa fa-graduation-cap"></i>  August 11-14, 2020 </a>
-</div>
+
 
 ## Formats
 
