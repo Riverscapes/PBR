@@ -43,10 +43,49 @@ To kick off,  [Jeremy Maestas]({{ site.baseurl }}/workshops/2020/SGI/#instructio
 </div>
 
 --------
-### Scope of Problem - Joseph Wheaton
+
+### Scope of Problem 
+[<img class="float-right" src="{{ site.baseurl }}/assets/images/workshops/2020/modules/00_A.png"> ]()
+
+For  further background on riverscapes,  [Joe Wheaton]({{ site.baseurl }}/workshops/2020/SGI/#instruction-team) helps define riverscapes and the scope of their degradation. 
+
+- <i class="fa fa-file-pdf-o" aria-hidden="true"></i> [Scope of Problem  - Slides]()
+
+#### Video
+<div class="responsive-embed"> 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/N5EauePzYqw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 --------
 ### Missing Reference Condition: Stage Zero -  Colin Thorne
+
+<div class="row small-up-2 medium-up-2">
+  
+  <div class="column">
+    <div class="card">
+      <img src="http://lorempixel.com/150/100/cats/2">
+      <div class="card-section">
+        <h4>Video</h4>
+        <div class="responsive-embed"> 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/N5EauePzYqw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+      </div>
+    </div>
+  </div>
+  <div class="column">
+    <div class="card">
+      
+      <div class="card-section">
+        <h4>Slides</h4>
+
+        	<a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2020/SGI/Materials/Moudle1/01_B_LowTech_Background%26Purpose.pdf"><img src="{{ site.baseurl }}/assets/images/workshops/2020/modules/00_A.png"></a>
+
+        <i class="fa fa-file-pdf-o" aria-hidden="true"></i> <a href="">Scope of Problem  - Slides</a>
+        <p>It has an easy to override visual style, and is appropriately subdued.</p>
+      </div>
+    </div>
+  </div>
+</div>
 
 --------
 ### What Riverscapes Could Be - Mark Beardsley
