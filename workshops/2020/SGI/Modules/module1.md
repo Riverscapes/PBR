@@ -4,12 +4,16 @@ weight: 1
 ---
 
 
-Below you can find PDFs and video recordings of the slides we cover in the intro to low-tech process-based restoration virtual workshop. Each is licensed with a [Creative Commons licence](https://creativecommons.org/), so you are free to re-use subject to the terms of the license. 
+Below you can find PDFs and video recordings of the topics we covered in the intro to low-tech process-based restoration virtual workshop. Use the navigation menu to jump to a specific topic. Each is licensed with a [Creative Commons licence](https://creativecommons.org/), so you are free to, share, adapt re-use subject to the terms of the license. 
 
-# Module 1 - Introduction to Low-Tech Process-Based Restoration
+# Introduction to Low-Tech Process-Based Restoration
 
 ## Live Schedule & Agenda:
-Tuesday, Aug 11: 10:00 AM - 4:00 PM (Mountain Time)
+*Tuesday*, **Aug 11, 2020**
+10:00 AM - 4:00 PM (Mountain Time)
+
+<a href="https://calendar.google.com/calendar/r/eventedit?text=Module+01+LTPBR&dates=20200811T100000/20200811T160000&ctz=America/Denver&details=For+details,+see+here:+http://lowtechpbr.restoration.usu.edu//workshops/2020/SGI/" class="button"><i class="fa fa-calendar-plus-o" aria-hidden="true"></i>
+ Add to My <i class="fa fa-google" aria-hidden="true"></i> Calendar </a>
 
 --------
 # Materials
