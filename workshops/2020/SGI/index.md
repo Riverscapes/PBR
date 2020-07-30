@@ -7,10 +7,12 @@ weight: 1
 **August 11-14, 2020 - Anywhere with Internet**
 
 <div align="center">
-<a class=" hollow button" href="https://register.gotowebinar.com/register/4100135342905955595"><img src="{{ site.baseurl }}/assets/images/PBR-LT_round_30.png"> Registration for Virtual LTPBR Workshop - <b>FREE!</b> <i class="fa fa-graduation-cap"></i>  August 11-14, 2020 </a>
+<a class=" hollow button" href=""><img src="{{ site.baseurl }}/assets/images/PBR-LT_round_30.png"> Registration <b>CLOSED</b> for Virtual LTPBR Workshop -  <i class="fa fa-graduation-cap"></i>  August 11-14, 2020 </a>
 </div>
 
-**UPDATE** - As of July 28,  840 people had registered. The interest is wonderful. Unfortunately, with our webinar system, we can only accommodate 1000 participants, so we will be closing registration when we reach that mark. If you do not get in, please do not despair! All of the presentations and discussions will be recorded, organized and made available from this page, after the workshop. Thus, you can still participate at your own pace, asynchronously. 
+**UPDATE** - As of July 300,  1000 people had registered! Thanks to all of you have registered! The interest is wonderful. Unfortunately, with our webinar system, we can only accommodate 1000 participants, so **registration is now closed**. 
+
+**Couldn't register?** If you were unable to register, please do not despair! All of the presentations and discussions will be recorded, organized and made available from this page, after the workshop. Thus, you can still participate at your own pace, asynchronously. 
 
 ## Overview
 
@@ -62,11 +64,9 @@ This virtual workshop will introduce conservationists to ‘low-tech’ process-
 For a more detailed draft agenda, to help you plan which modules you might want to participate in, see [here](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2020/SGI/WLFW_LTPBR+2020+Virtual+Workshop+Agenda.pdf).
 
 ### Registration
-Registration is free [here](https://register.gotowebinar.com/register/4100135342905955595).  You register once and acquire access to any of the modules. Participation is limited to 1000 participants (first come first serve) each module. 
+Registration was free, but is now **closed**.  Participation was limited to 1000 participants.
 
-<div align="center">
-<a class=" hollow button" href="https://register.gotowebinar.com/register/4100135342905955595"><img src="{{ site.baseurl }}/assets/images/PBR-LT_round_30.png"> Registration for Virtual LTPBR Workshop - <b>FREE!</b> <i class="fa fa-graduation-cap"></i>  August 11-14, 2020 </a>
-</div>
+
 ------
 ## Course Materials
 
