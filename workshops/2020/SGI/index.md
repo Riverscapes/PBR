@@ -7,7 +7,7 @@ weight: 1
 **August 11-14, 2020 - Anywhere with Internet**
 
 <div align="center">
-<a class=" hollow button" href=""><img src="{{ site.baseurl }}/assets/images/PBR-LT_round_30.png"> Registration <b>CLOSED</b> for Virtual LTPBR Workshop -  <i class="fa fa-graduation-cap"></i>  August 11-14, 2020 </a>
+<a class=" hollow button" href="{{ site.baseurl }}/workshops/2020/SGI/prep.html"><img src="{{ site.baseurl }}/assets/images/PBR-LT_round_30.png"> I am registered for Virtual LTPBR Workshop. <br> <b>Workshop Preparation Instructions</b>  -  <i class="fa fa-graduation-cap"></i><br>  August 11-14, 2020 </a>
 </div>
 
 **UPDATE** - As of July 300,  1000 people had registered! Thanks to all of you have registered! The interest is wonderful. Unfortunately, with our webinar system, we can only accommodate 1000 participants, so **registration is now closed**. 
