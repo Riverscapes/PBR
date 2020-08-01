@@ -344,7 +344,58 @@ dd
 
 --------
 
-------
+### H. Post-Assisted Log Structures (PALS)
+
+<a href="{{ site.baseurl }}/workshops/2020/SGI/#instruction-team"><img width="80"  class="float-left" src="{{ site.baseurl }}/assets/images/people/bennett-round.png"></a>
+ [Stephen Bennett]({{ site.baseurl }}/workshops/2020/SGI/#instruction-team) dives into low-tech structures talking about Post-Assisted Log Structures, the different types of PALS and when and where they are useful in restoration.
+
+**Background :** This talk is based on [Chapter 1]({{ site.baseurl}}/manual/chap01) & [Chapter 4]({{ site.baseurl}}/manual/chap04) of design manual.  
+<br>
+
+<div class="row small-up-2 medium-up-2">
+
+
+  <div class="column">
+    <div class="card">
+
+
+      <div class="card-section">
+        <h4>Video</h4>
+        <div class="responsive-embed"> 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/N5EauePzYqw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
+
+</div>
+      </div>
+    </div>
+  </div>
+
+  <div class="column">
+    <div class="card">
+
+
+      <div class="card-section">
+        <h4>Slides</h4>
+    <div align="center">
+        	<a href="" target="_blank"><img src="{{ site.baseurl }}/assets/images/workshops/2020/modules/00_A.png"></a>
+        	</div>
+        
+         <i class="fa fa-file-pdf-o" aria-hidden="true"></i> <a href="" target="_blank">Scope of Problem  - Slides</a>
+        
+      </div>
+    </div>
+
+  </div>
+</div>
+
+
+#### Additional Resources
+
+Chapter Link
+
+dd
+
+--------
 
 ### x. Template
 
@@ -396,7 +447,6 @@ That little text intro on  [John Doe]({{ site.baseurl }}/workshops/2020/SGI/#ins
 Chapter Link
 
 dd
-
 
 ### What Riverscapes Could Be - Mark Beardsley
 
