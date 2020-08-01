@@ -39,7 +39,7 @@ These talks are elaborated in [Chapter 1]({{ site.baseurl}}/manual/chap01) of de
 
 ### B. Background & Why We’re Here
 
-<a href="{{ site.baseurl }}/workshops/2020/SGI/#instruction-team"><img width="80"  class="float-left" src="C:/Users/adrea/Desktop/{{ site.baseurl }}/assets/images/people/Maestas_Round.png"></a>
+<a href="{{ site.baseurl }}/workshops/2020/SGI/#instruction-team"><img width="80"  class="float-left" src="C:/0_GIT/Riverscapes/PBR//{{ site.baseurl }}/assets/images/people/Maestas_Round.png"></a>
 To kick off,  [Jeremy Maestas]({{ site.baseurl }}/workshops/2020/SGI/#instruction-team) sets the stage for why we're here, underscores the scope of degradation, and lays out a shared vision for what is possible
 
 **Background :** This talk is based on [Chapter 1]({{ site.baseurl}}/manual/chap01) & [Chapter 4]({{ site.baseurl}}/manual/chap04) of design manual.  
@@ -90,7 +90,7 @@ Chapter Link
 
 ### C. Scope of the Problem
 
-<a href="{{ site.baseurl }}/workshops/2020/SGI/#instruction-team"><img width="80"  class="float-left" src="C:/Users/adrea/Desktop/{{ site.baseurl }}/assets/images/people/Wheaton_round.png"></a>
+<a href="{{ site.baseurl }}/workshops/2020/SGI/#instruction-team"><img width="80"  class="float-left" src="C:/0_GIT/Riverscapes/PBR/{{ site.baseurl }}/assets/images/people/Wheaton_round.png"></a>
 That little text intro on  [Joe Wheaton]({{ site.baseurl }}/workshops/2020/SGI/#instruction-team) saying what he says.. 
 
 **Background :** This talk is based on [Chapter 1]({{ site.baseurl}}/manual/chap01) & [Chapter 4]({{ site.baseurl}}/manual/chap04) of design manual.  
@@ -247,7 +247,7 @@ dd
 
 ### F. What You Came For - Your First BDA
 
-<a href="{{ site.baseurl }}/workshops/2020/SGI/#instruction-team"><img width="80"  class="float-left" src="C:/Users/adrea/Desktop/{{ site.baseurl }}/assets/images/people/Colin_Round.png"></a>
+<a href="{{ site.baseurl }}/workshops/2020/SGI/#instruction-team"><img width="80"  class="float-left" src="{{ site.baseurl }}/assets/images/people/Colin_Round.png"></a>
 That little text intro on  [Joe Wheaton]({{ site.baseurl }}/workshops/2020/SGI/#instruction-team) saying what he says.. 
 
 **Background :** This talk is based on [Chapter 1]({{ site.baseurl}}/manual/chap01) & [Chapter 4]({{ site.baseurl}}/manual/chap04) of design manual.  
@@ -601,7 +601,7 @@ Idaho rancher Jay Wilde shared his amazing story
 
 <div align="center">
 
- 
+
 
         <a class="hollow button" href="{{ site.baseurl }}/Workshops/"><i class="fa fa-graduation-cap"></i>  Back to Workshops </a>  
 
