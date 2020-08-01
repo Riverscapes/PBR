@@ -82,9 +82,7 @@ To kick off,  [Jeremy Maestas]({{ site.baseurl }}/workshops/2020/SGI/#instructio
 </div>
 
 
-#### Additional Resources
 
-Chapter Link
 
 --------
 
@@ -133,10 +131,7 @@ That little text intro on  [Joe Wheaton]({{ site.baseurl }}/workshops/2020/SGI/#
 </div>
 
 
-#### Additional Resources
 
-Chapter Link
-dd
 
 --------
 
@@ -185,10 +180,7 @@ That little text intro on  [Colin Thorne]({{ site.baseurl }}/workshops/2020/SGI/
 </div>
 
 
-#### Additional Resources
 
-Chapter Link
-dd
 
 --------
 
@@ -237,11 +229,7 @@ That little text intro on  [Mark Beardsley]({{ site.baseurl }}/workshops/2020/SG
 </div>
 
 
-#### Additional Resources
 
-Chapter Link
-
-dd
 
 --------
 
@@ -336,11 +324,6 @@ In this lecture,  [Jeremy Maestas]({{ site.baseurl }}/workshops/2020/SGI/#instru
 </div>
 
 
-#### Additional Resources
-
-Chapter Link
-
-dd
 
 --------
 
@@ -389,11 +372,7 @@ dd
 </div>
 
 
-#### Additional Resources
 
-Chapter Link
-
-dd
 
 --------
 
@@ -442,11 +421,7 @@ That little text intro on  [John Doe]({{ site.baseurl }}/workshops/2020/SGI/#ins
 </div>
 
 
-#### Additional Resources
 
-Chapter Link
-
-dd
 
 ### What Riverscapes Could Be - Mark Beardsley
 
