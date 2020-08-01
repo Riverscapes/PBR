@@ -39,7 +39,7 @@ These talks are elaborated in [Chapter 1]({{ site.baseurl}}/manual/chap01) of de
 
 ### B. Background & Why We’re Here
 
-<a href="{{ site.baseurl }}/workshops/2020/SGI/#instruction-team"><img width="80"  class="float-left" src="//{{ site.baseurl }}/assets/images/people/Maestas_Round.png"></a>
+<a href="{{ site.baseurl }}/workshops/2020/SGI/#instruction-team"><img width="80"  class="float-left" src="{{ site.baseurl }}/assets/images/people/Maestas_Round.png"></a>
 To kick off,  [Jeremy Maestas]({{ site.baseurl }}/workshops/2020/SGI/#instruction-team) sets the stage for why we're here, underscores the scope of degradation, and lays out a shared vision for what is possible
 
 **Background :** This talk is based on [Chapter 1]({{ site.baseurl}}/manual/chap01) & [Chapter 4]({{ site.baseurl}}/manual/chap04) of design manual.  
@@ -291,6 +291,61 @@ That little text intro on  [Joe Wheaton]({{ site.baseurl }}/workshops/2020/SGI/#
 
 ------
 
+### G. Broad Umbrella of Low-Tech Restoration
+
+<a href="{{ site.baseurl }}/workshops/2020/SGI/#instruction-team"><img width="80"  class="float-left" src="{{ site.baseurl }}/assets/images/people/Maestas_Round.png"></a>
+In this lecture,  [Jeremy Maestas]({{ site.baseurl }}/workshops/2020/SGI/#instruction-team) introduces low-tech structures and talks about thier origins and effectiveness in restoration.
+
+**Background :** This talk is based on [Chapter 1]({{ site.baseurl}}/manual/chap01) & [Chapter 4]({{ site.baseurl}}/manual/chap04) of design manual.  
+<br>
+
+<div class="row small-up-2 medium-up-2">
+
+
+  <div class="column">
+    <div class="card">
+
+
+      <div class="card-section">
+        <h4>Video</h4>
+        <div class="responsive-embed"> 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/x4LogsoQEn0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
+
+</div>
+      </div>
+    </div>
+  </div>
+
+  <div class="column">
+    <div class="card">
+
+
+      <div class="card-section">
+        <h4>Slides</h4>
+    <div align="center">
+        	<a href="" target="_blank"><img src="{{ site.baseurl }}/assets/images/workshops/2020/modules/01_G.png"></a>
+        	</div>
+        
+         <i class="fa fa-file-pdf-o" aria-hidden="true"></i> <a href="" target="_blank">Scope of Problem  - Slides</a>
+        
+      </div>
+    </div>
+
+  </div>
+</div>
+
+
+#### Additional Resources
+
+Chapter Link
+
+dd
+
+--------
+
+------
+
 ### x. Template
 
 <a href="{{ site.baseurl }}/workshops/2020/SGI/#instruction-team"><img width="80"  class="float-left" src="{{ site.baseurl }}/assets/images/people/Colin_Round.png"></a>
@@ -342,7 +397,6 @@ Chapter Link
 
 dd
 
---------
 
 ### What Riverscapes Could Be - Mark Beardsley
 
