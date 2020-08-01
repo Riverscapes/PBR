@@ -203,7 +203,11 @@ needed to design and implement appropriate low-cost practices and foster technol
 -----
 
 ## Audience
-The  audience for the virtual field workshop is any one interested in improving the health of riverscapes with low-tech PBR. This is likely to include practitioners, land or resource managers, scientists, land owners, regulators, conservationists and students.  
+The target  audience for the virtual field workshop is any one interested in improving the health of riverscapes with low-tech PBR. We anticipated this was likely to include practitioners, land or resource managers, scientists, land owners, regulators, conservationists and students. Below is where the registrants were from.
+
+<div class="responsive-embed">
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1Zz_dDbpil8m5EIcNx3n1djH2UNBeD4Qx" width="640" height="480"></iframe>
+</div>
 
 #### When it is taught as a field workshop.
 The target audience for the field workshop series was primarily NRCS staff, and key partners. NRCS SGI states will select key representatives involved in mesic restoration to participate. Anticipated NRCS participants include state/area/local specialists (biologists/engineers) and select field staff. States may also opt to invite key partners who are invested locally in helping get mesic conservation on the ground. The overall goal is to build a cadre of staff in each State to evaluate the technique and serve as local sources of expertise across the range. To keep the hands-on exercises effective, we  limited invitation only enrolment to roughly 45 participants per workshop.
