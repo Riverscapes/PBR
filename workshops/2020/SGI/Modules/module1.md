@@ -39,7 +39,7 @@ These talks are elaborated in [Chapter 1]({{ site.baseurl}}/manual/chap01) of de
 
 ### B. Background & Why We’re Here
 
-<a href="{{ site.baseurl }}/workshops/2020/SGI/#instruction-team"><img width="80"  class="float-left" src="C:/0_GIT/Riverscapes/PBR//{{ site.baseurl }}/assets/images/people/Maestas_Round.png"></a>
+<a href="{{ site.baseurl }}/workshops/2020/SGI/#instruction-team"><img width="80"  class="float-left" src="//{{ site.baseurl }}/assets/images/people/Maestas_Round.png"></a>
 To kick off,  [Jeremy Maestas]({{ site.baseurl }}/workshops/2020/SGI/#instruction-team) sets the stage for why we're here, underscores the scope of degradation, and lays out a shared vision for what is possible
 
 **Background :** This talk is based on [Chapter 1]({{ site.baseurl}}/manual/chap01) & [Chapter 4]({{ site.baseurl}}/manual/chap04) of design manual.  
@@ -90,7 +90,7 @@ Chapter Link
 
 ### C. Scope of the Problem
 
-<a href="{{ site.baseurl }}/workshops/2020/SGI/#instruction-team"><img width="80"  class="float-left" src="C:/0_GIT/Riverscapes/PBR/{{ site.baseurl }}/assets/images/people/Wheaton_round.png"></a>
+<a href="{{ site.baseurl }}/workshops/2020/SGI/#instruction-team"><img width="80"  class="float-left" src="{{ site.baseurl }}/assets/images/people/Wheaton_round.png"></a>
 That little text intro on  [Joe Wheaton]({{ site.baseurl }}/workshops/2020/SGI/#instruction-team) saying what he says.. 
 
 **Background :** This talk is based on [Chapter 1]({{ site.baseurl}}/manual/chap01) & [Chapter 4]({{ site.baseurl}}/manual/chap04) of design manual.  
@@ -194,7 +194,7 @@ dd
 
 ### E. What Riverscapes Could Be
 
-<a href="{{ site.baseurl }}/workshops/2020/SGI/#instruction-team"><img width="80"  class="float-left" src="C:/Users/adrea/Desktop/{{ site.baseurl }}/assets/images/people/beardsley-round.png"></a>
+<a href="{{ site.baseurl }}/workshops/2020/SGI/#instruction-team"><img width="80"  class="float-left" src="{{ site.baseurl }}/assets/images/people/beardsley-round.png"></a>
 That little text intro on  [Mark Beardsley]({{ site.baseurl }}/workshops/2020/SGI/#instruction-team) saying what he says.. 
 
 **Background :** This talk is based on [Chapter 1]({{ site.baseurl}}/manual/chap01) & [Chapter 4]({{ site.baseurl}}/manual/chap04) of design manual.  
@@ -293,7 +293,7 @@ That little text intro on  [Joe Wheaton]({{ site.baseurl }}/workshops/2020/SGI/#
 
 ### x. Template
 
-<a href="{{ site.baseurl }}/workshops/2020/SGI/#instruction-team"><img width="80"  class="float-left" src="C:/Users/adrea/Desktop/{{ site.baseurl }}/assets/images/people/Colin_Round.png"></a>
+<a href="{{ site.baseurl }}/workshops/2020/SGI/#instruction-team"><img width="80"  class="float-left" src="{{ site.baseurl }}/assets/images/people/Colin_Round.png"></a>
 That little text intro on  [John Doe]({{ site.baseurl }}/workshops/2020/SGI/#instruction-team) saying what he says.. 
 
 **Background :** This talk is based on [Chapter 1]({{ site.baseurl}}/manual/chap01) & [Chapter 4]({{ site.baseurl}}/manual/chap04) of design manual.  
@@ -404,7 +404,7 @@ The workshop kicks off with some introductions and logistics.
 
 ### Background and purpose 
 
-[<img class="float-right" src="C:/Users/adrea/Desktop/{{ site.baseurl }}/assets/images/workshops/2019/PDF_02.png"> ](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2019/SGI/02_LowTech_BackgroundPurpose.pdf)
+[<img class="float-right" src="{{ site.baseurl }}/assets/images/workshops/2019/PDF_02.png"> ](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2019/SGI/02_LowTech_BackgroundPurpose.pdf)
 Next, we set the stage for why we're here, underscore the scope of degradation, and lay out a vision for what is possible. 
 
 - <i class="fa fa-file-pdf-o" aria-hidden="true"></i> [Background & Purpose - Slides](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2019/SGI/02_LowTech_BackgroundPurpose.pdf)
@@ -423,7 +423,7 @@ These talks are elaborated in [Chapter 1]({{ site.baseurl}}/manual/chap01) of de
 
 ## 3. Build your first Beaver Dam Analogue exercise
 
-[<img class="float-right" src="C:/Users/adrea/Desktop/{{ site.baseurl }}/assets/images/workshops/2019/PDF_03.png">](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2019/SGI/03_ParkingLotBDA.pdf)
+[<img class="float-right" src="{{ site.baseurl }}/assets/images/workshops/2019/PDF_03.png">](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2019/SGI/03_ParkingLotBDA.pdf)
 To break the ice, and get people thinking about construction, logistics and safety we went out in the parking lot to build a BDA. Participants follow a simple wicker weave recipe. 
 
 
@@ -433,7 +433,7 @@ This exercise is elaborated in the [Pocket Guide]({{ site.baseurl}}/resources/po
 
 ## 4. Introduction to low-tech approaches 
 
-[<img class="float-right" src="C:/Users/adrea/Desktop/{{ site.baseurl }}/assets/images/workshops/2019/PDF_04.png"> ](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2019/SGI/04_LowTechApproaches.pdf)
+[<img class="float-right" src="{{ site.baseurl }}/assets/images/workshops/2019/PDF_04.png"> ](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2019/SGI/04_LowTechApproaches.pdf)
 Having conquer the parking lot, we work through the diversity of low-tech approaches and structure types. 
 
 - <i class="fa fa-file-pdf-o" aria-hidden="true"></i> [ Introduction to low-tech approaches - Slides ](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2019/SGI/04_LowTechApproaches.pdf)
@@ -444,7 +444,7 @@ This talk is elaborated in [Chapter 1]({{ site.baseurl}}/manual/chap01) & [Chapt
 
 ##  5. Guiding Principles 
 
-[<img class="float-right" src="C:/Users/adrea/Desktop/{{ site.baseurl }}/assets/images/workshops/2019/PDF_05.png"> ](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2019/SGI/05_Principles.pdf)
+[<img class="float-right" src="{{ site.baseurl }}/assets/images/workshops/2019/PDF_05.png"> ](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2019/SGI/05_Principles.pdf)
 
 Perhaps the most important aspect to understand about low-tech process-based restoration: the underlying principles:
 
@@ -458,18 +458,18 @@ This talk is elaborated in [Chapter 2]({{ site.baseurl}}/manual/chap02)  of desi
 
 ## 6. Beaver Ecology 
 
-[<img class="float-right" src="C:/Users/adrea/Desktop/{{ site.baseurl }}/assets/images/workshops/2019/PDF_06.png"> ](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2019/SGI/06_Beaver.pdf)
+[<img class="float-right" src="{{ site.baseurl }}/assets/images/workshops/2019/PDF_06.png"> ](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2019/SGI/06_Beaver.pdf)
 
 In order to take advantage of beaver dam activity (one of the two key process we focus on in low-tech process-based restoration of structurally starved systems), we need to understand a bit about beaver ecology and why they build dams in the first place. 
 
 - <i class="fa fa-file-pdf-o" aria-hidden="true"></i> [Beaver Ecology Slides](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2019/SGI/06_Beaver.pdf)
 
-[<img class="float-left" src="C:/Users/adrea/Desktop/{{ site.baseurl }}/assets/images/covers/eager-goldfarb_1.jpg">](https://www.amazon.com/Eager-Surprising-Secret-Beavers-Matter/dp/160358739X/ref=sr_1_6?ie=UTF8&qid=1512586233&sr=8-6&keywords=eager+beaver)
+[<img class="float-left" src="{{ site.baseurl }}/assets/images/covers/eager-goldfarb_1.jpg">](https://www.amazon.com/Eager-Surprising-Secret-Beavers-Matter/dp/160358739X/ref=sr_1_6?ie=UTF8&qid=1512586233&sr=8-6&keywords=eager+beaver)
 This talk is elaborated in [Ben Goldfarb's](http://bengoldfarb.com/) new award winning book:  [Eager - The Surprising Secret Life of Beaver and Why they Matter](https://www.amazon.com/Eager-Surprising-Secret-Beavers-Matter/dp/160358739X/ref=sr_1_6?ie=UTF8&qid=1512586233&sr=8-6&keywords=eager+beaver). 
 
 ## 7. Conservation Planning Process
 
-[<img class="float-right" src="C:/Users/adrea/Desktop/{{ site.baseurl }}/assets/images/workshops/2019/PDF_07.png"> ](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2019/SGI/07_Planning_I.pdf)
+[<img class="float-right" src="{{ site.baseurl }}/assets/images/workshops/2019/PDF_07.png"> ](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2019/SGI/07_Planning_I.pdf)
 
 We reframe the process of undertaking low-tech restoration within the NRCS's Conservation Planning Process. Among the key adaptations of the Conservation Planning Process are learning how to read riverscapes.
 
@@ -482,7 +482,7 @@ This talk is elaborated in [Chapter 3]({{ site.baseurl}}/manual/chap03)  of desi
 
 ## 8. Planning in Detail
 
-[<img class="float-right" src="C:/Users/adrea/Desktop/{{ site.baseurl }}/assets/images/workshops/2019/PDF_08.png"> ](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2019/SGI/08_Planning_II.pdf)
+[<img class="float-right" src="{{ site.baseurl }}/assets/images/workshops/2019/PDF_08.png"> ](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2019/SGI/08_Planning_II.pdf)
 After returning from a field trip where we focused on reading riverscapes and identifying structurally-forced alterations to hydraulic and geomorphic processes, we worked through the planning phase of the CPP in detail with a series of desktop exercises. 
 
 - <i class="fa fa-file-pdf-o" aria-hidden="true"></i> [Conservation Planning Process  Intro - Slides](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2019/SGI/08_Planning_II.pdf)
@@ -500,7 +500,7 @@ These talks are elaborated in [Chapter 4]({{ site.baseurl}}/manual/chap04) of de
 
 ### 9. Case Study: Asotin Creek
 
-[<img class="float-right" src="C:/Users/adrea/Desktop/{{ site.baseurl }}/assets/images/workshops/2019/PDF_09_Asotin.png">](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2019/SGI/09_PromotingProcess_Asotin.pdf)
+[<img class="float-right" src="{{ site.baseurl }}/assets/images/workshops/2019/PDF_09_Asotin.png">](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2019/SGI/09_PromotingProcess_Asotin.pdf)
 We introduce the idea of Intensively Monitored Watershed and shared insights and results from the Asotin Creek IMW in Washington about mimicking and promoting processes of wood accumulation:
 
 - <i class="fa fa-file-pdf-o" aria-hidden="true"></i> [Case Study: Asotin Creek - Slides](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2019/SGI/09_PromotingProcess_Asotin.pdf)
@@ -508,14 +508,14 @@ We introduce the idea of Intensively Monitored Watershed and shared insights and
 
 ### 10. Case Study: Bridge Creek
 
-[<img class="float-right" src="C:/Users/adrea/Desktop/{{ site.baseurl }}/assets/images/workshops/2019/PDF_10_Bridge.png"> ](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2019/SGI/10_PromotingProcess_Bridge_bouwes.pdf)
+[<img class="float-right" src="{{ site.baseurl }}/assets/images/workshops/2019/PDF_10_Bridge.png"> ](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2019/SGI/10_PromotingProcess_Bridge_bouwes.pdf)
 The Bridge Creek IMW in Oregon case study is used to show some of the underlying science behind mimicking and promoting processes of beaver dam activity:
 
 - <i class="fa fa-file-pdf-o" aria-hidden="true"></i> [Case Study: Bridge Creek - Slides](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2019/SGI/10_PromotingProcess_Bridge_bouwes.pdf)
 
 #### Extra Case Study Examples
 
-[<img class="float-right" src="C:/Users/adrea/Desktop/{{ site.baseurl }}/assets/images/workshops/2019/PDF_10_Parish.png"> ](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2019/SGI/10_PromotingProcess_BearParish_weber.pdf)
+[<img class="float-right" src="{{ site.baseurl }}/assets/images/workshops/2019/PDF_10_Parish.png"> ](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2019/SGI/10_PromotingProcess_BearParish_weber.pdf)
 In some workshops, Nick Weber shares additional examples from Bear Creek and Parish Creek of some BDA projects:
 
 - <i class="fa fa-file-pdf-o" aria-hidden="true"></i> [Nick Weber Case Studies from Oregon - Slides](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2019/SGI/10_PromotingProcess_BearParish_weber.pdf)
@@ -527,7 +527,7 @@ Please also see the [resources]({{ site.baseurl }}/resources) pages, for more ex
 
 ## 11. Design
 
-[<img class="float-right" src="C:/Users/adrea/Desktop/{{ site.baseurl }}/assets/images/workshops/2019/PDF_11.png"> ](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2019/SGI/11_Design_Main.pdf)
+[<img class="float-right" src="{{ site.baseurl }}/assets/images/workshops/2019/PDF_11.png"> ](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2019/SGI/11_Design_Main.pdf)
 
 We walk through the LT-PBR design process to prepare participants for doing their own designs in Day 3 in the field:
 
@@ -538,7 +538,7 @@ This talk is elaborated in [Chapter 4]({{ site.baseurl}}/manual/chap04)  and [Ch
 
 ### Example of Vision
 
-[<img class="float-right" src="C:/Users/adrea/Desktop/{{ site.baseurl }}/assets/images/workshops/2019/11_Design_Wychus.png"> ](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2019/SGI/11_Design_Wychus.pdf)
+[<img class="float-right" src="{{ site.baseurl }}/assets/images/workshops/2019/11_Design_Wychus.png"> ](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2019/SGI/11_Design_Wychus.pdf)
 An example from Wychus Creek to elaborate on concepts covered in design talk and show examples of:
 
 - Vision for Phased Implementation
@@ -549,7 +549,7 @@ An example from Wychus Creek to elaborate on concepts covered in design talk and
 
 ## 12. Implementation 
 
-[<img class="float-right" src="C:/Users/adrea/Desktop/{{ site.baseurl }}/assets/images/workshops/2019/PDF_12.png"> ](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2019/SGI/12_Implementation.pdf)
+[<img class="float-right" src="{{ site.baseurl }}/assets/images/workshops/2019/PDF_12.png"> ](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2019/SGI/12_Implementation.pdf)
 
 We covered implementation on Day 3 in the field, but here are some overview slides:
 
@@ -560,7 +560,7 @@ This is based mainly on  [Chapter 6]({{ site.baseurl}}/manual/chap06)  of the de
 
 ## A Rancher’s Story: Reintroducing beaver to bring back perennial flow 
 
-[<img class="float-right" src="C:/Users/adrea/Desktop/{{ site.baseurl }}/assets/images/workshops/2019/Wilde_BirchCk.png"> ](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2019/SGI/Wilde+-+Brich+Creek.pdf)
+[<img class="float-right" src="{{ site.baseurl }}/assets/images/workshops/2019/Wilde_BirchCk.png"> ](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2019/SGI/Wilde+-+Brich+Creek.pdf)
 Idaho rancher Jay Wilde shared his amazing story
 
 - <i class="fa fa-file-pdf-o" aria-hidden="true"></i> [A Rancher’s Story: Reintroducing beaver to bring back perennial flow ](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2019/SGI/Wilde+-+Brich+Creek.pdf)
@@ -571,7 +571,7 @@ Idaho rancher Jay Wilde shared his amazing story
 
 # Day 3 - Building Low-Tech Restoration Structures  
 
-[<img class="float-right" src="C:/Users/adrea/Desktop/{{ site.baseurl }}/assets/images/workshops/2019/DesignForm.png"> ](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2019/SGI/Design_Sheet.pdf)
+[<img class="float-right" src="{{ site.baseurl }}/assets/images/workshops/2019/DesignForm.png"> ](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2019/SGI/Design_Sheet.pdf)
 
 -  Design Exercise - ([Chapter 4 - Design Manual]({{ site.baseurl }}/manual/chap04/)); [Pocket Guide]({{ site.baseurl }}/resources/pocket)) 
 -  Split into  groups, discuss design objectives for their complex, layout project with flags
