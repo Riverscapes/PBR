@@ -468,7 +468,99 @@ That little text intro on  [Joe Wheaton]({{ site.baseurl }}/workshops/2020/SGI/#
 
 --------
 
-### x. Template
+### K. Beaver History & Biology
+
+<a href="{{ site.baseurl }}/workshops/2020/SGI/#instruction-team"><img width="80"  class="float-left" src="{{ site.baseurl }}/assets/images/people/Colin_Round.png"></a>
+That little text intro on  [Ben Goldfarb]({{ site.baseurl }}/workshops/2020/SGI/#instruction-team) saying what he says.. 
+
+**Background :** This talk is based on [Chapter 1]({{ site.baseurl}}/manual/chap01) & [Chapter 4]({{ site.baseurl}}/manual/chap04) of design manual.  
+<br>
+
+<div class="row small-up-2 medium-up-2">
+
+
+  <div class="column">
+    <div class="card">
+
+
+      <div class="card-section">
+        <h4>Video</h4>
+        <div class="responsive-embed"> 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/N5EauePzYqw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
+
+</div>
+      </div>
+    </div>
+  </div>
+
+  <div class="column">
+    <div class="card">
+
+
+      <div class="card-section">
+        <h4>Slides</h4>
+    <div align="center">
+        	<a href="" target="_blank"><img src="{{ site.baseurl }}/assets/images/workshops/2020/modules/00_A.png"></a>
+        	</div>
+        
+         <i class="fa fa-file-pdf-o" aria-hidden="true"></i> <a href="" target="_blank">Scope of Problem  - Slides</a>
+        
+      </div>
+    </div>
+
+  </div>
+</div>
+
+--------
+
+### L. Beaver Ecology & Feedbacks & Why Beaver Build Dams
+
+<a href="{{ site.baseurl }}/workshops/2020/SGI/#instruction-team"><img width="80"  class="float-left" src="{{ site.baseurl }}/assets/images/people/Colin_Round.png"></a>
+That little text intro on  [Nick Bouwes]({{ site.baseurl }}/workshops/2020/SGI/#instruction-team) saying what he says.. 
+
+**Background :** This talk is based on [Chapter 1]({{ site.baseurl}}/manual/chap01) & [Chapter 4]({{ site.baseurl}}/manual/chap04) of design manual.  
+<br>
+
+<div class="row small-up-2 medium-up-2">
+
+
+  <div class="column">
+    <div class="card">
+
+
+      <div class="card-section">
+        <h4>Video</h4>
+        <div class="responsive-embed"> 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/N5EauePzYqw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
+
+</div>
+      </div>
+    </div>
+  </div>
+
+  <div class="column">
+    <div class="card">
+
+
+      <div class="card-section">
+        <h4>Slides</h4>
+    <div align="center">
+        	<a href="" target="_blank"><img src="{{ site.baseurl }}/assets/images/workshops/2020/modules/00_A.png"></a>
+        	</div>
+        
+         <i class="fa fa-file-pdf-o" aria-hidden="true"></i> <a href="" target="_blank">Scope of Problem  - Slides</a>
+        
+      </div>
+    </div>
+
+  </div>
+</div>
+
+--------
+
+### M. Why Partner with Beavers
 
 <a href="{{ site.baseurl }}/workshops/2020/SGI/#instruction-team"><img width="80"  class="float-left" src="{{ site.baseurl }}/assets/images/people/Colin_Round.png"></a>
 That little text intro on  [John Doe]({{ site.baseurl }}/workshops/2020/SGI/#instruction-team) saying what he says.. 
@@ -514,99 +606,7 @@ That little text intro on  [John Doe]({{ site.baseurl }}/workshops/2020/SGI/#ins
 
 --------
 
-### x. Template
-
-<a href="{{ site.baseurl }}/workshops/2020/SGI/#instruction-team"><img width="80"  class="float-left" src="{{ site.baseurl }}/assets/images/people/Colin_Round.png"></a>
-That little text intro on  [John Doe]({{ site.baseurl }}/workshops/2020/SGI/#instruction-team) saying what he says.. 
-
-**Background :** This talk is based on [Chapter 1]({{ site.baseurl}}/manual/chap01) & [Chapter 4]({{ site.baseurl}}/manual/chap04) of design manual.  
-<br>
-
-<div class="row small-up-2 medium-up-2">
-
-
-  <div class="column">
-    <div class="card">
-
-
-      <div class="card-section">
-        <h4>Video</h4>
-        <div class="responsive-embed"> 
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/N5EauePzYqw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
-
-</div>
-      </div>
-    </div>
-  </div>
-
-  <div class="column">
-    <div class="card">
-
-
-      <div class="card-section">
-        <h4>Slides</h4>
-    <div align="center">
-        	<a href="" target="_blank"><img src="{{ site.baseurl }}/assets/images/workshops/2020/modules/00_A.png"></a>
-        	</div>
-        
-         <i class="fa fa-file-pdf-o" aria-hidden="true"></i> <a href="" target="_blank">Scope of Problem  - Slides</a>
-        
-      </div>
-    </div>
-
-  </div>
-</div>
-
---------
-
-### x. Template
-
-<a href="{{ site.baseurl }}/workshops/2020/SGI/#instruction-team"><img width="80"  class="float-left" src="{{ site.baseurl }}/assets/images/people/Colin_Round.png"></a>
-That little text intro on  [John Doe]({{ site.baseurl }}/workshops/2020/SGI/#instruction-team) saying what he says.. 
-
-**Background :** This talk is based on [Chapter 1]({{ site.baseurl}}/manual/chap01) & [Chapter 4]({{ site.baseurl}}/manual/chap04) of design manual.  
-<br>
-
-<div class="row small-up-2 medium-up-2">
-
-
-  <div class="column">
-    <div class="card">
-
-
-      <div class="card-section">
-        <h4>Video</h4>
-        <div class="responsive-embed"> 
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/N5EauePzYqw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
-
-</div>
-      </div>
-    </div>
-  </div>
-
-  <div class="column">
-    <div class="card">
-
-
-      <div class="card-section">
-        <h4>Slides</h4>
-    <div align="center">
-        	<a href="" target="_blank"><img src="{{ site.baseurl }}/assets/images/workshops/2020/modules/00_A.png"></a>
-        	</div>
-        
-         <i class="fa fa-file-pdf-o" aria-hidden="true"></i> <a href="" target="_blank">Scope of Problem  - Slides</a>
-        
-      </div>
-    </div>
-
-  </div>
-</div>
-
---------
-
-### x. Template
+### N. Wrap-up and Preview of Remaining Modules
 
 <a href="{{ site.baseurl }}/workshops/2020/SGI/#instruction-team"><img width="80"  class="float-left" src="{{ site.baseurl }}/assets/images/people/Colin_Round.png"></a>
 That little text intro on  [John Doe]({{ site.baseurl }}/workshops/2020/SGI/#instruction-team) saying what he says.. 
