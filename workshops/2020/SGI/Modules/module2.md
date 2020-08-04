@@ -18,53 +18,16 @@ State of the Supporting Science - Ongoing & Outstandin
 
 
 ## Slides & Videos
-## A. Logistics, learning objectives & introductions
-<a href="{{ site.baseurl }}/workshops/2020/SGI/#instruction-team"><img width="80"  class="float-left" src="{{ site.baseurl }}/assets/images/people/Wheaton_round.png"></a>
-[Brenda]({{ site.baseurl }}/workshops/2020/SGI/#instruction-team) goes over the logistics of the first Virtual Workshop for Low-Tech Process-Based Restoration of Riverscapes.
 
-**Background :** These slides introduce the presenters and explain the logistics of the virtual workshop.
-<br>
-
-<div class="row small-up-2 medium-up-2">
-
-
-  <div class="column">
-    <div class="card">
-
-
-      <div class="card-section">
-        <h4>Slides</h4>
-    <div align="center">
-        	<a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2020/SGI/Materials/Moudle1/01_A_Logistics.pdf" target="_blank"><img src="{{ site.baseurl }}/assets/images/workshops/2020/modules/01_A.png"></a>
-        	</div>
-        
-         <i class="fa fa-file-pdf-o" aria-hidden="true"></i> <a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2020/SGI/Materials/Moudle1/01_A_Logistics.pdf" target="_blank">Virtual Workshop Logistics - Slides</a>
-
-
-      </div>
-    </div>
-  </div>
-
-  <div class="column">
-  
-
-  </div>
-</div>
-
-
-
---------
-
-## Background
 
 These talks are elaborated in [Chapter 1]({{ site.baseurl}}/manual/chap01) of design manual. 
 
 --------
 
-### B. Background & Why We’re Here
+### A. Template
 
-<a href="{{ site.baseurl }}/workshops/2020/SGI/#instruction-team"><img width="80"  class="float-left" src="{{ site.baseurl }}/assets/images/people/Wheaton_Round.png"></a>
-[Joe Wheaton]({{ site.baseurl }}/workshops/2020/SGI/#instruction-team) intro
+<a href="{{ site.baseurl }}/workshops/2020/SGI/#instruction-team"><img width="80"  class="float-left" src="{{ site.baseurl }}/assets/images/people/Wheaton_round.png"></a>
+That little text intro on  [John Doe]({{ site.baseurl }}/workshops/2020/SGI/#instruction-team) saying what he says.. 
 
 **Background :** This talk is based on [Chapter 1]({{ site.baseurl}}/manual/chap01) & [Chapter 4]({{ site.baseurl}}/manual/chap04) of design manual.  
 <br>
@@ -80,7 +43,7 @@ These talks are elaborated in [Chapter 1]({{ site.baseurl}}/manual/chap01) of de
         <h4>Video</h4>
         <div class="responsive-embed"> 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pTGj84HeDvg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/N5EauePzYqw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
 
 </div>
       </div>
@@ -94,10 +57,59 @@ These talks are elaborated in [Chapter 1]({{ site.baseurl}}/manual/chap01) of de
       <div class="card-section">
         <h4>Slides</h4>
     <div align="center">
-        	<a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2020/SGI/Materials/Moudle1/01_B_LowTech_Background%26Purpose.pdf" target="_blank"><img src="{{ site.baseurl }}/assets/images/workshops/2020/modules/01_B.png"></a>
+        	<a href="" target="_blank"><img src="{{ site.baseurl }}/assets/images/workshops/2020/modules/00_A.png"></a>
         	</div>
         
-         <i class="fa fa-file-pdf-o" aria-hidden="true"></i> <a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2020/SGI/Materials/Moudle1/01_B_LowTech_Background%26Purpose.pdf" target="_blank">Background & Why We’re Here  - Slides</a>
+         <i class="fa fa-file-pdf-o" aria-hidden="true"></i> <a href="" target="_blank">title - Slides</a>
+        
+      </div>
+    </div>
+
+  </div>
+</div>
+
+
+
+
+--------
+
+### B. Template
+
+<a href="{{ site.baseurl }}/workshops/2020/SGI/#instruction-team"><img width="80"  class="float-left" src="{{ site.baseurl }}/assets/images/people/Wheaton_round.png"></a>
+That little text intro on  [John Doe]({{ site.baseurl }}/workshops/2020/SGI/#instruction-team) saying what he says.. 
+
+**Background :** This talk is based on [Chapter 1]({{ site.baseurl}}/manual/chap01) & [Chapter 4]({{ site.baseurl}}/manual/chap04) of design manual.  
+<br>
+
+<div class="row small-up-2 medium-up-2">
+
+
+  <div class="column">
+    <div class="card">
+
+
+      <div class="card-section">
+        <h4>Video</h4>
+        <div class="responsive-embed"> 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/N5EauePzYqw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
+
+</div>
+      </div>
+    </div>
+  </div>
+
+  <div class="column">
+    <div class="card">
+
+
+      <div class="card-section">
+        <h4>Slides</h4>
+    <div align="center">
+        	<a href="" target="_blank"><img src="{{ site.baseurl }}/assets/images/workshops/2020/modules/00_A.png"></a>
+        	</div>
+        
+         <i class="fa fa-file-pdf-o" aria-hidden="true"></i> <a href="" target="_blank">title - Slides</a>
         
       </div>
     </div>
@@ -159,108 +171,10 @@ That little text intro on  [John Doe]({{ site.baseurl }}/workshops/2020/SGI/#ins
 
 --------
 
-### D. Missing Reference Condition: Stage Zero
-
-<a href="{{ site.baseurl }}/workshops/2020/SGI/#instruction-team"><img width="80"  class="float-left" src="{{ site.baseurl }}/assets/images/people/Colin_Round.png"></a>
-That little text intro on  [Colin Thorne]({{ site.baseurl }}/workshops/2020/SGI/#instruction-team) saying what he says.. 
-
-**Background :** This talk is based on [Chapter 1]({{ site.baseurl}}/manual/chap01) & [Chapter 4]({{ site.baseurl}}/manual/chap04) of design manual.  
-<br>
-
-<div class="row small-up-2 medium-up-2">
-
-
-  <div class="column">
-    <div class="card">
-
-
-      <div class="card-section">
-        <h4>Video</h4>
-        <div class="responsive-embed"> 
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/N5EauePzYqw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
-
-</div>
-      </div>
-    </div>
-  </div>
-
-  <div class="column">
-    <div class="card">
-
-
-      <div class="card-section">
-        <h4>Slides</h4>
-    <div align="center">
-        	<a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2020/SGI/Materials/Moudle1/01_D_Missing_ReferenceCondition_print.pdf" target="_blank"><img src="{{ site.baseurl }}/assets/images/workshops/2020/modules/00_A.png"></a>
-        	</div>
-        
-         <i class="fa fa-file-pdf-o" aria-hidden="true"></i> <a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2020/SGI/Materials/Moudle1/01_D_Missing_ReferenceCondition_print.pdf" target="_blank">Missing Reference Condition - Slides</a>
-        
-      </div>
-    </div>
-
-  </div>
-</div>
-
-
-
-
---------
-
-### E. What Riverscapes Could Be
-
-<a href="{{ site.baseurl }}/workshops/2020/SGI/#instruction-team"><img width="80"  class="float-left" src="{{ site.baseurl }}/assets/images/people/beardsley-round.png"></a>
-[Mark Beardsley]({{ site.baseurl }}/workshops/2020/SGI/#instruction-team) asks us to reimagine what a healthy riverscape could be in the Low Tech Process Based Restoration of Riverscapes Workshop.
-
-**Background :** This talk is based on [Chapter 1]({{ site.baseurl}}/manual/chap01) ({{ site.baseurl}}/manual/chap04) of design manual.  
-<br>
-
-<div class="row small-up-2 medium-up-2">
-
-
-  <div class="column">
-    <div class="card">
-
-
-      <div class="card-section">
-        <h4>Video</h4>
-        <div class="responsive-embed"> 
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nMGmkIl6gVI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
-
-</div>
-      </div>
-    </div>
-  </div>
-
-  <div class="column">
-    <div class="card">
-
-
-      <div class="card-section">
-        <h4>Slides</h4>
-    <div align="center">
-        	<a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2020/SGI/Materials/Moudle1/01_E_WhatRiverscapesCouldBepdf.pdf" target="_blank"><img src="{{ site.baseurl }}/assets/images/workshops/2020/modules/01_E.png"></a>
-        	</div>
-        
-         <i class="fa fa-file-pdf-o" aria-hidden="true"></i> <a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2020/SGI/Materials/Moudle1/01_E_WhatRiverscapesCouldBepdf.pdf" target="_blank">What Riverscapes Could Be  - Slides</a>
-        
-      </div>
-    </div>
-
-  </div>
-</div>
-
-
-
-
---------
-
-### F. What You Came For - Your First BDA
+### D. Template
 
 <a href="{{ site.baseurl }}/workshops/2020/SGI/#instruction-team"><img width="80"  class="float-left" src="{{ site.baseurl }}/assets/images/people/Wheaton_round.png"></a>
-That little text intro on  [Joe Wheaton]({{ site.baseurl }}/workshops/2020/SGI/#instruction-team) saying what he says.. 
+That little text intro on  [John Doe]({{ site.baseurl }}/workshops/2020/SGI/#instruction-team) saying what he says.. 
 
 **Background :** This talk is based on [Chapter 1]({{ site.baseurl}}/manual/chap01) & [Chapter 4]({{ site.baseurl}}/manual/chap04) of design manual.  
 <br>
@@ -293,7 +207,7 @@ That little text intro on  [Joe Wheaton]({{ site.baseurl }}/workshops/2020/SGI/#
         	<a href="" target="_blank"><img src="{{ site.baseurl }}/assets/images/workshops/2020/modules/00_A.png"></a>
         	</div>
         
-         <i class="fa fa-file-pdf-o" aria-hidden="true"></i> <a href="" target="_blank">Scope of Problem  - Slides</a>
+         <i class="fa fa-file-pdf-o" aria-hidden="true"></i> <a href="" target="_blank">title - Slides</a>
         
       </div>
     </div>
@@ -301,12 +215,15 @@ That little text intro on  [Joe Wheaton]({{ site.baseurl }}/workshops/2020/SGI/#
   </div>
 </div>
 
-------
 
-### G. Broad Umbrella of Low-Tech Restoration
 
-<a href="{{ site.baseurl }}/workshops/2020/SGI/#instruction-team"><img width="80"  class="float-left" src="{{ site.baseurl }}/assets/images/people/Maestas_Round.png"></a>
-In this lecture,  [Jeremy Maestas]({{ site.baseurl }}/workshops/2020/SGI/#instruction-team) introduces low-tech structures and talks about thier origins and effectiveness in restoration.
+
+--------
+
+### E. Template
+
+<a href="{{ site.baseurl }}/workshops/2020/SGI/#instruction-team"><img width="80"  class="float-left" src="{{ site.baseurl }}/assets/images/people/Wheaton_round.png"></a>
+That little text intro on  [John Doe]({{ site.baseurl }}/workshops/2020/SGI/#instruction-team) saying what he says.. 
 
 **Background :** This talk is based on [Chapter 1]({{ site.baseurl}}/manual/chap01) & [Chapter 4]({{ site.baseurl}}/manual/chap04) of design manual.  
 <br>
@@ -322,7 +239,7 @@ In this lecture,  [Jeremy Maestas]({{ site.baseurl }}/workshops/2020/SGI/#instru
         <h4>Video</h4>
         <div class="responsive-embed"> 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/x4LogsoQEn0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/N5EauePzYqw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
 
 </div>
       </div>
@@ -336,16 +253,122 @@ In this lecture,  [Jeremy Maestas]({{ site.baseurl }}/workshops/2020/SGI/#instru
       <div class="card-section">
         <h4>Slides</h4>
     <div align="center">
-        	<a href="" target="_blank"><img src="{{ site.baseurl }}/assets/images/workshops/2020/modules/01_G.png"></a>
+        	<a href="" target="_blank"><img src="{{ site.baseurl }}/assets/images/workshops/2020/modules/00_A.png"></a>
         	</div>
         
-         <i class="fa fa-file-pdf-o" aria-hidden="true"></i> <a href="" target="_blank">Broad Umbrella of Low-Tech - Slides</a>
+         <i class="fa fa-file-pdf-o" aria-hidden="true"></i> <a href="" target="_blank">title - Slides</a>
         
       </div>
     </div>
 
   </div>
 </div>
+
+
+
+
+--------
+
+### F. Template
+
+<a href="{{ site.baseurl }}/workshops/2020/SGI/#instruction-team"><img width="80"  class="float-left" src="{{ site.baseurl }}/assets/images/people/Wheaton_round.png"></a>
+That little text intro on  [John Doe]({{ site.baseurl }}/workshops/2020/SGI/#instruction-team) saying what he says.. 
+
+**Background :** This talk is based on [Chapter 1]({{ site.baseurl}}/manual/chap01) & [Chapter 4]({{ site.baseurl}}/manual/chap04) of design manual.  
+<br>
+
+<div class="row small-up-2 medium-up-2">
+
+
+  <div class="column">
+    <div class="card">
+
+
+      <div class="card-section">
+        <h4>Video</h4>
+        <div class="responsive-embed"> 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/N5EauePzYqw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
+
+</div>
+      </div>
+    </div>
+  </div>
+
+  <div class="column">
+    <div class="card">
+
+
+      <div class="card-section">
+        <h4>Slides</h4>
+    <div align="center">
+        	<a href="" target="_blank"><img src="{{ site.baseurl }}/assets/images/workshops/2020/modules/00_A.png"></a>
+        	</div>
+        
+         <i class="fa fa-file-pdf-o" aria-hidden="true"></i> <a href="" target="_blank">title - Slides</a>
+        
+      </div>
+    </div>
+
+  </div>
+</div>
+
+
+
+
+--------
+
+### G. Template
+
+<a href="{{ site.baseurl }}/workshops/2020/SGI/#instruction-team"><img width="80"  class="float-left" src="{{ site.baseurl }}/assets/images/people/Wheaton_round.png"></a>
+That little text intro on  [John Doe]({{ site.baseurl }}/workshops/2020/SGI/#instruction-team) saying what he says.. 
+
+**Background :** This talk is based on [Chapter 1]({{ site.baseurl}}/manual/chap01) & [Chapter 4]({{ site.baseurl}}/manual/chap04) of design manual.  
+<br>
+
+<div class="row small-up-2 medium-up-2">
+
+
+  <div class="column">
+    <div class="card">
+
+
+      <div class="card-section">
+        <h4>Video</h4>
+        <div class="responsive-embed"> 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/N5EauePzYqw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
+
+</div>
+      </div>
+    </div>
+  </div>
+
+  <div class="column">
+    <div class="card">
+
+
+      <div class="card-section">
+        <h4>Slides</h4>
+    <div align="center">
+        	<a href="" target="_blank"><img src="{{ site.baseurl }}/assets/images/workshops/2020/modules/00_A.png"></a>
+        	</div>
+        
+         <i class="fa fa-file-pdf-o" aria-hidden="true"></i> <a href="" target="_blank">title - Slides</a>
+        
+      </div>
+    </div>
+
+  </div>
+</div>
+
+
+
+
+--------
+#OLD SLIDES
+
+
 -----
 ### Logistics, learning objectives, and introductions 
 
