@@ -27,7 +27,7 @@ Below you can find PDFs and video recordings of the topics we covered in the int
 <a href="{{ site.baseurl }}/workshops/2020/SGI/#instruction-team"><img width="80"  class="float-left" src="{{ site.baseurl }}/assets/images/people/Wheaton_round.png"></a>
 [Joe Wheaton]({{ site.baseurl }}/workshops/2020/SGI/#instruction-team) goes over the logistics of the first Virtual Workshop for Low-Tech Process-Based Restoration of Riverscapes.
 
-**Background :** These slides introduce the presenters and explain the logistics of the virtual workshop
+**Background :** These slides introduce the presenters and explain the logistics of the virtual workshop.
 <br>
 
 <div class="row small-up-2 medium-up-2">
@@ -264,7 +264,7 @@ That little text intro on  [Colin Thorne]({{ site.baseurl }}/workshops/2020/SGI/
 
 ### F. What You Came For - Your First BDA
 
-<a href="{{ site.baseurl }}/workshops/2020/SGI/#instruction-team"><img width="80"  class="float-left" src="{{ site.baseurl }}/assets/images/people/Colin_Round.png"></a>
+<a href="{{ site.baseurl }}/workshops/2020/SGI/#instruction-team"><img width="80"  class="float-left" src="{{ site.baseurl }}/assets/images/people/Wheaton_round.png"></a>
 That little text intro on  [Joe Wheaton]({{ site.baseurl }}/workshops/2020/SGI/#instruction-team) saying what he says.. 
 
 **Background :** This talk is based on [Chapter 1]({{ site.baseurl}}/manual/chap01) & [Chapter 4]({{ site.baseurl}}/manual/chap04) of design manual.  
@@ -499,7 +499,7 @@ That little text intro on  [Joe Wheaton]({{ site.baseurl }}/workshops/2020/SGI/#
 
 ### K. Beaver History & Biology
 
-<a href="{{ site.baseurl }}/workshops/2020/SGI/#instruction-team"><img width="80"  class="float-left" src="{{ site.baseurl }}/assets/images/people/Colin_Round.png"></a>
+<a href="{{ site.baseurl }}/workshops/2020/SGI/#instruction-team"><img width="80"  class="float-left" src="{{ site.baseurl }}/assets/images/people/Goldfarb_Round.png"></a>
 That little text intro on  [Ben Goldfarb]({{ site.baseurl }}/workshops/2020/SGI/#instruction-team) saying what he says.. 
 
 **Background :** This talk is based on [Chapter 1]({{ site.baseurl}}/manual/chap01) & [Chapter 4]({{ site.baseurl}}/manual/chap04) of design manual.  
@@ -591,8 +591,8 @@ In this section,  [Nick Bouwes]({{ site.baseurl }}/workshops/2020/SGI/#instructi
 
 ### M. Why Partner with Beavers
 
-<a href="{{ site.baseurl }}/workshops/2020/SGI/#instruction-team"><img width="80"  class="float-left" src="{{ site.baseurl }}/assets/images/people/Colin_Round.png"></a>
-That little text intro on  [John Doe]({{ site.baseurl }}/workshops/2020/SGI/#instruction-team) saying what he says.. 
+<a href="{{ site.baseurl }}/workshops/2020/SGI/#instruction-team"><img width="80"  class="float-left" src="{{ site.baseurl }}/assets/images/people/Maestas_round.png"></a>
+That little text intro on  [Jeremy Maestas]({{ site.baseurl }}/workshops/2020/SGI/#instruction-team) saying what he says.. 
 
 **Background :** This talk is based on [Chapter 1]({{ site.baseurl}}/manual/chap01) & [Chapter 4]({{ site.baseurl}}/manual/chap04) of design manual.  
 <br>
@@ -637,10 +637,10 @@ That little text intro on  [John Doe]({{ site.baseurl }}/workshops/2020/SGI/#ins
 
 ### N. Wrap-up and Preview of Remaining Modules
 
-<a href="{{ site.baseurl }}/workshops/2020/SGI/#instruction-team"><img width="80"  class="float-left" src="{{ site.baseurl }}/assets/images/people/Colin_Round.png"></a>
-That little text intro on  [John Doe]({{ site.baseurl }}/workshops/2020/SGI/#instruction-team) saying what he says.. 
+<a href="{{ site.baseurl }}/workshops/2020/SGI/#instruction-team"><img width="80"  class="float-left" src="{{ site.baseurl }}/assets/images/people/Wheaton_round.png"></a>
+That little text intro on  [Joe Wheaton]({{ site.baseurl }}/workshops/2020/SGI/#instruction-team) saying what he says.. 
 
-**Background :** This talk is based on [Chapter 1]({{ site.baseurl}}/manual/chap01) & [Chapter 4]({{ site.baseurl}}/manual/chap04) of design manual.  
+
 <br>
 
 <div class="row small-up-2 medium-up-2">
