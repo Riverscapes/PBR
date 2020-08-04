@@ -516,8 +516,8 @@ That little text intro on  [Ben Goldfarb]({{ site.baseurl }}/workshops/2020/SGI/
 
 ### L. Beaver Ecology & Feedbacks & Why Beaver Build Dams
 
-<a href="{{ site.baseurl }}/workshops/2020/SGI/#instruction-team"><img width="80"  class="float-left" src="{{ site.baseurl }}/assets/images/people/Colin_Round.png"></a>
-That little text intro on  [Nick Bouwes]({{ site.baseurl }}/workshops/2020/SGI/#instruction-team) saying what he says.. 
+<a href="{{ site.baseurl }}/workshops/2020/SGI/#instruction-team"><img width="80"  class="float-left" src="{{ site.baseurl }}/assets/images/people/bouwes-round_1_orig.png"></a>
+In this section,  [Nick Bouwes]({{ site.baseurl }}/workshops/2020/SGI/#instruction-team) discusses the stars of low-tech process-based restoration: beaver.
 
 **Background :** This talk is based on [Chapter 1]({{ site.baseurl}}/manual/chap01) & [Chapter 4]({{ site.baseurl}}/manual/chap04) of design manual.  
 <br>
@@ -533,7 +533,7 @@ That little text intro on  [Nick Bouwes]({{ site.baseurl }}/workshops/2020/SGI/#
         <h4>Video</h4>
         <div class="responsive-embed"> 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/N5EauePzYqw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lwd7syUKh4c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
 
 </div>
       </div>
