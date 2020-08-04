@@ -547,10 +547,10 @@ In this section,  [Nick Bouwes]({{ site.baseurl }}/workshops/2020/SGI/#instructi
       <div class="card-section">
         <h4>Slides</h4>
     <div align="center">
-        	<a href="" target="_blank"><img src="{{ site.baseurl }}/assets/images/workshops/2020/modules/00_A.png"></a>
+        	<a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2020/SGI/Materials/Moudle1/01_L_Beaver.pdf" target="_blank"><img src="{{ site.baseurl }}/assets/images/workshops/2020/modules/01_L.png"></a>
         	</div>
         
-         <i class="fa fa-file-pdf-o" aria-hidden="true"></i> <a href="" target="_blank">Scope of Problem  - Slides</a>
+         <i class="fa fa-file-pdf-o" aria-hidden="true"></i> <a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2020/SGI/Materials/Moudle1/01_L_Beaver.pdf" target="_blank">Beaver Ecology</a>
         
       </div>
     </div>
