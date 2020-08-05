@@ -10,12 +10,6 @@ Below you can find PDFs and video recordings of the slides we cover in the intro
 
 Wednesday, Aug 12: 9:00 AM - 12:00 PM  (Mountain Time)
 Mimicking and promoting wood accumulation and beaver dam activity (Chapter 4 - Design Manual)
-The Three Case Studies that built confidence in LTPBR
-Resiliency of Riverscapes - Jeremy Maestas
-Post Assisted Log Structures Case Study: Asotin Creek - Steve Bennett
-Beaver Dam Analogues Case Study: Bridge Creek - Nick Bouwes
-State of the Supporting Science - Ongoing & Outstandin
-
 
 ## Slides & Videos
 
@@ -213,7 +207,7 @@ That little text intro on  [Joe Wheaton]({{ site.baseurl }}/workshops/2020/SGI/#
 ### E. Building Resilience with Low-Tech
 
 <a href="{{ site.baseurl }}/workshops/2020/SGI/#instruction-team"><img width="80"  class="float-left" src="{{ site.baseurl }}/assets/images/people/Maestas_round.png"></a>
-That little text intro on  [Jeremy Maestas]({{ site.baseurl }}/workshops/2020/SGI/#instruction-team) saying what he says.. 
+[Jeremy Maestas]({{ site.baseurl }}/workshops/2020/SGI/#instruction-team) goes over using low-tech process-based restoration methods to create riverscapes that are more resilient to drought, fire and flooding.
 
 **Background :** This talk is based on [Chapter 1]({{ site.baseurl}}/manual/chap01) & [Chapter 4]({{ site.baseurl}}/manual/chap04) of design manual.  
 <br>
@@ -229,7 +223,7 @@ That little text intro on  [Jeremy Maestas]({{ site.baseurl }}/workshops/2020/SG
         <h4>Video</h4>
         <div class="responsive-embed"> 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/N5EauePzYqw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jCuhSoKaCkw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
 
 </div>
       </div>
@@ -243,10 +237,10 @@ That little text intro on  [Jeremy Maestas]({{ site.baseurl }}/workshops/2020/SG
       <div class="card-section">
         <h4>Slides</h4>
     <div align="center">
-        	<a href="" target="_blank"><img src="{{ site.baseurl }}/assets/images/workshops/2020/modules/00_A.png"></a>
+        	<a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2020/SGI/Materials/Module2/02_E_Resilience.pdf" target="_blank"><img src="{{ site.baseurl }}/assets/images/workshops/2020/modules/02_E.png"></a>
         	</div>
         
-         <i class="fa fa-file-pdf-o" aria-hidden="true"></i> <a href="" target="_blank">title - Slides</a>
+         <i class="fa fa-file-pdf-o" aria-hidden="true"></i> <a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2020/SGI/Materials/Module2/02_E_Resilience.pdf" target="_blank">Building Resilience with Low-Tech - Slides</a>
         
       </div>
     </div>
