@@ -18,7 +18,7 @@ These talks are elaborated in [Chapter 1]({{ site.baseurl}}/manual/chap01) of de
 
 --------
 
-### A. Logistics, learning objectives & introductions
+### A. Logistics, Learning Objectives & Introductions
 
 <a href="{{ site.baseurl }}/workshops/2020/SGI/#instruction-team"><img width="80"  class="float-left" src="{{ site.baseurl }}/assets/images/people/Wheaton_round.png"></a>
 That little text intro on  [Brenda]({{ site.baseurl }}/workshops/2020/SGI/#instruction-team) saying what he says.. 
@@ -65,7 +65,7 @@ That little text intro on  [Brenda]({{ site.baseurl }}/workshops/2020/SGI/#instr
 
 --------
 
-### B. Mimicking & promoting wood accumulation & beaver dam activity
+### B. Mimicking & Promoting Wood Accumulation & Beaver Dam Activity
 
 <a href="{{ site.baseurl }}/workshops/2020/SGI/#instruction-team"><img width="80"  class="float-left" src="{{ site.baseurl }}/assets/images/people/Wheaton_round.png"></a>
 That little text intro on  [Joe Wheaton]({{ site.baseurl }}/workshops/2020/SGI/#instruction-team) saying what he says.. 
