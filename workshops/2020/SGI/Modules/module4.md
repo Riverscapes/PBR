@@ -14,7 +14,7 @@ Thursday, Aug 13: 10:00 AM - 3:00 PM  (Mountain Time)
 ## Slides & Videos
 --------
 
-### A. Template
+### A. Logistics, Learning Objectives & Introductions
 <a href="{{ site.baseurl }}/workshops/2020/SGI/#instruction-team"><img width="80"  class="float-left" src="{{ site.baseurl }}/assets/images/people/Wheaton_round.png"></a>
 That little text intro on  [John Doe]({{ site.baseurl }}/workshops/2020/SGI/#instruction-team) saying what he says.. 
 
@@ -61,9 +61,9 @@ That little text intro on  [John Doe]({{ site.baseurl }}/workshops/2020/SGI/#ins
 
 
 --------
-### B. Template
-<a href="{{ site.baseurl }}/workshops/2020/SGI/#instruction-team"><img width="80"  class="float-left" src="{{ site.baseurl }}/assets/images/people/Wheaton_round.png"></a>
-That little text intro on  [John Doe]({{ site.baseurl }}/workshops/2020/SGI/#instruction-team) saying what he says.. 
+### B. Designing Low-Tech Restoration Projects
+<a href="{{ site.baseurl }}/workshops/2020/SGI/#instruction-team"><img width="80"  class="float-left" src="{{ site.baseurl }}/assets/images/people/Maestas_round.png"></a>
+That little text intro on  [Jeremy Maestas]({{ site.baseurl }}/workshops/2020/SGI/#instruction-team) saying what he says.. 
 
 **Background :** This talk is based on [Chapter 1]({{ site.baseurl}}/manual/chap01) & [Chapter 4]({{ site.baseurl}}/manual/chap04) of design manual.  
 <br>
@@ -109,9 +109,9 @@ That little text intro on  [John Doe]({{ site.baseurl }}/workshops/2020/SGI/#ins
 
 --------
 
-### C. Template
+### C. Leading Design With Recovery Potential
 <a href="{{ site.baseurl }}/workshops/2020/SGI/#instruction-team"><img width="80"  class="float-left" src="{{ site.baseurl }}/assets/images/people/Wheaton_round.png"></a>
-That little text intro on  [John Doe]({{ site.baseurl }}/workshops/2020/SGI/#instruction-team) saying what he says.. 
+That little text intro on  [Joe Wheaton]({{ site.baseurl }}/workshops/2020/SGI/#instruction-team) saying what he says.. 
 
 **Background :** This talk is based on [Chapter 1]({{ site.baseurl}}/manual/chap01) & [Chapter 4]({{ site.baseurl}}/manual/chap04) of design manual.  
 <br>
@@ -157,9 +157,9 @@ That little text intro on  [John Doe]({{ site.baseurl }}/workshops/2020/SGI/#ins
 
 --------
 
-### D. Template
-<a href="{{ site.baseurl }}/workshops/2020/SGI/#instruction-team"><img width="80"  class="float-left" src="{{ site.baseurl }}/assets/images/people/Wheaton_round.png"></a>
-That little text intro on  [John Doe]({{ site.baseurl }}/workshops/2020/SGI/#instruction-team) saying what he says.. 
+### D. Design Standards of Practice & Designing at Complex Scale
+<a href="{{ site.baseurl }}/workshops/2020/SGI/#instruction-team"><img width="80"  class="float-left" src="{{ site.baseurl }}/assets/images/people/shahverdian-round_1.png"></a>
+That little text intro on  [Scott Shahverdian]({{ site.baseurl }}/workshops/2020/SGI/#instruction-team) saying what he says.. 
 
 **Background :** This talk is based on [Chapter 1]({{ site.baseurl}}/manual/chap01) & [Chapter 4]({{ site.baseurl}}/manual/chap04) of design manual.  
 <br>
@@ -205,9 +205,9 @@ That little text intro on  [John Doe]({{ site.baseurl }}/workshops/2020/SGI/#ins
 
 --------
 
-### E. Template
+### E. Learning How to Design at Structure Scale
 <a href="{{ site.baseurl }}/workshops/2020/SGI/#instruction-team"><img width="80"  class="float-left" src="{{ site.baseurl }}/assets/images/people/Wheaton_round.png"></a>
-That little text intro on  [John Doe]({{ site.baseurl }}/workshops/2020/SGI/#instruction-team) saying what he says.. 
+That little text intro on  [Joe Wheaton]({{ site.baseurl }}/workshops/2020/SGI/#instruction-team) saying what he says.. 
 
 **Background :** This talk is based on [Chapter 1]({{ site.baseurl}}/manual/chap01) & [Chapter 4]({{ site.baseurl}}/manual/chap04) of design manual.  
 <br>
@@ -253,9 +253,9 @@ That little text intro on  [John Doe]({{ site.baseurl }}/workshops/2020/SGI/#ins
 
 --------
 
-### F. Template
-<a href="{{ site.baseurl }}/workshops/2020/SGI/#instruction-team"><img width="80"  class="float-left" src="{{ site.baseurl }}/assets/images/people/Wheaton_round.png"></a>
-That little text intro on  [John Doe]({{ site.baseurl }}/workshops/2020/SGI/#instruction-team) saying what he says.. 
+### F. Putting It All Together in the Field
+<a href="{{ site.baseurl }}/workshops/2020/SGI/#instruction-team"><img width="80"  class="float-left" src="{{ site.baseurl }}/assets/images/people/webber-round_1_orig.png"></a>
+That little text intro on  [Nick Weber]({{ site.baseurl }}/workshops/2020/SGI/#instruction-team) saying what he says.. 
 
 **Background :** This talk is based on [Chapter 1]({{ site.baseurl}}/manual/chap01) & [Chapter 4]({{ site.baseurl}}/manual/chap04) of design manual.  
 <br>
@@ -301,9 +301,9 @@ That little text intro on  [John Doe]({{ site.baseurl }}/workshops/2020/SGI/#ins
 
 --------
 
-### G. Template
+### G. Documenting Anticipated Post-Restoration SEM Condition & Phases
 <a href="{{ site.baseurl }}/workshops/2020/SGI/#instruction-team"><img width="80"  class="float-left" src="{{ site.baseurl }}/assets/images/people/Wheaton_round.png"></a>
-That little text intro on  [John Doe]({{ site.baseurl }}/workshops/2020/SGI/#instruction-team) saying what he says.. 
+That little text intro on  [Joe Wheaton]({{ site.baseurl }}/workshops/2020/SGI/#instruction-team) saying what he says.. 
 
 **Background :** This talk is based on [Chapter 1]({{ site.baseurl}}/manual/chap01) & [Chapter 4]({{ site.baseurl}}/manual/chap04) of design manual.  
 <br>
