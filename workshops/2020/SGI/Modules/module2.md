@@ -69,8 +69,6 @@ That little text intro on  [Brenda]({{ site.baseurl }}/workshops/2020/SGI/#instr
 </div>
 
 
-
-
 --------
 
 ### B. Mimicking & promoting wood accumulation & beaver dam activity
@@ -109,7 +107,7 @@ That little text intro on  [Joe Wheaton]({{ site.baseurl }}/workshops/2020/SGI/#
         	<a href="" target="_blank"><img src="{{ site.baseurl }}/assets/images/workshops/2020/modules/00_A.png"></a>
         	</div>
         
-         <i class="fa fa-file-pdf-o" aria-hidden="true"></i> <a href="" target="_blank">title - Slides</a>
+         <i class="fa fa-file-pdf-o" aria-hidden="true"></i> <a href="" target="_blank">LTPBR Case Studies - Slides</a>
         
       </div>
     </div>
@@ -118,14 +116,12 @@ That little text intro on  [Joe Wheaton]({{ site.baseurl }}/workshops/2020/SGI/#
 </div>
 
 
-
-
 --------
 
 ### C. Beaver Dam Analogues: Bridge Creek & Birch Creek
 
 <a href="{{ site.baseurl }}/workshops/2020/SGI/#instruction-team"><img width="80"  class="float-left" src="{{ site.baseurl }}/assets/images/people/bouwes-round_1_orig.png"></a>
-That little text intro on  [Nick Bouwes]({{ site.baseurl }}/workshops/2020/SGI/#instruction-team) saying what he says.. 
+[Nick Bouwes]({{ site.baseurl }}/workshops/2020/SGI/#instruction-team) discusses testing the effecvtiveness of process-based restoration using to promote wood accumulation and beaver dam activity in some case studies of intensively monitored watersheds (IMWs) including Bridge Creek, Birch Creek and the Asotin IMW.  
 
 **Background :** This talk is based on [Chapter 1]({{ site.baseurl}}/manual/chap01) & [Chapter 4]({{ site.baseurl}}/manual/chap04) of design manual.  
 <br>
@@ -141,7 +137,7 @@ That little text intro on  [Nick Bouwes]({{ site.baseurl }}/workshops/2020/SGI/#
         <h4>Video</h4>
         <div class="responsive-embed"> 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/N5EauePzYqw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Y9_RmvVk1E0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
 
 </div>
       </div>
@@ -155,19 +151,16 @@ That little text intro on  [Nick Bouwes]({{ site.baseurl }}/workshops/2020/SGI/#
       <div class="card-section">
         <h4>Slides</h4>
     <div align="center">
-        	<a href="" target="_blank"><img src="{{ site.baseurl }}/assets/images/workshops/2020/modules/00_A.png"></a>
+        	<a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2020/SGI/Materials/Module2/02_C_Processes_BridgeBirch.pdf" target="_blank"><img src="{{ site.baseurl }}/assets/images/workshops/2020/modules/02_C.png"></a>
         	</div>
         
-         <i class="fa fa-file-pdf-o" aria-hidden="true"></i> <a href="" target="_blank">title - Slides</a>
+         <i class="fa fa-file-pdf-o" aria-hidden="true"></i> <a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2020/SGI/Materials/Module2/02_C_Processes_BridgeBirch.pdf" target="_blank">title - Slides</a>
         
       </div>
     </div>
 
   </div>
 </div>
-
-
-
 
 --------
 
@@ -215,9 +208,6 @@ That little text intro on  [Steve Bennett]({{ site.baseurl }}/workshops/2020/SGI
   </div>
 </div>
 
-
-
-
 --------
 
 ### E. Building Resilience with Low-Tech
@@ -263,9 +253,6 @@ That little text intro on  [Jeremy Maestas]({{ site.baseurl }}/workshops/2020/SG
 
   </div>
 </div>
-
-
-
 
 --------
 
@@ -314,18 +301,8 @@ That little text intro on  [Joe Wheaton]({{ site.baseurl }}/workshops/2020/SGI/#
 </div>
 
 
-
-
---------
-
-
-
-
-
 --------
 # OLD SLIDES
-
-
 -----
 ### Logistics, learning objectives, and introductions 
 
