@@ -168,6 +168,7 @@ That little text intro on  [Joe Wheaton]({{ site.baseurl }}/workshops/2020/SGI/#
 
 <a href="{{ site.baseurl }}/workshops/2020/SGI/#instruction-team"><img width="80"  class="float-left" src="{{ site.baseurl }}/assets/images/people/Colin_Round.png"></a>
 [Colin Thorne]({{ site.baseurl }}/workshops/2020/SGI/#instruction-team) explains Stage Zero reference condition and about the importance of thinking outside the channel.
+<br>
 **Background :** This talk is based on [Chapter 1]({{ site.baseurl}}/manual/chap01) of the design manual.  
 <br>
 
