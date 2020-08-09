@@ -16,7 +16,7 @@ Wednesday, Aug 12: 1:00 PM - 4:30 PM  (Mountain Time)
 
 ### A. Logistics, Learning Objectives & Introductions
 <a href="{{ site.baseurl }}/workshops/2020/SGI/#instruction-team"><img width="80"  class="float-left" src="{{ site.baseurl }}/assets/images/people/Wheaton_round.png"></a>
-That little text intro on  [John Doe]({{ site.baseurl }}/workshops/2020/SGI/#instruction-team) saying what he says.. 
+[John Doe]({{ site.baseurl }}/workshops/2020/SGI/#instruction-team) saying what he says.. 
 
 **Background :** This talk is based on [Chapter 1]({{ site.baseurl}}/manual/chap01) & [Chapter 4]({{ site.baseurl}}/manual/chap04) of design manual.  
 <br>
@@ -249,13 +249,11 @@ That little text intro on  [Joe Wheaton]({{ site.baseurl }}/workshops/2020/SGI/#
 </div>
 
 
-
-
 --------
 
-### F. Choosing Indicators & Refining Objectives
-<a href="{{ site.baseurl }}/workshops/2020/SGI/#instruction-team"><img width="80"  class="float-left" src="{{ site.baseurl }}/assets/images/people/wheaton_round.png"></a>
-That little text intro on  [Joe Wheaton]({{ site.baseurl }}/workshops/2020/SGI/#instruction-team) saying what he says.. 
+### F. Connecting & Clarifying Objectives & Tying to Goals
+<a href="{{ site.baseurl }}/workshops/2020/SGI/#instruction-team"><img width="80"  class="float-left" src="{{ site.baseurl }}/assets/images/people/webber-round_1_orig.png"></a>
+That little text intro on  [Nick Weber]({{ site.baseurl }}/workshops/2020/SGI/#instruction-team) saying what he says.. 
 
 **Background :** This talk is based on [Chapter 1]({{ site.baseurl}}/manual/chap01) & [Chapter 4]({{ site.baseurl}}/manual/chap04) of design manual.  
 <br>
@@ -297,14 +295,11 @@ That little text intro on  [Joe Wheaton]({{ site.baseurl }}/workshops/2020/SGI/#
 </div>
 
 
-
-
 --------
 
-### G. Connecting & Clarifying Objectives & Tying to Goals
-<a href="{{ site.baseurl }}/workshops/2020/SGI/#instruction-team"><img width="80"  class="float-left" src="{{ site.baseurl }}/assets/images/people/webber-round_1_orig.png"></a>
-That little text intro on  [Nick Weber]({{ site.baseurl }}/workshops/2020/SGI/#instruction-team) saying what he says.. 
-
+### G. Module 3 Synthesis
+<a href="{{ site.baseurl }}/workshops/2020/SGI/#instruction-team"><img width="80"  class="float-left" src="{{ site.baseurl }}/assets/images/people/wheaton_round.png"></a>
+[Joe Wheaton]({{ site.baseurl }}/workshops/2020/SGI/#instruction-team) synthesizes the talks from Module 3 of the Low-Tech Process-Based Restoration Workshop; Planning for Low-Tech.
 **Background :** This talk is based on [Chapter 1]({{ site.baseurl}}/manual/chap01) & [Chapter 4]({{ site.baseurl}}/manual/chap04) of design manual.  
 <br>
 
