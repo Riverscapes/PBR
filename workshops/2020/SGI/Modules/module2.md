@@ -119,6 +119,7 @@ That little text intro on  [Joe Wheaton]({{ site.baseurl }}/workshops/2020/SGI/#
 **Background :** This talk is based on [Chapter 1]({{ site.baseurl}}/manual/chap01) & [Chapter 4]({{ site.baseurl}}/manual/chap04) of design manual.  
 <br>
 
+#### Intensively Monitored Watersheds
 <div class="row small-up-2 medium-up-2">
 
 
@@ -155,7 +156,7 @@ That little text intro on  [Joe Wheaton]({{ site.baseurl }}/workshops/2020/SGI/#
   </div>
 </div>
 
-
+#### Bridge Creek - BDA Case Study
 <div class="row small-up-2 medium-up-2">
   <div class="column">
     <div class="card">
@@ -186,6 +187,16 @@ That little text intro on  [Joe Wheaton]({{ site.baseurl }}/workshops/2020/SGI/#
 
   </div>
 </div>
+**Resources:**
+<br>
+- <i class="fa fa-file-pdf-o" aria-hidden="true"></i> Silverman NL, Allred BW, Donnelly JP, Chapman TB, Maestas JD, Wheaton J, White J and Naugle DE. 2018. [Low-tech riparian and wet meadow restoration increases vegetation productivity and resilience across semi-arid rangelands](https://www.researchgate.net/publication/326869390_Low-tech_riparian_and_wet_meadow_restoration_increases_vegetation_productivity_and_resilience_across_semi-arid_rangelands). Restoration Ecology. DOI: [10.1111/rec.12869](https://doi.org/10.1111/rec.12869).
+- <i class="fa fa-file-pdf-o" aria-hidden="true"></i> Weber N, Bouwes N, Pollock M, Volk C,  Wheaton JM, Wathen G, and Jordan C. 2017. [Alteration of stream temperature by natural and artificial beaver dams](https://www.researchgate.net/publication/316995139_Alteration_of_stream_temperature_by_natural_and_artificial_beaver_dams). PLOS ONE. 12(5): e0176313. DOI: [10.1371/journal.pone.0176313](http://dx.doi.org/10.1371/journal.pone.0176313)
+-- <i class="fa fa-file-pdf-o" aria-hidden="true"></i> Bouwes N, Weber N, Jordan CE, Saunders WC, Tattam IA, Volk C, Wheaton JM and Pollock MM. 2016. [Ecosystem experiment reveals benefits of natural and simulated beaver dams to a threatened population of steelhead (Oncorhynchus mykiss)](http://www.nature.com/articles/srep28581). Scientific Reports. 6: 28581. DOI: [10.1038/srep28581](http://dx.doi.org/10.1038/srep28581).
+- <i class="fa fa-file-pdf-o" aria-hidden="true"></i> Bouwes N, Bennett S and Wheaton JM. 2016. [Adapting Adaptive Management for Testing the Effectiveness of Stream Restoration: An Intensively Monitored Watershed Example](https://www.researchgate.net/publication/289526568_Adapting_Adaptive_Management_for_Testing_the_Effectiveness_of_Stream_Restoration_An_Intensively_Monitored). Fisheries. 41: 2: pp. 84-91.  DOI: [10.1080/03632415.2015.1127806](http://dx.doi.org/10.1080/03632415.2015.1127806)
+- <i class="fa fa-file-pdf-o" aria-hidden="true"></i> Pollock, M., Beechie T , Wheaton JM, Jordan C,  Bouwes N, Weber N, and Volk C. 2014. [Using Beaver Dams  to Restore Incised Stream Ecosystems](https://www.researchgate.net/publication/261215514_Using_Beaver_Dams_to_Restore_Incised_Stream_Ecosystems). Bioscience. DOI: [10.1093/biosci/biu036](http://dx.doi.org/10.1093/biosci/biu036).
+- <i class="fa fa-file-pdf-o" aria-hidden="true"></i> Pollock M, Wheaton JM, Bouwes N and Jordan CE. 2012. [Working with Beaver to Restore Salmon Habitat in the Bridge Creek Intensively Monitored Watershed: Design Rationale and Hypotheses](https://www.researchgate.net/publication/281113937_Working_with_Beaver_to_Restore_Salmon_Habitat). NOAA Technical Memorandum, NOAA Northwest Fisheries Science Center, Seattle, WA, 108 pp. 
+
+#### Birch Creek - BDA Case Study
 
 <div class="row small-up-2 medium-up-2">
   <div class="column">
@@ -218,6 +229,13 @@ That little text intro on  [Joe Wheaton]({{ site.baseurl }}/workshops/2020/SGI/#
   </div>
 </div>
 
+**Resources:**
+<br>
+Hear the Birch Creek Beaver story directly from Jay. This video is from his presentation during the 2019 Low-Tech Workshop.  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4j6R1JxG8M8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+<i class="fa fa-file-pdf-o" aria-hidden="true"></i> <a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2019/SGI/Wilde+-+Brich+Creek.pdf" target="_blank">Jay's Birch Creek Story- Slides</a>
 
 --------
 
