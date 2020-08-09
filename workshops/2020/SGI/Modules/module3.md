@@ -18,7 +18,6 @@ Wednesday, Aug 12: 1:00 PM - 4:30 PM  (Mountain Time)
 <a href="{{ site.baseurl }}/workshops/2020/SGI/#instruction-team"><img width="80"  class="float-left" src="{{ site.baseurl }}/assets/images/people/Wheaton_round.png"></a>
 [John Doe]({{ site.baseurl }}/workshops/2020/SGI/#instruction-team) saying what he says.. 
 
-**Background :** This talk is based on [Chapter 1]({{ site.baseurl}}/manual/chap01) & [Chapter 4]({{ site.baseurl}}/manual/chap04) of design manual.  
 <br>
 
 <div class="row small-up-2 medium-up-2">
@@ -299,8 +298,8 @@ That little text intro on  [Nick Weber]({{ site.baseurl }}/workshops/2020/SGI/#i
 
 ### G. Module 3 Synthesis
 <a href="{{ site.baseurl }}/workshops/2020/SGI/#instruction-team"><img width="80"  class="float-left" src="{{ site.baseurl }}/assets/images/people/wheaton_round.png"></a>
-[Joe Wheaton]({{ site.baseurl }}/workshops/2020/SGI/#instruction-team) synthesizes the talks from Module 3 of the Low-Tech Process-Based Restoration Workshop; Planning for Low-Tech.
-**Background :** This talk is based on [Chapter 1]({{ site.baseurl}}/manual/chap01) & [Chapter 4]({{ site.baseurl}}/manual/chap04) of design manual.  
+[Joe Wheaton]({{ site.baseurl }}/workshops/2020/SGI/#instruction-team) synthesizes the talks from Module 3 of the Low-Tech Process-Based Restoration Workshop; Planning for Low-Tech Restoration.
+ 
 <br>
 
 <div class="row small-up-2 medium-up-2">
@@ -314,7 +313,7 @@ That little text intro on  [Nick Weber]({{ site.baseurl }}/workshops/2020/SGI/#i
         <h4>Video</h4>
         <div class="responsive-embed"> 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/N5EauePzYqw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aTDof4pgee0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
 
 </div>
       </div>
@@ -328,10 +327,10 @@ That little text intro on  [Nick Weber]({{ site.baseurl }}/workshops/2020/SGI/#i
       <div class="card-section">
         <h4>Slides</h4>
     <div align="center">
-        	<a href="" target="_blank"><img src="{{ site.baseurl }}/assets/images/workshops/2020/modules/00_A.png"></a>
+        	<a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2020/SGI/Materials/Module3/03_G_Synthesis.pdf" target="_blank"><img src="{{ site.baseurl }}/assets/images/workshops/2020/modules/03_G.png"></a>
         	</div>
         
-         <i class="fa fa-file-pdf-o" aria-hidden="true"></i> <a href="" target="_blank">title - Slides</a>
+         <i class="fa fa-file-pdf-o" aria-hidden="true"></i> <a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2020/SGI/Materials/Module3/03_G_Synthesis.pdf" target="_blank">Synthesis Module 3 - Slides</a>
         
       </div>
     </div>
