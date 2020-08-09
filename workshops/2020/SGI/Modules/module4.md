@@ -16,9 +16,8 @@ Thursday, Aug 13: 10:00 AM - 3:00 PM  (Mountain Time)
 
 ### A. Logistics, Learning Objectives & Introductions
 <a href="{{ site.baseurl }}/workshops/2020/SGI/#instruction-team"><img width="80"  class="float-left" src="{{ site.baseurl }}/assets/images/people/Wheaton_round.png"></a>
-That little text intro on  [John Doe]({{ site.baseurl }}/workshops/2020/SGI/#instruction-team) saying what he says.. 
+[Joe Wheaton]({{ site.baseurl }}/workshops/2020/SGI/#instruction-team) introduces Module 4 of the Low-Tech Process-Based Restoration Workshop; Designing Low-Tech Restoration.
 
-**Background :** This talk is based on [Chapter 1]({{ site.baseurl}}/manual/chap01) & [Chapter 4]({{ site.baseurl}}/manual/chap04) of design manual.  
 <br>
 
 <div class="row small-up-2 medium-up-2">
@@ -32,7 +31,7 @@ That little text intro on  [John Doe]({{ site.baseurl }}/workshops/2020/SGI/#ins
         <h4>Video</h4>
         <div class="responsive-embed"> 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/N5EauePzYqw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/urD72TtQXaM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
 
 </div>
       </div>
@@ -46,10 +45,10 @@ That little text intro on  [John Doe]({{ site.baseurl }}/workshops/2020/SGI/#ins
       <div class="card-section">
         <h4>Slides</h4>
     <div align="center">
-        	<a href="" target="_blank"><img src="{{ site.baseurl }}/assets/images/workshops/2020/modules/00_A.png"></a>
+        	<a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2020/SGI/Materials/Module4/04_A_Logistics.pdf" target="_blank"><img src="{{ site.baseurl }}/assets/images/workshops/2020/modules/04_A.png"></a>
         	</div>
         
-         <i class="fa fa-file-pdf-o" aria-hidden="true"></i> <a href="" target="_blank">title - Slides</a>
+         <i class="fa fa-file-pdf-o" aria-hidden="true"></i> <a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2020/SGI/Materials/Module4/04_A_Logistics.pdf" target="_blank">Introduction to Module 4: Design - Slides</a>
         
       </div>
     </div>
