@@ -156,6 +156,70 @@ That little text intro on  [Joe Wheaton]({{ site.baseurl }}/workshops/2020/SGI/#
   </div>
 </div>
 
+
+<div class="row small-up-2 medium-up-2">
+  <div class="column">
+    <div class="card">
+      <div class="card-section">
+        <h4>Video</h4>
+        <div class="responsive-embed"> 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/N5EauePzYqw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
+
+</div>
+      </div>
+    </div>
+  </div>
+
+  <div class="column">
+    <div class="card">
+
+
+      <div class="card-section">
+        <h4>Slides</h4>
+    <div align="center">
+        	<a href="" target="_blank"><img src="{{ site.baseurl }}/assets/images/workshops/2020/modules/00_A.png"></a>
+        	</div>
+        
+         <i class="fa fa-file-pdf-o" aria-hidden="true"></i> <a href="" target="_blank">LTPBR Case Studies - Slides</a>
+        
+      </div>
+    </div>
+
+  </div>
+</div>
+
+<div class="row small-up-2 medium-up-2">
+  <div class="column">
+    <div class="card">
+      <div class="card-section">
+        <h4>Video</h4>
+        <div class="responsive-embed"> 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/N5EauePzYqw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
+
+</div>
+      </div>
+    </div>
+  </div>
+
+  <div class="column">
+    <div class="card">
+
+
+      <div class="card-section">
+        <h4>Slides</h4>
+    <div align="center">
+        	<a href="" target="_blank"><img src="{{ site.baseurl }}/assets/images/workshops/2020/modules/00_A.png"></a>
+        	</div>
+        
+         <i class="fa fa-file-pdf-o" aria-hidden="true"></i> <a href="" target="_blank">LTPBR Case Studies - Slides</a>
+        
+      </div>
+    </div>
+
+  </div>
+</div>
+
+
 --------
 
 ### D. Post-Assisted Log Structures Case Study: Asotin Creek
