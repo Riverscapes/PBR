@@ -20,22 +20,39 @@ View the <a href="https://www.google.com/maps/d/edit?mid=1M0M0nfO_R51I9YLolttEXZ
 
 ----
 ## Guided Virtual Tour
-In this xx minute video, you are invited to walk up Spawn Creek and read the riverscape (for roughly a 1.5 mile with lots of tangents and stops). A six  mintue intro gets you oriented (watch [intro only here](https://youtu.be/UYigTdgLuzk)), and then the rest is just you and the sights and sounds of Spawn Creek. 
+In this 70 minute video, you are invited to walk up Spawn Creek and read the riverscape (for roughly a 1.5 mile with lots of tangents and stops). A six minute intro gets you oriented (watch [intro only here](https://youtu.be/UYigTdgLuzk)), and then the rest is just you and the sights and sounds of Spawn Creek. 
 
+### Intro to Guided Tour
 <div class="responsive-embed">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UYigTdgLuzk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-or download the KMZ.
+### The Actual Tour 
+<div class="responsive-embed">
+</div>
+Download the <a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2020/SGI/Materials/Module3/Walk+Down+Spawn+Creek+-++Virtual+Tour.kmz">KMZ <i class="fa fa-map-marker" aria-hidden="true"></i></a>.
 
 ----
 ## Self-Guided Tour
-In this 27 minute video, you are invited to walk down Spawn Creek (for roughly a mile and 22 minutes) and make observations about structural forcing. A four mintue intro gets you oriented (watch [intro only here](https://youtu.be/tyjNhjGAY1s)), and then the rest is just you and the sights and sounds of Spawn Creek. 
+In this video, you are invited to walk down Spawn Creek (for roughly a mile and 22 minutes) and make observations about structural forcing. A four minute intro gets you oriented (watch [intro only here](https://youtu.be/tyjNhjGAY1s)), and then the rest is just you and the sights and sounds of Spawn Creek. 
+
+### Intro to Self-Guided Tour
+<div class="responsive-embed">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tyjNhjGAY1s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+### The Actual Tour 
+That's right, there is no narration.
 
 <div class="responsive-embed">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WrxsAlvaxrg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
+Download the <a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2020/SGI/Materials/Module3/Guided+Tour+up+Spawn+Creek+-+Reading+Riverscapes.kmz">KMZ <i class="fa fa-map-marker" aria-hidden="true"></i></a>.
 
-### Take the Quiz
+#### Take the Survey
+Tally up your counts as you watch the video and take the [survey](https://www.surveylegend.com/s/2i6r).
+
+<a class="button" href="https://www.surveylegend.com/s/2i6r"><i class="fa fa-check-square-o" aria-hidden="true"></i> Take Spawn Creek Virtual Self-Guided Field Trip Survey </a>
 
 --------
 ## More to Explore
@@ -44,7 +61,12 @@ Want to keep exploring? There are albums and videos below for both Spawn Creek a
 
 ### Spawn Creek
 
-Part way through the guided tour, we turn up an un-named tributary and see neat examples of fosizlized beaver dams (i.e. travertine).  The <a href="https://twitter.com/fluvialwheaton/status/1267262171186003968?s=20"> <i class="fa fa-twitter" aria-hidden="true"></i> tweet</a> below invited people to guess how many dams are in the drone photo.
+The video below shows a drone flight down Spawn Creek:
+<div class="responsive-embed">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GfM0CO6aoI8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+Part way through the guided tour, we turn up an un-named tributary and see neat examples of fossilized beaver dams (i.e. travertine).  The <a href="https://twitter.com/fluvialwheaton/status/1267262171186003968?s=20"> <i class="fa fa-twitter" aria-hidden="true"></i> tweet</a> below invited people to guess how many dams are in the drone photo.
 <div align="center">
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Middle of Spawn Creek and unnamed tributary with a bunch of &quot;fossilized&quot; travertine beaver dams (look like bedrock steps in valley bottom, but they&#39;re actually relic beaver dams that limestone rich waters precipitated) <a href="https://t.co/plSokfGzG6">pic.twitter.com/plSokfGzG6</a></p>&mdash; Joe Wheaton (@fluvialwheaton) <a href="https://twitter.com/fluvialwheaton/status/1267262171186003968?ref_src=twsrc%5Etfw">June 1, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </div>
@@ -92,14 +114,15 @@ Above <a href="https://photos.app.goo.gl/qWB3AXe2D39qYZqEA">album <i class="fa f
 
 ------
 ### Temple Fork
+Spawn Creek is a tributary to Temple Fork. The album below show a bunch of video, ground shots and drone imagery from a walk up Temple Fork.
 
-[![TemplePano]({{ site.baseurl }}/assets/images/workshops/2020/TemplePano.png)](https://photos.app.goo.gl/qWB3AXe2D39qYZqEA)
+[![TemplePano]({{ site.baseurl }}/assets/images/workshops/2020/TemplePano.png)](https://photos.app.goo.gl/qWB3AXe2D39qYZqEA)]
+Above <a href="https://photos.app.goo.gl/qWB3AXe2D39qYZqEA">album <i class="fa fa-camera-retro" aria-hidden="true"></i></a> (or [full version](https://photos.app.goo.gl/pcFCwH5CLPjd4FEN7))
 
-Spawn Creek is a tributary to Temple Fork, 
 
-https://photos.app.goo.gl/qWB3AXe2D39qYZqEA
+#### Failure?
+Too often, we tend to think of structures failing as a bad thing. With natural beaver dams and wood jams, these are transient features on the landscape. Beaver dams come and go all the time, and with that we get dynamic, diverse habitat. If all beaver dams fail, and are not replaced or repaired by further beaver dam activity, that can be a cause for concern. However, a handful of beaver dams blew out in 2020, and the results are not at all bad! This tweet below happens to highlight one blow out that was actually what we used to illusrate structural forcing in [Chapter 2]({{ site.baseurl }}/manual/chap02) of the design manual (figure 2.4).
 
-We tend to think of 
 <div align="center">
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">So, this was cool... the beaver dams we used as an example of principle 2 of riverscape health (structurally-forced pathway to complexity in <a href="https://twitter.com/hashtag/lowtechPBR?src=hash&amp;ref_src=twsrc%5Etfw">#lowtechPBR</a> manual: <a href="https://t.co/asPJ68JmtF">https://t.co/asPJ68JmtF</a>) finally blew out from spring runoff! But despite mourning the loss, its MORE complicated... <a href="https://t.co/n7fOlpj5T4">pic.twitter.com/n7fOlpj5T4</a></p>&mdash; Joe Wheaton (@fluvialwheaton) <a href="https://twitter.com/fluvialwheaton/status/1267257618512277504?ref_src=twsrc%5Etfw">June 1, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </div>
