@@ -128,7 +128,7 @@ That little text intro on  [Joe Wheaton]({{ site.baseurl }}/workshops/2020/SGI/#
 
 
       <div class="card-section">
-        <h4>Video</h4>
+        <h4>Video Part 1</h4>
         <div class="responsive-embed"> 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Y9_RmvVk1E0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
@@ -143,12 +143,12 @@ That little text intro on  [Joe Wheaton]({{ site.baseurl }}/workshops/2020/SGI/#
 
 
       <div class="card-section">
-        <h4>Slides</h4>
+        <h4>Slides Part 1</h4>
     <div align="center">
-        	<a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2020/SGI/Materials/Module2/02_C_Processes_BridgeBirch.pdf" target="_blank"><img src="{{ site.baseurl }}/assets/images/workshops/2020/modules/02_C.png"></a>
+        	<a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2020/SGI/Materials/Module2/02_C_1_Processes_BridgeBirch.pdf" target="_blank"><img src="{{ site.baseurl }}/assets/images/workshops/2020/modules/02_C.png"></a>
         	</div>
         
-         <i class="fa fa-file-pdf-o" aria-hidden="true"></i> <a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2020/SGI/Materials/Module2/02_C_Processes_BridgeBirch.pdf" target="_blank">title - Slides</a>
+         <i class="fa fa-file-pdf-o" aria-hidden="true"></i> <a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2020/SGI/Materials/Module2/02_C_1_Processes_BridgeBirch.pdf" target="_blank">LTPBR Case Studies Intro - Slides</a>
         
       </div>
     </div>
@@ -161,9 +161,9 @@ That little text intro on  [Joe Wheaton]({{ site.baseurl }}/workshops/2020/SGI/#
   <div class="column">
     <div class="card">
       <div class="card-section">
-        <h4>Video</h4>
+        <h4>Video Part 2</h4>
         <div class="responsive-embed"> 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/N5EauePzYqw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/m2bG4kYfRhs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
 
 </div>
       </div>
@@ -175,12 +175,12 @@ That little text intro on  [Joe Wheaton]({{ site.baseurl }}/workshops/2020/SGI/#
 
 
       <div class="card-section">
-        <h4>Slides</h4>
+        <h4>Slides Part 2</h4>
     <div align="center">
-        	<a href="" target="_blank"><img src="{{ site.baseurl }}/assets/images/workshops/2020/modules/00_A.png"></a>
+        	<a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2020/SGI/Materials/Module2/02_C_2_Processes_BridgeBirch.pdf" target="_blank"><img src="{{ site.baseurl }}/assets/images/workshops/2020/modules/02_C2.png"></a>
         	</div>
         
-         <i class="fa fa-file-pdf-o" aria-hidden="true"></i> <a href="" target="_blank">LTPBR Case Studies - Slides</a>
+         <i class="fa fa-file-pdf-o" aria-hidden="true"></i> <a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2020/SGI/Materials/Module2/02_C_2_Processes_BridgeBirch.pdf" target="_blank">LTPBR Case Studies Bridge Creek- Slides</a>
         
       </div>
     </div>
@@ -192,9 +192,9 @@ That little text intro on  [Joe Wheaton]({{ site.baseurl }}/workshops/2020/SGI/#
   <div class="column">
     <div class="card">
       <div class="card-section">
-        <h4>Video</h4>
+        <h4>Video Part 3</h4>
         <div class="responsive-embed"> 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/N5EauePzYqw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uNFG4uCMw1E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
 
 </div>
       </div>
@@ -206,12 +206,12 @@ That little text intro on  [Joe Wheaton]({{ site.baseurl }}/workshops/2020/SGI/#
 
 
       <div class="card-section">
-        <h4>Slides</h4>
+        <h4>Slides Part 3</h4>
     <div align="center">
-        	<a href="" target="_blank"><img src="{{ site.baseurl }}/assets/images/workshops/2020/modules/00_A.png"></a>
+        	<a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2020/SGI/Materials/Module2/02_C_3_Processes_BridgeBirch.pdf" target="_blank"><img src="{{ site.baseurl }}/assets/images/workshops/2020/modules/02_C3.png"></a>
         	</div>
         
-         <i class="fa fa-file-pdf-o" aria-hidden="true"></i> <a href="" target="_blank">LTPBR Case Studies - Slides</a>
+         <i class="fa fa-file-pdf-o" aria-hidden="true"></i> <a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2020/SGI/Materials/Module2/02_C_3_Processes_BridgeBirch.pdf" target="_blank">LTPBR Case Studies:Birch Creek - Slides</a>
         
       </div>
     </div>
