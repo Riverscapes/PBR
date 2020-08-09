@@ -23,7 +23,6 @@ These talks are elaborated in [Chapter 1]({{ site.baseurl}}/manual/chap01) of de
 <a href="{{ site.baseurl }}/workshops/2020/SGI/#instruction-team"><img width="80"  class="float-left" src="{{ site.baseurl }}/assets/images/people/Wheaton_round.png"></a>
 [Joe Wheaton]({{ site.baseurl }}/workshops/2020/SGI/#instruction-team) introduces Module 2 of the Low-Tech Process-Based Restoration Workshop: Underlying Science & Case Studies for Low-Tech Restoration.
 
-**Background :** This talk is based on [Chapter 1]({{ site.baseurl}}/manual/chap01) & [Chapter 2]({{ site.baseurl}}/manual/chap02) of the design manual.  
 <br>
 
 <div class="row small-up-2 medium-up-2">
@@ -366,7 +365,6 @@ That little text intro on  [Joe Wheaton]({{ site.baseurl }}/workshops/2020/SGI/#
 <a href="{{ site.baseurl }}/workshops/2020/SGI/#instruction-team"><img width="80"  class="float-left" src="{{ site.baseurl }}/assets/images/people/Wheaton_round.png"></a>
 [Joe Wheaton]({{ site.baseurl }}/workshops/2020/SGI/#instruction-team) synthesizes Module 2 of the Low-Tech Process-Based Restoration Workshop; Underlying Science & Case Studies
 
-**Background :** This talk is based on [Chapter 1]({{ site.baseurl}}/manual/chap01) & [Chapter 4]({{ site.baseurl}}/manual/chap04) of design manual.  
 <br>
 
 <div class="row small-up-2 medium-up-2">
