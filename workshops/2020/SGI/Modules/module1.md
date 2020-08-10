@@ -204,7 +204,7 @@ To kick off,  [Jeremy Maestas]({{ site.baseurl }}/workshops/2020/SGI/#instructio
 
 --------
 
-## E. What Riverscapes Could Be
+### E. What Riverscapes Could Be
 
 <a href="{{ site.baseurl }}/workshops/2020/SGI/#instruction-team"><img width="80"  class="float-left" src="{{ site.baseurl }}/assets/images/people/beardsley-round.png"></a>
 [Mark Beardsley]({{ site.baseurl }}/workshops/2020/SGI/#instruction-team) asks us to reimagine what a healthy riverscape could be in the Low Tech Process Based Restoration of Riverscapes Workshop.
@@ -488,7 +488,7 @@ That little text intro on  [Joe Wheaton]({{ site.baseurl }}/workshops/2020/SGI/#
 
 --------
 
-## K. Beaver History & Biology
+### K. Beaver History & Biology
 
 <a href="{{ site.baseurl }}/workshops/2020/SGI/#instruction-team"><img width="80"  class="float-left" src="{{ site.baseurl }}/assets/images/people/Goldfarb_Round.png"></a>
 That little text intro on  [Ben Goldfarb]({{ site.baseurl }}/workshops/2020/SGI/#instruction-team) saying what he says.. 
