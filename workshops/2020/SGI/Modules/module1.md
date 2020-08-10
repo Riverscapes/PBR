@@ -252,7 +252,7 @@ To kick off,  [Jeremy Maestas]({{ site.baseurl }}/workshops/2020/SGI/#instructio
 
 --------
 
-### F. What You Came For - Your First BDA
+## F. What You Came For - Your First BDA
 
 <a href="{{ site.baseurl }}/workshops/2020/SGI/#instruction-team"><img width="80"  class="float-left" src="{{ site.baseurl }}/assets/images/people/Wheaton_round.png"></a>
 That little text intro on  [Joe Wheaton]({{ site.baseurl }}/workshops/2020/SGI/#instruction-team) saying what he says.. 
@@ -628,7 +628,7 @@ That little text intro on  [Jeremy Maestas]({{ site.baseurl }}/workshops/2020/SG
 ## N. Wrap-up and Preview of Remaining Modules
 
 <a href="{{ site.baseurl }}/workshops/2020/SGI/#instruction-team"><img width="80"  class="float-left" src="{{ site.baseurl }}/assets/images/people/Wheaton_round.png"></a>
-That little text intro on  [Joe Wheaton]({{ site.baseurl }}/workshops/2020/SGI/#instruction-team) saying what he says.. 
+[Joe Wheaton]({{ site.baseurl }}/workshops/2020/SGI/#instruction-team) synthesizes Module of the Low-Tech Process-Based Restoration Workshop and lays out the course structure.
 
 
 <br>
@@ -644,7 +644,7 @@ That little text intro on  [Joe Wheaton]({{ site.baseurl }}/workshops/2020/SGI/#
         <h4>Video</h4>
         <div class="responsive-embed"> 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/N5EauePzYqw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O692jZohAnI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
 
 </div>
       </div>
@@ -658,10 +658,10 @@ That little text intro on  [Joe Wheaton]({{ site.baseurl }}/workshops/2020/SGI/#
       <div class="card-section">
         <h4>Slides</h4>
     <div align="center">
-        	<a href="" target="_blank"><img src="{{ site.baseurl }}/assets/images/workshops/2020/modules/00_A.png"></a>
+        	<a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2020/SGI/Materials/Moudle1/01_N_Synthesis.pdf" target="_blank"><img src="{{ site.baseurl }}/assets/images/workshops/2020/modules/01_N.png"></a>
         	</div>
         
-         <i class="fa fa-file-pdf-o" aria-hidden="true"></i> <a href="" target="_blank">Scope of Problem  - Slides</a>
+         <i class="fa fa-file-pdf-o" aria-hidden="true"></i> <a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2020/SGI/Materials/Moudle1/01_N_Synthesis.pdf" target="_blank">Synthesis Module 1 - Slides</a>
         
       </div>
     </div>
