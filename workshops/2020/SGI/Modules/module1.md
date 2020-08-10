@@ -16,10 +16,11 @@ Below you can find PDFs and video recordings of the topics we covered in the int
 
 <a href="https://calendar.google.com/calendar/r/eventedit?text=Module+01+LTPBR&dates=20200811T100000/20200811T160000&ctz=America/Denver&details=For+details,+see+here:+http://lowtechpbr.restoration.usu.edu//workshops/2020/SGI/" class="button hollow"><i class="fa fa-calendar-plus-o" aria-hidden="true"></i>
  Add Module 1 to My <i class="fa fa-google" aria-hidden="true"></i> Calendar </a>
+## Slides & Videos
 
 --------
 
-## A. Logistics
+### A. Logistics
 <a href="{{ site.baseurl }}/workshops/2020/SGI/#instruction-team"><img width="80"  class="float-left" src="{{ site.baseurl }}/assets/images/people/Wheaton_round.png"></a>
 [Joe Wheaton]({{ site.baseurl }}/workshops/2020/SGI/#instruction-team) goes over the logistics of the first Virtual Workshop for Low-Tech Process-Based Restoration of Riverscapes.
 
@@ -56,7 +57,7 @@ Below you can find PDFs and video recordings of the topics we covered in the int
 
 --------
 
-## B. Background & Why We’re Here
+### B. Background & Why We’re Here
 
 <a href="{{ site.baseurl }}/workshops/2020/SGI/#instruction-team"><img width="80"  class="float-left" src="{{ site.baseurl }}/assets/images/people/Maestas_Round.png"></a>
 To kick off,  [Jeremy Maestas]({{ site.baseurl }}/workshops/2020/SGI/#instruction-team) sets the stage for why we're here, underscores the scope of degradation, and lays out a shared vision for what is possible
@@ -105,7 +106,7 @@ To kick off,  [Jeremy Maestas]({{ site.baseurl }}/workshops/2020/SGI/#instructio
 
 --------
 
-## C. Scope of the Problem
+### C. Scope of the Problem
 
 <a href="{{ site.baseurl }}/workshops/2020/SGI/#instruction-team"><img width="80"  class="float-left" src="{{ site.baseurl }}/assets/images/people/Wheaton_round.png"></a>
 [Joe Wheaton]({{ site.baseurl }}/workshops/2020/SGI/#instruction-team) lays out the scope of the problem to be be addressed with riverscape restoration.
@@ -154,7 +155,7 @@ To kick off,  [Jeremy Maestas]({{ site.baseurl }}/workshops/2020/SGI/#instructio
 
 --------
 
-## D. Missing Reference Condition: Stage Zero
+### D. Missing Reference Condition: Stage Zero
 
 <a href="{{ site.baseurl }}/workshops/2020/SGI/#instruction-team"><img width="80"  class="float-left" src="{{ site.baseurl }}/assets/images/people/Colin_Round.png"></a>
 [Colin Thorne]({{ site.baseurl }}/workshops/2020/SGI/#instruction-team) explains Stage Zero reference condition and about the importance of thinking outside the channel.
@@ -252,7 +253,7 @@ To kick off,  [Jeremy Maestas]({{ site.baseurl }}/workshops/2020/SGI/#instructio
 
 --------
 
-## F. What You Came For - Your First BDA
+### F. What You Came For - Your First BDA
 
 <a href="{{ site.baseurl }}/workshops/2020/SGI/#instruction-team"><img width="80"  class="float-left" src="{{ site.baseurl }}/assets/images/people/Wheaton_round.png"></a>
 That little text intro on  [Joe Wheaton]({{ site.baseurl }}/workshops/2020/SGI/#instruction-team) saying what he says.. 
@@ -298,7 +299,7 @@ That little text intro on  [Joe Wheaton]({{ site.baseurl }}/workshops/2020/SGI/#
 
 ------
 
-## G. Broad Umbrella of Low-Tech Restoration
+### G. Broad Umbrella of Low-Tech Restoration
 
 <a href="{{ site.baseurl }}/workshops/2020/SGI/#instruction-team"><img width="80"  class="float-left" src="{{ site.baseurl }}/assets/images/people/Maestas_Round.png"></a>
 In this lecture,  [Jeremy Maestas]({{ site.baseurl }}/workshops/2020/SGI/#instruction-team) introduces low-tech structures and talks about thier origins and effectiveness in restoration.
@@ -346,7 +347,7 @@ In this lecture,  [Jeremy Maestas]({{ site.baseurl }}/workshops/2020/SGI/#instru
 
 --------
 
-## H. Post-Assisted Log Structures (PALS)
+### H. Post-Assisted Log Structures (PALS)
 
 <a href="{{ site.baseurl }}/workshops/2020/SGI/#instruction-team"><img width="80"  class="float-left" src="{{ site.baseurl }}/assets/images/people/bennett-round.png"></a>
  [Stephen Bennett]({{ site.baseurl }}/workshops/2020/SGI/#instruction-team) dives into low-tech structures talking about Post-Assisted Log Structures, the different types of PALS and when and where they are useful in restoration.
@@ -395,7 +396,7 @@ In this lecture,  [Jeremy Maestas]({{ site.baseurl }}/workshops/2020/SGI/#instru
 
 --------
 
-## I. Beaver Dam Analogs
+### I. Beaver Dam Analogs
 
 <a href="{{ site.baseurl }}/workshops/2020/SGI/#instruction-team"><img width="80"  class="float-left" src="{{ site.baseurl }}/assets/images/people/shahverdian-round_1.png"></a>
 That little text intro on  [Scott Shahverdian]({{ site.baseurl }}/workshops/2020/SGI/#instruction-team) saying what he says.. 
@@ -441,7 +442,7 @@ That little text intro on  [Scott Shahverdian]({{ site.baseurl }}/workshops/2020
 
 --------
 
-## J. Principles
+### J. Principles
 
 <a href="{{ site.baseurl }}/workshops/2020/SGI/#instruction-team"><img width="80"  class="float-left" src="{{ site.baseurl }}/assets/images/people/Wheaton_Round.png"></a>
 That little text intro on  [Joe Wheaton]({{ site.baseurl }}/workshops/2020/SGI/#instruction-team) saying what he says.. 
@@ -533,7 +534,7 @@ That little text intro on  [Ben Goldfarb]({{ site.baseurl }}/workshops/2020/SGI/
 
 --------
 
-## L. Beaver Ecology & Feedbacks & Why Beaver Build Dams
+### L. Beaver Ecology & Feedbacks & Why Beaver Build Dams
 
 <a href="{{ site.baseurl }}/workshops/2020/SGI/#instruction-team"><img width="80"  class="float-left" src="{{ site.baseurl }}/assets/images/people/bouwes-round_1_orig.png"></a>
 In this section,  [Nick Bouwes]({{ site.baseurl }}/workshops/2020/SGI/#instruction-team) discusses the stars of low-tech process-based restoration: beaver.
@@ -579,7 +580,7 @@ In this section,  [Nick Bouwes]({{ site.baseurl }}/workshops/2020/SGI/#instructi
 
 --------
 
-## M. Why Partner with Beavers
+### M. Why Partner with Beavers
 
 <a href="{{ site.baseurl }}/workshops/2020/SGI/#instruction-team"><img width="80"  class="float-left" src="{{ site.baseurl }}/assets/images/people/Maestas_round.png"></a>
 That little text intro on  [Jeremy Maestas]({{ site.baseurl }}/workshops/2020/SGI/#instruction-team) saying what he says.. 
@@ -625,7 +626,7 @@ That little text intro on  [Jeremy Maestas]({{ site.baseurl }}/workshops/2020/SG
 
 --------
 
-## N. Wrap-up and Preview of Remaining Modules
+### N. Wrap-up and Preview of Remaining Modules
 
 <a href="{{ site.baseurl }}/workshops/2020/SGI/#instruction-team"><img width="80"  class="float-left" src="{{ site.baseurl }}/assets/images/people/Wheaton_round.png"></a>
 [Joe Wheaton]({{ site.baseurl }}/workshops/2020/SGI/#instruction-team) synthesizes Module of the Low-Tech Process-Based Restoration Workshop and lays out the course structure.

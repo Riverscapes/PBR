@@ -16,7 +16,7 @@ Wednesday, Aug 12: 1:00 PM - 4:30 PM  (Mountain Time)
 
 ### A. Logistics, Learning Objectives & Introductions
 <a href="{{ site.baseurl }}/workshops/2020/SGI/#instruction-team"><img width="80"  class="float-left" src="{{ site.baseurl }}/assets/images/people/Wheaton_round.png"></a>
-[JJoe Wheaton]({{ site.baseurl }}/workshops/2020/SGI/#instruction-team) introduces Module 3 of the Low-Tech Process Based Restoration Workshop; Planning for Low-tech Restoration.
+[Joe Wheaton]({{ site.baseurl }}/workshops/2020/SGI/#instruction-team) introduces Module 3 of the Low-Tech Process Based Restoration Workshop; Planning for Low-tech Restoration.
 
 <br>
 
