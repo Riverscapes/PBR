@@ -7,6 +7,8 @@ weight: 2
 Normally, in our in-person workshops, we like to take participants in the field to help you learn how to read riverscapes. The focus of reading riverscapes on these field trips is two-fold:
 1. Identifying **valley bottoms**
 2. Recognizing what **structural forcing** looks like
+
+
 While there is no *good* substitute for tromping around in the water and mud and experiencing this for yourself, this page attempts to reproduce as much of that experience as we can virtually for you in Spawn Creek. 
 
 # Spawn Creek Field Tour
@@ -20,7 +22,7 @@ View the <a href="https://www.google.com/maps/d/edit?mid=1M0M0nfO_R51I9YLolttEXZ
 
 ----
 ## Guided Virtual Tour
-In this 70 minute video, you are invited to walk up Spawn Creek and read the riverscape (for roughly a 1.5 mile with lots of tangents and stops). A six minute intro gets you oriented (watch [intro only here](https://youtu.be/UYigTdgLuzk)), and then the rest is just you and the sights and sounds of Spawn Creek. 
+In this 70 minute video, you are invited to walk up Spawn Creek and read the riverscape (for roughly a 1.5 mile with lots of tangents and stops). A six minute intro gets you oriented (watch [intro only here](https://youtu.be/UYigTdgLuzk)), and then the rest is Joe explaining all the same stuff he does in the real field trip as he sees it. Unlike the real field trip, where when you've had enough you can just hang back and wander around on your own, with this one you can fast forward if you get bored.  
 
 ### Intro to Guided Tour
 <div class="responsive-embed">
@@ -29,6 +31,7 @@ In this 70 minute video, you are invited to walk up Spawn Creek and read the riv
 
 ### The Actual Tour 
 <div class="responsive-embed">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0WiIDtXYwR0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 Download the <a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2020/SGI/Materials/Module3/Walk+Down+Spawn+Creek+-++Virtual+Tour.kmz">KMZ <i class="fa fa-map-marker" aria-hidden="true"></i></a>.
 
@@ -125,4 +128,10 @@ Too often, we tend to think of structures failing as a bad thing. With natural b
 
 <div align="center">
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">So, this was cool... the beaver dams we used as an example of principle 2 of riverscape health (structurally-forced pathway to complexity in <a href="https://twitter.com/hashtag/lowtechPBR?src=hash&amp;ref_src=twsrc%5Etfw">#lowtechPBR</a> manual: <a href="https://t.co/asPJ68JmtF">https://t.co/asPJ68JmtF</a>) finally blew out from spring runoff! But despite mourning the loss, its MORE complicated... <a href="https://t.co/n7fOlpj5T4">pic.twitter.com/n7fOlpj5T4</a></p>&mdash; Joe Wheaton (@fluvialwheaton) <a href="https://twitter.com/fluvialwheaton/status/1267257618512277504?ref_src=twsrc%5Etfw">June 1, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div>
+
+In the video below, I take you on an aerial tour of some recent beaver dam blow-outs, which reveal the anatomy of a beaver dam.
+
+<div class="responsive-embed">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OJFE5Se_pAo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
