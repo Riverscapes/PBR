@@ -208,7 +208,7 @@ To kick off,  [Jeremy Maestas]({{ site.baseurl }}/workshops/2020/SGI/#instructio
 <a href="{{ site.baseurl }}/workshops/2020/SGI/#instruction-team"><img width="80"  class="float-left" src="{{ site.baseurl }}/assets/images/people/beardsley-round.png"></a>
 [Mark Beardsley]({{ site.baseurl }}/workshops/2020/SGI/#instruction-team) asks us to reimagine what a healthy riverscape could be in the Low Tech Process Based Restoration of Riverscapes Workshop.
 
-**Background :** This talk is based on [Chapter 1]({{ site.baseurl}}/manual/chap01) ({{ site.baseurl}}/manual/chap04) of design manual.  
+**Background :** This talk is based on [Chapter 1]({{ site.baseurl}}/manual/chap01) and [Chapter 4]({{ site.baseurl}}/manual/chap04) of design manual.  
 <br>
 
 <div class="row small-up-2 medium-up-2">
@@ -257,7 +257,7 @@ To kick off,  [Jeremy Maestas]({{ site.baseurl }}/workshops/2020/SGI/#instructio
 <a href="{{ site.baseurl }}/workshops/2020/SGI/#instruction-team"><img width="80"  class="float-left" src="{{ site.baseurl }}/assets/images/people/Wheaton_round.png"></a>
 [Joe Wheaton]({{ site.baseurl }}/workshops/2020/SGI/#instruction-team) walks us through an exercise of building BDAs (Beaver Dam Analogs) in a parking lot. 
 
-**Background :** Details from this talk can be found in [the LTPBR Pocket Guide]({{ site.baseurl}}/resources/pocket) & [Chapter 4]({{ site.baseurl}}/manual/chap04) of the design manual, and the [Parking Lot Low-tech Structure Building Page]({{ site.baseurl}}/resources/Topics/01_Overview/parkinglot) .   
+**Background :** Details from this talk can be found in [the LTPBR Pocket Guide]({{ site.baseurl}}/resources/pocket) & [Chapter 4]({{ site.baseurl}}/manual/chap04) of the design manual, and the [Parking Lot Low-Tech Structure Building Page]({{ site.baseurl}}/resources/Topics/01_Overview/parkinglot) .   
 <br>
 
 <div class="row small-up-2 medium-up-2">
@@ -294,6 +294,11 @@ To kick off,  [Jeremy Maestas]({{ site.baseurl }}/workshops/2020/SGI/#instructio
     </div>
 
   </div>
+</div>
+
+
+<div align="center">
+        <a class="hollow button" href="{{ site.baseurl}}/resources/Topics/01_Overview/parkinglot"><i class="fa fa-youtube" aria-hidden="true"></i>  See Parking Lot Low-Tech Structure Exercises   <i class="fa fa-cog" aria-hidden="true"></i></a>  
 </div>
 
 ------
@@ -395,7 +400,7 @@ In this lecture,  [Jeremy Maestas]({{ site.baseurl }}/workshops/2020/SGI/#instru
 
 --------
 
-### I. Beaver Dam Analogs
+### I. Beaver Dam Analogues
 
 <a href="{{ site.baseurl }}/workshops/2020/SGI/#instruction-team"><img width="80"  class="float-left" src="{{ site.baseurl }}/assets/images/people/shahverdian-round_1.png"></a>
 That little text intro on  [Scott Shahverdian]({{ site.baseurl }}/workshops/2020/SGI/#instruction-team) saying what he says.. 
@@ -414,7 +419,7 @@ That little text intro on  [Scott Shahverdian]({{ site.baseurl }}/workshops/2020
         <h4>Video</h4>
         <div class="responsive-embed"> 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/https://youtu.be/kMo9V32Gv3o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kMo9V32Gv3o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
 
 </div>
       </div>
@@ -675,9 +680,5 @@ Will be uploaded  after workshop.
 -----
 
 <div align="center">
-
-
-
         <a class="hollow button" href="{{ site.baseurl }}/Workshops/2020/SGI"><i class="fa fa-graduation-cap"></i>  Back to Virtual Workshop </a>  
-
 </div>
