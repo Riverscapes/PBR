@@ -353,10 +353,8 @@ That little text intro on  [Joe Wheaton]({{ site.baseurl }}/workshops/2020/SGI/#
 
 
 --------
-
 <div align="center">
- 
-
-        <a class="hollow button" href="{{ site.baseurl }}/Workshops/"><i class="fa fa-graduation-cap"></i>  Back to Workshops </a>  
+        <a class="hollow button" href="{{ site.baseurl }}/Workshops/2020/SGI"><i class="fa fa-graduation-cap"></i>  Back to Virtual Workshop </a>  
 </div>
+
 
