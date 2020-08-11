@@ -116,7 +116,7 @@ These talks are elaborated in [Chapter 1]({{ site.baseurl}}/manual/chap01) of de
 <a href="{{ site.baseurl }}/workshops/2020/SGI/#instruction-team"><img width="80"  class="float-left" src="{{ site.baseurl }}/assets/images/people/bouwes-round_1_orig.png"></a>
 [Nick Bouwes]({{ site.baseurl }}/workshops/2020/SGI/#instruction-team) discusses testing the effecvtiveness of process-based restoration using to promote wood accumulation and beaver dam activity in some case studies of intensively monitored watersheds (IMWs) including Bridge Creek, Birch Creek and the Asotin IMW.  
 
-**Background :** This talk is based on [Chapter 1]({{ site.baseurl}}/manual/chap01) & [Chapter 4]({{ site.baseurl}}/manual/chap04) of design manual.  
+**Background :** This talk has 3 parts and is based on [Chapter 1]({{ site.baseurl}}/manual/chap01) & [Chapter 4]({{ site.baseurl}}/manual/chap04) of design manual.  
 <br>
 
 #### Intensively Monitored Watersheds

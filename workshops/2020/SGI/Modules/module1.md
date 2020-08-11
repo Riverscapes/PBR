@@ -520,7 +520,6 @@ In this lecture,  [Jeremy Maestas]({{ site.baseurl }}/workshops/2020/SGI/#instru
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nl7_zi2844g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
 
 </div>
-Will be uploaded  after workshop.
       </div>
     </div>
   </div>
