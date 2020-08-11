@@ -50,10 +50,10 @@ These talks are elaborated in [Chapter 1]({{ site.baseurl}}/manual/chap01) of de
       <div class="card-section">
         <h4>Slides</h4>
     <div align="center">
-        	<a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2020/SGI/Materials/Module2/02_C_Processes_BridgeBirch.pdf" target="_blank"><img src="{{ site.baseurl }}/assets/images/workshops/2020/modules/02_A.png"></a>
+        	<a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2020/SGI/Materials/Module2/02_A_Logistics.pdf" target="_blank"><img src="{{ site.baseurl }}/assets/images/workshops/2020/modules/02_A.png"></a>
         	</div>
         
-         <i class="fa fa-file-pdf-o" aria-hidden="true"></i> <a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2020/SGI/Materials/Module2/02_C_Processes_BridgeBirch.pdf" target="_blank">Introduction to Module 2 - Slides</a>
+         <i class="fa fa-file-pdf-o" aria-hidden="true"></i> <a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2020/SGI/Materials/Module2/02_A_Logistics.pdf" target="_blank">Introduction to Module 2 - Slides</a>
         
       </div>
     </div>
