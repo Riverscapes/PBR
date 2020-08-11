@@ -254,10 +254,9 @@ That little text intro on  [Joe Wheaton]({{ site.baseurl }}/workshops/2020/SGI/#
 
 ### F. Putting It All Together in the Field
 <a href="{{ site.baseurl }}/workshops/2020/SGI/#instruction-team"><img width="80"  class="float-left" src="{{ site.baseurl }}/assets/images/people/webber-round_1_orig.png"></a>
-That little text intro on  [Nick Weber]({{ site.baseurl }}/workshops/2020/SGI/#instruction-team) saying what he says.. 
+[Nick Weber]({{ site.baseurl }}/workshops/2020/SGI/#instruction-team) goes over the details of data capture and management during field design of low-tech process-based restoration.
 
-**Background :** This talk is based on [Chapter 1]({{ site.baseurl}}/manual/chap01) & [Chapter 4]({{ site.baseurl}}/manual/chap04) of design manual.  
-<br>
+
 
 <div class="row small-up-2 medium-up-2">
 
@@ -270,7 +269,7 @@ That little text intro on  [Nick Weber]({{ site.baseurl }}/workshops/2020/SGI/#i
         <h4>Video</h4>
         <div class="responsive-embed"> 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/N5EauePzYqw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DGqHjJZ7ulw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
 
 </div>
       </div>
@@ -284,10 +283,10 @@ That little text intro on  [Nick Weber]({{ site.baseurl }}/workshops/2020/SGI/#i
       <div class="card-section">
         <h4>Slides</h4>
     <div align="center">
-        	<a href="" target="_blank"><img src="{{ site.baseurl }}/assets/images/workshops/2020/modules/00_A.png"></a>
+        	<a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2020/SGI/Materials/Module4/04_F_Field.pdf" target="_blank"><img src="{{ site.baseurl }}/assets/images/workshops/2020/modules/04_F.png"></a>
         	</div>
         
-         <i class="fa fa-file-pdf-o" aria-hidden="true"></i> <a href="" target="_blank">title - Slides</a>
+         <i class="fa fa-file-pdf-o" aria-hidden="true"></i> <a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2020/SGI/Materials/Module4/04_F_Field.pdf" target="_blank">Field Design Documentation - Slides</a>
         
       </div>
     </div>
