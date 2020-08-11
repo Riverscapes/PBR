@@ -501,7 +501,7 @@ That little text intro on  [Scott Shahverdian]({{ site.baseurl }}/workshops/2020
 [<img class="float-right" src="{{ site.baseurl }}/assets/images/covers/eager-goldfarb_1.jpg">](https://www.amazon.com/Eager-Surprising-Secret-Beavers-Matter/dp/160358739X/ref=sr_1_6?ie=UTF8&qid=1512586233&sr=8-6&keywords=eager+beaver)
 <br>
 <a href="{{ site.baseurl }}/workshops/2020/SGI/#instruction-team"><img width="80"  class="float-left" src="{{ site.baseurl }}/assets/images/people/Goldfarb_Round.png"></a>
-That little text intro on  [Ben Goldfarb]({{ site.baseurl }}/workshops/2020/SGI/#instruction-team) saying what he says.. 
+[Ben Goldfarb]({{ site.baseurl }}/workshops/2020/SGI/#instruction-team)  disucsses the history of beaver in the context of process-based restoration.
 
 **Background :** This talk is elaborated in [Ben Goldfarb's](http://bengoldfarb.com/) new award winning book:  [Eager - The Surprising Secret Life of Beaver and Why they Matter](http://bengoldfarb.com/beaverbook/). 
 <br>
