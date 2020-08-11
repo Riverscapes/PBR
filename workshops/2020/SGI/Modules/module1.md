@@ -532,10 +532,10 @@ Will be uploaded  after workshop.
       <div class="card-section">
         <h4>Slides</h4>
     <div align="center">
-        	<a href="" target="_blank"><img src="{{ site.baseurl }}/assets/images/workshops/2020/modules/01_K.png"></a>
+        	<a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2020/SGI/Materials/Moudle1/01_K_Beaver_Goldfarb.pdf" target="_blank"><img src="{{ site.baseurl }}/assets/images/workshops/2020/modules/01_K.png"></a>
         	</div>
         
-         <i class="fa fa-file-pdf-o" aria-hidden="true"></i> <a href="" target="_blank">Scope of Problem  - Slides</a>
+         <i class="fa fa-file-pdf-o" aria-hidden="true"></i> <a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2020/SGI/Materials/Moudle1/01_K_Beaver_Goldfarb.pdf" target="_blank">Beaver History  - Slides</a>
         
       </div>
     </div>
