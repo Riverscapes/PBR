@@ -583,9 +583,7 @@ In this section,  [Nick Bouwes]({{ site.baseurl }}/workshops/2020/SGI/#instructi
 ### M. Why Partner with Beavers
 
 <a href="{{ site.baseurl }}/workshops/2020/SGI/#instruction-team"><img width="80"  class="float-left" src="{{ site.baseurl }}/assets/images/people/Maestas_round.png"></a>
-That little text intro on  [Jeremy Maestas]({{ site.baseurl }}/workshops/2020/SGI/#instruction-team) saying what he says.. 
-
-**Background :** This talk is based on [Chapter 1]({{ site.baseurl}}/manual/chap01) & [Chapter 4]({{ site.baseurl}}/manual/chap04) of design manual.  
+[Jeremy Maestas]({{ site.baseurl }}/workshops/2020/SGI/#instruction-team) talks about getting on board with beaver restoration.
 <br>
 
 <div class="row small-up-2 medium-up-2">
@@ -602,6 +600,7 @@ That little text intro on  [Jeremy Maestas]({{ site.baseurl }}/workshops/2020/SG
 <iframe width="560" height="315" src="https://www.youtube.com/embed/N5EauePzYqw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
 
 </div>
+Will be uploaded  after workshop.
       </div>
     </div>
   </div>
@@ -613,10 +612,10 @@ That little text intro on  [Jeremy Maestas]({{ site.baseurl }}/workshops/2020/SG
       <div class="card-section">
         <h4>Slides</h4>
     <div align="center">
-        	<a href="" target="_blank"><img src="{{ site.baseurl }}/assets/images/workshops/2020/modules/00_A.png"></a>
+        	<a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2020/SGI/Materials/Moudle1/01_M_Beaver_WrapUp.pdf" target="_blank"><img src="{{ site.baseurl }}/assets/images/workshops/2020/modules/01_M.png"></a>
         	</div>
         
-         <i class="fa fa-file-pdf-o" aria-hidden="true"></i> <a href="" target="_blank">Scope of Problem  - Slides</a>
+         <i class="fa fa-file-pdf-o" aria-hidden="true"></i> <a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2020/SGI/Materials/Moudle1/01_M_Beaver_WrapUp.pdf" target="_blank">Why Partner with Beaver - Slides</a>
         
       </div>
     </div>
