@@ -58,7 +58,7 @@ Below you can find PDFs and video recordings of the topics we covered in the int
 
 ### B. Background & Why We’re Here
 
-<a href="{{ site.baseurl }}/workshops/2020/SGI/#instruction-team"><img width="80"  class="float-left" src="{{ site.baseurl }}/assets/images/people/Maestas_Round.png"></a>
+<a href="{{ site.baseurl }}/workshops/2020/SGI/#instruction-team"><img width="80"  class="float-left" src="{{ site.baseurl }}/assets/images/people/Maestas_round.png"></a>
 To kick off,  [Jeremy Maestas]({{ site.baseurl }}/workshops/2020/SGI/#instruction-team) sets the stage for why we're here, underscores the scope of degradation, and lays out a shared vision for what is possible
 
 **Background :** This talk is based on [Chapter 1]({{ site.baseurl}}/manual/chap01) of the design manual.  
@@ -300,7 +300,7 @@ To kick off,  [Jeremy Maestas]({{ site.baseurl }}/workshops/2020/SGI/#instructio
 
 ### G. Broad Umbrella of Low-Tech Restoration
 
-<a href="{{ site.baseurl }}/workshops/2020/SGI/#instruction-team"><img width="80"  class="float-left" src="{{ site.baseurl }}/assets/images/people/Maestas_Round.png"></a>
+<a href="{{ site.baseurl }}/workshops/2020/SGI/#instruction-team"><img width="80"  class="float-left" src="{{ site.baseurl }}/assets/images/people/Maestas_round.png"></a>
 In this lecture,  [Jeremy Maestas]({{ site.baseurl }}/workshops/2020/SGI/#instruction-team) introduces low-tech structures and talks about thier origins and effectiveness in restoration.
 
 **Background :** This talk is based on [Chapter 1]({{ site.baseurl}}/manual/chap01) & [Chapter 4]({{ site.baseurl}}/manual/chap04) of design manual.  
@@ -443,7 +443,7 @@ That little text intro on  [Scott Shahverdian]({{ site.baseurl }}/workshops/2020
 
 ### J. Principles
 
-<a href="{{ site.baseurl }}/workshops/2020/SGI/#instruction-team"><img width="80"  class="float-left" src="{{ site.baseurl }}/assets/images/people/Wheaton_Round.png"></a>
+<a href="{{ site.baseurl }}/workshops/2020/SGI/#instruction-team"><img width="80"  class="float-left" src="{{ site.baseurl }}/assets/images/people/Wheaton_round.png"></a>
 [Joe Wheaton]({{ site.baseurl }}/workshops/2020/SGI/#instruction-team) goes over the principles of a healthy riverscapes and the principles of low-tech process-based restoration.
 
 **Background :** This talk is based on [Chapter 2]({{ site.baseurl}}/manual/chap02) of the design manual.  
@@ -678,6 +678,6 @@ Will be uploaded  after workshop.
 
 
 
-        <a class="hollow button" href="{{ site.baseurl }}/Workshops/"><i class="fa fa-graduation-cap"></i>  Back to Workshops </a>  
+        <a class="hollow button" href="{{ site.baseurl }}/Workshops/2020/SGI"><i class="fa fa-graduation-cap"></i>  Back to Virtual Workshop </a>  
 
 </div>
