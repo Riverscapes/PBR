@@ -341,10 +341,10 @@ In this lecture,  [Jeremy Maestas]({{ site.baseurl }}/workshops/2020/SGI/#instru
       <div class="card-section">
         <h4>Slides</h4>
     <div align="center">
-        	<a href="" target="_blank"><img src="{{ site.baseurl }}/assets/images/workshops/2020/modules/01_G.png"></a>
+        	<a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2020/SGI/Materials/Moudle1/01_G_LowTechApproaches_Overview.pdf" target="_blank"><img src="{{ site.baseurl }}/assets/images/workshops/2020/modules/01_G.png"></a>
         	</div>
         
-         <i class="fa fa-file-pdf-o" aria-hidden="true"></i> <a href="" target="_blank">Broad Umbrella of Low-Tech - Slides</a>
+         <i class="fa fa-file-pdf-o" aria-hidden="true"></i> <a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2020/SGI/Materials/Moudle1/01_G_LowTechApproaches_Overview.pdf" target="_blank">Broad Umbrella of Low-Tech - Slides</a>
         
       </div>
     </div>
@@ -503,7 +503,7 @@ That little text intro on  [Scott Shahverdian]({{ site.baseurl }}/workshops/2020
 <a href="{{ site.baseurl }}/workshops/2020/SGI/#instruction-team"><img width="80"  class="float-left" src="{{ site.baseurl }}/assets/images/people/Goldfarb_Round.png"></a>
 That little text intro on  [Ben Goldfarb]({{ site.baseurl }}/workshops/2020/SGI/#instruction-team) saying what he says.. 
 
-**Background :** This talk is elaborated in [Ben Goldfarb's](http://bengoldfarb.com/) new award winning book:  [Eager - The Surprising Secret Life of Beaver and Why they Matter](https://www.amazon.com/Eager-Surprising-Secret-Beavers-Matter/dp/160358739X/ref=sr_1_6?ie=UTF8&qid=1512586233&sr=8-6&keywords=eager+beaver). 
+**Background :** This talk is elaborated in [Ben Goldfarb's](http://bengoldfarb.com/) new award winning book:  [Eager - The Surprising Secret Life of Beaver and Why they Matter](http://bengoldfarb.com/beaverbook/). 
 <br>
 
 <div class="row small-up-2 medium-up-2">
@@ -520,6 +520,7 @@ That little text intro on  [Ben Goldfarb]({{ site.baseurl }}/workshops/2020/SGI/
 <iframe width="560" height="315" src="https://www.youtube.com/embed/N5EauePzYqw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
 
 </div>
+Will be uploaded  after workshop.
       </div>
     </div>
   </div>
