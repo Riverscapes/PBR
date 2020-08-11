@@ -248,7 +248,12 @@ To kick off,  [Jeremy Maestas]({{ site.baseurl }}/workshops/2020/SGI/#instructio
 </div>
 
 
+#### Panel Discussion & Quiz
+<div align="center">
 
+
+<a class=" hollow button" href="{{ site.baeurl }}/resources/Topics/01_Overview/sem.html"><img src="{{ site.baseurl }}/assets/images/diagrams/presentation.png"> Go to take the → <br> <b>Stream/Riverscapes Evolution Model Quiz</b>. </a>
+</div>
 
 --------
 

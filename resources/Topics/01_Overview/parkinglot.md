@@ -1,6 +1,6 @@
 ---
 title:  Parking Lot Low-Tech Exercises
-weight: 1
+weight: 2
 ---
 #  Parking Lot Low-Tech Structure Building
 
