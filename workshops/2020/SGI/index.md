@@ -13,7 +13,7 @@ weight: 1
 
 **UPDATE** - As of July 300,  1000 people had registered! Thanks to all of you have registered! The interest is wonderful. Unfortunately, with our webinar system, we can only accommodate 1000 participants, so **registration is now closed**. 
 
-**Couldn't register?** If you were unable to register, please do not despair! All of the presentations and discussions will be recorded, organized and made available from this page, after the workshop. Thus, you can still participate at your own pace, asynchronously. 
+**Couldn't register?** If you were unable to register, please do not despair! All of the presentations and discussions will be recorded, organized and [made available from this page](#course-materials), after the workshop. Thus, you can still participate at your own pace, asynchronously. 
 
 ## Overview
 

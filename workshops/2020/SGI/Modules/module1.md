@@ -680,5 +680,5 @@ Will be uploaded  after workshop.
 -----
 
 <div align="center">
-        <a class="hollow button" href="{{ site.baseurl }}/Workshops/2020/SGI"><i class="fa fa-graduation-cap"></i>  Back to Virtual Workshop </a>  
+        <a class="hollow button" href="{{ site.baseurl }}/workshops/2020/SGI/"><i class="fa fa-graduation-cap"></i>  Back to Virtual Workshop </a>  
 </div>
