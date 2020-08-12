@@ -173,7 +173,7 @@ Wednesday, Aug 12: 1:00 PM - 4:30 PM  (Mountain Time)
 
 ### D. Recognizing Structural Forcing in Riverscapes
 <a href="{{ site.baseurl }}/workshops/2020/SGI/#instruction-team"><img width="80"  class="float-left" src="{{ site.baseurl }}/assets/images/people/Wheaton_round.png"></a>
-That little text intro on  [Joe Wheaton]({{ site.baseurl }}/workshops/2020/SGI/#instruction-team) saying what he says.. 
+[Joe Wheaton]({{ site.baseurl }}/workshops/2020/SGI/#instruction-team) walks us through how to read a riverscape, specifically wood accumulation and beaver dam activity.
 
 **Background :** This talk is based on [Chapter 3]({{ site.baseurl}}/manual/chap03) of the design manual.  
 <br>
@@ -189,7 +189,7 @@ That little text intro on  [Joe Wheaton]({{ site.baseurl }}/workshops/2020/SGI/#
         <h4>Video</h4>
         <div class="responsive-embed"> 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/N5EauePzYqw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Tpxj60utpfs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
 
 </div>
       </div>
@@ -203,9 +203,9 @@ That little text intro on  [Joe Wheaton]({{ site.baseurl }}/workshops/2020/SGI/#
       <div class="card-section">
         <h4>Slides</h4>
     <div align="center">
-        	<a href="" target="_blank"><img src="{{ site.baseurl }}/assets/images/workshops/2020/modules/00_A.png"></a>
+        	<a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2020/SGI/Materials/Module3/03_D_StructuralForcing.pdf" target="_blank"><img src="{{ site.baseurl }}/assets/images/workshops/2020/modules/03_D.png"></a>
         	 </div>        
-         <i class="fa fa-file-pdf-o" aria-hidden="true"></i> <a href="" target="_blank">title - Slides</a>
+         <i class="fa fa-file-pdf-o" aria-hidden="true"></i> <a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2020/SGI/Materials/Module3/03_D_StructuralForcing.pdf" target="_blank">Structural Forcing in Riverscapes - Slides</a>
         
       </div>
     </div>
