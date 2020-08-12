@@ -141,9 +141,10 @@ Wednesday, Aug 12: 1:00 PM - 4:30 PM  (Mountain Time)
     </div>
   </div>
 </div>
-
-
-
+#### VBET – Valley Bottom Extraction Tool
+The valley bottom is the entry point to understanding a riverscape. Fortunately, we have a tool, which approximates the mapping of this with freely available national data. Currently, VBET is buried in RCAT, but that is changing within the year. A high level overview is provided in this 6 minute video:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B92jH50kfn8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+#### Exercises
 <div class="row small-up-2 medium-up-2">
 
 
@@ -261,7 +262,36 @@ Video to be added
   </div>
 </div>
 </div>
+#### RCAT – Riparian Condition Assessment Tool
+An example of one way we can look at riverscape condition and geoindicators of geomorphic condition is looking at riparian conditions. The Riparian Condition Assessment Tool - RCAT is one of the network tools available to assess different components of riparian condition as explained in this < 10 minute video:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/om9xYoMps5g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+#### BRAT – Beaver Restoration Assessment Tool
+In many riverscapes, beaver dams can have a profound impact on riverscape condition, and subsequently fish capacity and survival. The Beaver Restoration Assessment Tool - BRAT is one of the network tools available to assess the capacity of the network to support dam building activity by beaver.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XPs61RUnYVY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+#### Exercise
+
+<div class="row small-up-2 medium-up-2">
+
+
+  <div class="column">
+    <div class="card">
+
+
+      <div class="card-section">
+        <h4>PRINT Exercise 3G</h4>
+    <div align="center">
+        	<a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2020/SGI/Materials/Module3/03_E_VB_Exercises2-1.pdf" target="_blank"><img src="{{ site.baseurl }}/assets/images/workshops/2020/modules/03_E_exercise.png"></a>
+        	</div>
+        
+         <i class="fa fa-file-pdf-o" aria-hidden="true"></i> <a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2020/SGI/Materials/Module3/03_E_VB_Exercises2-1.pdf" target="_blank">PRINT - Valley Bottom Mapping Exercise</a>
+
+
+      </div>
+    </div>
+  </div>
+  </div>
 
 --------
 
@@ -349,32 +379,6 @@ Video to be added
         
       </div>
     </div>
-
-  </div>
-</div>
-
-<div class="row small-up-2 medium-up-2">
-
-
-  <div class="column">
-    <div class="card">
-
-
-      <div class="card-section">
-        <h4>PRINT Exercise 3G</h4>
-    <div align="center">
-        	<a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2020/SGI/Materials/Module3/03_E_VB_Exercises2-1.pdf" target="_blank"><img src="{{ site.baseurl }}/assets/images/workshops/2020/modules/03_E_exercise.png"></a>
-        	</div>
-        
-         <i class="fa fa-file-pdf-o" aria-hidden="true"></i> <a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2020/SGI/Materials/Module3/03_E_VB_Exercises2-1.pdf" target="_blank">PRINT - Valley Bottom Mapping Exercise</a>
-
-
-      </div>
-    </div>
-  </div>
-
-  <div class="column">
-  
 
   </div>
 </div>
