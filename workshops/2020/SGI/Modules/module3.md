@@ -140,7 +140,7 @@ Wednesday, Aug 12: 1:00 PM - 4:30 PM  (Mountain Time)
       <div class="card-section">
         <h4>Slides</h4>
     <div align="center">
-        	<a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2020/SGI/Materials/Module3/03_C_ReadingRiverscapes.pdf" target="_blank"><img src="{{ site.baseurl }}/assets/images/workshops/2020/modules/03_C.png"></a>
+      <a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2020/SGI/Materials/Module3/03_C_ReadingRiverscapes.pdf" target="_blank"><img src="{{ site.baseurl }}/assets/images/workshops/2020/modules/03_C.png"></a>
         	</div>
         
          <i class="fa fa-file-pdf-o" aria-hidden="true"></i> <a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2020/SGI/Materials/Module3/03_C_ReadingRiverscapes.pdf" target="_blank">Valley Bottom Mapping - Slides</a>
@@ -163,10 +163,10 @@ Wednesday, Aug 12: 1:00 PM - 4:30 PM  (Mountain Time)
       <div class="card-section">
         <h4>Exercise 3C Valley Setting</h4>
     <div align="center">
-        	<a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2020/SGI/Materials/Moudle1/01_A_Logistics.pdf" target="_blank"><img src="{{ site.baseurl }}/assets/images/workshops/2020/modules/01_A.png"></a>
+        	<a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2020/SGI/Materials/Module3/03_C_ValleySetting_Exercise.pdf" target="_blank"><img src="{{ site.baseurl }}/assets/images/workshops/2020/modules/03_C_exercise.png"></a>
         	</div>
         
-         <i class="fa fa-file-pdf-o" aria-hidden="true"></i> <a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2020/SGI/Materials/Moudle1/01_A_Logistics.pdf" target="_blank">Virtual Workshop Logistics - Slides</a>
+         <i class="fa fa-file-pdf-o" aria-hidden="true"></i> <a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2020/SGI/Materials/Module3/03_C_ValleySetting_Exercise.pdf" target="_blank">PRINT - Valley Setting Exercise</a>
 
 
       </div>
@@ -377,10 +377,10 @@ That little text intro on  [Joe Wheaton]({{ site.baseurl }}/workshops/2020/SGI/#
       <div class="card-section">
         <h4>Slides</h4>
     <div align="center">
-        	<a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2020/SGI/Materials/Moudle1/01_A_Logistics.pdf" target="_blank"><img src="{{ site.baseurl }}/assets/images/workshops/2020/modules/01_A.png"></a>
+        	<a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2020/SGI/Materials/Module3/03_E_VB_Exercises2-1.pdf" target="_blank"><img src="{{ site.baseurl }}/assets/images/workshops/2020/modules/03_E_exercise.png"></a>
         	</div>
         
-         <i class="fa fa-file-pdf-o" aria-hidden="true"></i> <a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2020/SGI/Materials/Moudle1/01_A_Logistics.pdf" target="_blank">Virtual Workshop Logistics - Slides</a>
+         <i class="fa fa-file-pdf-o" aria-hidden="true"></i> <a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2020/SGI/Materials/Module3/03_E_VB_Exercises2-1.pdf" target="_blank">PRINT - Valley Bottom Mapping Exercise</a>
 
 
       </div>
