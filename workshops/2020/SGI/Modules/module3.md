@@ -220,7 +220,7 @@ That little text intro on  [Joe Wheaton]({{ site.baseurl }}/workshops/2020/SGI/#
 
 ### E. Risk Assessment, Condition Assessment, & Recovery Potential
 <a href="{{ site.baseurl }}/workshops/2020/SGI/#instruction-team"><img width="80"  class="float-left" src="{{ site.baseurl }}/assets/images/people/Wheaton_round.png"></a>
-That little text intro on  [Joe Wheaton]({{ site.baseurl }}/workshops/2020/SGI/#instruction-team) saying what he says.. 
+[Joe Wheaton]({{ site.baseurl }}/workshops/2020/SGI/#instruction-team) covers Resource Analysis for Low-Tech Restoration; assessing risk, condition and recovery potential.
 
 **Background :** This talk is based on [Chapter 3]({{ site.baseurl}}/manual/chap03) of the design manual.  
 <br>
@@ -239,6 +239,7 @@ That little text intro on  [Joe Wheaton]({{ site.baseurl }}/workshops/2020/SGI/#
 <iframe width="560" height="315" src="https://www.youtube.com/embed/N5EauePzYqw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
 
 </div>
+Video to be added
       </div>
     </div>
   </div>
@@ -250,10 +251,10 @@ That little text intro on  [Joe Wheaton]({{ site.baseurl }}/workshops/2020/SGI/#
       <div class="card-section">
         <h4>Slides</h4>
     <div align="center">
-        	<a href="" target="_blank"><img src="{{ site.baseurl }}/assets/images/workshops/2020/modules/00_A.png"></a>
+        	<a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2020/SGI/Materials/Module3/03_E_RiskandCondition.pdf" target="_blank"><img src="{{ site.baseurl }}/assets/images/workshops/2020/modules/03_E.png"></a>
         
         
-         <i class="fa fa-file-pdf-o" aria-hidden="true"></i> <a href="" target="_blank">title - Slides</a>
+         <i class="fa fa-file-pdf-o" aria-hidden="true"></i> <a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2020/SGI/Materials/Module3/03_E_RiskandCondition.pdf" target="_blank">Assessing Risk & Condition - Slides</a>
         
       </div>
     </div>
