@@ -180,9 +180,6 @@ Wednesday, Aug 12: 1:00 PM - 4:30 PM  (Mountain Time)
 </div>
 
 
-
-
-
 --------
 
 ### D. Recognizing Structural Forcing in Riverscapes
@@ -326,7 +323,7 @@ That little text intro on  [Joe Wheaton]({{ site.baseurl }}/workshops/2020/SGI/#
 --------
 
 ### G. Module 3 Synthesis
-<a href="{{ site.baseurl }}/workshops/2020/SGI/#instruction-team"><img width="80"  class="float-left" src="{{ site.baseurl }}/assets/images/people/wheaton_round.png"></a>
+<a href="{{ site.baseurl }}/workshops/2020/SGI/#instruction-team"><img width="80"  class="float-left" src="{{ site.baseurl }}/assets/images/people/Wheaton_round.png"></a>
 [Joe Wheaton]({{ site.baseurl }}/workshops/2020/SGI/#instruction-team) synthesizes the talks from Module 3 of the Low-Tech Process-Based Restoration Workshop; Planning for Low-Tech Restoration.
 
 <br>
