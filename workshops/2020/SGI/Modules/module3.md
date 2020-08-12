@@ -103,9 +103,6 @@ Wednesday, Aug 12: 1:00 PM - 4:30 PM  (Mountain Time)
   </div>
 </div>
 
-
-
-
 --------
 
 ### C. Valley Bottom Mapping & Virtual Field Trip
@@ -116,12 +113,8 @@ Wednesday, Aug 12: 1:00 PM - 4:30 PM  (Mountain Time)
 <br>
 
 <div class="row small-up-2 medium-up-2">
-
-
   <div class="column">
     <div class="card">
-
-
       <div class="card-section">
         <h4>Video</h4>
         <div class="responsive-embed"> 
@@ -141,18 +134,16 @@ Wednesday, Aug 12: 1:00 PM - 4:30 PM  (Mountain Time)
         <h4>Slides</h4>
     <div align="center">
       <a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2020/SGI/Materials/Module3/03_C_ReadingRiverscapes.pdf" target="_blank"><img src="{{ site.baseurl }}/assets/images/workshops/2020/modules/03_C.png"></a>
-        	</div>
-        
+        	 </div>       
          <i class="fa fa-file-pdf-o" aria-hidden="true"></i> <a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2020/SGI/Materials/Module3/03_C_ReadingRiverscapes.pdf" target="_blank">Valley Bottom Mapping - Slides</a>
         
       </div>
     </div>
-
   </div>
 </div>
 
 
-#### Print Exercise Here
+
 <div class="row small-up-2 medium-up-2">
 
 
@@ -161,7 +152,7 @@ Wednesday, Aug 12: 1:00 PM - 4:30 PM  (Mountain Time)
 
 
       <div class="card-section">
-        <h4>Exercise 3C Valley Setting</h4>
+        <h4>PRINT Exercise 3C Valley Setting</h4>
     <div align="center">
         	<a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2020/SGI/Materials/Module3/03_C_ValleySetting_Exercise.pdf" target="_blank"><img src="{{ site.baseurl }}/assets/images/workshops/2020/modules/03_C_exercise.png"></a>
         	</div>
@@ -173,11 +164,9 @@ Wednesday, Aug 12: 1:00 PM - 4:30 PM  (Mountain Time)
     </div>
   </div>
 
-  <div class="column">
   
-
   </div>
-</div>
+
 
 
 --------
@@ -215,8 +204,7 @@ That little text intro on  [Joe Wheaton]({{ site.baseurl }}/workshops/2020/SGI/#
         <h4>Slides</h4>
     <div align="center">
         	<a href="" target="_blank"><img src="{{ site.baseurl }}/assets/images/workshops/2020/modules/00_A.png"></a>
-        	</div>
-        
+        	 </div>        
          <i class="fa fa-file-pdf-o" aria-hidden="true"></i> <a href="" target="_blank">title - Slides</a>
         
       </div>
@@ -263,14 +251,14 @@ That little text intro on  [Joe Wheaton]({{ site.baseurl }}/workshops/2020/SGI/#
         <h4>Slides</h4>
     <div align="center">
         	<a href="" target="_blank"><img src="{{ site.baseurl }}/assets/images/workshops/2020/modules/00_A.png"></a>
-        	</div>
+        
         
          <i class="fa fa-file-pdf-o" aria-hidden="true"></i> <a href="" target="_blank">title - Slides</a>
         
       </div>
     </div>
-
   </div>
+</div>
 </div>
 
 
@@ -363,7 +351,7 @@ That little text intro on  [Joe Wheaton]({{ site.baseurl }}/workshops/2020/SGI/#
 
   </div>
 </div>
-#### Print Exercise Here
+
 <div class="row small-up-2 medium-up-2">
 
 
@@ -372,7 +360,7 @@ That little text intro on  [Joe Wheaton]({{ site.baseurl }}/workshops/2020/SGI/#
 
 
       <div class="card-section">
-        <h4>Slides</h4>
+        <h4>PRINT Exercise 3G</h4>
     <div align="center">
         	<a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2020/SGI/Materials/Module3/03_E_VB_Exercises2-1.pdf" target="_blank"><img src="{{ site.baseurl }}/assets/images/workshops/2020/modules/03_E_exercise.png"></a>
         	</div>
