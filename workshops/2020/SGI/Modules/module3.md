@@ -110,7 +110,7 @@ Wednesday, Aug 12: 1:00 PM - 4:30 PM  (Mountain Time)
 
 ### C. Valley Bottom Mapping & Virtual Field Trip
 <a href="{{ site.baseurl }}/workshops/2020/SGI/#instruction-team"><img width="80"  class="float-left" src="{{ site.baseurl }}/assets/images/people/Wheaton_round.png"></a>
-[Joe Wheaton]({{ site.baseurl }}/workshops/2020/SGI/#instruction-team) saying what he says.. 
+[Joe Wheaton]({{ site.baseurl }}/workshops/2020/SGI/#instruction-team) goes over how to read a riverscape and introduces the virtual field trip resources.
 
 **Background :** This talk is based on [Chapter 3]({{ site.baseurl}}/manual/chap03) of the design manual.  
 <br>
@@ -160,7 +160,7 @@ Wednesday, Aug 12: 1:00 PM - 4:30 PM  (Mountain Time)
 <a href="{{ site.baseurl }}/workshops/2020/SGI/#instruction-team"><img width="80"  class="float-left" src="{{ site.baseurl }}/assets/images/people/Wheaton_round.png"></a>
 That little text intro on  [Joe Wheaton]({{ site.baseurl }}/workshops/2020/SGI/#instruction-team) saying what he says.. 
 
-**Background :** This talk is based on [Chapter 1]({{ site.baseurl}}/manual/chap01) & [Chapter 4]({{ site.baseurl}}/manual/chap04) of design manual.  
+**Background :** This talk is based on [Chapter 3]({{ site.baseurl}}/manual/chap03) of the design manual.  
 <br>
 
 <div class="row small-up-2 medium-up-2">
@@ -208,7 +208,7 @@ That little text intro on  [Joe Wheaton]({{ site.baseurl }}/workshops/2020/SGI/#
 <a href="{{ site.baseurl }}/workshops/2020/SGI/#instruction-team"><img width="80"  class="float-left" src="{{ site.baseurl }}/assets/images/people/Wheaton_round.png"></a>
 That little text intro on  [Joe Wheaton]({{ site.baseurl }}/workshops/2020/SGI/#instruction-team) saying what he says.. 
 
-**Background :** This talk is based on [Chapter 1]({{ site.baseurl}}/manual/chap01) & [Chapter 4]({{ site.baseurl}}/manual/chap04) of design manual.  
+**Background :** This talk is based on [Chapter 3]({{ site.baseurl}}/manual/chap03) of the design manual.  
 <br>
 
 <div class="row small-up-2 medium-up-2">
