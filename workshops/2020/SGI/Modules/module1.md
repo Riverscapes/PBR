@@ -13,13 +13,15 @@ Below you can find PDFs and video recordings of the topics we covered in the int
 
 *Tuesday*, **Aug 11, 2020**
 10:00 AM - 4:00 PM (Mountain Time)
-
-## Slides & Videos
+--------
+## Module 1 Video Playlist
 
 <i class="fa fa-youtube-play" aria-hidden="true"></i> <a href="https://www.youtube.com/playlist?list=PLjhZYBVnXmga114fdPTOzh60t8lDUm_Mi" target="_blank">Module 1 YouTube Playlist</a>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLjhZYBVnXmga114fdPTOzh60t8lDUm_Mi" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 --------
+## Slides & Videos by Topic
+
 
 ### A. Logistics
 <a href="{{ site.baseurl }}/workshops/2020/SGI/#instruction-team"><img width="80"  class="float-left" src="{{ site.baseurl }}/assets/images/people/Wheaton_round.png"></a>
