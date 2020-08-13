@@ -9,21 +9,20 @@ Below you can find PDFs and video recordings of the slides we cover in the intro
 # Module 5: Implementing Low-Tech PBR
 
 Friday, Aug 14: 9:00 AM - 1:00 PM  (Mountain Time)
+--------
+## Module 5 Video Playlist
 
-[<img class="float-right" src="{{ site.baseurl }}/assets/images/workshops/2019/DesignForm.png"> ](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2019/SGI/Design_Sheet.pdf)
--  Design Exercise - ([Chapter 4 - Design Manual]({{ site.baseurl }}/manual/chap04/)); [Pocket Guide]({{ site.baseurl }}/resources/pocket)) 
-- Split into  groups, discuss design objectives for their complex, layout project with flags
-Logistics, Safety & Post Pounding ([Chapter 6 - Design Manual]({{ site.baseurl }}/manual/chap06/));  [Pocket Guide]({{ site.baseurl }}/resources/pocket))
-- Hands-on construction of various structures (PALS, Post-Assisted BDAs, Postless BDAs; [Chapter 6 - Design Manual]({{ site.baseurl }}/manual/chap06/)) - Design Manual;  [Pocket Guide]({{ site.baseurl }}/resources/pocket)) 
-- Review and critique constructed structures
-- Discussions on adaptive management (Chapter [3]({{ site.baseurl }}/manual/chap03/), [4]({{ site.baseurl }}/manual/chap04/) & [6]({{ site.baseurl }}/manual/chap06/)) - Design Manual)
-- Workshop synthesis (review principles) & where to turn for [help]({{ site.baseurl }}/resources/contractors) 
-## Slides & Videos
+<i class="fa fa-youtube-play" aria-hidden="true"></i> <a href="https://www.youtube.com/playlist?list=PLjhZYBVnXmgaEPvKn0MtljTPuJwUFOWCS" target="_blank">Module 5 YouTube Playlist</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLjhZYBVnXmgaEPvKn0MtljTPuJwUFOWCS" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+--------
+## Slides & Videos by Topic
+
 --------
 
 ### A. Logistics, Learning Objectives, & Introductions
 <a href="{{ site.baseurl }}/workshops/2020/SGI/#instruction-team"><img width="80"  class="float-left" src="{{ site.baseurl }}/assets/images/people/Wheaton_round.png"></a>
-That little text intro on  [John Doe]({{ site.baseurl }}/workshops/2020/SGI/#instruction-team) saying what he says.. 
+ [Joe Wheaton]({{ site.baseurl }}/workshops/2020/SGI/#instruction-team) saying what he says.. 
 
 **Background :** This talk is based on [Chapter 1]({{ site.baseurl}}/manual/chap01) & [Chapter 4]({{ site.baseurl}}/manual/chap04) of design manual.  
 <br>
@@ -118,7 +117,7 @@ That little text intro on  [Jeremy Maestas]({{ site.baseurl }}/workshops/2020/SG
 
 ### C. Consultation & Permitting
 <a href="{{ site.baseurl }}/workshops/2020/SGI/#instruction-team"><img width="80"  class="float-left" src="{{ site.baseurl }}/assets/images/people/Wheaton_round.png"></a>
-That little text intro on  [Joe Wheaton]({{ site.baseurl }}/workshops/2020/SGI/#instruction-team) saying what he says.. 
+[Joe Wheaton]({{ site.baseurl }}/workshops/2020/SGI/#instruction-team) discusses the consultation & permitting process for low-tech  restoration as part of the Low-Tech Process-Based Riverscape Restoration Workshop.
 
 **Background :** This talk is based on [Chapter 6]({{ site.baseurl}}/manual/chap06)of the design manual.  
 <br>
@@ -151,7 +150,7 @@ That little text intro on  [Joe Wheaton]({{ site.baseurl }}/workshops/2020/SGI/#
         	<a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2020/SGI/Materials/Module5/05_C_Implementation_Consultation_Permitting.pdf" target="_blank"><img src="{{ site.baseurl }}/assets/images/workshops/2020/modules/05_C.png"></a>
         	</div>
         
-         <i class="fa fa-file-pdf-o" aria-hidden="true"></i> <a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2020/SGI/Materials/Module5/05_C_Implementation_Consultation_Permitting.pdf" target="_blank">title - Slides</a>
+         <i class="fa fa-file-pdf-o" aria-hidden="true"></i> <a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2020/SGI/Materials/Module5/05_C_Implementation_Consultation_Permitting.pdf" target="_blank">Consultation & Permitting - Slides</a>
         
       </div>
     </div>
