@@ -118,7 +118,7 @@ Thursday, Aug 13: 10:00 AM - 3:00 PM  (Mountain Time)
 
 
       <div class="card-section">
-        <h4>PRINT Exercise 4 E</h4>
+        <h4>Spec Sheet</h4>
     <div align="center">
         	<a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2020/SGI/Materials/Module4/04_USDA_643_BDAs+and+PALS_spec+template_7-2019.pdf" target="_blank"><img src="{{ site.baseurl }}/assets/images/workshops/2020/modules/04_B_specs.png"></a>
         	</div>
