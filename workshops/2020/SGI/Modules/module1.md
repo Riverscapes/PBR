@@ -14,8 +14,10 @@ Below you can find PDFs and video recordings of the topics we covered in the int
 *Tuesday*, **Aug 11, 2020**
 10:00 AM - 4:00 PM (Mountain Time)
 
-
 ## Slides & Videos
+
+<i class="fa fa-youtube-play" aria-hidden="true"></i> <a href="https://www.youtube.com/playlist?list=PLjhZYBVnXmga114fdPTOzh60t8lDUm_Mi" target="_blank">Module 1 YouTube Playlist</a>
+
 
 --------
 
