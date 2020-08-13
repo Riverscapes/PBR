@@ -108,7 +108,7 @@ Thursday, Aug 13: 10:00 AM - 3:00 PM  (Mountain Time)
 
   </div>
 </div>
-#### USDA Specifications Sheet for PALS & BDAs
+#### Resources
 
 <div class="row small-up-2 medium-up-2">
 
@@ -118,7 +118,7 @@ Thursday, Aug 13: 10:00 AM - 3:00 PM  (Mountain Time)
 
 
       <div class="card-section">
-        <h4>Spec Sheet</h4>
+        <h4>USDA BDAs  PALS Spec Sheet</h4>
     <div align="center">
         	<a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2020/SGI/Materials/Module4/04_USDA_643_BDAs+and+PALS_spec+template_7-2019.pdf" target="_blank"><img src="{{ site.baseurl }}/assets/images/workshops/2020/modules/04_B_specs.png"></a>
         	</div>
@@ -340,8 +340,32 @@ Video will be added after workshop
 
   </div>
 </div>
+#### Resources
+
+<i class="fa fa-desktop" aria-hidden="true"></i> <a href="https://bda-explorer.herokuapp.com/" target="_blank">LT-PBR Explorer</a> Enter your low-tech restoration projects in the LTPBR Explorer website!
+
+<i class="fa fa-desktop" aria-hidden="true"></i> <a href="http://fmltpbr.riverscapes.xyz/" target="_blank">LT-PBR Implementation & Monitoring Protocolr</a> Find out more about the monitoring protocol.
+<div class="row small-up-2 medium-up-2">
 
 
+  <div class="column">
+    <div class="card">
+
+
+      <div class="card-section">
+        <h4>PBR Swag</h4>
+    <div align="center">
+        	<a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2020/SGI/Materials/Module4/pbr_swag.pdf" target="_blank"><img src="{{ site.baseurl }}/assets/images/workshops/2020/modules/04_F_pbr.png"></a>
+        	</div>
+        
+         <i class="fa fa-file-pdf-o" aria-hidden="true"></i> <a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2020/SGI/Materials/Module4/pbr_swag.pdf" target="_blank">Enter your BDA projects for PBR SWAG</a>
+
+
+      </div>
+    </div>
+  </div>
+  </div>
+  
 
 
 --------
