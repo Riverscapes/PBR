@@ -11,9 +11,13 @@ Below you can find PDFs and video recordings of the slides we cover in the intro
 Wednesday, Aug 12: 9:00 AM - 12:00 PM  (Mountain Time)
 Mimicking and promoting wood accumulation and beaver dam activity (Chapter 4 - Design Manual)
 
-## Slides & Videos
+## Module 2 Video Playlist
 
+<i class="fa fa-youtube-play" aria-hidden="true"></i> <a href="https://www.youtube.com/playlist?list=PLjhZYBVnXmgb7mOFP6ltwdnAhxRmsBvWg" target="_blank">Module 1 YouTube Playlist</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLjhZYBVnXmgb7mOFP6ltwdnAhxRmsBvWg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+--------
+## Slides & Videos by Topic
 These talks are elaborated in [Chapter 1]({{ site.baseurl}}/manual/chap01) of design manual. 
 
 --------
