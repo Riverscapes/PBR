@@ -247,7 +247,7 @@ The valley bottom is the entry point to understanding a riverscape. Fortunately,
         <h4>Video</h4>
         <div class="responsive-embed"> 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/N5EauePzYqw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/playlist?list=PLjhZYBVnXmgYreYHQjnKpDmCwhnb49DeE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
 
 </div>
 Video to be added
@@ -266,8 +266,8 @@ Video to be added
 
 
 ​        
-         <i class="fa fa-file-pdf-o" aria-hidden="true"></i> <a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2020/SGI/Materials/Module3/03_E_RiskandCondition.pdf" target="_blank">Assessing Risk & Condition - Slides</a>
-        
+​         <i class="fa fa-file-pdf-o" aria-hidden="true"></i> <a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2020/SGI/Materials/Module3/03_E_RiskandCondition.pdf" target="_blank">Assessing Risk & Condition - Slides</a>
+​        
       </div>
     </div>
   </div>
