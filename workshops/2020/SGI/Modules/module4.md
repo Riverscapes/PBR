@@ -108,7 +108,28 @@ Thursday, Aug 13: 10:00 AM - 3:00 PM  (Mountain Time)
 
   </div>
 </div>
+#### USDA Specifications Sheet
 
+<div class="row small-up-2 medium-up-2">
+
+
+  <div class="column">
+    <div class="card">
+
+
+      <div class="card-section">
+        <h4>PRINT Exercise 4 E</h4>
+    <div align="center">
+        	<a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2020/SGI/Materials/Module4/04_USDA_643_BDAs+and+PALS_spec+template_7-2019.pdf" target="_blank"><img src="{{ site.baseurl }}/assets/images/workshops/2020/modules/04_B_spec.png"></a>
+        	</div>
+        
+         <i class="fa fa-file-pdf-o" aria-hidden="true"></i> <a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2020/SGI/Materials/Module4/04_USDA_643_BDAs+and+PALS_spec+template_7-2019.pdf" target="_blank">USDA BDAs & PALS specification template</a>
+
+
+      </div>
+    </div>
+  </div>
+  </div>
 
 
 
@@ -325,11 +346,9 @@ Video will be added after workshop
 
 --------
 
-### G. Documenting Anticipated Post-Restoration SEM Condition & Phases
+### G. Synthesis
 <a href="{{ site.baseurl }}/workshops/2020/SGI/#instruction-team"><img width="80"  class="float-left" src="{{ site.baseurl }}/assets/images/people/Wheaton_round.png"></a>
-That little text intro on  [Joe Wheaton]({{ site.baseurl }}/workshops/2020/SGI/#instruction-team) saying what he says.. 
-
-**Background :** This talk is based on [Chapter 4]({{ site.baseurl}}/manual/chap04) & [Chapter 5]({{ site.baseurl}}/manual/chap05) of the design manual.  
+[Joe Wheaton]({{ site.baseurl }}/workshops/2020/SGI/#instruction-team) synthesizes the design information from Module 4.
 <br>
 
 <div class="row small-up-2 medium-up-2">
@@ -361,7 +380,7 @@ video will be added after workshop
         	<a href="" target="_blank"><img src="{{ site.baseurl }}/assets/images/workshops/2020/modules/00_A.png"></a>
         	</div>
         
-         <i class="fa fa-file-pdf-o" aria-hidden="true"></i> <a href="" target="_blank">title - Slides</a>
+         <i class="fa fa-file-pdf-o" aria-hidden="true"></i> <a href="" target="_blank">not yet available</a>
         
       </div>
     </div>
