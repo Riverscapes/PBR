@@ -13,12 +13,12 @@ Mimicking and promoting wood accumulation and beaver dam activity (Chapter 4 - D
 
 ## Module 2 Video Playlist
 
-<i class="fa fa-youtube-play" aria-hidden="true"></i> <a href="https://www.youtube.com/playlist?list=PLjhZYBVnXmgb7mOFP6ltwdnAhxRmsBvWg" target="_blank">Module 1 YouTube Playlist</a>
+<i class="fa fa-youtube-play" aria-hidden="true"></i> <a href="https://www.youtube.com/playlist?list=PLjhZYBVnXmgb7mOFP6ltwdnAhxRmsBvWg" target="_blank">Module 2 YouTube Playlist</a>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLjhZYBVnXmgb7mOFP6ltwdnAhxRmsBvWg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 --------
 ## Slides & Videos by Topic
-These talks are elaborated in [Chapter 1]({{ site.baseurl}}/manual/chap01) of design manual. 
+These talks are elaborated in [Chapter 1]({{ site.baseurl}}/manual/chap02) and [Chapter 2]({{ site.baseurl}}/manual/chap01)  of the design manual. 
 
 --------
 

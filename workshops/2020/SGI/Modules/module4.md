@@ -14,7 +14,7 @@ Thursday, Aug 13: 10:00 AM - 3:00 PM  (Mountain Time)
 
 ## Module 4 Video Playlist
 
-<i class="fa fa-youtube-play" aria-hidden="true"></i> <a href="https://www.youtube.com/playlist?list=PLjhZYBVnXmgYTR9EGNa06j2MyubcLnyG1" target="_blank">Module 1 YouTube Playlist</a>
+<i class="fa fa-youtube-play" aria-hidden="true"></i> <a href="https://www.youtube.com/playlist?list=PLjhZYBVnXmgYTR9EGNa06j2MyubcLnyG1" target="_blank">Module 4 YouTube Playlist</a>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLjhZYBVnXmgYTR9EGNa06j2MyubcLnyG1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 --------
@@ -164,7 +164,7 @@ Thursday, Aug 13: 10:00 AM - 3:00 PM  (Mountain Time)
 <a href="{{ site.baseurl }}/workshops/2020/SGI/#instruction-team"><img width="80"  class="float-left" src="{{ site.baseurl }}/assets/images/people/shahverdian-round_1.png"></a>
 [Scott Shahverdian]({{ site.baseurl }}/workshops/2020/SGI/#instruction-team) talks about designing low-tech restoration structures at the complex scale.
 
-**Background :** This talk is based on [Chapter 1]({{ site.baseurl}}/manual/chap01) & [Chapter 4]({{ site.baseurl}}/manual/chap04) of design manual.  
+**Background :** This talk is based on [Chapter 4]({{ site.baseurl}}/manual/chap04) & [Chapter 5]({{ site.baseurl}}/manual/chap05) of the design manual.  
 <br>
 
 <div class="row small-up-2 medium-up-2">

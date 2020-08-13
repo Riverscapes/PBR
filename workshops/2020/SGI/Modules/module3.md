@@ -10,9 +10,19 @@ Below you can find PDFs and video recordings of the slides we cover in the intro
 
 Wednesday, Aug 12: 1:00 PM - 4:30 PM  (Mountain Time)
 
+------
 
-## Slides & Videos
+## Module 3 Video Playlist
+
+<i class="fa fa-youtube-play" aria-hidden="true"></i> <a href="https://www.youtube.com/playlist?list=PLjhZYBVnXmgbFKKeCXWMjalIxam4gcZXx" target="_blank">Module 3 YouTube Playlist</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLjhZYBVnXmgbFKKeCXWMjalIxam4gcZXx" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 --------
+## Slides & Videos by Topic
+These talks are elaborated in [Chapter 3]({{ site.baseurl}}/manual/chap03) of the design manual.  
+
+
+------
 
 ### A. Logistics, Learning Objectives & Introductions
 <a href="{{ site.baseurl }}/workshops/2020/SGI/#instruction-team"><img width="80"  class="float-left" src="{{ site.baseurl }}/assets/images/people/Wheaton_round.png"></a>
@@ -165,7 +175,7 @@ The valley bottom is the entry point to understanding a riverscape. Fortunately,
     </div>
   </div>
 
-  
+
   </div>
 
 
@@ -253,8 +263,9 @@ Video to be added
         <h4>Slides</h4>
     <div align="center">
         	<a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2020/SGI/Materials/Module3/03_E_RiskandCondition.pdf" target="_blank"><img src="{{ site.baseurl }}/assets/images/workshops/2020/modules/03_E.png"></a>
-        
-        
+
+
+​        
          <i class="fa fa-file-pdf-o" aria-hidden="true"></i> <a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2020/SGI/Materials/Module3/03_E_RiskandCondition.pdf" target="_blank">Assessing Risk & Condition - Slides</a>
         
       </div>
