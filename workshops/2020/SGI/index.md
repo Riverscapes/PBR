@@ -82,6 +82,8 @@ These will be updated and posted immediately prior to each virtual workshop modu
 
 <a class="hollow button" href="{{ site.baseurl }}/workshops/2020/SGI/Modules/module3"><img src="{{ site.baseurl }}/assets/images/diagrams/presentation.png"> <b>Module 3 - Planning</b> <br> Slides  <i class="fa fa-file-pdf-o" aria-hidden="true"></i>, Recorded Lectures <i class="fa fa-youtube-play" aria-hidden="true"></i> and Exercises </a>
 
+<a class="hollow button" href="{{ site.baseurl }}/workshops/2020/SGI/Modules/module4"><img src="{{ site.baseurl }}/assets/images/diagrams/presentation.png"> <b>Module 4 - Design</b> <br> Slides  <i class="fa fa-file-pdf-o" aria-hidden="true"></i>, Recorded Lectures <i class="fa fa-youtube-play" aria-hidden="true"></i> and Exercises </a>
+
 </div>
 
 ### Workshop Textbooks
