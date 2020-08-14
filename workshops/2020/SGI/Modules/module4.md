@@ -247,10 +247,9 @@ Thursday, Aug 13: 10:00 AM - 3:00 PM  (Mountain Time)
         <h4>Video</h4>
         <div class="responsive-embed"> 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/N5EauePzYqw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/56ac71AbeRw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
 
 </div>
-Video will be added after workshop
       </div>
     </div>
   </div>
@@ -365,7 +364,7 @@ Video will be added after workshop
     </div>
   </div>
   </div>
-  
+
 
 
 --------
