@@ -307,7 +307,7 @@ Friday, Aug 14: 9:00 AM - 1:00 PM  (Mountain Time)
 
 ### G. Review & Synthesis
 <a href="{{ site.baseurl }}/workshops/2020/SGI/#instruction-team"><img width="80"  class="float-left" src="{{ site.baseurl }}/assets/images/people/Wheaton_round.png"></a>
-[Joe Wheaton]({{ site.baseurl }}/workshops/2020/SGI/#instruction-team) synthesizes the implementation process of low-tech process-based restoration.
+[Joe Wheaton]({{ site.baseurl }}/workshops/2020/SGI/#instruction-team) synthesizes the low-tech process-based restoration workshop.
 
 **Background :** This talk is based on [Chapter 7]({{ site.baseurl}}/manual/chap07) of the design manual.  
 <br>
@@ -326,9 +326,10 @@ Friday, Aug 14: 9:00 AM - 1:00 PM  (Mountain Time)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/N5EauePzYqw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
 
 </div>
+ Video will be available after the workshop
       </div>
     </div>
-    will be available after the workshop
+   
   </div>
 
   <div class="column">
@@ -338,10 +339,10 @@ Friday, Aug 14: 9:00 AM - 1:00 PM  (Mountain Time)
       <div class="card-section">
         <h4>Slides</h4>
     <div align="center">
-        	<a href="" target="_blank"><img src="{{ site.baseurl }}/assets/images/workshops/2020/modules/00_A.png"></a>
+        	<a href="" target="_blank"><img src="{{ site.baseurl }}/assets/images/workshops/2020/modules/05_G.png"></a>
         	</div>
         
-         <i class="fa fa-file-pdf-o" aria-hidden="true"></i> <a href="" target="_blank">title - Slides</a>
+         <i class="fa fa-file-pdf-o" aria-hidden="true"></i> <a href="" target="_blank">Slides will be available after the workshop</a>
         
       </div>
     </div>
