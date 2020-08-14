@@ -67,9 +67,9 @@ Friday, Aug 14: 9:00 AM - 1:00 PM  (Mountain Time)
 --------
 ### B. Low-Tech Implementation Overview
 <a href="{{ site.baseurl }}/workshops/2020/SGI/#instruction-team"><img width="80"  class="float-left" src="{{ site.baseurl }}/assets/images/people/Maestas_round.png"></a>
-That little text intro on  [Jeremy Maestas]({{ site.baseurl }}/workshops/2020/SGI/#instruction-team) saying what he says.. 
+[Jeremy Maestas]({{ site.baseurl }}/workshops/2020/SGI/#instruction-team) provides an overview of the implementation process-how to get things started.  
 
-**Background :** This talk is based on [Chapter 6]({{ site.baseurl}}/manual/chap06) of design manual.  
+**Background :** This talk is based on [Chapter 6]({{ site.baseurl}}/manual/chap06) of the design manual.  
 <br>
 
 <div class="row small-up-2 medium-up-2">
@@ -307,7 +307,7 @@ That little text intro on  [Jeremy Maestas]({{ site.baseurl }}/workshops/2020/SG
 
 ### G. Review & Synthesis
 <a href="{{ site.baseurl }}/workshops/2020/SGI/#instruction-team"><img width="80"  class="float-left" src="{{ site.baseurl }}/assets/images/people/Wheaton_round.png"></a>
-That little text intro on  [Joe Wheaton]({{ site.baseurl }}/workshops/2020/SGI/#instruction-team) saying what he says.. 
+[Joe Wheaton]({{ site.baseurl }}/workshops/2020/SGI/#instruction-team) synthesizes the implementation process of low-tech process-based restoration.
 
 **Background :** This talk is based on [Chapter 7]({{ site.baseurl}}/manual/chap07) of the design manual.  
 <br>
@@ -328,6 +328,7 @@ That little text intro on  [Joe Wheaton]({{ site.baseurl }}/workshops/2020/SGI/#
 </div>
       </div>
     </div>
+    will be available after the workshop
   </div>
 
   <div class="column">
