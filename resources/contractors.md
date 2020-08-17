@@ -34,12 +34,15 @@ Over time, more companies and firms will hopefully also start filling this niche
     Colorado
     <a href="http://www.ecometricscolorado.com/"><img src="{{ site.baseurl }}/assets/images/logos/EcoMetrics.png"></a>
   </div>
-    
+
  <div class="column column-block">
     California
     <a href="https://www.symbioticrestoration.com/beaver-dam-analogs"><img src="{{ site.baseurl }}/assets/images/logos/symbiotic.png"></a>
   </div>
-  
+<div class="column column-block">
+New Mexico
+    <a href="https://www.watershedartisans.com/"><img src="{{ site.baseurl }}/assets/images/logos/watershed_artisans.png"></a>
+  </div>
 </div>
 
 ## Need Help with Nuisance Beaver Mitigation & Planning?
@@ -65,9 +68,7 @@ The nuisance beaver mitigation (so-called 'living with beaver' strategies) are s
   <div class="column column-block">
     <a href="https://oaec.org/our-work/projects-and-partnerships/water-institute/"><img src="{{ site.baseurl }}/assets/images/logos/beaver-sticker-final.png"></a>
   </div>
-  <div class="column column-block">
-    <a href="https://www.watershedartisans.com/"><img src="{{ site.baseurl }}/assets/images/logos/watershed_artisans.png"></a>
-  </div>
+  
     <div class="column column-block">
     <a href="http://www.beaverstatewildlifesolutions.com/"><img src="{{ site.baseurl }}/assets/images/logos/beaver_state_wildlife_solutions.jpg"></a>
   </div>
