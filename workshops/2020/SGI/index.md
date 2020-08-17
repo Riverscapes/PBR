@@ -70,6 +70,7 @@ Registration was free, but is now **closed**.  Participation was limited to 1000
 
 ------
 ## Course Materials
+<i class="fa fa-twitter" aria-hidden="true"></i> <a href="https://twitter.com/intent/tweet?text=https%3A//lowtechpbr.restoration.usu.edu/workshops/2020/SGI/%23course-material">Share on Twitter</a>
 
 ### Slides & Handouts
 These will be updated and posted immediately prior to each virtual workshop module.
