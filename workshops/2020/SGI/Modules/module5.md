@@ -329,7 +329,7 @@ Friday, Aug 14: 9:00 AM - 1:00 PM  (Mountain Time)
  Video will be available after the workshop
       </div>
     </div>
-   
+
   </div>
 
   <div class="column">
@@ -339,10 +339,10 @@ Friday, Aug 14: 9:00 AM - 1:00 PM  (Mountain Time)
       <div class="card-section">
         <h4>Slides</h4>
     <div align="center">
-        	<a href="" target="_blank"><img src="{{ site.baseurl }}/assets/images/workshops/2020/modules/05_G.png"></a>
+        	<a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2020/SGI/Materials/Module5/05_G_Synthesis.pdf" target="_blank"><img src="{{ site.baseurl }}/assets/images/workshops/2020/modules/05_G.png"></a>
         	</div>
         
-         <i class="fa fa-file-pdf-o" aria-hidden="true"></i> <a href="" target="_blank">Slides will be available after the workshop</a>
+         <i class="fa fa-file-pdf-o" aria-hidden="true"></i> <a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2020/SGI/Materials/Module5/05_G_Synthesis.pdf" target="_blank">LTPBR Synthesis - Slides</a>
         
       </div>
     </div>
