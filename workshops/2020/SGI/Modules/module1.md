@@ -251,7 +251,7 @@ To kick off,  [Jeremy Maestas]({{ site.baseurl }}/workshops/2020/SGI/#instructio
   </div>
 </div>
 
-------	
+------
 #### Panel Discussion & Quiz
 
 
@@ -507,6 +507,13 @@ In this lecture,  [Jeremy Maestas]({{ site.baseurl }}/workshops/2020/SGI/#instru
 
   </div>
 </div>
+
+------
+
+#### Panel Discussion 
+
+
+<i class="fa fa-youtube-play" aria-hidden="true"></i> <a href="https://youtu.be/ArJ2SuiCyyo" target="_blank">Module 1 Panel Discussion 3</a> 
 
 --------
 
