@@ -251,10 +251,12 @@ To kick off,  [Jeremy Maestas]({{ site.baseurl }}/workshops/2020/SGI/#instructio
   </div>
 </div>
 
-
+------	
 #### Panel Discussion & Quiz
-<div align="center">
 
+
+<i class="fa fa-youtube-play" aria-hidden="true"></i> <a href="https://youtu.be/rGe5W8-PwlM" target="_blank">Module 1 Panel Discussion 1</a> 
+<div align="center">
 
 <a class=" hollow button" href="{{ site.baeurl }}/resources/Topics/01_Overview/sem.html"><img src="{{ site.baseurl }}/assets/images/diagrams/presentation.png"> Go to take the → <br> <b>Stream/Riverscapes Evolution Model Quiz</b>. </a>
 </div>
@@ -452,6 +454,13 @@ In this lecture,  [Jeremy Maestas]({{ site.baseurl }}/workshops/2020/SGI/#instru
 
   </div>
 </div>
+
+
+------
+#### Panel Discussion 
+
+
+<i class="fa fa-youtube-play" aria-hidden="true"></i> <a href="https://youtu.be/Zd8jjMyIMsY" target="_blank">Module 1 Panel Discussion 2</a> 
 
 --------
 
