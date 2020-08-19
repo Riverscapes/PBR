@@ -345,6 +345,12 @@ Hear the Birch Creek Beaver story directly from Jay. This video is from his pres
   </div>
 </div>
 
+
+-----
+
+#### Panel Discussion 
+<i class="fa fa-youtube-play" aria-hidden="true"></i> <a href="https://youtu.be/J483jYMJfEo" target="_blank">Module 2 Panel Discussion 2</a> 
+
 --------
 
 ### F. Where Science is at: Ongoing & Outstanding Science
@@ -391,6 +397,11 @@ Hear the Birch Creek Beaver story directly from Jay. This video is from his pres
   </div>
 </div>
 
+
+-----
+
+#### Panel Discussion 
+<i class="fa fa-youtube-play" aria-hidden="true"></i> <a href="https://youtu.be/kNSerpAPja8" target="_blank">Module 2 Panel Discussion 3</a> 
 
 --------
 
