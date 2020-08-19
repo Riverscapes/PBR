@@ -247,6 +247,14 @@ Hear the Birch Creek Beaver story directly from Jay. This video is from his pres
 
 --------
 
+
+#### Panel Discussion 
+
+
+<i class="fa fa-youtube-play" aria-hidden="true"></i> <a href="https://youtu.be/kNSerpAPja8" target="_blank">Module 2 Panel Discussion 1</a> 
+
+--------
+
 ### D. Post-Assisted Log Structures Case Study: Asotin Creek
 
 <a href="{{ site.baseurl }}/workshops/2020/SGI/#instruction-team"><img width="80"  class="float-left" src="{{ site.baseurl }}/assets/images/people/bennett-round.png"></a>
