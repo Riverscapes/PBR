@@ -177,7 +177,10 @@ The valley bottom is the entry point to understanding a riverscape. Fortunately,
 
 
   </div>
+-----
 
+#### Panel Discussion 
+<i class="fa fa-youtube-play" aria-hidden="true"></i> <a href="https://youtu.be/cZm6eH4JnsU" target="_blank">Module 3 Panel Discussion 1</a> 
 
 
 --------
@@ -224,8 +227,10 @@ The valley bottom is the entry point to understanding a riverscape. Fortunately,
   </div>
 </div>
 
+------
 
-
+#### Panel Discussion 
+<i class="fa fa-youtube-play" aria-hidden="true"></i> <a href="https://youtu.be/FYInuGGBIgw" target="_blank">Module 3 Panel Discussion 2</a> 
 
 --------
 
@@ -268,8 +273,8 @@ The valley bottom is the entry point to understanding a riverscape. Fortunately,
 ​        
 ​         <i class="fa fa-file-pdf-o" aria-hidden="true"></i> <a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2020/SGI/Materials/Module3/03_E_RiskandCondition.pdf" target="_blank">Assessing Risk & Condition - Slides</a>
 ​        
-      </div>
-    </div>
+​      </div>
+​    </div>
   </div>
 </div>
 </div>
@@ -303,6 +308,13 @@ In many riverscapes, beaver dams can have a profound impact on riverscape condit
     </div>
   </div>
   </div>
+
+
+
+------
+
+#### Panel Discussion 
+<i class="fa fa-youtube-play" aria-hidden="true"></i> <a href="https://youtu.be/8ZHoAzTqDLI" target="_blank">Module 3 Panel Discussion 3</a> 
 
 --------
 
