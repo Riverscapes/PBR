@@ -608,7 +608,8 @@ In this section,  [Nick Bouwes]({{ site.baseurl }}/workshops/2020/SGI/#instructi
   </div>
 </div>
 
---------
+------
+
 
 ### M. Why Partner with Beavers
 
@@ -652,6 +653,13 @@ Will be uploaded  after workshop.
 
   </div>
 </div>
+
+------
+
+#### Panel Discussion 
+
+
+<i class="fa fa-youtube-play" aria-hidden="true"></i> <a href="https://youtu.be/nxDTnL56Ass" target="_blank">Module 1 Panel Discussion 4</a> 
 
 --------
 
