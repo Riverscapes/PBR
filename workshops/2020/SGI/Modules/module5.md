@@ -156,7 +156,10 @@ Friday, Aug 14: 9:00 AM - 1:00 PM  (Mountain Time)
   </div>
 </div>
 
+--------
 
+#### Panel Discussion 
+<i class="fa fa-youtube-play" aria-hidden="true"></i> <a href="https://youtu.be/oBSXYdFwW2k" target="_blank">Module 5 Panel Discussion 1</a> 
 
 
 --------
@@ -205,7 +208,10 @@ Friday, Aug 14: 9:00 AM - 1:00 PM  (Mountain Time)
   </div>
 </div>
 
+--------
 
+#### Panel Discussion 
+<i class="fa fa-youtube-play" aria-hidden="true"></i> <a href="https://youtu.be/5krx5w6mkkM" target="_blank">Module 5 Panel Discussion 2</a> 
 
 
 --------
@@ -253,7 +259,10 @@ Friday, Aug 14: 9:00 AM - 1:00 PM  (Mountain Time)
   </div>
 </div>
 
+--------
 
+#### Panel Discussion 
+<i class="fa fa-youtube-play" aria-hidden="true"></i> <a href="https://youtu.be/Y5p7JYBWoPw" target="_blank">Module 5 Panel Discussion 3</a> 
 
 
 --------
@@ -326,7 +335,7 @@ Friday, Aug 14: 9:00 AM - 1:00 PM  (Mountain Time)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ngniE2Tgtdk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
 
 </div>
- 
+
       </div>
     </div>
 
