@@ -135,6 +135,12 @@ Thursday, Aug 13: 10:00 AM - 3:00 PM  (Mountain Time)
 
 --------
 
+#### Panel Discussion 
+<i class="fa fa-youtube-play" aria-hidden="true"></i> <a href="https://youtu.be/LBKzHw3sTgQ" target="_blank">Module 4 Panel Discussion 1</a> 
+
+
+--------
+
 ### C. Leading Design With Recovery Potential
 <a href="{{ site.baseurl }}/workshops/2020/SGI/#instruction-team"><img width="80"  class="float-left" src="{{ site.baseurl }}/assets/images/people/Wheaton_round.png"></a>
 [Joe Wheaton]({{ site.baseurl }}/workshops/2020/SGI/#instruction-team) details how to use the valley bottom mapping to figure out the recovery potential of low-tech restoration projects. 
@@ -224,7 +230,10 @@ Thursday, Aug 13: 10:00 AM - 3:00 PM  (Mountain Time)
   </div>
 </div>
 
+--------
 
+#### Panel Discussion 
+<i class="fa fa-youtube-play" aria-hidden="true"></i> <a href="https://youtu.be/MAaaZF6w9jE" target="_blank">Module 4 Panel Discussion 2</a> 
 
 
 --------
@@ -294,7 +303,6 @@ Thursday, Aug 13: 10:00 AM - 3:00 PM  (Mountain Time)
     </div>
   </div>
   </div>
-
 
 --------
 
