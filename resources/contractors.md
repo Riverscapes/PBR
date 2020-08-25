@@ -68,9 +68,12 @@ The nuisance beaver mitigation (so-called 'living with beaver' strategies) are s
   <div class="column column-block">
     <a href="https://oaec.org/our-work/projects-and-partnerships/water-institute/"><img src="{{ site.baseurl }}/assets/images/logos/beaver-sticker-final.png"></a>
   </div>
-  
+
     <div class="column column-block">
     <a href="http://www.beaverstatewildlifesolutions.com/"><img src="{{ site.baseurl }}/assets/images/logos/beaver_state_wildlife_solutions.jpg"></a>
+  </div>
+  <div class="column column-block">
+    <a href="https://beaver.restoration.usu.edu/"><img src="{{ site.baseurl }}/assets/images/logos/BERC_logo_bluetext.png"></a>
   </div>
 </div>
 
