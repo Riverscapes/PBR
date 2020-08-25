@@ -193,9 +193,29 @@ These talks are elaborated in [Chapter 1]({{ site.baseurl}}/manual/chap02) and [
 </div>
 **Resources:**
 <br>
-<a href="http://isemp.org/projects/beaver-restoration/" target="_blank">ISEMP Bridge Creek page</a>
+<ul class="accordion" data-accordion data-allow-all-closed="true">
+  <li class="accordion-item" data-accordion-item>
+    <!-- Accordion tab title -->
+    	<a href="#" class="accordion-title">Bridge Creek Resources</a>
+      	<div class="accordion-content" data-tab-content>    		
+   <a href="http://isemp.org/projects/beaver-restoration/" target="_blank">ISEMP Bridge Creek page</a>
 
-- <i class="fa fa-file-pdf-o" aria-hidden="true"></i> Silverman NL, Allred BW, Donnelly JP, Chapman TB, Maestas JD, Wheaton J, White J and Naugle DE. 2018. [Low-tech riparian and wet meadow restoration increases vegetation productivity and resilience across semi-arid rangelands](https://www.researchgate.net/publication/326869390_Low-tech_riparian_and_wet_meadow_restoration_increases_vegetation_productivity_and_resilience_across_semi-arid_rangelands). Restoration Ecology. DOI: [10.1111/rec.12869](https://doi.org/10.1111/rec.12869).
+- <i class="fa fa-file-pdf-o" aria-hidden="true"></i> 
+- 
+- Silverman NL, Allred BW, Donnelly JP, Chapman TB, Maestas JD, Wheaton J, White J and Naugle DE. 2018. [Low-tech riparian and wet meadow restoration increases vegetation productivity and resilience across semi-arid rangelands](https://www.researchgate.net/publication/326869390_Low-tech_riparian_and_wet_meadow_restoration_increases_vegetation_productivity_and_resilience_across_semi-arid_rangelands). Restoration Ecology. DOI: [10.1111/rec.12869](https://doi.org/10.1111/rec.12869).
+- <i class="fa fa-file-pdf-o" aria-hidden="true"></i> Weber N, Bouwes N, Pollock M, Volk C,  Wheaton JM, Wathen G, and Jordan C. 2017. [Alteration of stream temperature by natural and artificial beaver dams](https://www.researchgate.net/publication/316995139_Alteration_of_stream_temperature_by_natural_and_artificial_beaver_dams). PLOS ONE. 12(5): e0176313. DOI: [10.1371/journal.pone.0176313](http://dx.doi.org/10.1371/journal.pone.0176313)
+-- <i class="fa fa-file-pdf-o" aria-hidden="true"></i> Bouwes N, Weber N, Jordan CE, Saunders WC, Tattam IA, Volk C, Wheaton JM and Pollock MM. 2016. [Ecosystem experiment reveals benefits of natural and simulated beaver dams to a threatened population of steelhead (Oncorhynchus mykiss)](http://www.nature.com/articles/srep28581). Scientific Reports. 6: 28581. DOI: [10.1038/srep28581](http://dx.doi.org/10.1038/srep28581).
+- <i class="fa fa-file-pdf-o" aria-hidden="true"></i> Bouwes N, Bennett S and Wheaton JM. 2016. [Adapting Adaptive Management for Testing the Effectiveness of Stream Restoration: An Intensively Monitored Watershed Example](https://www.researchgate.net/publication/289526568_Adapting_Adaptive_Management_for_Testing_the_Effectiveness_of_Stream_Restoration_An_Intensively_Monitored). Fisheries. 41: 2: pp. 84-91.  DOI: [10.1080/03632415.2015.1127806](http://dx.doi.org/10.1080/03632415.2015.1127806)
+- <i class="fa fa-file-pdf-o" aria-hidden="true"></i> Pollock, M., Beechie T , Wheaton JM, Jordan C,  Bouwes N, Weber N, and Volk C. 2014. [Using Beaver Dams  to Restore Incised Stream Ecosystems](https://www.researchgate.net/publication/261215514_Using_Beaver_Dams_to_Restore_Incised_Stream_Ecosystems). Bioscience. DOI: [10.1093/biosci/biu036](http://dx.doi.org/10.1093/biosci/biu036).
+- <i class="fa fa-file-pdf-o" aria-hidden="true"></i> Pollock M, Wheaton JM, Bouwes N and Jordan CE. 2012. [Working with Beaver to Restore Salmon Habitat in the Bridge Creek Intensively Monitored Watershed: Design Rationale and Hypotheses](https://www.researchgate.net/publication/281113937_Working_with_Beaver_to_Restore_Salmon_Habitat). NOAA Technical Memorandum, NOAA Northwest Fisheries Science Center, Seattle, WA, 108 pp. 
+   
+        </div>
+  </li>
+</ul>
+
+<a href="http://isemp.org/projects/beaver-restoration/" target="_blank">ISEMP Bridge Creek page</a>
+<i class="fa fa-file-pdf-o" aria-hidden="true"></i> - 
+- Silverman NL, Allred BW, Donnelly JP, Chapman TB, Maestas JD, Wheaton J, White J and Naugle DE. 2018. [Low-tech riparian and wet meadow restoration increases vegetation productivity and resilience across semi-arid rangelands](https://www.researchgate.net/publication/326869390_Low-tech_riparian_and_wet_meadow_restoration_increases_vegetation_productivity_and_resilience_across_semi-arid_rangelands). Restoration Ecology. DOI: [10.1111/rec.12869](https://doi.org/10.1111/rec.12869).
 - <i class="fa fa-file-pdf-o" aria-hidden="true"></i> Weber N, Bouwes N, Pollock M, Volk C,  Wheaton JM, Wathen G, and Jordan C. 2017. [Alteration of stream temperature by natural and artificial beaver dams](https://www.researchgate.net/publication/316995139_Alteration_of_stream_temperature_by_natural_and_artificial_beaver_dams). PLOS ONE. 12(5): e0176313. DOI: [10.1371/journal.pone.0176313](http://dx.doi.org/10.1371/journal.pone.0176313)
 -- <i class="fa fa-file-pdf-o" aria-hidden="true"></i> Bouwes N, Weber N, Jordan CE, Saunders WC, Tattam IA, Volk C, Wheaton JM and Pollock MM. 2016. [Ecosystem experiment reveals benefits of natural and simulated beaver dams to a threatened population of steelhead (Oncorhynchus mykiss)](http://www.nature.com/articles/srep28581). Scientific Reports. 6: 28581. DOI: [10.1038/srep28581](http://dx.doi.org/10.1038/srep28581).
 - <i class="fa fa-file-pdf-o" aria-hidden="true"></i> Bouwes N, Bennett S and Wheaton JM. 2016. [Adapting Adaptive Management for Testing the Effectiveness of Stream Restoration: An Intensively Monitored Watershed Example](https://www.researchgate.net/publication/289526568_Adapting_Adaptive_Management_for_Testing_the_Effectiveness_of_Stream_Restoration_An_Intensively_Monitored). Fisheries. 41: 2: pp. 84-91.  DOI: [10.1080/03632415.2015.1127806](http://dx.doi.org/10.1080/03632415.2015.1127806)
@@ -252,6 +272,63 @@ Hear the Birch Creek Beaver story directly from Jay. This video is from his pres
 
 
 <i class="fa fa-youtube-play" aria-hidden="true"></i> <a href="https://youtu.be/kNSerpAPja8" target="_blank">Module 2 Panel Discussion 1</a> 
+
+#### Questions to the Panel
+
+<ul class="accordion" data-accordion data-allow-all-closed="true">
+  <li class="accordion-item" data-accordion-item>
+    <!-- Accordion tab title -->
+    	<a href="#" class="accordion-title">Panel Q & A for Module 2 Panel Discussion 1</a>
+      	<div class="accordion-content" data-tab-content>    		
+    <strong>Question:</strong> What is the watershed size of bridge creek/ d you find a limit to how large a watershed this is effective without blowing out (obviously relates to hydrology etc)...but any rules of thumb?
+     <p><strong>Answer:</strong> (Joe Wheaton) It is less a question of watershed size, and more a question of stream power. This is what we do in the BRAT (Beaver Restoration Assessment Tool (sent privately by BZ)</p>
+		     
+	<strong>Question:</strong> Can you provide references for Beaver relocation facilities/people. Sherri Tippe was our CO lead for this but is now more retired
+    <p><strong>Answer:</strong> (Mark) In CO we have no organized/centralized beaver relocation program.  Some individual trappers do it on a case-by-case basis.  In my experience, it is usually prohibitively difficult to permit this activity.
+    </p>
+    
+    <strong>Question:</strong> question goes here
+    <p><strong>Answer:</strong> (author) answer goes here
+    </p>
+    
+    <strong>Question:</strong> question goes here
+    <p><strong>Answer:</strong> (author) answer goes here
+    </p>
+    
+    <strong>Question:</strong> question goes here
+    <p><strong>Answer:</strong> (author) answer goes here
+    </p>
+    
+    <strong>Question:</strong> question goes here
+    <p><strong>Answer:</strong> (author) answer goes here
+    </p>
+    
+    <strong>Question:</strong> question goes here
+    <p><strong>Answer:</strong> (author) answer goes here
+    </p>
+    
+    <strong>Question:</strong> question goes here
+    <p><strong>Answer:</strong> (author) answer goes here
+    </p>
+    
+    <strong>Question:</strong> question goes here
+    <p><strong>Answer:</strong> (author) answer goes here
+    </p>
+    
+    <strong>Question:</strong> question goes here
+    <p><strong>Answer:</strong> (author) answer goes here
+    </p>
+    
+    <strong>Question:</strong> question goes here
+    <p><strong>Answer:</strong> (author) answer goes here
+    </p>
+    
+    <strong>Question:</strong> question goes here
+    <p><strong>Answer:</strong> (author) answer goes here
+    </p>
+        </div>
+  </li>
+</ul>
 
 --------
 
@@ -350,6 +427,21 @@ Hear the Birch Creek Beaver story directly from Jay. This video is from his pres
 
 #### Panel Discussion 
 <i class="fa fa-youtube-play" aria-hidden="true"></i> <a href="https://youtu.be/J483jYMJfEo" target="_blank">Module 2 Panel Discussion 2</a> 
+
+<ul class="accordion" data-accordion data-allow-all-closed="true">
+  <li class="accordion-item" data-accordion-item>
+    <!-- Accordion tab title -->
+    	<a href="#" class="accordion-title">Panel Q & A for Module x Panel Discussion x</a>
+      	<div class="accordion-content" data-tab-content>    		
+    <strong>Question:</strong> question goes here
+     <p><strong>Answer:</strong> (author) answer goes here</p>
+		     
+	<strong>Question:</strong> question goes here
+    <p><strong>Answer:</strong> (author) answer goes here
+    </p>
+        </div>
+  </li>
+</ul>
 
 --------
 
