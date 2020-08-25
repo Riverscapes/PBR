@@ -281,30 +281,35 @@ Hear the Birch Creek Beaver story directly from Jay. This video is from his pres
     	<a href="#" class="accordion-title">Panel Q & A for Module 2 Panel Discussion 1</a>
       	<div class="accordion-content" data-tab-content>    		
     <strong>Question:</strong> What is the watershed size of bridge creek/ d you find a limit to how large a watershed this is effective without blowing out (obviously relates to hydrology etc)...but any rules of thumb?
-     <p><strong>Answer:</strong> (Joe Wheaton) It is less a question of watershed size, and more a question of stream power. This is what we do in the BRAT (Beaver Restoration Assessment Tool (sent privately by BZ)</p>
+     <p><strong>Answer:</strong> (Joe Wheaton) It is less a question of watershed size, and more a question of stream power. This is what we do in the <a href="https://brat.riverscapes.xyz/" target="_blank">BRAT (Beaver Restoration Assessment Tool).</a></p>
 		     
-	<strong>Question:</strong> Can you provide references for Beaver relocation facilities/people. Sherri Tippe was our CO lead for this but is now more retired
+	<strong>Question:</strong> Can you provide references for Beaver relocation facilities/people. Sherri Tippe was our CO lead for this but is now more retired.
     <p><strong>Answer:</strong> (Mark) In CO we have no organized/centralized beaver relocation program.  Some individual trappers do it on a case-by-case basis.  In my experience, it is usually prohibitively difficult to permit this activity.
+    (Joe) It is different in every state.  We update LTPBR contractors & groups that can help with beaver relocation on the <a href="https://lowtechpbr.restoration.usu.edu/resources/contractors" target="_blank">LTPBR Contractor's Page</a>.
     </p>
     
-    <strong>Question:</strong> question goes here
-    <p><strong>Answer:</strong> (author) answer goes here
+    <strong>Question:</strong> These projects are large wide open sites with minimal infrastructure. Are BDA's appropriate in urban areas with no beavers? Beavers would never build upon structures so function of BDA's would be short lived without continued maintenance...should we still install them?
+    <p><strong>Answer:</strong> (Nick Bouwes) BDAs are great way to test some of the effects of beaver without the commitment of adding beaver. But they are likely to need maintenance until their goals are met (e.g. floodplain reconnection, channel aggradation).
+
     </p>
     
-    <strong>Question:</strong> question goes here
-    <p><strong>Answer:</strong> (author) answer goes here
+    <strong>Question:</strong>Once the aggredation hits or approaches the top of the BDA, can you build additional BDAs at the new level? 
+    <p><strong>Answer:</strong> (Steve Bennett)  Yes, you can and we have built on existing BDAs when they fill with sediment
     </p>
     
-    <strong>Question:</strong> question goes here
-    <p><strong>Answer:</strong> (author) answer goes here
+    <strong>Question:</strong> When you look at inundation before/after from aerial images are you using software to map those areas or hand drawing the polygons?
+    <p><strong>Answer:</strong> (Nick Bouwes) We drew polygons by hand
+
     </p>
     
-    <strong>Question:</strong> question goes here
-    <p><strong>Answer:</strong> (author) answer goes here
+    <strong>Question:</strong> In the Bridge Creek Case study, what was the stream slope pre treatment?
+    <p><strong>Answer:</strong> (Nick Bouwes) Bridge was 1-3% gradient. 
+
     </p>
     
-    <strong>Question:</strong> question goes here
-    <p><strong>Answer:</strong> (author) answer goes here
+    <strong>Question:</strong> What is a passive instream attenae?
+    <p><strong>Answer:</strong> (Steve Bennett) We use Passive Integrated Transponder tags (PIT tags) to tag fish - it has a 13 digit unique code. When a tagged fish swims over an antenna a data logger on shore records the code so we can tell if a fish enters or leaves the stream or reach. You can log on to <a href="https://ptagis.org/" target="_blank">PTAGIS.org</a> and see all 50 million PIT tags used in the Columbia River basin since the late 1980s.
+
     </p>
     
     <strong>Question:</strong> question goes here
