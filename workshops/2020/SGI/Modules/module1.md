@@ -681,8 +681,19 @@ In this section,  [Nick Bouwes]({{ site.baseurl }}/workshops/2020/SGI/#instructi
 	<strong>Question:</strong> Can we just mimic beaver dam activity instead of having to have the beaver do it?
 
     <p><strong>Answer:</strong> 
-   (Mark Beardsley) You can mimic beaver dam activity and probably get temporary benefits, but if you don’t  promote the natural processes it won’t be sustainable and you can’t expect long-term recovery.
-    </p>
+   (Mark Beardsley) You can mimic beaver dam activity and probably get temporary benefits, but if you don’t  promote the natural processes it won’t be sustainable and you can’t expect long-term recovery. </p>
+   
+   <strong>Question:</strong> What sort of resources are available for mitigating beaver dam activity?
+   
+   <p><strong>Answer:</strong> 
+   (Mark Beardsley) Lots! Start here:  <a href="https://www.beaverinstitute.org" target="_blank">www.beaverinstitute.org</a>
+</p>
+    
+   <strong>Question:</strong> How do we address concerns related to flooding roads or culvert blockage?
+   
+   <p><strong>Answer:</strong> 
+   (Mark Beardsley) Start here:  <a href="https://www.beaverinstitute.org" target="_blank">www.beaverinstitute.org</a>
+</p>
         </div>
   </li>
 </ul>
