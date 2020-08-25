@@ -261,6 +261,7 @@ To kick off,  [Jeremy Maestas]({{ site.baseurl }}/workshops/2020/SGI/#instructio
 <a class=" hollow button" href="{{ site.baeurl }}/resources/Topics/01_Overview/sem.html"><img src="{{ site.baseurl }}/assets/images/diagrams/presentation.png"> Go to take the → <br> <b>Stream/Riverscapes Evolution Model Quiz</b>. </a>
 </div>
 
+
 --------
 
 ### F. What You Came For - Your First BDA
@@ -462,6 +463,8 @@ In this lecture,  [Jeremy Maestas]({{ site.baseurl }}/workshops/2020/SGI/#instru
 
 <i class="fa fa-youtube-play" aria-hidden="true"></i> <a href="https://youtu.be/Zd8jjMyIMsY" target="_blank">Module 1 Panel Discussion 2</a> 
 
+
+
 --------
 
 ### J. Principles
@@ -659,6 +662,31 @@ In this section,  [Nick Bouwes]({{ site.baseurl }}/workshops/2020/SGI/#instructi
 
 
 <i class="fa fa-youtube-play" aria-hidden="true"></i> <a href="https://youtu.be/nxDTnL56Ass" target="_blank">Module 1 Panel Discussion 4</a> 
+
+#### Questions to the Panel
+
+<ul class="accordion" data-accordion data-allow-all-closed="true">
+  <li class="accordion-item" data-accordion-item>
+    <!-- Accordion tab title -->
+    	<a href="#" class="accordion-title">Panel Q & A for Module 1 Panel Discussion 4</a>
+      	<div class="accordion-content" data-tab-content>
+      	
+      		
+      		
+     	<strong>Question:</strong> You seem to be suggesting that beaver were everywhere and are still appropriate everywhere. Where I come from, beaver are just not a socially acceptable option. So what should I do?
+     	<p><strong>Answer:</strong> (Mark Beardsley)
+     	
+     	Beaver did have a historically wide range across most of North America.  I do not think that means beavers are appropriate everywhere because many of the historical riverscapes occupied by beavers have been converted to land uses that are no longer compatible.  If beavers are socially unacceptable, perhaps try to understand why and see if the reason is something you can work with.  I would definitely not recommend forcing beaver restoration on people who don’t want it, but if it is only perception, maybe education is a good approach.</p>
+		     
+	<strong>Question:</strong> Can we just mimic beaver dam activity instead of having to have the beaver do it?
+
+    <p><strong>Answer:</strong> 
+   (Mark Beardsley) You can mimic beaver dam activity and probably get temporary benefits, but if you don’t  promote the natural processes it won’t be sustainable and you can’t expect long-term recovery.
+    </p>
+        </div>
+  </li>
+</ul>
+
 
 --------
 
