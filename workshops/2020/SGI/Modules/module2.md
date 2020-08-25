@@ -208,7 +208,7 @@ These talks are elaborated in [Chapter 1]({{ site.baseurl}}/manual/chap02) and [
 - <i class="fa fa-file-pdf-o" aria-hidden="true"></i> Bouwes N, Bennett S and Wheaton JM. 2016. [Adapting Adaptive Management for Testing the Effectiveness of Stream Restoration: An Intensively Monitored Watershed Example](https://www.researchgate.net/publication/289526568_Adapting_Adaptive_Management_for_Testing_the_Effectiveness_of_Stream_Restoration_An_Intensively_Monitored). Fisheries. 41: 2: pp. 84-91.  DOI: [10.1080/03632415.2015.1127806](http://dx.doi.org/10.1080/03632415.2015.1127806)
 - <i class="fa fa-file-pdf-o" aria-hidden="true"></i> Pollock, M., Beechie T , Wheaton JM, Jordan C,  Bouwes N, Weber N, and Volk C. 2014. [Using Beaver Dams  to Restore Incised Stream Ecosystems](https://www.researchgate.net/publication/261215514_Using_Beaver_Dams_to_Restore_Incised_Stream_Ecosystems). Bioscience. DOI: [10.1093/biosci/biu036](http://dx.doi.org/10.1093/biosci/biu036).
 - <i class="fa fa-file-pdf-o" aria-hidden="true"></i> Pollock M, Wheaton JM, Bouwes N and Jordan CE. 2012. [Working with Beaver to Restore Salmon Habitat in the Bridge Creek Intensively Monitored Watershed: Design Rationale and Hypotheses](https://www.researchgate.net/publication/281113937_Working_with_Beaver_to_Restore_Salmon_Habitat). NOAA Technical Memorandum, NOAA Northwest Fisheries Science Center, Seattle, WA, 108 pp. 
-   
+  
         </div>
   </li>
 </ul>
@@ -282,52 +282,167 @@ Hear the Birch Creek Beaver story directly from Jay. This video is from his pres
       	<div class="accordion-content" data-tab-content>    		
     <strong>Question:</strong> What is the watershed size of bridge creek/ d you find a limit to how large a watershed this is effective without blowing out (obviously relates to hydrology etc)...but any rules of thumb?
      <p><strong>Answer:</strong> (Joe Wheaton) It is less a question of watershed size, and more a question of stream power. This is what we do in the <a href="https://brat.riverscapes.xyz/" target="_blank">BRAT (Beaver Restoration Assessment Tool).</a></p>
-		     
+
 	<strong>Question:</strong> Can you provide references for Beaver relocation facilities/people. Sherri Tippe was our CO lead for this but is now more retired.
-    <p><strong>Answer:</strong> (Mark) In CO we have no organized/centralized beaver relocation program.  Some individual trappers do it on a case-by-case basis.  In my experience, it is usually prohibitively difficult to permit this activity.
-    (Joe) It is different in every state.  We update LTPBR contractors & groups that can help with beaver relocation on the <a href="https://lowtechpbr.restoration.usu.edu/resources/contractors" target="_blank">LTPBR Contractor's Page</a>.
+	<p><strong>Answer:</strong> (Mark) In CO we have no organized/centralized beaver relocation program.  Some individual trappers do it on a case-by-case basis.  In my experience, it is usually prohibitively difficult to permit this activity.
+	(Joe) It is different in every state.  We update LTPBR contractors & groups that can help with beaver relocation on the <a href="https://lowtechpbr.restoration.usu.edu/resources/contractors" target="_blank">LTPBR Contractor's Page</a>.
+	</p>
+	
+	<strong>Question:</strong> These projects are large wide open sites with minimal infrastructure. Are BDA's appropriate in urban areas with no beavers? Beavers would never build upon structures so function of BDA's would be short lived without continued maintenance...should we still install them?
+	<p><strong>Answer:</strong> (Nick Bouwes) BDAs are great way to test some of the effects of beaver without the commitment of adding beaver. But they are likely to need maintenance until their goals are met (e.g. floodplain reconnection, channel aggradation).
+	
+	</p>
+	
+	<strong>Question:</strong> Once the aggredation hits or approaches the top of the BDA, can you build additional BDAs at the new level? 
+	<p><strong>Answer:</strong> (Steve Bennett)  Yes, you can and we have built on existing BDAs when they fill with sediment
+	</p>
+	
+	<strong>Question:</strong> When you look at inundation before/after from aerial images are you using software to map those areas or hand drawing the polygons?
+	<p><strong>Answer:</strong> (Nick Bouwes) We drew polygons by hand
+	
+	</p>
+	
+	<strong>Question:</strong> In the Bridge Creek Case study, what was the stream slope pre treatment?
+	<p><strong>Answer:</strong> (Nick Bouwes) Bridge was 1-3% gradient. 
+	
+	</p>
+	
+	<strong>Question:</strong> What is a passive instream attenae?
+	<p><strong>Answer:</strong> (Steve Bennett) We use Passive Integrated Transponder tags (PIT tags) to tag fish - it has a 13 digit unique code. When a tagged fish swims over an antenna a data logger on shore records the code so we can tell if a fish enters or leaves the stream or reach. You can log on to <a href="https://ptagis.org/" target="_blank">PTAGIS.org</a> and see all 50 million PIT tags used in the Columbia River basin since the late 1980s.
+	
+	</p>
+	
+	<strong>Question:</strong> What is the difference between upper owens and lower owens and difference in fish density?
+	<p><strong>Answer:</strong> (Nick Bouwes) The upper owens was a control reach, lower owens was the paired treatment reach.  We have far more beaver dams in lower, but upper owens also had a large beaver response as beaver spread out from our treatment reaches.  But upper owens dams blew out much more frequently than lower owens because of the lack of BDAs.  Densities were higher in lower owens that upper owens- on average increase of 50 fish/100m
+	
+	</p>
+	
+	<strong>Question:</strong> Did the folks in the town of Mitchell blame the flooding on the beavers and your project? What kind of outreach did you conduct before the project began?
+	<p><strong>Answer:</strong> (Nick Bouwes) From what I have heard, no. This was not the first time they have seen flooding events like this.
+	
+	</p>
+	
+	<strong>Question:</strong> Nick, what was the total budget for this project? We badly need such an IMW in California.
+	<p><strong>Answer:</strong> (Nick Bouwes) We likely spent about 300-400K per year.  But that is not to say this is how much an IMW costs.  We measure a lot of responses with the idea if we cannot detect a response with this much investment we are not going to ever see a response.  I believe there are several indicators that would be much cheaper to measure especially with remote sensing and drone imagery available these days.
+	
+	</p>
+	
+	<strong>Question:</strong> fish numbers went up post project...but didn't you seed the site with 100k tagged fish???  of course the numbers will go up!!!
+	<p><strong>Answer:</strong> (Nick Bouwes) Not sure I understand the question: we captured and tagged fish that were there, we did not add any fish.  We did this pre-restoration and post-restoration in both our treatment and control watersheds. 
+	
+	</p>
+	
+	<strong>Question:</strong> Do they provide data on tagged fish and temperature?
+	<p><strong>Answer:</strong> (Nick Bouwes) I do not know what “they” refers to.  Seeing your earlier question, maybe you mean the tags.  The tags are not archival tags.  They only provide an ID when stimulated by an antenna, which tells you when they are resighted.  The proportion of resighted and recaptured to undetected with the right analytical approaches provides information on abundance, survival and growth.
+
+	</p>
+
+    <strong>Question:</strong> So maybe stand alone structures that are larger could be passage barriers but when the number of structures are greater allowing them to work together the passage increases?!
+    <p><strong>Answer:</strong> (Nick) I think it is very difficult to build a structure by hand that will be a passage barrier.  That said, it is possible that when multiple structures step down the gradient of larger structures this could increase passage (if it is a problem).
+
+    </p>
+     
+    <strong>Question:</strong> What preys on beavers?
+    <p><strong>Answer:</strong> (Nick Bouwes) Cougars, bear, coyotes, wolves, and people.
+    </p>
+     
+    <strong>Question:</strong> So, does this data show that beaver activity might mitigate a flooding and drought liability, and convert the rainfall into a groundwater asset all at agricultural profit?  FEMA spends millions in Mitigation dollars, and they are currently looking to fund Nature-Based Projects that can document a high ROI (return on Investment); which is one of their moonshot goals.
+    <p><strong>Answer:</strong> (Nick Bouwes) Yes, we believe this data does provide evidence of resiliency to drought and flooding (Jeremy will show more on this).  As Joe showed yesterday, beaver complexes also provide resistance and resilience to fire.
+    </p>
+     
+    <strong>Question:</strong> For birch creek, did you reintroduce beavers after you built bdas or did they come on their own?  (11 were introduced pre-bdas but did not stay)
+    <p><strong>Answer:</strong> (Nick Bouwes) after we built bdas we introduced 5 in 2015, and 6 in 2016.  They built 140 dams in 3 years.
+
+    </p>
+     
+    <strong>Question:</strong> And these Nature-Based projects might  benefit fish populations that will get support of environmentalists and fishing industry alike? 
+    <p><strong>Answer:</strong> (Nick Bouwes) That is our hope.
+    </p>
+     
+    <strong>Question:</strong>  I missed which Birch creek in Idaho that you were working on? what region is that in? 
+    <p><strong>Answer:</strong> (Nick Bouwes) This is a tributary to Mink Creek, which is a trib to the Bear River, in SE ID.
+
+    </p>
+     
+    <strong>Question:</strong> When sizing the material for a structure do you look at maximum flows in the area? Rely on available materials?
+    <p><strong>Answer:</strong> (Nick Bouwes) We mostly rely on what is there for BDAs.  We might have to bring in wood for PALs. In low power systems you can get away without post, but in higher energy systems post can add a lot structural integrity.
+
+    </p>
+     
+    <strong>Question:</strong> What's the best way to measure pre/post monitoring on groundwater changes? Wells with PZs? Dug by hand or with a drill bit?
+    <p><strong>Answer:</strong> (Nick Bouwes)  Yes, we drilled wells with well drilling tool (large drill bit on a large tripod).  We installed multiple wells with PZs in transects perpendicular to the stream. 
+    </p>
+     
+    <strong>Question:</strong> What methods did you use to measure the water table depth?
+    <p><strong>Answer:</strong> (Nick Bouwes) we drilled wells with well drilling tool (large drill bit on a large tripod).  We installed multiple wells with piezometers (loggers),  in transects perpendicular to the stream. 
     </p>
     
-    <strong>Question:</strong> These projects are large wide open sites with minimal infrastructure. Are BDA's appropriate in urban areas with no beavers? Beavers would never build upon structures so function of BDA's would be short lived without continued maintenance...should we still install them?
-    <p><strong>Answer:</strong> (Nick Bouwes) BDAs are great way to test some of the effects of beaver without the commitment of adding beaver. But they are likely to need maintenance until their goals are met (e.g. floodplain reconnection, channel aggradation).
+    <strong>Question:</strong> Is there a rule of thumb on when to use BDAs and when to use large woody debris?
+    <p><strong>Answer:</strong> (Nick Bouwes) We will get into this more in upcoming talks, and some of this was covered yesterday.  In short, there is no rule of thumb, but trade-offs between effort (PALs are much faster to build), and the ability to immediately pond water (BDAs).  So depends on your goals and time-frame.
 
     </p>
     
-    <strong>Question:</strong>Once the aggredation hits or approaches the top of the BDA, can you build additional BDAs at the new level? 
-    <p><strong>Answer:</strong> (Steve Bennett)  Yes, you can and we have built on existing BDAs when they fill with sediment
-    </p>
-    
-    <strong>Question:</strong> When you look at inundation before/after from aerial images are you using software to map those areas or hand drawing the polygons?
-    <p><strong>Answer:</strong> (Nick Bouwes) We drew polygons by hand
+    <strong>Question:</strong>I've heard a lot of conflicting evidence about how beaver dams affect water temperature. I'm curious if you know whether the beaver ponds created in Bridge Creek were already forested/shaded or if many of them were exposed to a lot of light. Did you notice how those conditions affected ponded water temperature? 
+    <p><strong>Answer:</strong> (author) The responses are equivocal and will depend on the system.  There was not a ton of shade in Bridge Creek, but as willow have been increasing, shade has increased. No doubt that the more shade the less energy and less that the stream will warm up.  But the hyporheic exchange is factor that is often not taken into account in how beaver ponds can cool streams.
 
     </p>
     
-    <strong>Question:</strong> In the Bridge Creek Case study, what was the stream slope pre treatment?
-    <p><strong>Answer:</strong> (Nick Bouwes) Bridge was 1-3% gradient. 
+    <strong>Question:</strong> A beaver biology question - maybe better for yesterday but, Can someone talk about how beaver expand range?  How far will they go?  How big are barriers such as roads?  How about using estuaries, bays and coast lines to enter new watersheds?
+    <p><strong>Answer:</strong> (author) answer goes here
+    </p>
+    
+    <strong>Question:</strong> question goes here
+    <p><strong>Answer:</strong> (Nick Bouwes) They can travel great distances.  Some work by the Methow Beaver Project have documented PIT tag beaver detected at PIT antenna 300 miles away.  Beaver moving 10-20 miles is probably pretty common.  I have seen a lot of road kill beaver.  But if the habitat is good they might not move at all.  Beaver use estuaries quite a bit.  I am not sure how much these environments lead to dispersal but would not surprise me all that they use them extensively. 
 
     </p>
     
-    <strong>Question:</strong> What is a passive instream attenae?
-    <p><strong>Answer:</strong> (Steve Bennett) We use Passive Integrated Transponder tags (PIT tags) to tag fish - it has a 13 digit unique code. When a tagged fish swims over an antenna a data logger on shore records the code so we can tell if a fish enters or leaves the stream or reach. You can log on to <a href="https://ptagis.org/" target="_blank">PTAGIS.org</a> and see all 50 million PIT tags used in the Columbia River basin since the late 1980s.
+    <strong>Question:</strong> What is the latest research on the relationship between beaver, beaver restoration and whirling disease? 
+    <p><strong>Answer:</strong> (Nick Bouwes) no evidence that they transmit whirling disease but something we are studying at the moment.  But fine sediments is where you find the tubifex worm which is the carrier so it likely contributes to establishment of whirling disease.  On the flip to this, in good habitat and healthy fish, fish can show little symptoms and survive the disease just fine. 
 
+    </p>
+    
+    <strong>Question:</strong> Amazing work. Have you dealt with multiple landowner situations like this?
+    <p><strong>Answer:</strong> (Nick Bouwes) We have dealt with some landowners and have request from ranchers to get beaver established on their property.  Generally they are quite supportive.  Beaver are an easier sell than a lot people think. 
+    </p>
+    
+    <strong>Question:</strong> Would you say that the monitoring of schemes nationally is much better present-day or is this still a challenge?
+    <p><strong>Answer:</strong> (Nick Bouwes)  I do think it is better present day, but I still think it is a challenge.  And the funding is often not for monitoring responses that we are really interested in (i.e. funding to evaluate the stability of structure, rather than the results of the structures).
+    </p>
+
+    
+    <strong>Question:</strong> For Birch Creek, you mentioned that you introduced several beavers following BDA construction, and then the creek went dry that first year. Did the introduced beavers persist through the time the creek was dry, or did you have to relocated another batch of beavers the following year?  Also, were you relocating beavers during the spring when flows were higher?
+    <p><strong>Answer:</strong> (Nick Bouwes) I should have clarified, so thanks for asking.  Higher in the watershed where the beaver were building ponds the flows are perennial.  It dries up lower in the system.  We relocated beaver in the late summer and fall.  The idea is that they starting dam building closer to winter when they start to cache food in ponds.  But I think you can relocate anytime outside winter if they have deepwater habitat
+
+    </p>
+    
+    <strong>Question:</strong> Was there a comparison of benthic habitat with/without treatment and implications/quantification for fishes/inverts? Or will we get to that later?
+    <p><strong>Answer:</strong> (Nick Bouwes) The benthic invertebrate community was different between ponded and free flowing reaches.  But we did not quantify differences in secondary production.  Substrate in free flowing reaches dominated by cobble.  In beaver ponds was mostly fines and gravel areas near the head of the pond, or when dams blow out. 
+    </p>
+    
+    <strong>Question:</strong> I imagine there will be water rights discussion at some point this week. Somehwhat related to that, I am curious about impacts to downstream water rights users and on the ground impacts. if mgmt occurs upstream, is it expected that an longer seasonal flows will occur downstream in areas that are mostly unmanaged?
+    <p><strong>Answer:</strong> (Nick Bouwes) we will get into this more.  But yes, we have to deal with concerns of water users downstream of beaver/bda complexes.  There is perception that if there is more water upstream then these complexes are “stealing” water from downstream users. But this water storage occurs during high flow events when irrigation is less important, and slowly releases and augments during the low flow periods. 
+
+    </p>
+    
+    <strong>Question:</strong> Do beaver dams restrict movement of non-native trout introduced for sport fishing, e.g., brook, brown, and rainbows?  Are there any studies documenting population impacts for non-native trout?
+    <p><strong>Answer:</strong> (Nick Bouwes) The paper by Lokteff et al. referenced in my talk looked at movement of native cutthroat, and non-native brook and brown trout.  Brooks tend to stay put in ponds, cuts move back and forth, and browns tend to be lazier and not often do not negotiate dams. 
     </p>
     
     <strong>Question:</strong> question goes here
     <p><strong>Answer:</strong> (author) answer goes here
     </p>
-    
     <strong>Question:</strong> question goes here
     <p><strong>Answer:</strong> (author) answer goes here
     </p>
-    
     <strong>Question:</strong> question goes here
     <p><strong>Answer:</strong> (author) answer goes here
     </p>
-    
     <strong>Question:</strong> question goes here
     <p><strong>Answer:</strong> (author) answer goes here
     </p>
-    
+    <strong>Question:</strong> question goes here
+    <p><strong>Answer:</strong> (author) answer goes here
+    </p>
     <strong>Question:</strong> question goes here
     <p><strong>Answer:</strong> (author) answer goes here
     </p>
@@ -440,11 +555,11 @@ Hear the Birch Creek Beaver story directly from Jay. This video is from his pres
       	<div class="accordion-content" data-tab-content>    		
     <strong>Question:</strong> question goes here
      <p><strong>Answer:</strong> (author) answer goes here</p>
-		     
+
 	<strong>Question:</strong> question goes here
-    <p><strong>Answer:</strong> (author) answer goes here
-    </p>
-        </div>
+	<p><strong>Answer:</strong> (author) answer goes here
+	</p>
+	    </div>
   </li>
 </ul>
 
