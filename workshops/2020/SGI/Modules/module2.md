@@ -198,29 +198,25 @@ These talks are elaborated in [Chapter 1]({{ site.baseurl}}/manual/chap02) and [
     <!-- Accordion tab title -->
     	<a href="#" class="accordion-title">Bridge Creek Resources</a>
       	<div class="accordion-content" data-tab-content>    		
-   <a href="http://isemp.org/projects/beaver-restoration/" target="_blank">ISEMP Bridge Creek page</a>
+   
 
-- <i class="fa fa-file-pdf-o" aria-hidden="true"></i> 
-- 
-- Silverman NL, Allred BW, Donnelly JP, Chapman TB, Maestas JD, Wheaton J, White J and Naugle DE. 2018. [Low-tech riparian and wet meadow restoration increases vegetation productivity and resilience across semi-arid rangelands](https://www.researchgate.net/publication/326869390_Low-tech_riparian_and_wet_meadow_restoration_increases_vegetation_productivity_and_resilience_across_semi-arid_rangelands). Restoration Ecology. DOI: [10.1111/rec.12869](https://doi.org/10.1111/rec.12869).
-- <i class="fa fa-file-pdf-o" aria-hidden="true"></i> Weber N, Bouwes N, Pollock M, Volk C,  Wheaton JM, Wathen G, and Jordan C. 2017. [Alteration of stream temperature by natural and artificial beaver dams](https://www.researchgate.net/publication/316995139_Alteration_of_stream_temperature_by_natural_and_artificial_beaver_dams). PLOS ONE. 12(5): e0176313. DOI: [10.1371/journal.pone.0176313](http://dx.doi.org/10.1371/journal.pone.0176313)
--- <i class="fa fa-file-pdf-o" aria-hidden="true"></i> Bouwes N, Weber N, Jordan CE, Saunders WC, Tattam IA, Volk C, Wheaton JM and Pollock MM. 2016. [Ecosystem experiment reveals benefits of natural and simulated beaver dams to a threatened population of steelhead (Oncorhynchus mykiss)](http://www.nature.com/articles/srep28581). Scientific Reports. 6: 28581. DOI: [10.1038/srep28581](http://dx.doi.org/10.1038/srep28581).
-- <i class="fa fa-file-pdf-o" aria-hidden="true"></i> Bouwes N, Bennett S and Wheaton JM. 2016. [Adapting Adaptive Management for Testing the Effectiveness of Stream Restoration: An Intensively Monitored Watershed Example](https://www.researchgate.net/publication/289526568_Adapting_Adaptive_Management_for_Testing_the_Effectiveness_of_Stream_Restoration_An_Intensively_Monitored). Fisheries. 41: 2: pp. 84-91.  DOI: [10.1080/03632415.2015.1127806](http://dx.doi.org/10.1080/03632415.2015.1127806)
-- <i class="fa fa-file-pdf-o" aria-hidden="true"></i> Pollock, M., Beechie T , Wheaton JM, Jordan C,  Bouwes N, Weber N, and Volk C. 2014. [Using Beaver Dams  to Restore Incised Stream Ecosystems](https://www.researchgate.net/publication/261215514_Using_Beaver_Dams_to_Restore_Incised_Stream_Ecosystems). Bioscience. DOI: [10.1093/biosci/biu036](http://dx.doi.org/10.1093/biosci/biu036).
-- <i class="fa fa-file-pdf-o" aria-hidden="true"></i> Pollock M, Wheaton JM, Bouwes N and Jordan CE. 2012. [Working with Beaver to Restore Salmon Habitat in the Bridge Creek Intensively Monitored Watershed: Design Rationale and Hypotheses](https://www.researchgate.net/publication/281113937_Working_with_Beaver_to_Restore_Salmon_Habitat). NOAA Technical Memorandum, NOAA Northwest Fisheries Science Center, Seattle, WA, 108 pp. 
-  
+<ul>
+<li><a href="http://isemp.org/projects/beaver-restoration/" target="_blank">ISEMP Bridge Creek Website</a></li>
+<br>
+<li><i class="fa fa-file-pdf-o" aria-hidden="true"></i> 
+ Silverman NL, Allred BW, Donnelly JP, Chapman TB, Maestas JD, Wheaton J, White J and Naugle DE. 2018. <a href="https://www.researchgate.net/publication/326869390_Low-tech_riparian_and_wet_meadow_restoration_increases_vegetation_productivity_and_resilience_across_semi-arid_rangelands">Low-tech riparian and wet meadow restoration increases vegetation productivity and resilience across semi-arid rangelands</a>. Restoration Ecology. DOI: <a href="https://doi.org/10.1111/rec.12869">10.1111/rec.12869.</a></li>
+ <a href=""></a>
+<li><i class="fa fa-file-pdf-o" aria-hidden="true"></i> Weber N, Bouwes N, Pollock M, Volk C,  Wheaton JM, Wathen G, and Jordan C. 2017. <a href="https://www.researchgate.net/publication/316995139_Alteration_of_stream_temperature_by_natural_and_artificial_beaver_dams">Alteration of stream temperature by natural and artificial beaver dams.</a> PLOS ONE. 12(5): e0176313. DOI:<a href="http://dx.doi.org/10.1371/journal.pone.0176313"> [10.1371/journal.pone.0176313]</a></li>
+<li><i class="fa fa-file-pdf-o" aria-hidden="true"></i> Bouwes N, Weber N, Jordan CE, Saunders WC, Tattam IA, Volk C, Wheaton JM and Pollock MM. 2016. <a href="http://www.nature.com/articles/srep28581"> Ecosystem experiment reveals benefits of natural and simulated beaver dams to a threatened population of steelhead (Oncorhynchus mykiss)</a>. Scientific Reports. 6: 28581. DOI: <a href="http://dx.doi.org/10.1038/srep28581">10.1038/srep28581]</a>).</li>
+<li><i class="fa fa-file-pdf-o" aria-hidden="true"></i> Bouwes N, Bennett S and Wheaton JM. 2016.  <a href="https://www.researchgate.net/publication/289526568_Adapting_Adaptive_Management_for_Testing_the_Effectiveness_of_Stream_Restoration_An_Intensively_Monitored"> Adapting Adaptive Management for Testing the Effectiveness of Stream Restoration: An Intensively Monitored Watershed Example</a>. Fisheries. 41: 2: pp. 84-91.  DOI:  <a href="http://dx.doi.org/10.1080/03632415.2015.1127806">10.1080/03632415.2015.1127806</a></li>
+<li><i class="fa fa-file-pdf-o" aria-hidden="true"></i> Pollock, M., Beechie T , Wheaton JM, Jordan C,  Bouwes N, Weber N, and Volk C. 2014.  <a href="https://www.researchgate.net/publication/261215514_Using_Beaver_Dams_to_Restore_Incised_Stream_Ecosystems">Using Beaver Dams  to Restore Incised Stream Ecosystems</a> Bioscience. DOI: <a href="http://dx.doi.org/10.1093/biosci/biu036">10.1093/biosci/biu036.</a> </li>
+<li><i class="fa fa-file-pdf-o" aria-hidden="true"></i> Pollock M, Wheaton JM, Bouwes N and Jordan CE. 2012. <a href="https://www.researchgate.net/publication/281113937_Working_with_Beaver_to_Restore_Salmon_Habitat"> Working with Beaver to Restore Salmon Habitat in the Bridge Creek Intensively Monitored Watershed: Design Rationale and Hypotheses</a>. NOAA Technical Memorandum, NOAA Northwest Fisheries Science Center, Seattle, WA, 108 pp. </li>
+ </ul> 
         </div>
   </li>
 </ul>
 
-<a href="http://isemp.org/projects/beaver-restoration/" target="_blank">ISEMP Bridge Creek page</a>
-<i class="fa fa-file-pdf-o" aria-hidden="true"></i> - 
-- Silverman NL, Allred BW, Donnelly JP, Chapman TB, Maestas JD, Wheaton J, White J and Naugle DE. 2018. [Low-tech riparian and wet meadow restoration increases vegetation productivity and resilience across semi-arid rangelands](https://www.researchgate.net/publication/326869390_Low-tech_riparian_and_wet_meadow_restoration_increases_vegetation_productivity_and_resilience_across_semi-arid_rangelands). Restoration Ecology. DOI: [10.1111/rec.12869](https://doi.org/10.1111/rec.12869).
-- <i class="fa fa-file-pdf-o" aria-hidden="true"></i> Weber N, Bouwes N, Pollock M, Volk C,  Wheaton JM, Wathen G, and Jordan C. 2017. [Alteration of stream temperature by natural and artificial beaver dams](https://www.researchgate.net/publication/316995139_Alteration_of_stream_temperature_by_natural_and_artificial_beaver_dams). PLOS ONE. 12(5): e0176313. DOI: [10.1371/journal.pone.0176313](http://dx.doi.org/10.1371/journal.pone.0176313)
--- <i class="fa fa-file-pdf-o" aria-hidden="true"></i> Bouwes N, Weber N, Jordan CE, Saunders WC, Tattam IA, Volk C, Wheaton JM and Pollock MM. 2016. [Ecosystem experiment reveals benefits of natural and simulated beaver dams to a threatened population of steelhead (Oncorhynchus mykiss)](http://www.nature.com/articles/srep28581). Scientific Reports. 6: 28581. DOI: [10.1038/srep28581](http://dx.doi.org/10.1038/srep28581).
-- <i class="fa fa-file-pdf-o" aria-hidden="true"></i> Bouwes N, Bennett S and Wheaton JM. 2016. [Adapting Adaptive Management for Testing the Effectiveness of Stream Restoration: An Intensively Monitored Watershed Example](https://www.researchgate.net/publication/289526568_Adapting_Adaptive_Management_for_Testing_the_Effectiveness_of_Stream_Restoration_An_Intensively_Monitored). Fisheries. 41: 2: pp. 84-91.  DOI: [10.1080/03632415.2015.1127806](http://dx.doi.org/10.1080/03632415.2015.1127806)
-- <i class="fa fa-file-pdf-o" aria-hidden="true"></i> Pollock, M., Beechie T , Wheaton JM, Jordan C,  Bouwes N, Weber N, and Volk C. 2014. [Using Beaver Dams  to Restore Incised Stream Ecosystems](https://www.researchgate.net/publication/261215514_Using_Beaver_Dams_to_Restore_Incised_Stream_Ecosystems). Bioscience. DOI: [10.1093/biosci/biu036](http://dx.doi.org/10.1093/biosci/biu036).
-- <i class="fa fa-file-pdf-o" aria-hidden="true"></i> Pollock M, Wheaton JM, Bouwes N and Jordan CE. 2012. [Working with Beaver to Restore Salmon Habitat in the Bridge Creek Intensively Monitored Watershed: Design Rationale and Hypotheses](https://www.researchgate.net/publication/281113937_Working_with_Beaver_to_Restore_Salmon_Habitat). NOAA Technical Memorandum, NOAA Northwest Fisheries Science Center, Seattle, WA, 108 pp. 
+
 
 #### Birch Creek - BDA Case Study
 
@@ -278,7 +274,7 @@ Hear the Birch Creek Beaver story directly from Jay. This video is from his pres
 <ul class="accordion" data-accordion data-allow-all-closed="true">
   <li class="accordion-item" data-accordion-item>
     <!-- Accordion tab title -->
-    	<a href="#" class="accordion-title">Panel Q & A for Module 2 Panel Discussion 1</a>
+    	<a href="#" class="accordion-title">Panel Q & A for Module 2 Panel Discussion 1: Bridge Creek & Birch Creek</a>
       	<div class="accordion-content" data-tab-content>    		
     <strong>Question:</strong> What is the watershed size of bridge creek/ d you find a limit to how large a watershed this is effective without blowing out (obviously relates to hydrology etc)...but any rules of thumb?
      <p><strong>Answer:</strong> (Joe Wheaton) It is less a question of watershed size, and more a question of stream power. This is what we do in the <a href="https://brat.riverscapes.xyz/" target="_blank">BRAT (Beaver Restoration Assessment Tool).</a></p>
@@ -568,14 +564,136 @@ Hear the Birch Creek Beaver story directly from Jay. This video is from his pres
 <ul class="accordion" data-accordion data-allow-all-closed="true">
   <li class="accordion-item" data-accordion-item>
     <!-- Accordion tab title -->
-    	<a href="#" class="accordion-title">Panel Q & A for Module x Panel Discussion x</a>
+    	<a href="#" class="accordion-title">Panel Q & A Module 2 Discussion 2: Asotin PALS & Resiliency</a>
       	<div class="accordion-content" data-tab-content>    		
-    <strong>Question:</strong> question goes here
+    <strong>Question:</strong>  What did this all cost for the project from the first visit to now? 
+     <p><strong>Answer:</strong> (Stephen Bennett)  4.6 million for 2008-2021 (14 years) of planning, designing, permits, fish and habitat monitoring, equipment, and restoration. </p>
+
+	<strong>Question:</strong> What factors determine which treatment to use on a watershed? Why were PALS used on Asotin and BDA's on Bridge Creek. What are the reasons to use one strategy over another in specific watersheds
+	<p><strong>Answer:</strong> (Stephen Bennett)  We deliberately chose to test the effectiveness of PALS in Asotin because LWD restoration is extremely common throughout North AMerica. If we doing restoration for restoration sake we would have likely used a variety of PALS and BDAs. Keep in mind we also developed the PALS and hdLWD approach while we were conducting the experiment because we saw a need for more cost effective approaches to adding LWD to streams.
+	</p>
+	
+	<strong>Question:</strong> Most, if not all the photos are from watershed that don't seem to have any development/impervious surface.  They also seem to have significant relief with limited vegetation.  Have there been any projects in watersheds with lower relief and with development?  Have any projects been done on the east coast?
+     <p><strong>Answer:</strong> (Stephen Bennett)  Since PALS were developed they have been used in a wide variety of situations throughout the wester US. I know of some trials of PALS in the east as well. Check out this website to get an idea of projects we are aware of/involved in the West: <a href="https://bda-explorer.herokuapp.com" target="_blank">https://bda-explorer.herokuapp.com</a>  . We have used PALS and BDAs in streams with gradients ranging from 1-4% in areas with little or no vegetation to areas that are heavily forested. Reading between the lines it sounds like you are trying to understand what these techniques may be appropriate. The easy answer is if your riverscape used to support woody vegetation in the valley bottoms and/or had beaver present - it is highly likely that there is less wood and/or beaver in those systems compared to historic. If you use the web link above you can see the variety of situations in over 100 km of treatments.
+</p>
+
+<strong>Question:</strong> question goes here
+<p><strong>Answer:</strong> (Stephen Bennett) answer goes here
+</p>
+	
+<strong>Question:</strong> question goes here
+   <p><strong>Answer:</strong> (Stephen Bennettr) answer goes here</p>
+
+<strong>Question:</strong> question goes here
+<p><strong>Answer:</strong> (author) answer goes here
+</p>
+	
+	<strong>Question:</strong> question goes here
      <p><strong>Answer:</strong> (author) answer goes here</p>
 
 	<strong>Question:</strong> question goes here
 	<p><strong>Answer:</strong> (author) answer goes here
 	</p>
+	
+	<strong>Question:</strong> question goes here
+     <p><strong>Answer:</strong> (author) answer goes here</p>
+
+	<strong>Question:</strong> question goes here
+	<p><strong>Answer:</strong> (author) answer goes here
+	</p>
+	
+	<strong>Question:</strong> question goes here
+     <p><strong>Answer:</strong> (author) answer goes here</p>
+
+	<strong>Question:</strong> question goes here
+	<p><strong>Answer:</strong> (author) answer goes here
+	</p>
+	
+	<strong>Question:</strong> question goes here
+     <p><strong>Answer:</strong> (author) answer goes here</p>
+
+	<strong>Question:</strong> question goes here
+	<p><strong>Answer:</strong> (author) answer goes here
+	</p>
+	
+	<strong>Question:</strong> question goes here
+     <p><strong>Answer:</strong> (author) answer goes here</p>
+
+	<strong>Question:</strong> question goes here
+	<p><strong>Answer:</strong> (author) answer goes here
+	</p>
+	
+	<strong>Question:</strong> question goes here
+     <p><strong>Answer:</strong> (author) answer goes here</p>
+
+	<strong>Question:</strong> question goes here
+	<p><strong>Answer:</strong> (author) answer goes here
+	</p>
+	
+	<strong>Question:</strong> question goes here
+     <p><strong>Answer:</strong> (author) answer goes here</p>
+
+	<strong>Question:</strong> question goes here
+	<p><strong>Answer:</strong> (author) answer goes here
+	</p>
+	
+	<strong>Question:</strong> question goes here
+     <p><strong>Answer:</strong> (author) answer goes here</p>
+
+	<strong>Question:</strong> question goes here
+	<p><strong>Answer:</strong> (author) answer goes here
+	</p>
+	
+	<strong>Question:</strong> question goes here
+     <p><strong>Answer:</strong> (author) answer goes here</p>
+
+	<strong>Question:</strong> question goes here
+	<p><strong>Answer:</strong> (author) answer goes here
+	</p>
+	
+	<strong>Question:</strong> question goes here
+     <p><strong>Answer:</strong> (author) answer goes here</p>
+
+	<strong>Question:</strong> question goes here
+	<p><strong>Answer:</strong> (author) answer goes here
+	</p>
+	
+	<strong>Question:</strong> question goes here
+     <p><strong>Answer:</strong> (author) answer goes here</p>
+
+	<strong>Question:</strong> question goes here
+	<p><strong>Answer:</strong> (author) answer goes here
+	</p>
+	
+	<strong>Question:</strong> question goes here
+     <p><strong>Answer:</strong> (author) answer goes here</p>
+
+	<strong>Question:</strong> question goes here
+	<p><strong>Answer:</strong> (author) answer goes here
+	</p>
+	
+	<strong>Question:</strong> question goes here
+     <p><strong>Answer:</strong> (author) answer goes here</p>
+
+	<strong>Question:</strong> question goes here
+	<p><strong>Answer:</strong> (author) answer goes here
+	</p>
+	
+	<strong>Question:</strong> question goes here
+     <p><strong>Answer:</strong> (author) answer goes here</p>
+
+	<strong>Question:</strong> question goes here
+	<p><strong>Answer:</strong> (author) answer goes here
+	</p>
+	
+	<strong>Question:</strong> question goes here
+     <p><strong>Answer:</strong> (author) answer goes here</p>
+
+	<strong>Question:</strong> question goes here
+	<p><strong>Answer:</strong> (author) answer goes here
+	</p>
+	
+	
 	    </div>
   </li>
 </ul>
