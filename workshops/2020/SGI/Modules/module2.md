@@ -294,11 +294,11 @@ Hear the Birch Creek Beaver story directly from Jay. This video is from his pres
 	</p>
 	
 	<strong>Question:</strong> Once the aggredation hits or approaches the top of the BDA, can you build additional BDAs at the new level? 
-	<p><strong>Answer:</strong> (Steve Bennett)  Yes, you can and we have built on existing BDAs when they fill with sediment
+	<p><strong>Answer:</strong> (Steve Bennett)  Yes, you can and we have built on existing BDAs when they fill with sediment.
 	</p>
 	
 	<strong>Question:</strong> When you look at inundation before/after from aerial images are you using software to map those areas or hand drawing the polygons?
-	<p><strong>Answer:</strong> (Nick Bouwes) We drew polygons by hand
+	<p><strong>Answer:</strong> (Nick Bouwes) We drew polygons by hand.
 	
 	</p>
 	
@@ -313,7 +313,7 @@ Hear the Birch Creek Beaver story directly from Jay. This video is from his pres
 	</p>
 	
 	<strong>Question:</strong> What is the difference between upper owens and lower owens and difference in fish density?
-	<p><strong>Answer:</strong> (Nick Bouwes) The upper owens was a control reach, lower owens was the paired treatment reach.  We have far more beaver dams in lower, but upper owens also had a large beaver response as beaver spread out from our treatment reaches.  But upper owens dams blew out much more frequently than lower owens because of the lack of BDAs.  Densities were higher in lower owens that upper owens- on average increase of 50 fish/100m
+	<p><strong>Answer:</strong> (Nick Bouwes) The upper owens was a control reach, lower owens was the paired treatment reach.  We have far more beaver dams in lower, but upper owens also had a large beaver response as beaver spread out from our treatment reaches.  But upper owens dams blew out much more frequently than lower owens because of the lack of BDAs.  Densities were higher in lower owens that upper owens- on average increase of 50 fish/100m.
 	
 	</p>
 	
@@ -338,7 +338,7 @@ Hear the Birch Creek Beaver story directly from Jay. This video is from his pres
 	</p>
 
     <strong>Question:</strong> So maybe stand alone structures that are larger could be passage barriers but when the number of structures are greater allowing them to work together the passage increases?!
-    <p><strong>Answer:</strong> (Nick) I think it is very difficult to build a structure by hand that will be a passage barrier.  That said, it is possible that when multiple structures step down the gradient of larger structures this could increase passage (if it is a problem).
+    <p><strong>Answer:</strong> (Nick Bouwes) I think it is very difficult to build a structure by hand that will be a passage barrier.  That said, it is possible that when multiple structures step down the gradient of larger structures this could increase passage (if it is a problem).
 
     </p>
      
@@ -379,26 +379,19 @@ Hear the Birch Creek Beaver story directly from Jay. This video is from his pres
     
     <strong>Question:</strong> Is there a rule of thumb on when to use BDAs and when to use large woody debris?
     <p><strong>Answer:</strong> (Nick Bouwes) We will get into this more in upcoming talks, and some of this was covered yesterday.  In short, there is no rule of thumb, but trade-offs between effort (PALs are much faster to build), and the ability to immediately pond water (BDAs).  So depends on your goals and time-frame.
-
     </p>
     
-    <strong>Question:</strong>I've heard a lot of conflicting evidence about how beaver dams affect water temperature. I'm curious if you know whether the beaver ponds created in Bridge Creek were already forested/shaded or if many of them were exposed to a lot of light. Did you notice how those conditions affected ponded water temperature? 
-    <p><strong>Answer:</strong> (author) The responses are equivocal and will depend on the system.  There was not a ton of shade in Bridge Creek, but as willow have been increasing, shade has increased. No doubt that the more shade the less energy and less that the stream will warm up.  But the hyporheic exchange is factor that is often not taken into account in how beaver ponds can cool streams.
-
+    <strong>Question:</strong> I've heard a lot of conflicting evidence about how beaver dams affect water temperature. I'm curious if you know whether the beaver ponds created in Bridge Creek were already forested/shaded or if many of them were exposed to a lot of light. Did you notice how those conditions affected ponded water temperature? 
+    <p><strong>Answer:</strong> (Nick Bouwes The responses are equivocal and will depend on the system.  There was not a ton of shade in Bridge Creek, but as willow have been increasing, shade has increased. No doubt that the more shade the less energy and less that the stream will warm up.  But the hyporheic exchange is factor that is often not taken into account in how beaver ponds can cool streams.
     </p>
     
+       
     <strong>Question:</strong> A beaver biology question - maybe better for yesterday but, Can someone talk about how beaver expand range?  How far will they go?  How big are barriers such as roads?  How about using estuaries, bays and coast lines to enter new watersheds?
-    <p><strong>Answer:</strong> (author) answer goes here
-    </p>
-    
-    <strong>Question:</strong> question goes here
     <p><strong>Answer:</strong> (Nick Bouwes) They can travel great distances.  Some work by the Methow Beaver Project have documented PIT tag beaver detected at PIT antenna 300 miles away.  Beaver moving 10-20 miles is probably pretty common.  I have seen a lot of road kill beaver.  But if the habitat is good they might not move at all.  Beaver use estuaries quite a bit.  I am not sure how much these environments lead to dispersal but would not surprise me all that they use them extensively. 
-
     </p>
     
     <strong>Question:</strong> What is the latest research on the relationship between beaver, beaver restoration and whirling disease? 
     <p><strong>Answer:</strong> (Nick Bouwes) no evidence that they transmit whirling disease but something we are studying at the moment.  But fine sediments is where you find the tubifex worm which is the carrier so it likely contributes to establishment of whirling disease.  On the flip to this, in good habitat and healthy fish, fish can show little symptoms and survive the disease just fine. 
-
     </p>
     
     <strong>Question:</strong> Amazing work. Have you dealt with multiple landowner situations like this?
@@ -428,24 +421,48 @@ Hear the Birch Creek Beaver story directly from Jay. This video is from his pres
     <p><strong>Answer:</strong> (Nick Bouwes) The paper by Lokteff et al. referenced in my talk looked at movement of native cutthroat, and non-native brook and brown trout.  Brooks tend to stay put in ponds, cuts move back and forth, and browns tend to be lazier and not often do not negotiate dams. 
     </p>
     
-    <strong>Question:</strong> question goes here
-    <p><strong>Answer:</strong> (author) answer goes here
+    <strong>Question:</strong> If beavers are at such a low level, why don't natural resource agencies have a massive captive breeding program?
+    <p><strong>Answer:</strong> (Nick Bouwes) The demand for beavers often comes from aquatic folks. Wildlife managers often see beaver a nuisance animal that can be highly destructive and require management.  There are also people who believe beaver are at carrying capacity already (even though beaver can alter their own carrying capacity) and we should not be moving them.  But maybe in the future a breeding program might catch on. 
+
     </p>
-    <strong>Question:</strong> question goes here
-    <p><strong>Answer:</strong> (author) answer goes here
+    <strong>Question:</strong> What are the BDAs' limiting flow, height, and substrate?
+    <p><strong>Answer:</strong> (Stephen Bennett) Very large rivers are likely not suitable for BDAs (e.g., order 6 and up). However, beavers do build dams on the margins of large rivers where there are multiple channels or back-channels. We recommend that you do not build BDAs too high. For example if your stream is incised 2 m or 6 feet - build a BDA that is 1 m or 3 feet high. If the BDA traps sediment and the pond fills in build on top of the existing BDA - in other words, build BDAs in stages to reduce incision. You can build a BDA in any substrate type except maybe bedrock. Our best advice is to use local cues and especially observing what beaver populations in your area are doing - emulate their behavior. We also recommend using a pilot or trial project to sort out these type of questions - what’s the worst that can happen, your BDA may fail if you build it too high. 
+
     </p>
-    <strong>Question:</strong> question goes here
-    <p><strong>Answer:</strong> (author) answer goes here
+    <strong>Question:</strong> Since streams almost always adjust to their lowest bed elevation, is there any point to trying to rebuild an incised channel if you don’t have access/permission to work in the lower end of the stream downstream of the restoration reach? Similarly, can you restore a stream reach with these methods if you are working on just a portion of the stream (e.g., a single landowner along the stream wants restoration but others do not or cannot)? How do you deal with degraded areas up and downstream?
+    <p><strong>Answer:</strong> (Nick Bouwes) Good question and is a bit too complex for quick answer.  If the gradient is stepped down, and you dissipate energy on the floodplain, AND you have structure, you do not have have to have a head cut from downstream control to your reach.  But it is good idea to know what your conditions are upstream and downstream. 
+
     </p>
-    <strong>Question:</strong> question goes here
-    <p><strong>Answer:</strong> (author) answer goes here
+    <strong>Question:</strong> Have you had beavers abandon a reach because they decimated the tree sources?  is that a concern for some land owners?
+    <p><strong>Answer:</strong> (Nick Bouwes) Yes, beaver move out of areas if they deplete their food source.  But often the abandon areas have regeneration and beaver may reoccupy (we like to call them rotational crop farmers).  But, yes some trees do not regenerate and can be a problem for landowner.  Caging or painting with paint with sand might be a form of mitigation.
+
     </p>
-    <strong>Question:</strong> question goes here
-    <p><strong>Answer:</strong> (author) answer goes here
+    <strong>Question:</strong> Often you have described the more BDAs in a stretch of stream the more effective these structures can be together. Is there a recommended BDA density per stretch of stream/linear feet/etc.?
+    <p><strong>Answer:</strong> (Nick Bouwes) Yes, multiple structures are important. The density of BDAs is dependent on gradient and how high you build your BDAs.  It is easy to be redundant if a BDA backs up water that inundated an upstream BDA.  In general, do not go to high to quickly (more likely to blow out), and if you build going upstream you might be able to see where the ponding ends to place your next upstream BDA (but this is also dependent on flow)
     </p>
-    <strong>Question:</strong> question goes here
-    <p><strong>Answer:</strong> (author) answer goes here
+    <strong>Question:</strong> Is anyone specifically studying beaver behavior changes in relation to BDA implementation for restoration? It sounds like there are changes in behavior with BDA's? 
+    <p><strong>Answer:</strong> (Nick Bouwes) This is something that is starting to be looked at in the Methow Beaver Project.  We also have some anecdotal evidence that they are more likely to stick around if there are BDAs are present because of the deep water habitat they provide.
+      </p>
+    <strong>Question:</strong> It's very encouraging to see the monitoring results, especially when it comes to fish passage. I'm wondering how much of that success is due to geography and fish species, i.e. salmonids. Our agency is on the east coast, and we are concerned with the aquatic community as a whole. Our biggest trout of concern is brook trout. But we also have a number of other priority at risk fish species that are much smaller, like Chesapeake Log Perch. What are your thoughts regarding BDA's (especially the channel spanning type) being fish.
+    <p><strong>Answer:</strong> (Nick Bouwes) Brook trout use beaver ponds but this could be function of gradient and stream temperature.  BDAs are much more leaky than beaver ponds and less likely to be a barrier.  I can’t guarantee they will not be a barrier for log perch, but I suspect not, as there are often many routes of passage through a BDA. 
+
     </p>
+    <strong>Question:</strong> Curious how much funding was received for bridge creek. Appears to be a long standing restoration project. In California, we often are limited by the funding to do continuous monitoring.
+
+    <p><strong>Answer:</strong> (Nick Bouwes)  This was initially funded by Bonneville Power Administration that have to mitigate for the hydrosystem for listed salmon and steelhead.  Money was spent to evaluate whether restoration can actually mitigate for the hydrosystem given the lack of evidence in the literature.  We are now receiving funding from Oregon Watershed Enhancement Board (OWEB) to continue the monitoring given the uptake in this approach and what are the long-term consequences. 
+    </p>
+   
+    <strong>Question:</strong> Do blow-outs of BDAs cause headcuts and how do you prevent it from happening.
+    <p><strong>Answer:</strong> (Nick Bouwes) I can cause head cutting in the sediment you captured.  But I don’t believe they will cause more harm than the initial condition.  But this is all the reason for the strength in numbers principle, this can minimize the loss of any one structure.
+    </p>
+    <strong>Question:</strong> I have heard about benefits to fish with floodplain accessibility.  Does Nick have any insights to increases in size and numbers of fish with increased floodplain access that comes with higher frequency and duration of overbank events? 
+    <p><strong>Answer:</strong> (Nick Bouwes) nundation of the floodplain at high water can provide velocity refugia that can be very important.  Floodplain inundation year round can greatly increase habitat quantity and complexity for multiple life-stages.  For example, fry are generally found in channel margins with very low flow, so beaver complexes greatly increase this habitat.  We have observed much higher fish/100m in areas where floodplains have been inundated.  We have also seen increased fish size in some systems in beaver ponded areas. 
+    </p>
+    
+    <strong>Question:</strong> Has there been any problems with increased browsing by cervids at Birch creek.
+    <p><strong>Answer:</strong> (Nick Bouwes) We have seen an obvious increase in browsing.
+    </p>
+    
         </div>
   </li>
 </ul>
