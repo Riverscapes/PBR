@@ -565,136 +565,149 @@ Hear the Birch Creek Beaver story directly from Jay. This video is from his pres
   <li class="accordion-item" data-accordion-item>
     <!-- Accordion tab title -->
     	<a href="#" class="accordion-title">Panel Q & A Module 2 Discussion 2: Asotin PALS & Resiliency</a>
-      	<div class="accordion-content" data-tab-content>    		
-    <strong>Question:</strong>  What did this all cost for the project from the first visit to now? 
-     <p><strong>Answer:</strong> (Stephen Bennett)  4.6 million for 2008-2021 (14 years) of planning, designing, permits, fish and habitat monitoring, equipment, and restoration. </p>
+      	<div class="accordion-content" data-tab-content>    
+<ol>
+<li><strong>Question:</strong>  What did this all cost for the project from the first visit to now? 
+<p><strong>Answer:</strong> (Stephen Bennett)  4.6 million for 2008-2021 (14 years) of planning, designing, permits, fish and habitat monitoring, equipment, and restoration. </p>
+</li>
 
-	<strong>Question:</strong> What factors determine which treatment to use on a watershed? Why were PALS used on Asotin and BDA's on Bridge Creek. What are the reasons to use one strategy over another in specific watersheds
-	<p><strong>Answer:</strong> (Stephen Bennett)  We deliberately chose to test the effectiveness of PALS in Asotin because LWD restoration is extremely common throughout North AMerica. If we doing restoration for restoration sake we would have likely used a variety of PALS and BDAs. Keep in mind we also developed the PALS and hdLWD approach while we were conducting the experiment because we saw a need for more cost effective approaches to adding LWD to streams.
-	</p>
-	
-	<strong>Question:</strong> Most, if not all the photos are from watershed that don't seem to have any development/impervious surface.  They also seem to have significant relief with limited vegetation.  Have there been any projects in watersheds with lower relief and with development?  Have any projects been done on the east coast?
-     <p><strong>Answer:</strong> (Stephen Bennett)  Since PALS were developed they have been used in a wide variety of situations throughout the wester US. I know of some trials of PALS in the east as well. Check out this website to get an idea of projects we are aware of/involved in the West: <a href="https://bda-explorer.herokuapp.com" target="_blank">https://bda-explorer.herokuapp.com</a>  . We have used PALS and BDAs in streams with gradients ranging from 1-4% in areas with little or no vegetation to areas that are heavily forested. Reading between the lines it sounds like you are trying to understand what these techniques may be appropriate. The easy answer is if your riverscape used to support woody vegetation in the valley bottoms and/or had beaver present - it is highly likely that there is less wood and/or beaver in those systems compared to historic. If you use the web link above you can see the variety of situations in over 100 km of treatments.
+<li><strong>Question:</strong> What factors determine which treatment to use on a watershed? Why were PALS used on Asotin and BDA's on Bridge Creek. What are the reasons to use one strategy over another in specific watersheds
+<p><strong>Answer:</strong> (Stephen Bennett)  We deliberately chose to test the effectiveness of PALS in Asotin because LWD restoration is extremely common throughout North AMerica. If we doing restoration for restoration sake we would have likely used a variety of PALS and BDAs. Keep in mind we also developed the PALS and hdLWD approach while we were conducting the experiment because we saw a need for more cost effective approaches to adding LWD to streams.
 </p>
+</li>
+	
+<li><strong>Question:</strong> Most, if not all the photos are from watershed that don't seem to have any development/impervious surface.  They also seem to have significant relief with limited vegetation.  Have there been any projects in watersheds with lower relief and with development?  Have any projects been done on the east coast?
+   <p><strong>Answer:</strong> (Stephen Bennett)  Since PALS were developed they have been used in a wide variety of situations throughout the wester US. I know of some trials of PALS in the east as well. Check out this website to get an idea of projects we are aware of/involved in the West: <a href="https://bda-explorer.herokuapp.com" target="_blank">https://bda-explorer.herokuapp.com</a>  . We have used PALS and BDAs in streams with gradients ranging from 1-4% in areas with little or no vegetation to areas that are heavily forested. Reading between the lines it sounds like you are trying to understand what these techniques may be appropriate. The easy answer is if your riverscape used to support woody vegetation in the valley bottoms and/or had beaver present - it is highly likely that there is less wood and/or beaver in those systems compared to historic. If you use the web link above you can see the variety of situations in over 100 km of treatments.
+</p>
+ </li>
 
-<strong>Question:</strong> question goes here
+	
+<li><strong>Question:</strong> The project areas look very arid.  What is the average annual precipitation in rainfall? 
+<p><strong>Answer:</strong> (Steve Bennett) ~20 cm at lower elevations (700-1500 feet) and > 120 cm at high elevations (4500-6000 feet)
+</p>
+ </li>
+
+<li><strong>Question:</strong> What cause or causes were responsible for degrading the Asotin watershed to begin with?
+<p><strong>Answer:</strong> (Steve Bennett) The usual suspects - logging, intensive dryland agriculture in uplands which greatly increased sediment inputs and high intensity storm runoff, grazing, roads, water withdrawal for orchards, straightening and armoring of banks. Note - many of these stressors were reduced or eliminated in the late 80’s and early 1990’s through implementation of a Model Watershed Plan that was co-developed by local landowners and agencies. 
+</p>
+ </li>
+	
+<li><strong>Question:</strong> Beaver dams seem to bow downstream.  It would be interesting to hear if anyone has bowed upstream.  Same with bank attached.  If not that alright, I'll orient all structures downstream.
+<p><strong>Answer:</strong> (Steve Bennett) Good observations - we will be discussing construction on Friday - but if you look at page 41-42 in your pocket guide you will see that there is a hydraulic reason for BDAs and to a lesser extent channel spanning PALS being convex to flow (bowing down). When water flows over a convex structure it spreads out - dissipating energy across the structure - when water flows over a concave structure it converges in the middle increasing local energy and potentially leading to undercutting of dam. 
+</p>
+ </li>
+
+<li><strong>Question:</strong> How do you determine the density you want for PALs in the floodplain for design purposes? 
+<p><strong>Answer:</strong> (Steve Bennett)  We did surveys of pre-restoration  LWD densities and compared them with estimates from the literature and came up with rough estimates of PALS density. Another way we calculate density is by building a set of trial or pilot structures and observing how they influence flow - you then space your structures out so that their “zone of influence” does not overlap too much. This approach works fro BDAs too where you build from the downstream to upstream direction and build the next BDA at the edge of the pond created from the downstream BDA.  
+</p>
+ </li>
+	
+<li><strong>Question:</strong> Does the sediment built up temporarily impede fish passage at spawn times during the restoration or was that a low-flow picture?
+<p><strong>Answer:</strong> (Steve Bennett) No. There is a win win situation here. If you build a structures and it ponds very well (i.e., sediment fills structure). Then water will naturally flow over and/or around the structure. If you’re unsuccessful at trapping sediment and ponding water - then you have a very leaky structure and fish passage is provided through the structure. Perched culverts and concrete dams are barriers to fish … it is rare that a hand build wood structure can prevent fish passage. Native fish have evolved to co-exist with beavers and certainly LWD falling in streams. 
+</p> 
+</li>
+
+<li><strong>Question:</strong> So, the PALs cost ~$30-50k per mile. How much of that was materials, labor, transportation, etc? how does the cost compare to BDAs? 
+<p><strong>Answer:</strong> (Stephen Bennett) We had all the wood donated by the USFS - so the majority of the costs are from transporting the wood from the forest to the stream (in our case we were lucky and that distance is 20-40km) and the labor to build the structures (usually crews of 4-6 people with 2 trucks, trailers, atv’s and hydraulic post driver that was bought by the region and donated as match to the project). Costs for permitting and design were lower comparable to other LWD projects because ot the low-tech nature but still significant (5,000-7,500 per 4 km treatment). BDAs are more expensive on a per structure basis because they take longer to build - but materials are usually free and often available onsite. Permitting is slightly more expensive because the USACE also needs to review due to use of fill.
+</p>
+</li>
+	
+<li><strong>Question:</strong>  There was a historic flood of record in SE WA last February ... did it impact Asotin and if so have you seen the results?
+   <p><strong>Answer:</strong> (Stephen Bennett) Interestingly it does not appear so. Our peak flows were only 500 cfs in NF Asotin an SF and Charley were typical. However, we did have numerous medium sized peaks in the hydrograph which appear to have caused more failure than usual in the NF Asotin.
+</p>
+   </li>
+
+<li><strong>Question:</strong> How do you determine when is it appropriate to use PALS vs. BDAS?
+<p><strong>Answer:</strong> (Stephen Bennett) See Q2 above - the IMW is testing the effectiveness of PALS - so we did not want to muddy the waters with more than one treatment type (at least in the early stages)
+
+</p>
+</li>
+
+<li><strong>Question:</strong> Did the 2017 recruitment of wood onto the placed LWD threaten the road?
+<p><strong>Answer:</strong> (Stephen Bennett)  no. We are lucky where the infrastructure is limited in the study area and there is only one road crossing with an undersized culvert - but it is 4 km downstream of a treatment area and on the smallest stream where wood movement is limited by low flows and narrow channel (4-5 m wide). 
+</p>
+</li>
+
+<li><strong>Question:</strong> How do you determine when is it appropriate to use PALS vs. BDAS?
+<p><strong>Answer:</strong> (Stephen Bennett) This is a popular question and will be answered on Friday. The Bridge and Asotin IMWs were setup to test specific restoration approaches - in the case of Bridge Cr it was a relatively novel use of BDAs. In Asotin we wanted to test the effectiveness of LWD additions and added the twist that we wanted low-tech low impact way to add wood - so we developed PALS. In relatively we use both BDAs and PALS when implementing restoration projects. Generally speaking - if you goal is to relocate beaver or immediately connect to an inactive floodplain - use BDAs - they can pond water at low flow. If your stream is deeply incised and/or you very simple habitat - use PALS to widen the channel and start the aggradation process (bank blasters and mid channel structures followed by channel spanning structures downstream to capture sediment). 
+</p>
+</li>
+
+<li><strong>Question:</strong> question goes here
 <p><strong>Answer:</strong> (Stephen Bennett) answer goes here
 </p>
-	
-<strong>Question:</strong> question goes here
-   <p><strong>Answer:</strong> (Stephen Bennettr) answer goes here</p>
+</li>
 
-<strong>Question:</strong> question goes here
+<li><strong>Question:</strong> question goes here
+<p><strong>Answer:</strong> (Stephen Bennett) answer goes here
+</p>
+</li>
+
+<li><strong>Question:</strong> question goes here
+<p><strong>Answer:</strong> (Stephen Bennett) answer goes here
+</p>
+</li>
+
+<li><strong>Question:</strong> question goes here
+<p><strong>Answer:</strong> (Stephen Bennett) answer goes here
+</p>
+</li>
+
+
+<li><strong>Question:</strong> question goes here
+<p><strong>Answer:</strong> (Stephen Bennett) answer goes here
+</p>
+</li>
+
+<li><strong>Question:</strong> question goes here
+<p><strong>Answer:</strong> (Stephen Bennett) answer goes here
+</p>
+</li>
+
+<li><strong>Question:</strong> question goes here
 <p><strong>Answer:</strong> (author) answer goes here
 </p>
-	
-	<strong>Question:</strong> question goes here
-     <p><strong>Answer:</strong> (author) answer goes here</p>
+</li>
 
-	<strong>Question:</strong> question goes here
-	<p><strong>Answer:</strong> (author) answer goes here
-	</p>
-	
-	<strong>Question:</strong> question goes here
-     <p><strong>Answer:</strong> (author) answer goes here</p>
+<li><strong>Question:</strong> question goes here
+<p><strong>Answer:</strong> (author) answer goes here
+</p>
+</li>
 
-	<strong>Question:</strong> question goes here
-	<p><strong>Answer:</strong> (author) answer goes here
-	</p>
-	
-	<strong>Question:</strong> question goes here
-     <p><strong>Answer:</strong> (author) answer goes here</p>
+<li><strong>Question:</strong> question goes here
+<p><strong>Answer:</strong> (author) answer goes here
+</p>
+</li>
 
-	<strong>Question:</strong> question goes here
-	<p><strong>Answer:</strong> (author) answer goes here
-	</p>
-	
-	<strong>Question:</strong> question goes here
-     <p><strong>Answer:</strong> (author) answer goes here</p>
+<li><strong>Question:</strong> question goes here
+<p><strong>Answer:</strong> (author) answer goes here
+</p>
+</li>
 
-	<strong>Question:</strong> question goes here
-	<p><strong>Answer:</strong> (author) answer goes here
-	</p>
-	
-	<strong>Question:</strong> question goes here
-     <p><strong>Answer:</strong> (author) answer goes here</p>
+<li><strong>Question:</strong> question goes here
+<p><strong>Answer:</strong> (author) answer goes here
+</p>
+</li>
 
-	<strong>Question:</strong> question goes here
-	<p><strong>Answer:</strong> (author) answer goes here
-	</p>
-	
-	<strong>Question:</strong> question goes here
-     <p><strong>Answer:</strong> (author) answer goes here</p>
+<li><strong>Question:</strong> question goes here
+<p><strong>Answer:</strong> (author) answer goes here
+</p>
+</li>
 
-	<strong>Question:</strong> question goes here
-	<p><strong>Answer:</strong> (author) answer goes here
-	</p>
-	
-	<strong>Question:</strong> question goes here
-     <p><strong>Answer:</strong> (author) answer goes here</p>
+<li><strong>Question:</strong> question goes here
+<p><strong>Answer:</strong> (author) answer goes here
+</p>
+</li>
 
-	<strong>Question:</strong> question goes here
-	<p><strong>Answer:</strong> (author) answer goes here
-	</p>
-	
-	<strong>Question:</strong> question goes here
-     <p><strong>Answer:</strong> (author) answer goes here</p>
+<li><strong>Question:</strong> question goes here
+<p><strong>Answer:</strong> (author) answer goes here
+</p>
+</li>
 
-	<strong>Question:</strong> question goes here
-	<p><strong>Answer:</strong> (author) answer goes here
-	</p>
-	
-	<strong>Question:</strong> question goes here
-     <p><strong>Answer:</strong> (author) answer goes here</p>
 
-	<strong>Question:</strong> question goes here
-	<p><strong>Answer:</strong> (author) answer goes here
-	</p>
+</ol>	
 	
-	<strong>Question:</strong> question goes here
-     <p><strong>Answer:</strong> (author) answer goes here</p>
-
-	<strong>Question:</strong> question goes here
-	<p><strong>Answer:</strong> (author) answer goes here
-	</p>
-	
-	<strong>Question:</strong> question goes here
-     <p><strong>Answer:</strong> (author) answer goes here</p>
-
-	<strong>Question:</strong> question goes here
-	<p><strong>Answer:</strong> (author) answer goes here
-	</p>
-	
-	<strong>Question:</strong> question goes here
-     <p><strong>Answer:</strong> (author) answer goes here</p>
-
-	<strong>Question:</strong> question goes here
-	<p><strong>Answer:</strong> (author) answer goes here
-	</p>
-	
-	<strong>Question:</strong> question goes here
-     <p><strong>Answer:</strong> (author) answer goes here</p>
-
-	<strong>Question:</strong> question goes here
-	<p><strong>Answer:</strong> (author) answer goes here
-	</p>
-	
-	<strong>Question:</strong> question goes here
-     <p><strong>Answer:</strong> (author) answer goes here</p>
-
-	<strong>Question:</strong> question goes here
-	<p><strong>Answer:</strong> (author) answer goes here
-	</p>
-	
-	<strong>Question:</strong> question goes here
-     <p><strong>Answer:</strong> (author) answer goes here</p>
-
-	<strong>Question:</strong> question goes here
-	<p><strong>Answer:</strong> (author) answer goes here
-	</p>
-	
-	
-	    </div>
+	</div>
   </li>
 </ul>
 
