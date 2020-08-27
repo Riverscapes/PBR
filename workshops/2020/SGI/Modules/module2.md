@@ -689,19 +689,25 @@ Hear the Birch Creek Beaver story directly from Jay. This video is from his pres
 </p>
 </li>
 
-<li><strong>Question:</strong> question goes here
-<p><strong>Answer:</strong> (Stephen Bennett) answer goes here
+<li><strong>Question:</strong> For Steve and Nick, in addition to seeing greater numbers of Juvenile fish post restoration, was there any observation of improved health of juvenile outmigrants, ie increased size.
+<p><strong>Answer:</strong> (Stephen Bennett) For the Bridge Cr IMW - Nick observed a decrease in growth but increase in survival. In the Asotin, the story is much less clear. We did not see a significant decrease in growth and survival increases were varied - it seemed like the fall survival increased more than other season (we were expecting that maybe winter survival would be changed the most). We are still trying to disentangle many of the fish responses in Asotin and are attempting to calculate the smolts per female (something they did not do in Bridge) which can tells us if female steelhead produced more migrants (juvenile steelhead that survived and migrated from Asotin) in treatment areas compared to control areas which is a measure of freshwater productivity.  
 </p>
 </li>
 
-<li><strong>Question:</strong> question goes here
-<p><strong>Answer:</strong> (Stephen Bennett) answer goes here
+<li><strong>Question:</strong> It’s fairly obvious how well these (PALs and BDAs) structures can work in less steep terrain. Do you have any case studies with steeper terrain with deeply incised and downgrading channels?
+<p><strong>Answer:</strong> (Stephen Bennett) We have worked in streams ranging from ~ 1-5% and from < 1 m to > 6 m incision (3-30 feet). Lower gradient streams may produce less dramatic responses from PALS due to reduced stream power. Generally speaking - the higher gradient streams in many watersheds in the west tend to be higher up in the watershed which often had less impact from landuse compared to lower elevation areas - so they are not as high a priority for restoration. I see no reason why these techniques can’t be used wherever beaver or wood previously played a role in healthy riverscapes which is likely upwards of 20% grad. 
+
 </p>
 </li>
 
-<li><strong>Question:</strong> question goes here
-<p><strong>Answer:</strong> (author) answer goes here
+<li><strong>Question:</strong> Are there any case studies for BDAs on streams with strictly seasonal flow and if not do you have any predictions for the effectiveness of creating a water-sustaining area either year round or  for a longer period after rainfall?
+<p><strong>Answer:</strong> (Stephen Bennett) yes, we are working in a lot of intermittent streams, some of which we suspect were perennial pre-european disturbance. If you go back to Module 2 C - Bridge and Birch Creek talk - Birch Creek was intermittent - we then introduced beaver and built 20-30 BDAs to aid in their establishment. There were no beaver dams when we started the beaver relocation - there are now ~ 150 beaver dams and the water flowed year round for the first time in decades. We are hoping to replicate these results in other intermittent streams - we are also working in streams where the goal is to just keep water longer and increase vegetation productivity. 
+
 </p>
+</li>
+
+<li><strong>Question:</strong> Steve, what do you attribute the smaller amount of floodplain recapture to in Asotin vs. Bridge Creek?  Fewer channel spanning structures, lack of beaver involvement, PALS being more leaky?
+<p><strong>Answer:</strong> (Stephen Bennett) Yes, all of the above. We are deliberately not building BDAs to test PALS as a LWD treatment (like many other projects). PALS do not pond water at low flow - so to get true floodplain connection we will need to aggrade the channel by capturing sediment and building bars to the point where water in the channel can spill on to the floodplain. One of the things that may be slowing this process is the resistant banks (alder roots and large substrate are difficult to erode) and moderate high flows since restoration was implemented. We may use BDAs in the future to test if a combination of PALS and BDAs is most effective in these situations.</p>
 </li>
 
 
