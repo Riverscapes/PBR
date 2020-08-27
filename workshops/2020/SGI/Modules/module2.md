@@ -633,8 +633,59 @@ Hear the Birch Creek Beaver story directly from Jay. This video is from his pres
 </p>
 </li>
 
-<li><strong>Question:</strong> question goes here
-<p><strong>Answer:</strong> (Stephen Bennett) answer goes here
+<li><strong>Question:</strong> When you say "gone" on the post restoration slide, does that mean gone from the location they were placed, or gone from the project area completely?
+<p><strong>Answer:</strong> (Stephen Bennett) Mostly I mean gone from where they were placed. We tagged all the wood we put in the streams, georeferenced it and then recorded tagged wood locations for 5-8 years after. Much of the wood that moved was caught on the first 1-10 structures downstream. A PhD student recently published these data. We do not know how much moved outside the project area because we could not survey the 40 km downstream due to private land concerns. I am sure 10-30% left completely - but we just don’t know. The average length of the wood was 2-3 m though - so it is a lot less likely to get caught and cause problems compared to whole trees. 
+</p>
+</li>
+
+<li><strong>Question:</strong> How do you usually communicate the BDA's design to degrade naturally over time with the long term goal of creative the self-sustaining system to the average person?
+<p><strong>Answer:</strong> (Stephen Bennett) It is sometimes a long conversation over several years to change the assumption that one restoration treatment will fix a river. We use structures to kick start processes - once natural wood recruitment increases, less PALS or BDAs need to be built. We don’t know how many treatments it will take to restore natural processes - but in most cases it may be decades of “maintenance” - this will require a complete re-thinking of what stream restoration means. We find that landowners are ok with this - you have to be honest with them.
+</p>
+</li>
+
+<li><strong>Question:</strong> How might these restoration techniques be best modified where there is not intact floodplain (urban areas with rigid constraints)?
+<p><strong>Answer:</strong> (Stephen Bennett)  It becomes about making smaller changes and being creative. There are more and more urban areas that are trying to make space for rivers - the next step will be to try making some of those urban streams more dynamic - this will require public outreach and education - but it is already happening. Many people that live in Asotin do not even know steelhead use the stream for spawning and rearing - we need locals to take ownership of these resources and have pride in maintaining healthy and productive riverscapes. Scaled-back structures, potential more engineered, can be implemented in urban areas to improve habitat. Engaging localsl in low-tech restoration also gives them a stake in the goals and objectives and are great education and employment opportunities for local kids. 
+</p>
+</li>
+
+<li><strong>Question:</strong> Have there been any monitoring/studies on the impact of these structures on flood events/flood resiliency of downstream areas in these watersheds?
+<p><strong>Answer:</strong> (Stephen Bennett)  Not that I am aware off - but one of our goals is to build thousands of structures in a watershed to test this idea. It is all about scaling up. 
+</p>
+</li>
+
+
+<li><strong>Question:</strong> Can BDAs/PALs help reduce flood damage in downstream communities where it isn't feasible to have these structures/ a "messy' riverscape? Thanks!
+<p><strong>Answer:</strong> (Stephen Bennett) We don’t know - but it is theoretically possible - however, my guess is that for true riverscape restoration on a grand scale - some level of encouragement for people to move out of floodplains would be helpful to reduce flood risk more than any structures could do. The bottom line is that if infrastructure is in the valley bottom - there will always be a chance of a catastrophic flood damaging it. Not even engineers can prevent that.
+</p>
+</li>
+
+<li><strong>Question:</strong> Why no beaver in asotin creek?
+<p><strong>Answer:</strong> (Stephen Bennett) There are beaver throughout Asotin but in very low numbers (few in each study creek). The state removed beaver dams the year we started the project and we have photographic evidence of large dams in the 1970s and 80s. However, the degraded nature of the streams, high predator levels (highest densities of cougars in state), and infrequent but large destructive flooding are likely preventing beaver from re-establishing in larger numbers. It is likely that trapping and shooting also are helping to limit re-establishment. 
+</p>
+</li>
+
+<li><strong>Question:</strong> Are PALS, while less effective than BDA structures in certain regaurds, more suitable in certain habitats? If so what habitats are PALS more suitable in? 
+<p><strong>Answer:</strong> (Stephen Bennett) Both structures can be suitable - the question people need to ask is what are you trying to achieve and what is the most efficient and process-based way to get there. If you want a pond immediately - build a BDA - but be aware that unless you maintain it - it will likely start to leak - this is where the phrase “busy beaver” comes from - they maintain their dams constantly. If you want to widen a channel and begin incision recovery it is more efficient to build PALS if BDAs are going to fail due to high flows concentrated in the incised channel. We will talk more about design and construction on Thursday and Friday to address these types of questions. 
+</p>
+</li>
+
+<li><strong>Question:</strong> Steve didn't mention beavers, but I think they're trying to introduce them in Asotin.  Does he want to address that?
+<p><strong>Answer:</strong> (Stephen Bennett) We are not relocating beaver in Asotin - we are relocating them over the hill in Tumalum Creek which is a tributary to the Tucannon. And I might add - we are not being too successful so far - predators are eating them before they can establish (0/10 so far). 
+</p>
+</li>
+
+<li><strong>Question:</strong> Is it best to use PALS in situations where introducing beaver is impossible?
+<p><strong>Answer:</strong> (Stephen Bennett) BDAs and PALS can be used in places where relocation of beaver is difficult (let’s not say impossible - we went to the moon - we can relocate beaver to most places if attitudes and values change). See answers to similar questions - what are your goals - use the structures that best achieve those goals. It is a bit unfair because we have introduced these structures without diving into the design objectives - generally BDAs pond water at low flow and PALS do geomorphic work and high flows - much more on this to come in next two days
+</p>
+</li>
+
+<li><strong>Question:</strong> I believe this was covered yesterday, but which NRCS practice would cover BDAs or PALS.  Have these been funded previously under EQIP or is there a different NRCS funding program or non-NRCS funding program that supports installation of these types of restoration structures? 
+<p><strong>Answer:</strong> (Stephen Bennett)  NRCS 643. Yes, NRCS has funded BDAs and PALS under EQIP.  
+</p>
+</li>
+
+<li><strong>Question:</strong> What would you say to the PFC process that does not put high value on woody debris in a desert upland environment?
+<p><strong>Answer:</strong> (Stephen Bennett) I am not familiar with the BLM PFC assessment process - I did take a cruise through the published protocol and it looks a lot like other agency protocols - overly concerned with bank and channel stability but in general acknowledges the importance of beaver and wood in maintaining healthy riverscapes - so not sure what you are referring to specifically.
 </p>
 </li>
 
@@ -645,57 +696,6 @@ Hear the Birch Creek Beaver story directly from Jay. This video is from his pres
 
 <li><strong>Question:</strong> question goes here
 <p><strong>Answer:</strong> (Stephen Bennett) answer goes here
-</p>
-</li>
-
-<li><strong>Question:</strong> question goes here
-<p><strong>Answer:</strong> (Stephen Bennett) answer goes here
-</p>
-</li>
-
-
-<li><strong>Question:</strong> question goes here
-<p><strong>Answer:</strong> (Stephen Bennett) answer goes here
-</p>
-</li>
-
-<li><strong>Question:</strong> question goes here
-<p><strong>Answer:</strong> (Stephen Bennett) answer goes here
-</p>
-</li>
-
-<li><strong>Question:</strong> question goes here
-<p><strong>Answer:</strong> (author) answer goes here
-</p>
-</li>
-
-<li><strong>Question:</strong> question goes here
-<p><strong>Answer:</strong> (author) answer goes here
-</p>
-</li>
-
-<li><strong>Question:</strong> question goes here
-<p><strong>Answer:</strong> (author) answer goes here
-</p>
-</li>
-
-<li><strong>Question:</strong> question goes here
-<p><strong>Answer:</strong> (author) answer goes here
-</p>
-</li>
-
-<li><strong>Question:</strong> question goes here
-<p><strong>Answer:</strong> (author) answer goes here
-</p>
-</li>
-
-<li><strong>Question:</strong> question goes here
-<p><strong>Answer:</strong> (author) answer goes here
-</p>
-</li>
-
-<li><strong>Question:</strong> question goes here
-<p><strong>Answer:</strong> (author) answer goes here
 </p>
 </li>
 
