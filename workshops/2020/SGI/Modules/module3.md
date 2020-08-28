@@ -177,6 +177,13 @@ The valley bottom is the entry point to understanding a riverscape. Fortunately,
 
 
   </div>
+  
+If you are participating virtually, you are missing out on one of the best parts, a real field trip! While it is not as good as going out together, we have prepared a virtual field trip to Spawn Creek for reading riverscapes for you! Follow along on an 80 minute guided field trip. 
+
+<div align="center">
+        <a class="hollow button" href="{{ site.baseurl }}/resources/Topics/03_Planning/sturcturalForcing.html"><i class="fa fa-blind" aria-hidden="true"></i>  Go on the Virtual <b>Reading Riverscapes Field Trip</b> </a>  
+</div>
+  
 -----
 
 #### Panel Discussion 
@@ -227,6 +234,11 @@ The valley bottom is the entry point to understanding a riverscape. Fortunately,
   </div>
 </div>
 
+If you are participating virtually, you are missing out on one of the best parts, a real field trip! While it is not as good as going out together, we have prepared a virtual field trip to Spawn Creek for reading riverscapes (focused specifically on structural forcing) for you! Follow along on an 80 minute guided field trip. 
+
+<div align="center">
+        <a class="hollow button" href="{{ site.baseurl }}/resources/Topics/03_Planning/sturcturalForcing.html"><i class="fa fa-blind" aria-hidden="true"></i>  Go on the Virtual <b>Reading Riverscapes Field Trip</b> </a>  
+</div>
 ------
 
 #### Panel Discussion 
