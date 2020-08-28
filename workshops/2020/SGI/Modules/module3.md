@@ -117,7 +117,7 @@ These talks are elaborated in [Chapter 3]({{ site.baseurl}}/manual/chap03) of th
 
 ### C. Valley Bottom Mapping & Virtual Field Trip
 <a href="{{ site.baseurl }}/workshops/2020/SGI/#instruction-team"><img width="80"  class="float-left" src="{{ site.baseurl }}/assets/images/people/Wheaton_round.png"></a>
-[Joe Wheaton]({{ site.baseurl }}/workshops/2020/SGI/#instruction-team) goes over how to read a riverscape and introduces the virtual field trip resources.
+[Joe Wheaton]({{ site.baseurl }}/workshops/2020/SGI/#instruction-team) goes over how to read a riverscape and introduces the [virtual field trip resources]({{ site.baseurl }}/resources/Topics/03_Planning/sturcturalForcing.html).
 
 **Background :** This talk is based on [Chapter 3]({{ site.baseurl}}/manual/chap03) of the design manual.  
 <br>
