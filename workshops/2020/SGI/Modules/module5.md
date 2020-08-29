@@ -309,8 +309,9 @@ Friday, Aug 14: 9:00 AM - 1:00 PM  (Mountain Time)
   </div>
 </div>
 
-
-
+<div align="center">
+	<a class="hollow button" href="{{ site.baseurl }}/resources/adaptivemgt"><img src="{{ site.baseurl }}/assets/images/AM_Loop_40_Orange.png"> <br> Low-Tech Adaptive Management Examples<br></a>
+	</div>
 
 --------
 
