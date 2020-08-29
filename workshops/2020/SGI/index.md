@@ -4,16 +4,13 @@ weight: 1
 ---
 # 2020 Virtual Workshop 
 
-**August 11-14, 2020 - Anywhere with Internet**
+**August 11-14, 2020 - Anywhere with Internet** - Completed
 
 <div align="center">
-<a class=" hollow button" href="{{ site.baseurl }}/workshops/2020/SGI/prep.html"><img src="{{ site.baseurl }}/assets/images/PBR-LT_round_30.png"> I am registered for Virtual LTPBR Workshop. <br> <b>Workshop Preparation Instructions</b>  -  <i class="fa fa-graduation-cap"></i><br>  August 11-14, 2020 </a>
+
 <a class=" hollow button" href="#course-materials"><img src="{{ site.baseurl }}/assets/images/diagrams/presentation.png"> Jump to → <br> <b>Module Materials</b>. </a>
 </div>
 
-**UPDATE** - As of July 300,  1000 people had registered! Thanks to all of you have registered! The interest is wonderful. Unfortunately, with our webinar system, we can only accommodate 1000 participants, so **registration is now closed**. 
-
-**Couldn't register?** If you were unable to register, please do not despair! All of the presentations and discussions will be recorded, organized and [made available from this page](#course-materials), after the workshop. Thus, you can still participate at your own pace, asynchronously. 
 
 ## Overview
 
@@ -46,6 +43,7 @@ With COVID-19, we have all had to make adjustments to how we work. Unfortunately
 
 <div align="center"><img src="{{ site.baseurl }}/assets/images/workshops/2020/NoField_600.png"></div>
 
+
 ## Virtual Workshop Description
 This virtual workshop will introduce conservationists to ‘low-tech’ process-based approaches for restoring streams and their associated riparian areas (riverscapes) to benefit fish, wildlife, and working lands. Participants will learn principles guiding low-tech process-based restoration and become familiar with simple, hand-built tools, including Beaver Dam Analogues (BDAs) and Post-Assisted Log Structures (PALS), intended to mimic and promote specific ecosystem processes. Participants will gain basic skills in the planning, design, and implementation phases of project development. Course content is supported by a published [Design Manual]({{ site.baseurl }}/manual/).
 
@@ -73,7 +71,6 @@ Registration was free, but is now **closed**.  Participation was limited to 1000
 <i class="fa fa-twitter" aria-hidden="true"></i> <a href="https://twitter.com/intent/tweet?text=https%3A//lowtechpbr.restoration.usu.edu/workshops/2020/SGI/%23course-material">Share on Twitter</a>
 
 ### Slides & Handouts
-These will be updated and posted immediately prior to each virtual workshop module.
 
 <div align="center">
 
