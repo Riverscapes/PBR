@@ -26,12 +26,20 @@ weight: 1
 
 </div>
 
-### Bonus Topics by Module
+### Bonus Resources & Exercises by Module Topic
 #### Module 1 - Introduction
 - [Parking Lot Exercise]({{ site.baseurl }}/resources/Topics/01_Overview/parkinglot.html)
 - [Stream Evolution Model Quiz]({{ site.baseurl }}/resources/Topics/01_Overview/sem.html)
+- [Additional Introductory Lectures from *WATS 5350 Capstone*](http://capstone.restoration.usu.edu/Course_Topics/WATS_5350/Low-Tech/intro.html)
 #### Module 3 - Planning
 - [Virtual Field Trip Reading Riverscapes ]({{ site.baseurl }}/resources/Topics/03_Planning/sturcturalForcing.html)
+- [Additional Introductory Lectures on **Planning**  from *WATS 5350 Capstone*](http://capstone.restoration.usu.edu/Course_Topics/WATS_5350/Low-Tech/planning.html)
+- [An Extra **Planning Assignment** for Birch Creek from *WATS 5350 Capstone*](http://capstone.restoration.usu.edu/Course_Topics/WATS_5350/Low-Tech/Projects/birch/birchplanning.html)
+
+#### Module 4 - Design
+- [Additional Introductory Lectures on **Design**  from *WATS 5350 Capstone*](http://capstone.restoration.usu.edu/Course_Topics/WATS_5350/Low-Tech/planning.html)
+- [An Extra **Design Assignment** for Birch Creek from *WATS 5350 Capstone*](http://capstone.restoration.usu.edu/Course_Topics/WATS_5350/Low-Tech/Projects/birch/birchdesign.html)
+
 #### Module 5 - Implementation
 - [PALS Contruction]({{ site.baseurl }}/resources/Topics/05_Implementation/PALS.html)
 

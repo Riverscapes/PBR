@@ -259,6 +259,10 @@ Friday, Aug 14: 9:00 AM - 1:00 PM  (Mountain Time)
   </div>
 </div>
 
+  <div align="center">
+	<a class="hollow button" href="{{ site.baseurl }}/resources/Topics/05_Implementation/PALS.html"> <i class="fa fa-briefcase" aria-hidden="true"></i>  <br>Take me to example videos of <br> PALS being constructed <i class="fa fa-youtube-play" aria-hidden="true"></i></a>
+  </div>
+
 --------
 
 #### Panel Discussion 
