@@ -135,3 +135,7 @@ In the video below, I take you on an aerial tour of some recent beaver dam blow-
 <div class="responsive-embed">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OJFE5Se_pAo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
+
+<div align="center">
+<a class=" button hollow" href="{{ site.baseurl }}/workshops/2020/SGI/#course-materials"><img src="{{ site.baseurl }}/assets/images/PBR-LT_round_30.png">  Take me to <b>Free LTPBR Workshop Modules</b> and Self-Paced Resources  <i class="fa fa-graduation-cap"></i>  </a>
+</div>
