@@ -26,8 +26,25 @@ weight: 1
 
 </div>
 
+### Bonus Topics by Module
+#### Module 1 - Introduction
+- [Parking Lot Exercise]({{ site.baseurl }}/resources/Topics/01_Overview/parkinglot.html)
+- [Stream Evolution Model Quiz]({{ site.baseurl }}/resources/Topics/01_Overview/sem.html)
+#### Module 3 - Planning
+- [Virtual Field Trip Reading Riverscapes ]({{ site.baseurl }}/resources/Topics/03_Planning/sturcturalForcing.html)
+#### Module 5 - Implementation
+- [PALS Contruction]({{ site.baseurl }}/resources/Topics/05_Implementation/PALS.html)
+
 ### Free Resources Made Possible By
- <div class="column column-block">
+<div class="row small-up-2 medium-up-2 large-up-6" >
+  <div class="column column-block">
+    <a href="https://www.nrcs.usda.gov/wps/portal/nrcs/detail/national/plantsanimals/fishwildlife/?cid=stelprdb1046975"><img src="{{ site.baseurl }}/assets/images/sponsors/WLFW.png"></a>
+  </div>
+  <div class="column column-block">
+    <a href="https://pheasantsforever.org/Hunt/pheasant-hunting.aspx"><img src="{{ site.baseurl }}/assets/images/sponsors/pf-logo_2.png"></a>
+  </div>
+
+  <div class="column column-block">
     <a href="https://www.nrcs.usda.gov/wps/portal/nrcs/detailfull/national/programs/initiatives/?cid=steldevb1027671"><img src="{{ site.baseurl }}/assets/images/sponsors/usda-nrcs-logo_1_orig.png"></a>
   </div>
   <div class="column column-block">
@@ -35,6 +52,8 @@ weight: 1
   </div>
 </div>
 
-
-
 Thanks to the generous support of the [Natural Resource Conservation Service's](https://www.nrcs.usda.gov/wps/portal/nrcs/detailfull/national/programs/initiatives/?cid=steldevb1027671) [Working Lands for Wildlife](https://www.nrcs.usda.gov/wps/portal/nrcs/detail/national/plantsanimals/fishwildlife/?cid=stelprdb1046975), and a grant through [Pheasants Forever](https://www.pheasantsforever.org/) to [Utah State University's Restoration Consortium](http://restoration.usu.edu/) and [Joe Wheaton's](http://joewheaton.org/) [ET-AL lab](http://etal.joewheaton.org/) the above self-paced modules are avaiable for free. This grew out of the successful 2016 Enhancing Mesic Habitat Resilience in Sagebrush Ecosystems Workshop at Utah State University and the 2018 and [2019]({{ site.baseurl }}/workshops/2019/SGI/) workshop series, which in [2020]({{ site.baseurl }}/workshops/2020/SGI/) was switched to a virtual devliery thanks to COVID. 
+
+-----------
+
+
