@@ -9,9 +9,14 @@ As shown in the [pocket guide]({{ site.baseurl }}/resources/pocket) on page 55 a
 
 - be great team building
 -  simulate many of the safety and logistical concerns encountered
-- get you familar with the basics. 
+- get you familiar with the basics. 
 
 Plus, the ingredients can be sourced from what you can find laying around or a quick trip to the local building supply. 
+
+## Topic Covered in Virtual Workshop
+In the 2020 Virtual Workshop, we present this topic in [Module 1 F (What you Came for - Your First BDA)](http://127.0.0.1:4001/workshops/2020/SGI/Modules/module1#f-what-you-came-for---your-first-bda).
+
+
 
 ---------------
 # BDA Parking Lot Example
