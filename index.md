@@ -22,11 +22,13 @@ Check out the condensed, Cliff-Notes version of the manual in our new [Pocket Gu
 
 #### Free Resources!
 
-The [design manual]({{ site.baseurl }}/manual) and  [Pocket Guide]({{ site.baseurl }}/resources/pocket) are available digitally for free thanks to the generous investments and support from our [sponsors]({{ site.baseurl }}/manual/support).
+The [design manual]({{ site.baseurl }}/manual) and  [Pocket Guide]({{ site.baseurl }}/resources/pocket) are available digitally for free thanks to the generous investments and support from our [sponsors]({{ site.baseurl }}/manual/support). Moreover, after the [virtual training in August 2020]({{ site.baseurl }}/workshops/2020/SGI/#course-materials), all the [introductory workshop modules]({{ site.baseurl }}/workshops/2020/SGI/#course-materials) are now available free [here]({{ site.baseurl }}/workshops/2020/SGI/#course-materials) for self-paced learning. 
 
 -------
 ## Training
 <a href="https://www.nrcs.usda.gov/wps/portal/nrcs/detail/national/plantsanimals/fishwildlife/?cid=stelprdb1046975"><img class="float-left" src="{{ site.baseurl }}/assets/images/sponsors/WLFW_100.png"> </a> **2020 Registration Closed** -  Due to COVID-19, the 2020 NRCS, [Working Lands for Wildlife](https://www.nrcs.usda.gov/wps/portal/nrcs/detail/national/plantsanimals/fishwildlife/?cid=stelprdb1046975) Low-Tech PBR Field Workshop Series was switched to a [virtual webinar format]({{ site.baseurl }}/workshops/2020/SGI/). The 2020 in-person trainings would have reached 100 invited participants in two events. The equivalent publicly offered workshops are normally $900 to $1100 per person.  Thanks to the [NRCS Working Lands for Wildlife](https://www.nrcs.usda.gov/wps/portal/nrcs/detail/national/plantsanimals/fishwildlife/?cid=stelprdb1046975) partnership, this [virtual workshop]({{ site.baseurl }}/workshops/2020/SGI/) was made available for anyone interested on August 11-14, 2020. We had to close registration at 1000, and 767 participants ended up participating in the live modules. 
+
+
 
 Those that did not make the live virtual workshop can take advantage of [self-paced recordings, exercises and content](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/#slides--handouts) at any time. Thank you NRCS, Sage Grouse Initiative and Working Lands for Wildlife!
 
