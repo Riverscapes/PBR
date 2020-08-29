@@ -11,6 +11,9 @@ Normally, in our in-person workshops, we like to take participants in the field 
 
 While there is no *good* substitute for tromping around in the water and mud and experiencing this for yourself, this page attempts to reproduce as much of that experience as we can virtually for you in Spawn Creek. 
 
+## Topic Covered in Virtual Workshop
+In the 2020 Virtual Workshop, we present this topic in [Module 3 C (Valley Bottom Mapping & Virtual Field Trip)]({{ site.baseurl }}/workshops/2020/SGI/Modules/module3#c-valley-bottom-mapping--virtual-field-trip) and [Module 3 D (Recognizing Structural Forcing in Riverscapes)]({{ site.baseurl }}/workshops/2020/SGI/Modules/module3#d-recognizing-structural-forcing-in-riverscapes).
+
 # Spawn Creek Field Tour
 
 Explore around on the map for the virtual field tour below. The red line is the route we take on the [guided field tour up Spawn Creek](#guided-virtual-tour). The yellow line is the route for the [self-guided tour back down Spawn Creek](#self-guided-tour).  
