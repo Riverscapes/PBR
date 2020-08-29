@@ -7,11 +7,12 @@ weight: 4
 
 ## Formats
 
-<img class="float-right" src="{{ site.baseurl }}/assets/images/workshops/teaching.jpg">We have taught over 20 workshops, short-courses and full semester long classes since 2010 on low-tech process-based restoration (see table below).  There are three ways in which we have offered this training:
+<img class="float-right" src="{{ site.baseurl }}/assets/images/workshops/teaching.jpg">We have taught over 20 workshops, short-courses and full semester long classes since 2010 on low-tech process-based restoration (see table below).  There are four ways in which we have offered this training:
 
 1. Semester-long graduate student course through Utah State University Department of Watershed Sciences (WATS 6860 - Check USU Registrar for offerings) 
 2. Short courses & workshops open to public enrollment administered through Utah State University [Restoration Consortium](http://restoration.usu.edu) 
 3. Custom short course for private audience (paid for by sponsor)
+4. Free [Virtual Workshops]({{ site.baseurl }}/workshops/2020/SGI) and/or [Self-Paced Modules]({{ site.baseurl }}/resources/Topics/)
 
 Note that Undergraduates in the [Department of Watershed Sciences](https://qcnr.usu.edu/wats/)  [Management and Restoration of Aquatic Ecosystems](https://qcnr.usu.edu/undergraduates/prospective/degrees/aquatic_ecosystems) Major get a full year of training on low-tech process-based restoration in the [Capstone Classes (WATS 5340 & 5350)](http://capstone.restoration.usu.edu). 
 
@@ -51,7 +52,6 @@ Note that Undergraduates in the [Department of Watershed Sciences](https://qcnr.
 
 | Year  | Workshop | Location(s) | Sponsor(s) |
 | ------ | ------ | ------ | ------ |
-| 2020, August | [Low-Tech Process-Based Restoration of Riverscapes Workshop]({{ site.baseurl }}/workshops/2020/IDFG/) | Pocatello, ID | [IDFG](https://idfg.idaho.gov/), [USFWS](https://www.fws.gov/), [IWJV](https://iwjv.org/) |
 | 2019, August | [Low-Tech Riparian Restoration - 2019 Field Workshop Series]({{ site.baseurl }}/workshops/2019/SGI/) | Gunnison, CO;  Lewistown, MT;  Haiely, ID | NRCS, [WLFW](https://www.nrcs.usda.gov/wps/portal/nrcs/detail/national/plantsanimals/fishwildlife/?cid=stelprdb1046975), [Pheasants Forever](https://pheasantsforever.org/Hunt/pheasant-hunting.aspx), [SGI](https://www.sagegrouseinitiative.com/), and  [USU Restoration Consortium](http://restoration.usu.edu/) |
 | 2018, June - Sept | Partnering with Beaver in Restoration Design - 2018 Field Workshop Series | Logan, UT;  Elko, NV;  Lander, WY;  Cedar City, UT; Hailey, ID | NRCS, [WLFW](https://www.nrcs.usda.gov/wps/portal/nrcs/detail/national/plantsanimals/fishwildlife/?cid=stelprdb1046975), [Pheasants Forever](https://pheasantsforever.org/Hunt/pheasant-hunting.aspx), [SGI](https://www.sagegrouseinitiative.com/), and [USU Restoration Consortium](http://restoration.usu.edu/) |
 | 2017, October | Partnering with Beaver in Restoration Design | Enterprise, OR | Grand Ronde Model Watershed |
