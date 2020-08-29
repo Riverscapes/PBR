@@ -3,7 +3,7 @@ title: Riverscapes Restoration Design Manual - Home
 weight: 1
 ---
 <div align="center">
-<a class=" button hollow" href="{{ site.baseurl }}/workshops/2020/SGI/#course-materials"><img src="{{ site.baseurl }}/assets/images/PBR-LT_round_30.png">  <b>FREE!  LTPBR Workshop Modules</b> and Self-Paced Resources  <i class="fa fa-graduation-cap"></i>  </a>
+<a class=" button hollow" href="{{ site.baseurl }}/resources/Topics"><img src="{{ site.baseurl }}/assets/images/PBR-LT_round_30.png">  <b>FREE!  LTPBR Workshop Modules</b> and Self-Paced Resources  <i class="fa fa-graduation-cap"></i>  </a>
 </div>
 
 ## Manual
