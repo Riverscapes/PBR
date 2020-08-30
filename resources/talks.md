@@ -17,8 +17,14 @@ Here are some talks on LT-PBR:
 #### Rancher's Stories:
 
 Jay Wilde's Story of Birch Creek, Idaho:
+<div class="responsive-embed">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4j6R1JxG8M8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
+Jon Grigg's Story of Maggie Creek, Nevada (from Society of Range Management 2018 Meeting Symposium on "[Restoring and Managing Emerald Isles](https://www.youtube.com/playlist?list=PLbQnrJD6rX90dtVJYrx3q0Q6q-G-YNLze)")
+
+<div class="responsive-embed"><iframe width="560" height="315" src="https://www.youtube.com/embed/aI-bTr9JAng" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 ------
 <div align="center">
 	<a class="hollow button" href="{{ site.baseurl }}/"><i class="fa fa-arrow-circle-left" aria-hidden="true"></i>  Back to Design Manual Home <i class="fa fa-book" aria-hidden="true"></i></a>
