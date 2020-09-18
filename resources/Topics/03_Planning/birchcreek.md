@@ -14,7 +14,7 @@ For those of you in the [WATS 5350 Capstone](http://capstone.restoration.usu.edu
 
 # Birch Creek Field Tour
 ## Guided Virtual Tour
-In this 70 minute video, you are invited to a series of stops up and down Birch Creek. The conversation between Jay Wilde and Joe Wheaton is similar to the conversation we have when we take a whole class out.  Unlike the real field trip, where when you've had enough you can just hang back and wander around on your own, with this one you can fast forward if you get bored.  
+In this 90 minute video, you are invited to a series of stops up and down Birch Creek. The conversation between Jay Wilde and Joe Wheaton is similar to the conversation we have when we take a whole class out.  Unlike the real field trip, where when you've had enough you can just hang back and wander around on your own, with this one you can fast forward if you get bored.  
 
 <div class="responsive-embed">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WH7lBV9LIbo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
