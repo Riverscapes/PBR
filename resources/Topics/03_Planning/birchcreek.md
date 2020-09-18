@@ -7,7 +7,7 @@ weight: 3
 <img class="float-right" src="{{ site.baseurl }}/assets/images/people/Wilde_round.png">
 Normally, in our in-person workshops, we like to take participants in the field to see an actual low-tech process-based restoration (LTPBR) project on the ground. This helps you see first-hand a real riverscape subjected to "structural starvation"; and for which a LTPBR project was successfully completed. 
 
-While there is no substitute for meeting Jay Wilde in person and seeing what the beaver have done to [Birch Creek, Idaho](http://capstone.restoration.usu.edu/Course_Topics/WATS_5350/Low-Tech/Projects/birch/). Tromping around in the water and mud and experiencing this for yourself, really helps the concepts and the scope of what is possible sink in. This page attempts to reproduce as much of that experience as we can virtually for you in Birch Creek. 
+There is no substitute for meeting Jay Wilde in person and seeing what the beaver have done to [Birch Creek, Idaho](http://capstone.restoration.usu.edu/Course_Topics/WATS_5350/Low-Tech/Projects/birch/) because of his efforts. Tromping around in the water and mud and experiencing this for yourself, really helps the concepts and the scope of what is possible sink in. This page attempts to reproduce as much of that experience as we can virtually for you in Birch Creek. 
 
 ## Topic Covered in WATS Classes
 For those of you in the [WATS 5350 Capstone](http://capstone.restoration.usu.edu/Course_Topics/WATS_5350/) and/or the Fall 2020 [WATS 4950 Restoration Principles](https://usu.instructure.com/courses/595865), this is a substitute for part of the field trip we did on September 18, 2020. 
