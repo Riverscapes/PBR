@@ -3,16 +3,20 @@ title:  Fire Resiliency
 weight: 1
 ---
 
-The 
 
-In the 2020 Virtual Workshop, we cover the construction of PALS in [Module 5E (Construction of PALS & BDAs)]({{ site.baseurl }}/workshops/2020/SGI/Modules/module5.html#e-construction-of-pals--bdas).
+<a target="blank" href="http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module1.html#j-principles"><img class="float-right" src="{{ site.baseurl }}/assets/images/pics/FireResilience.png"></a>
+The idea that beaver dams can improve the resiliency of riverscapes to fire is common sense. That argument is made in [Module 1's Principles Lecture](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module1.html#j-principles) (e.g. Slide 18 at right). This page highlights some of the examples, anecdotes, and the surprisingly [small amount of published scientific evidence](https://en.wikipedia.org/wiki/North_American_beaver#Beaver_ponds_as_wildlife_refugia_and_firebreaks_in_wildfires) that give creedence to this idea that ["It’s really not complicated: water doesn’t burn...”](https://www.nationalgeographic.com/animals/2020/09/beavers-firefighters-wildfires-california-oregon/).
 
+
+## Media
 https://www.nationalgeographic.com/animals/2020/09/beavers-firefighters-wildfires-california-oregon/
+
+<blockquote class="twitter-tweet" data-theme="dark"><p lang="en" dir="ltr">Beaver dams slow the spread of wildfires, and in some cases, can even extinguish them <a href="https://t.co/yAxhJxeEqG">https://t.co/yAxhJxeEqG</a></p>&mdash; National Geographic (@NatGeo) <a href="https://twitter.com/NatGeo/status/1309314944186437636?ref_src=twsrc%5Etfw">September 25, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## Presentations on Beaver & Fire
 
 
-### Emily Fairfax
+### Emily Fairfax 
 
 <div class="responsive-embed">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/39CWo2Qk7TM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -24,13 +28,21 @@ https://www.nationalgeographic.com/animals/2020/09/beavers-firefighters-wildfire
 
 ### Joe Wheaton
 
+Below, is an excerpt from [LTPBR Workshop Module 1's Principles Lecture](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module1.html#j-principles) on resilence:
 
-- 2019. Invited Talk. Wheaton JM. [Low-Tech Riverscape Restoration: Post Fire Use]((http://dx.doi.org/10.13140/RG.2.2.29413.96480)). UPCD-WRI Regional Partnership Workshop. Richfield, UT. DOI: [10.13140/RG.2.2.29413.96480](http://dx.doi.org/10.13140/RG.2.2.29413.96480)
+<div class="responsive-embed">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/v5gZQDEXlxQ?start=700" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+<a target="blank" href="http://dx.doi.org/10.13140/RG.2.2.29413.96480"><img class="float-right" src="{{ site.baseurl }}/assets/images/pics/Fire_LTPBR.png"></a>
+The slide 
+- Wheaton JM. 2019.   [Low-Tech Riverscape Restoration: Post Fire Use]((http://dx.doi.org/10.13140/RG.2.2.29413.96480)). UPCD-WRI Regional Partnership Workshop. Richfield, UT. DOI: [10.13140/RG.2.2.29413.96480](http://dx.doi.org/10.13140/RG.2.2.29413.96480)
 
 # Documentation of Beaver Increasing Resilience
 Rick Lanman updated Wikpedia to include in the North American Beaver page, a section on [§ Beaver ponds as wildlife refugia and firebreaks in wildfires](https://en.wikipedia.org/wiki/North_American_beaver#Beaver_ponds_as_wildlife_refugia_and_firebreaks_in_wildfires).  In it 
 
-<a target="blank" href="https://www.amazon.com/Three-Against-Wilderness-Classics-West/dp/1894898540"><img class="float-right" src="{{ site.baseurl }}/assets/images/covers/3Against.jpb"></a>[Three Against the Wilderness](https://www.amazon.com/Three-Against-Wilderness-Classics-West/dp/1894898540) - ​If you really want to convince yourself we're not on to anything new when it comes to partnering with beaver as a restoration tool, read Eric Collier's [Three Against the Wilderness](https://www.amazon.com/Three-Against-Wilderness-Classics-West/dp/1894898540).  Although published in 1959, Eric describes his family's efforts in the 1920s and 1930s to mimic the work of beaver in British Columbia by repairing the abandon dams left behind from their extirpation in his watershed in the 1830s and 1840s. It is one of the earliest examples we know of, of what you might call beaver dam analogues (though he didn't give it a silly acronym).  Eventually, he is able to stop doing the maintenance when a game warden brings him a few translocated, live beaver to introduce to the area.
+<a target="blank" href="https://www.amazon.com/Three-Against-Wilderness-Classics-West/dp/1894898540"><img class="float-left" src="{{ site.baseurl }}/assets/images/covers/3Against.jpg"></a>
+[Three Against the Wilderness](https://www.amazon.com/Three-Against-Wilderness-Classics-West/dp/1894898540) - ​If you really want to convince yourself we're not on to anything new when it comes to partnering with beaver as a restoration tool, read Eric Collier's [Three Against the Wilderness](https://www.amazon.com/Three-Against-Wilderness-Classics-West/dp/1894898540).  Although published in 1959, Eric describes his family's efforts in the 1920s and 1930s to mimic the work of beaver in British Columbia by repairing the abandon dams left behind from their extirpation in his watershed in the 1830s and 1840s. It is one of the earliest examples we know of, of what you might call beaver dam analogues (though he didn't give it a silly acronym).  Eventually, he is able to stop doing the maintenance when a game warden brings him a few translocated, live beaver to introduce to the area.
 
 ---
 # Examples of LTPBR for Post Fire Recovery
