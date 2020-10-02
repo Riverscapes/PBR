@@ -10,11 +10,11 @@ Related to the LTPBR workshop [Module 2 - Science & Case Studies]({{ site.baseur
 <div class="row small-up-2 medium-up-2 large-up-4" align="center">
 
 <div class="column column-block">
-<a class="hollow button" href="{{ site.baseurl }}/resources/Topics/02_Science/"><img src="{{ site.baseurl }}/assets/images/pics/SalmonJumping50.png"> <b> Beaver-related Impacts to Fish</b>  <img src="{{ site.baseurl }}/assets/images/pics/SalmonJumping50.png"></a>
+<a class="hollow button" href="{{ site.baseurl }}/resources/Topics/02_Science/"> Beaver-related <b> Impacts to Fish</b>  <img src="{{ site.baseurl }}/assets/images/pics/SalmonJumping50.png"></a>
 </div>
 
 <div class="column column-block">
-<a class="hollow button" href="{{ site.baseurl }}/resources/Topics/02_Science/"><i class="fa fa-fire" aria-hidden="true"></i> Resilience to <b>Fire</b>  </a>
+<a class="hollow button" href="{{ site.baseurl }}/resources/Topics/02_Science/fire"><i class="fa fa-fire" aria-hidden="true"></i> Resilience to <b>Fire</b>  </a>
 </div>
 
 </div>
@@ -38,7 +38,7 @@ Related to the LTPBR workshop [Module 2 - Science & Case Studies]({{ site.baseur
   </div>
 
   <div class="column column-block">
-	<a class="hollow button" href="{{ site.baseurl }}/resources/contractors"> <i class="fa fa-briefcase" aria-hidden="true"></i>  <br> Case Studies of LTPBR <br> for Post-Fire Restoration</a>
+	<a class="hollow button" href="{{ site.baseurl }}/resources/contractors"> <i class="fa fa-fire" aria-hidden="true"></i>  <br> Case Studies of LTPBR <br> for <b> Post-Fire Restoration</b> </a>
   </div>
   
 
