@@ -5,17 +5,19 @@ weight: 5
 
 Related to the LTPBR workshop [Module 5 - Implementation]({{ site.baseurl }}/workshops/2020/SGI/Modules/module5), here we will populate examples of implementation. 
 
-# Module 5 Implementation Examples
 
+
+#  Implementation Resources
 
 <div align="center">
+
+
+<a class="hollow button" href="{{ site.baseurl }}/resources/Topics/05_Implementation/PALS.html"> <b>Consultation & Permitting  </b><br> Resources </a>
 
 <a class="hollow button" href="{{ site.baseurl }}/resources/Topics/05_Implementation/PALS.html"> <b>PALS  </b><br> Being Built   </a>
 
 <a class="hollow button" href="{{ site.baseurl }}/resources/Topics/05_Implementation/PALS.html"> <b>BDAs  </b><br> Being Built   </a>
 </div>
-
-# Other Resources
 
 - [Additional Introductory Lectures from *WATS 5350 Capstone*](http://capstone.restoration.usu.edu/Course_Topics/WATS_5350/Low-Tech/intro.html)
 
