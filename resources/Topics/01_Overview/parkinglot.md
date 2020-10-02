@@ -61,3 +61,5 @@ In the <a href="https://photos.app.goo.gl/dktnPpiQHcNyDjhGA">album <i class="fa 
 <div class="responsive-embed">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EyplCoTQ388" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Awesome group of students building parking lot <a href="https://twitter.com/hashtag/BDAs?src=hash&amp;ref_src=twsrc%5Etfw">#BDAs</a> in <a href="https://twitter.com/hashtag/lowtechPBR?src=hash&amp;ref_src=twsrc%5Etfw">#lowtechPBR</a> workshop today <a href="https://twitter.com/CNRUSU?ref_src=twsrc%5Etfw">@CNRUSU</a> . <a href="https://t.co/X9ot6XAhTN">pic.twitter.com/X9ot6XAhTN</a></p>&mdash; Restoration Consortium USU (@RestorationUSU) <a href="https://twitter.com/RestorationUSU/status/1182062783048765440?ref_src=twsrc%5Etfw">October 9, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
