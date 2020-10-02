@@ -25,7 +25,7 @@ weight: 1
 </div>
 
 ### Bonus Resources & Exercises by Module Topic
-#### Module 1 - Introduction
+#### [Module 1 - Introduction]({{ site.baseurl }}/resources/Topics/01_Overview/)
 - [Parking Lot Exercise]({{ site.baseurl }}/resources/Topics/01_Overview/parkinglot.html)
 - [Stream Evolution Model Quiz]({{ site.baseurl }}/resources/Topics/01_Overview/sem.html)
 - [Additional Introductory Lectures from *WATS 5350 Capstone*](http://capstone.restoration.usu.edu/Course_Topics/WATS_5350/Low-Tech/intro.html)
