@@ -4,8 +4,6 @@ weight: 1
 ---
 
 
-
-
 # Introductory PBR Workshop Modules
 <i class="fa fa-twitter" aria-hidden="true"></i> <a href="https://twitter.com/intent/tweet?text=https%3A//lowtechpbr.restoration.usu.edu/workshops/2020/SGI/%23course-material">Share on Twitter</a>
 
@@ -31,6 +29,10 @@ weight: 1
 - [Parking Lot Exercise]({{ site.baseurl }}/resources/Topics/01_Overview/parkinglot.html)
 - [Stream Evolution Model Quiz]({{ site.baseurl }}/resources/Topics/01_Overview/sem.html)
 - [Additional Introductory Lectures from *WATS 5350 Capstone*](http://capstone.restoration.usu.edu/Course_Topics/WATS_5350/Low-Tech/intro.html)
+
+#### [Module 2 - Science & Case Studies]({{ site.baseurl }}/resources/Topics/02_Science/)
+
+
 #### Module 3 - Planning
 - [Virtual Field Trip Reading Riverscapes ]({{ site.baseurl }}/resources/Topics/03_Planning/sturcturalForcing.html)
 - [Virtual Field to Birch Creek LTPBR Project ]({{ site.baseurl }}/resources/Topics/03_Planning/birchcreek.html)
