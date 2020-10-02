@@ -161,7 +161,9 @@ Friday, Aug 14: 9:00 AM - 1:00 PM  (Mountain Time)
 #### Panel Discussion 
 <i class="fa fa-youtube-play" aria-hidden="true"></i> <a href="https://youtu.be/oBSXYdFwW2k" target="_blank">Module 5 Panel Discussion 1</a> 
 
-
+  <div align="center">
+	<a class="hollow button" href="{{ site.baseurl }}/resources/Topics/05_Implementation/permitting.html"> <i class="fa fa-briefcase" aria-hidden="true"></i>  <br>Take me to more information on <br> Consultation & Permitting </a>
+  </div>
 --------
 
 ### D. Logistics, Equipment, & Safety
@@ -260,7 +262,7 @@ Friday, Aug 14: 9:00 AM - 1:00 PM  (Mountain Time)
 </div>
 
   <div align="center">
-	<a class="hollow button" href="{{ site.baseurl }}/resources/Topics/05_Implementation/PALS.html"> <i class="fa fa-briefcase" aria-hidden="true"></i>  <br>Take me to example videos of <br> PALS being constructed <i class="fa fa-youtube-play" aria-hidden="true"></i></a>
+	<a class="hollow button" href="{{ site.baseurl }}/resources/Topics/05_Implementation/"> <i class="fa fa-briefcase" aria-hidden="true"></i>  <br>Take me to example videos of <br> PALS & BDAs being constructed <i class="fa fa-youtube-play" aria-hidden="true"></i></a>
   </div>
 
 --------
