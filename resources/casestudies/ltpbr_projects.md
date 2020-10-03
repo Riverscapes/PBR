@@ -3,12 +3,24 @@ title:  LTPBR Project Assortment
 weight: 1
 ---
 
-Beyond the [LTPBR Explorer](http://bdaexplorer.com), here are a vareity of [videos, social media posts]() and [stories]()
+Beyond the [LTPBR Explorer](http://bdaexplorer.com), here are a vareity of videos, social media posts and stories. We post these as we become aware of them (in no particular order). If you have or know of  a story you would like to see linked here, please let us know.
 
 
-# BDAs on Video and Social Media
+# LTPBR on Video and Social Media
 
 <a href="https://twitter.com/intent/tweet?button_hashtag=lowtechPBR&ref_src=twsrc%5Etfw" class="twitter-hashtag-button" data-size="large" data-related="" data-show-count="false">Tweet #lowtechPBR</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+## From Idaho BLM
+
+### Hawley Creek, Idaho
+This incredible [partnership project on Hawley Creek, Idaho](https://www.partnersinthesage.com/blog/blm-hawley-creek-restored)  was put together by participants in an early LTPBR workshop, who really undrstood the [restoration principle]() of "strength in numbers". We often show this drone video from the [project](https://www.partnersinthesage.com/blog/blm-hawley-creek-restored) when illustrating this principle as it is just long enough (in a good way) to get boring:
+<div class="responsive-embed">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zkoUP81e4ps" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
+Learn more about the project in [this story](https://www.partnersinthesage.com/blog/blm-hawley-creek-restored) and this video below:
+<div class="responsive-embed"><iframe width="560" height="315" src="https://www.youtube.com/embed/Et0LlSoYooA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
+
 
 ## From the USFWS
 
@@ -48,4 +60,3 @@ Beyond the [LTPBR Explorer](http://bdaexplorer.com), here are a vareity of [vide
 
 -------
 
-#
