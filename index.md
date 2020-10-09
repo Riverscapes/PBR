@@ -6,7 +6,9 @@ weight: 1
 <a class=" button hollow" href="{{ site.baseurl }}/resources/Topics"><img src="{{ site.baseurl }}/assets/images/PBR-LT_round_30.png">  <b>FREE!  LTPBR Workshop Modules</b> and Self-Paced Resources  <i class="fa fa-graduation-cap"></i>  </a>
 </div>
 
+
 ## Manual
+
 <a href="{{ site.baseurl }}/manual"><img class="float-right" src="{{ site.baseurl }}/assets/images/covers/Manual_Tilted_400.png"></a> 
 
 **The purpose of this [design manual]({{ site.baseurl }}/manual) is to provide restoration practitioners with guidelines for implementing a subset of low-tech tools**—namely beaver dam analogues (BDAs) and post-assisted log structures (PALS)—for initiating process-based restoration in structurally-starved riverscapes. While the concept of process-based restoration in riverscapes has been advocated for at least two decades, details and specific examples on how to implement it remain sparse. Here, we describe ‘**low-tech process-based restoration**’ (LT-PBR) as a practice of using simple, low unit-cost, structural additions (e.g. wood and beaver dams) to riverscapes to mimic functions and initiate specific processes. Hallmarks of this approach include:
@@ -39,7 +41,14 @@ Those that did not make the live virtual workshop can take advantage of [self-pa
 <a class="hollow button" href="{{ site.baseurl }}/resources/Topics/03_Planning/sturcturalForcing.html"><i class="fa fa-blind" aria-hidden="true"></i>  Take a Virtual<br> <b>Reading Riverscapes Field Trip</b> </a> 
 </div>
 
+---------
+## Search this Site
+<div align="center">
+<script async src="https://cse.google.com/cse.js?cx=f424951c78d0b3cdd"></script>
+<div class="gcse-search"></div>
+</div>
 
+--------
 
 
 -------
