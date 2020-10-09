@@ -33,7 +33,10 @@ weight: 3
   <div class="column column-block">
        <a class="hollow button" href="https://www.researchgate.net/project/Low-Tech-Process-Based-Restoration"><img src="{{ site.baseurl }}/assets/images/RG.png">  <br>ResearchGate<br><b>LTPBR Publications</b> </a>  
     </div>
-​    
+      <div class="column column-block">
+       <a class="hollow button" href="{{ site.baseurl }}/resources/talks"><i class="fa fa-microphone" aria-hidden="true"></i>       <br>LTPBR <b>Talks & Past Webinars</b> </a>  
+    </div>
+
 
 </div>
 ### Tools & Protocols   
