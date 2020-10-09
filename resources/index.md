@@ -25,7 +25,7 @@ weight: 3
   <div class="column column-block">
        <a class="hollow button" href="{{ site.baseurl }}/resources/Topics/03_Planning/sturcturalForcing.html"><i class="fa fa-blind" aria-hidden="true"></i>  Go on the Virtual <br><b>Reading Riverscapes Field Trip</b> </a>  
     </div>
-    
+
       <div class="column column-block">
        <a class="hollow button" href="{{ site.baseurl }}/resources/Topics/03_Planning/birchcreek.html"><i class="fa fa-blind" aria-hidden="true"></i>  Go on the Virtual <br><b>LTPBR Birch Creek Field Trip</b> </a>  
     </div>
@@ -84,6 +84,13 @@ weight: 3
   
 
 
+</div>
+
+## Search LTPBR Resources on this Site
+
+<div align="center">
+<script async src="https://cse.google.com/cse.js?cx=c409968ed66eda18a"></script>
+<div class="gcse-search"></div>
 </div>
 
 ------
