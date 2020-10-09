@@ -82,7 +82,7 @@ See also:
 ---------
 # Joe Wheaton's Talks on LTPBR
 
-<a href="https://www.researchgate.net/profile/Joseph_Wheaton"><img class="float-right" src="{{ site.baseurl }}/assets/images/people/JoeWheaton_Circle.png"></a> Here is a partial list of talks [Joe Wheaton](http://joewheaton.org) has given on LTPBR since 2015. Slides for all talks are available through the DOI links to researchGate. Every presentation is licensed with a Each a <i class="fa fa-creative-commons" aria-hidden="true"></i>  [Creative Commons Attribution Licence](https://creativecommons.org/), so you are free to re-use slides, figures and content subject to the terms of the license. Those for which a video is recorded are embedded.
+<a href="https://www.researchgate.net/profile/Joseph_Wheaton"><img class="float-right" src="{{ site.baseurl }}/assets/images/people/JoeWheaton_Circle.png"></a> Here is a partial list of talks [Joe Wheaton](http://joewheaton.org) has given on LTPBR since 2015. Slides for all talks are available through the DOI links to ResearchGate. Every presentation is licensed with a <i class="fa fa-creative-commons" aria-hidden="true"></i>  [Creative Commons Attribution Licence](https://creativecommons.org/), so you are free to re-use slides, figures and content subject to the terms of the license. Those for which a video is recorded are embedded.
 
 
 - *Invited Webinar* **Wheaton JM.** 2020.   Identifying Where to Place Beavers and When to Use Beaver Mimicry for Low Tech Restoration. [Association of State Wetland Managers 2020 Beaver Restoration Webinar Series](https://www.aswm.org/aswm/aswm-webinarscalls/3355-2020-past-beaver-restoration-webinar-series). DOI: [10.13140/RG.2.2.24584.65282](https://doi.org/10.13140/RG.2.2.24584.65282)
