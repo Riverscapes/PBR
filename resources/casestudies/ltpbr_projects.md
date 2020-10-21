@@ -10,7 +10,7 @@ Beyond the [LTPBR Explorer](http://bdaexplorer.com), here are a vareity of video
 
 <a href="https://twitter.com/intent/tweet?button_hashtag=lowtechPBR&ref_src=twsrc%5Etfw" class="twitter-hashtag-button" data-size="large" data-related="" data-show-count="false">Tweet #lowtechPBR</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-## From Idaho BLM
+## From  BLM - Idaho
 
 ### Hawley Creek, Idaho
 This incredible [partnership project on Hawley Creek, Idaho](https://www.partnersinthesage.com/blog/blm-hawley-creek-restored)  was put together by participants in an early LTPBR workshop, who really undrstood the [restoration principle]() of "strength in numbers". We often show this drone video from the [project](https://www.partnersinthesage.com/blog/blm-hawley-creek-restored) when illustrating this principle as it is just long enough (in a good way) to get boring:
@@ -22,7 +22,31 @@ Learn more about the project in [this story](https://www.partnersinthesage.com/b
 
 
 
-## From the USFWS
+## From the USFWS - California
+
+### Dotie Ravine 
+<a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Workshops/CheapCheerful/2018/NRCS/Nevada/SRF+2018+-+McKee_small.pdf" target="blank"><img class="float-right" src="{{ site.baseurl }}/assets/images/pics/casestudies/dotie.png"></a>
+Our LTPBR US Fish and Wildlife Service partners  Jared McKee  and Damion Ciotti's  work on Doty Creek at the [Doty Ravine Preserve](http://cvhe.org/projects/doty-ravine-preserve). 
+
+See [slides below](https://ecologicalstreamrestoration.files.wordpress.com/2018/10/ciotti_-doty-ravine-design.pdf) for information on the design.
+
+<a href="https://ecologicalstreamrestoration.files.wordpress.com/2018/10/ciotti_-doty-ravine-design.pdf" target="blank"><img class="float-left" src="{{ site.baseurl }}/assets/images/pics/casestudies/Doty_PBR_Design.png"></a>
+
+See their slides  on ['Embracing Chaos' at right](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Workshops/CheapCheerful/2018/NRCS/Nevada/SRF+2018+-+McKee_small.pdf) for some insights into what happened. 
+
+#### Album
+<div class="row small-up-2 medium-up-3">
+  <div class="column">
+    <a href="https://photos.app.goo.gl/j9kCCwv48aWY3uiH9" target="blank"><img src="{{ site.baseurl }}/assets/images/pics/casestudies/Dotie_FieldAlbum.png"></a>
+
+  </div>
+</div>  
+
+#### Videos & Social Media
+See the video below for beaver taking over at Dotie:
+<div class="responsive-embed">
+<iframe src="https://drive.google.com/file/d/1MBEOawqWXZH0RkON5U0M6qnOTQT7qBHz/preview" width="640" height="480"></iframe>
+</div>
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Stream <a href="https://twitter.com/hashtag/restoration?src=hash&amp;ref_src=twsrc%5Etfw">#restoration</a> with a beaver dam analogue provides <a href="https://twitter.com/hashtag/habitat?src=hash&amp;ref_src=twsrc%5Etfw">#habitat</a> during the heat of the <a href="https://twitter.com/hashtag/summer?src=hash&amp;ref_src=twsrc%5Etfw">#summer</a> and helps to activate the <a href="https://twitter.com/hashtag/floodplain?src=hash&amp;ref_src=twsrc%5Etfw">#floodplain</a> and recharge <a href="https://twitter.com/hashtag/groundwater?src=hash&amp;ref_src=twsrc%5Etfw">#groundwater</a> during winter storms. Look closely- we had some visitors! 😮🐦😸<br><br>📷: Jared McKee, USFWS<a href="https://twitter.com/hashtag/R8HabitatRestoration?src=hash&amp;ref_src=twsrc%5Etfw">#R8HabitatRestoration</a> <a href="https://t.co/lYU7AtjEWi">pic.twitter.com/lYU7AtjEWi</a></p>&mdash; US Fish and Wildlife, Pacific Southwest Region (@USFWS_PSW) <a href="https://twitter.com/USFWS_PSW/status/981953383086149632?ref_src=twsrc%5Etfw">April 5, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
