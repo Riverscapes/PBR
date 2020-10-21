@@ -13,15 +13,19 @@ If you were part of or have completed a LTPBR project, please report the project
      <div class="column column-block">
     <a class="hollow button" href="http://bdaexplorer.com" target="_blank"><img src="{{ site.baseurl }}/assets/images/logos/LTPBRexplorer_button.png"> <br> LTPBR-Explorer Map<br> See LTPBR Projects & <b>Register your own!</b></a>
   </div>
-  
+
   <div class="column column-block">
     <a class="hollow button" href="{{ site.baseurl }}/resources/casestudies/ltpbr_projects.html"><img src="{{ site.baseurl }}/assets/images/logos/social.png"> <br> LTPBR Stories, <br> Anecdotes  & Examples  </a>
   </div>
-  
+
   <div class="column column-block">
     <a class="hollow button" href="{{ site.baseurl }}/resources/casestudies/firecasestudies.html" target="_blank"><img src="{{ site.baseurl }}/assets/images/logos/fire.png"> <br> LTPBR <b>Post-Fire</b><br> Projects & Case Studies </a>
   </div>
   
+ <div class="column column-block">
+    <a class="hollow button" href="{{ site.baseurl }}/resources/casestudies/birch.html" target="_blank"><img src="{{ site.baseurl }}/assets/images/logos/wilde.png"> <br> LTPBR <b>Birch Creek, Utah</b><br> Jay Wilde's Story </a>
+  </div>
+
 </div> 
 
 If you have a report on the planning, design, or evaluation of your own low-tech process based restoration case study, and would like it added to the list below, submit your own here:

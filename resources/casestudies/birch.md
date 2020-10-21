@@ -9,7 +9,7 @@ weight: 4
 <a href="{{ site.baseurl }}/resources/Topics/03_Planning/birchcreek.html"><img  class="float-right" src="{{ sitebase.url }}/assets/images/pics/casestudies/BirchVirtualFieldTrip.png"></a>
 
 [Birch Creek, Idaho](https://earth.app.goo.gl/n9RRA6) in southeast Idaho has become a poster-child case study for LTPBR. Birch Creek is a left-bank tributary to Mink Creek, which is tributary to the Bear River just downstream of Oneida Narrows.  For a [virtual tour](http://lowtechpbr.restoration.usu.edu/resources/Topics/03_Planning/birchcreek.html), meet landowner and rancher Jay Wilde at right or see his talk furhter below.
- 
+
 **The goals of this project were to improve riverscape health and restore perennial flow.** The means to achieving this were reintroducing beaver and letting the process of *beaver dam activity* take over. As of Fall 2020, there are over 165 beaver dams in the creek now.
 
 
@@ -63,11 +63,11 @@ The main focus of this article is on research Brendan Murphy and Patrick Belmont
 <div class="row small-up-2 medium-up-3">
   <div class="column">
     <a href="https://photos.app.goo.gl/koQowenPc8EowQJz8" target="blank"><img src="{{ site.baseurl }}/assets/images/pics/casestudies/Birch_Album_2014Pre.png"></a>
-     
+
   </div>
   <div class="column">
     <a href="https://goo.gl/photos/P8mFt5ahFGTXNrNG9" target="blank"><img src="{{ site.baseurl }}/assets//images/pics/casestudies/Birch_Album_2015_10.png"></a>
-      
+
   </div>
   <div class="column">
     <a href="https://goo.gl/photos/dYgUEgmy7CNNjaEe7" target="blank"><img src="{{ site.baseurl }}/assets//images/pics/casestudies/Birch_Album_2016_09.png"></a>
@@ -77,11 +77,11 @@ The main focus of this article is on research Brendan Murphy and Patrick Belmont
 <div class="row small-up-2 medium-up-3">
   <div class="column">
     <a href="https://photos.app.goo.gl/dij51qdoKsgjSD742" target="blank"><img src="{{ site.baseurl }}/assets/images/pics/casestudies/Birch_Album_2016_10.png"></a>
-     
+
   </div>
   <div class="column">
     <a href="https://photos.app.goo.gl/QeYuFwSEscjn6HGw9" target="blank"><img src="{{ site.baseurl }}/assets//images/pics/casestudies/Birch_Album_2016_11.png"></a>
-      
+
   </div>
   <div class="column">
     <a href="https://goo.gl/photos/gjApY4e423ZrYR7EA" target="blank"><img src="{{ site.baseurl }}/assets//images/pics/casestudies/Birch_Album_2017_04.png"></a>
@@ -91,11 +91,11 @@ The main focus of this article is on research Brendan Murphy and Patrick Belmont
 <div class="row small-up-2 medium-up-3">
   <div class="column">
     <a href="https://photos.app.goo.gl/Q4rC1u8pu9RJJMgc2" target="blank"><img src="{{ site.baseurl }}/assets/images/pics/casestudies/Birch_Album_2017_11.png"></a>
-     
+
   </div>
   <div class="column">
     <a href="https://photos.app.goo.gl/kTdmLGmFjQ1L9DWv8" target="blank"><img src="{{ site.baseurl }}/assets//images/pics/casestudies/Birch_Album_2018_09.png"></a>
-      
+
   </div>
   <div class="column">
     <a href="https://photos.app.goo.gl/aQaFZYwoUZcBM31z6" target="blank"><img src="{{ site.baseurl }}/assets//images/pics/casestudies/Birch_Album_2019_09.png"></a>
@@ -105,9 +105,9 @@ The main focus of this article is on research Brendan Murphy and Patrick Belmont
 <div class="row small-up-2 medium-up-3">
   <div class="column">
     <a href="https://photos.app.goo.gl/mh4ZaFE58wkqde2C8" target="blank"><img src="{{ site.baseurl }}/assets/images/pics/casestudies/Birch_Album_2020_10.png"></a>
-     
+
   </div>
- 
+
 </div>
 
 -------
@@ -121,10 +121,15 @@ The main focus of this article is on research Brendan Murphy and Patrick Belmont
 </div>
 
 
+----
+<div class="row small-up-2 medium-up-2 large-up-4" align="center">
+<div class="column column-block">
+	<a class="hollow button" href="{{ site.baseurl }}/resources/casestudies"><i class="fa fa-weixin" aria-hidden="true"></i> <br> Back to Low-Tech PBR<br> Case Studies & Reports<br></a>
+  </div>
+</div>
 
 
 
 
 
 
------
