@@ -24,8 +24,8 @@ Learn more about the project in [this story](https://www.partnersinthesage.com/b
 
 ## From the USFWS - California
 
-### Dotie Ravine 
-<a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Workshops/CheapCheerful/2018/NRCS/Nevada/SRF+2018+-+McKee_small.pdf" target="blank"><img class="float-right" src="{{ site.baseurl }}/assets/images/pics/casestudies/dotie.png"></a>
+### Doty Ravine 
+<a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Workshops/CheapCheerful/2018/NRCS/Nevada/SRF+2018+-+McKee_small.pdf" target="blank"><img class="float-right" src="{{ site.baseurl }}/assets/images/pics/casestudies/Doty.png"></a>
 Our LTPBR US Fish and Wildlife Service partners  Jared McKee  and Damion Ciotti's  work on Doty Creek at the [Doty Ravine Preserve](http://cvhe.org/projects/doty-ravine-preserve). 
 
 See [slides below](https://ecologicalstreamrestoration.files.wordpress.com/2018/10/ciotti_-doty-ravine-design.pdf) for information on the design.
@@ -43,7 +43,7 @@ See their slides  on ['Embracing Chaos' at right](https://s3-us-west-2.amazonaws
 </div>  
 
 #### Videos & Social Media
-See the video below for beaver taking over at Dotie:
+See the video below for beaver taking over at Doty:
 <div class="responsive-embed">
 <iframe src="https://drive.google.com/file/d/1MBEOawqWXZH0RkON5U0M6qnOTQT7qBHz/preview" width="640" height="480"></iframe>
 </div>
