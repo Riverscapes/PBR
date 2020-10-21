@@ -9,7 +9,18 @@ Normally, in our in-person workshops, we like to take participants in the field 
 
 There is no substitute for meeting Jay Wilde in person and seeing what the beaver have done to [Birch Creek, Idaho](http://capstone.restoration.usu.edu/Course_Topics/WATS_5350/Low-Tech/Projects/birch/) because of his efforts. Tromping around in the water and mud and experiencing this for yourself, really helps the concepts and the scope of what is possible sink in. This page attempts to reproduce as much of that experience as we can virtually for you in Birch Creek. 
 
-## Topic Covered in WATS Classes
+## More About Birch Creek & Jay's Story
+<div class="row small-up-2 medium-up-2 large-up-4" align="center">
+
+    
+  
+ <div class="column column-block">
+    <a class="hollow button" href="{{ site.baseurl }}/resources/casestudies/birch.html" target="_blank"><img src="{{ site.baseurl }}/assets/images/logos/wilde.png"> <br> LTPBR <b>Birch Creek, Utah</b><br> Jay Wilde's Story </a>
+  </div>
+
+</div> 
+
+### Topic Covered in WATS Classes
 For those of you in the [WATS 5350 Capstone](http://capstone.restoration.usu.edu/Course_Topics/WATS_5350/) and/or the Fall 2020 [WATS 4950 Restoration Principles](https://usu.instructure.com/courses/595865), this is a substitute for part of the field trip we did on September 18, 2020. 
 
 # Birch Creek Field Tour
