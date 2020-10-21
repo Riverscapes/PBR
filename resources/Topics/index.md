@@ -31,7 +31,8 @@ weight: 1
 - [Additional Introductory Lectures from *WATS 5350 Capstone*](http://capstone.restoration.usu.edu/Course_Topics/WATS_5350/Low-Tech/intro.html)
 
 #### [Module 2 - Science & Case Studies]({{ site.baseurl }}/resources/Topics/02_Science/)
-
+- [Fire Resiliency]({{ site.baseurl }}/resources/Topics/02_Science/fire.html)
+- [Fish and Beaver]({{ site.baseurl }}/resources/Topics/02_Science/fish.html)
 
 #### [Module 3 - Planning]({{ site.baseurl }}/resources/Topics/03_Planning/)
 - [Virtual Field Trip Reading Riverscapes ]({{ site.baseurl }}/resources/Topics/03_Planning/sturcturalForcing.html)
@@ -44,7 +45,9 @@ weight: 1
 - [An Extra **Design Assignment** for Birch Creek from *WATS 5350 Capstone*](http://capstone.restoration.usu.edu/Course_Topics/WATS_5350/Low-Tech/Projects/birch/birchdesign.html)
 
 #### [Module 5 - Implementation]({{ site.baseurl }}/resources/Topics/05_Implementation/)
+- [Consultation & Permitting]({{ site.baseurl }}/resources/Topics/05_Implementation/permitting.html)
 - [PALS Contruction]({{ site.baseurl }}/resources/Topics/05_Implementation/PALS.html)
+- [BDA Contruction]({{ site.baseurl }}/resources/Topics/05_Implementation/BDAs.html)
 
 ### Free Resources Made Possible By
 <div class="row small-up-2 medium-up-2 large-up-6" >
