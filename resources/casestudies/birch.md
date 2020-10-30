@@ -33,6 +33,39 @@ If you'd like to hear part of the story on the ground (in a virtual field trip),
 <a class="hollow button" href="http://lowtechpbr.restoration.usu.edu/resources/Topics/03_Planning/birchcreek.html"><i class="fa fa-blind" aria-hidden="true"></i>  Go on the Virtual <br><b>LTPBR Birch Creek Field Trip</b> </a> 
 </div>
 
+### Birch Creek Lectures
+Nick Bouwes gave an abbreviated version of the Birch Creek story in the [Virtual Workshop Module 2](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module2#c-beaver-dam-analogues-bridge-creek--birch-creek)
+
+<div class="row small-up-2 medium-up-2">
+  <div class="column">
+    <div class="card">
+      <div class="card-section">
+        <h4>Video Part 3</h4>
+        <div class="responsive-embed"> 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uNFG4uCMw1E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
+
+</div>
+      </div>
+    </div>
+  </div>
+
+  <div class="column">
+    <div class="card">
+
+
+      <div class="card-section">
+        <h4>Slides Part 3</h4>
+    <div align="center">
+        	<a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2020/SGI/Materials/Module2/02_C_3_Processes_BridgeBirch.pdf" target="_blank"><img src="{{ site.baseurl }}/assets/images/workshops/2020/modules/02_C3.png"></a>
+        	</div>
+        
+         <i class="fa fa-file-pdf-o" aria-hidden="true"></i> <a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2020/SGI/Materials/Module2/02_C_3_Processes_BridgeBirch.pdf" target="_blank">LTPBR Case Studies:Birch Creek - Slides</a>
+        
+      </div>
+    </div>
+
+  </div>
+</div>
 
 ## Story Told by Others
 This story has appeared in multiple media outlets. Here are a few of the recent ones:
@@ -125,6 +158,7 @@ The main focus of this article is on research Brendan Murphy and Patrick Belmont
 <a class="button" href="http://capstone.restoration.usu.edu/Course_Topics/WATS_5350/Low-Tech/Projects/birch/birchplanning.html"><i class="fa fa-leaf" aria-hidden="true"></i> Conservation Planning Resources for Birch Creek</a> 
 <a class="button" href="http://capstone.restoration.usu.edu/Course_Topics/WATS_5350/Low-Tech/Projects/birch/birchdesign.html"><i class="fa fa-leaf" aria-hidden="true"></i> Design Resources for Birch Creek</a> 
 </div>
+
 
 
 ----
