@@ -8,6 +8,13 @@ This page contains a long, ever-growing and incomplete listing of  talks on LTPB
 
 # Webinars & Recorded Talks
 
+## 2020 New Mexico Beaver  Summit
+The [2020 New Mexico Beaver Summit](https://nmbeaversummit.org/) featured a session on [Return of the Beaver](https://nmbeaversummit.org/schedule-register/) in which Joe gave this talk:
+<div class="responsive-embed">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Ll-VKfJPdcA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+- Webinar. Wheaton JM.  2020.   Overview of Beaver Assisted and Inspired Riverscape Restoration. [2020 New Mexico Beaver Summit](https://nmbeaversummit.org/). DOI: [10.13140/RG.2.2.19926.47684](https://doi.org/10.13140/RG.2.2.19926.47684)
+
 ## 2020 ASWM Beaver-Assisted Restoration
 <a target="blank" href="https://www.aswm.org/"><img class="float-right" src="{{ site.baseurl }}/assets/images/logos/ASWM.GIF"></a> 
 One part of LTPBR is beaver-assisted restoration, is beaver, and Association of State Wetland Managers (ASWM) is hosting this 2020  [Beaver Restoration Webinar Series ](https://www.aswm.org/aswm/aswm-webinarscalls/3355-2020-past-beaver-restoration-webinar-series)series to flesh out these topics specifically.
