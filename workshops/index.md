@@ -93,7 +93,7 @@ Note that these courses meet weekly at specific times ([hybrid F2F](https://www.
 | Class     | Time              | Days | Where                     | Dates                 |  Instructors                                                                                         |
 |----------|-------------------|------|---------------------------|-----------------------------|-----------------------------------------------------------------------------------------------------|
 | [Desiging LTPBR](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module4)       | 1:30 pm - 3:30 pm | Tuesdays    | Zoom | Mar 30, Apr 6, & 13, 2021 |  [Joseph Michael Wheaton (P), Stephen Nicholas Bennett, Scott M Shahverdian]({{ site.baseurl }}//workshops/2020/SGI/#instruction-team) |
-| [Desiging LTPBR](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module4)       | 8:30 am - 5:30 pm | Saturday    | Field Trip | Mar 30, Apr 6, & 13, 2021 |  [Joseph Michael Wheaton (P), Stephen Nicholas Bennett, Scott M Shahverdian]({{ site.baseurl }}//workshops/2020/SGI/#instruction-team) |
+| [Desiging LTPBR](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module4)       | 8:30 am - 5:30 pm | Saturday    | Field Trip | Apr 10, 2021 |  [Joseph Michael Wheaton (P), Stephen Nicholas Bennett, Scott M Shahverdian]({{ site.baseurl }}//workshops/2020/SGI/#instruction-team) |
 
 
 
