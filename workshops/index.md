@@ -10,10 +10,10 @@ weight: 4
 
 <img class="float-right" src="{{ site.baseurl }}/assets/images/workshops/teaching.jpg">We have taught over 20 workshops, short-courses and full semester long classes since 2010 on low-tech process-based restoration (see table below).  There are a variety of ways in which we have offered this training:
 
-- Short courses & workshops open to public enrollment administered through Utah State University [Restoration Consortium](http://restoration.usu.edu) 
-- Custom short course for private audience (paid for by sponsor)- Free [Virtual Workshops]({{ site.baseurl }}/workshops/2020/SGI) and/or [Self-Paced Modules]({{ site.baseurl }}/resources/Topics/)
-- Semester-long graduate student course through Utah State University Department of Watershed Sciences (WATS 6860 - Check USU Registrar for offerings) 
-- 
+- **Short courses & workshops** open to public enrollment administered through Utah State University [Restoration Consortium](http://restoration.usu.edu)  
+- **Custom short course for private audience** (paid for by sponsor)- Free [Virtual Workshops]({{ site.baseurl }}/workshops/2020/SGI) and/or [Self-Paced Modules]({{ site.baseurl }}/resources/Topics/)
+- **[University courses]({{ site.baseurl }}/workshops/usu)** through Utah State University Department of Watershed Sciences for matriculated graudate students (e.g. WATS 5620, 5621, 5622, 5623, 5624, 6900, 6860) or professionals as continuing education units (CEUs; e.g. CEWA 5620, 5621, 5622, 5623, 5624, 6900 )
+
 Note that Undergraduates in the [Department of Watershed Sciences](https://qcnr.usu.edu/wats/)  [Management and Restoration of Aquatic Ecosystems](https://qcnr.usu.edu/undergraduates/prospective/degrees/aquatic_ecosystems) Major get a full year of training on low-tech process-based restoration in the [Capstone Classes (WATS 5340 & 5350)](http://capstone.restoration.usu.edu). 
 
 
@@ -23,7 +23,7 @@ Note that Undergraduates in the [Department of Watershed Sciences](https://qcnr.
 
 -----
 ## Workshop Locations
-In addition to teaching these workshops at the Utah State University campus in Logan, we have taught LTPBR workshops in a vareity of locations:
+In addition to teaching these workshops at the [Utah State University campus](https://www.usu.edu/map/) in Logan, we have taught LTPBR workshops in a vareity of locations:
 
 <div class="responsive-embed">
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=11j18BJXFTUUEOYZZIS_mLex6ijZx0sFf" width="640" height="480"></iframe>
@@ -33,95 +33,8 @@ In addition to teaching these workshops at the Utah State University campus in L
 ## Workshops &  Short-Courses
 
 --------------
-### Utah State University Administered Workshops
-In Spring 2021, we began offerring the modularized workshop curriculum (available for free, self-pacing [here]({{ site.baseurl }}/resources/Topics/ )) in a sequence of five, short-courses. These short-courses differ from the workshop curriculum in that:
-- These courses are taken for University Credit (for matriculated USU students) or University [Continuing Education Units](https://www.usu.edu/ais/ceu/about)
-- These courses use the same curriculum, but are augmented by more in-depth class discussions, quizes and homework assignments
-- These courses are assessed, and you will recieve feedback and a letter grade based on your assessed work.
 
-Note that these courses meet weekly at specific times ([hybrid F2F](https://www.usu.edu/ais/scheduling/deliverymethods)), and the Design and Implementation have mandatory Saturday Field Trips.
-
-- WATS/CEWA 5620♣ - **Introduction** to Low-Tech Process-Based Restoration of Riverscapes - *Meets 3 times remotely*
-- WATS/CEWA 5621♣ - **Science and Case Studies** of Low-Tech Process-Based Restoration of Riverscapes  - *Meets 3 times remotely*
-- WATS/CEWA 5622♣ - **Planning** Low-Tech Process-Based Restoration of Riverscapes   - *Meets 3 times remotely*
-- WATS/CEWA 5623♣ - **Desigining** Low-Tech Process-Based Restoration of Riverscapes  - *Meets 3 times remotely, with mandatory Saturday Design Field Trip*
-- WATS/CEWA 5624♣ - **Implementing** Low-Tech Process-Based Restoration of Riverscapes   - *Meets once remotely, with mandatory Construction Field Trip on a Saturday*
-
-♣ Course Numbers Pending; Note for Spring 2021, these were offered as WATS 6900 and CEWA 6900 Special Topics 
-
-#### Spring 2021
-##### Intro to LTPBR
-- Matriculated Students: [ST:INTRO LOWTECH PROC REST RIV - 12043 - WATS 6900 - 002](https://ssb.banner.usu.edu/zprod/bwckschd.p_disp_detail_sched?term_in=202120&crn_in=12043)
-- Non-Matriculated Students: CEWA 5700 - 26236 - LB1 
-
-| Class     | Time              | Days | Where                     | Dates                 |  Instructors                                                                                         |
-|----------|-------------------|------|---------------------------|-----------------------------|-----------------------------------------------------------------------------------------------------|
-| [Intro to LTPBR](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module1)     | 1:30 pm - 3:30 pm | Tuesdays    | Zoom | Jan 19, 26 & Feb 2,  2021 |  [Joseph Michael Wheaton (P), Stephen Nicholas Bennett, Nicolaas W Bouwes, Scott M Shahverdian]({{ site.baseurl }}//workshops/2020/SGI/#instruction-team) |
-
-
-##### LTPBR Science & Case Studies
-- Matriculated Students: [ST:SCI&CASE STUD LOWTECH RIV - 12054 - WATS 6900 - 003](https://ssb.banner.usu.edu/zprod/bwckschd.p_disp_detail_sched?term_in=202120&crn_in=12054)
-- Non-Matriculated Students: CEWA 5700 - 26394 - LB2 
-
-
-
-
-| Class     | Time              | Days | Where                     | Dates                 |  Instructors                                                                                         |
-|----------|-------------------|------|---------------------------|-----------------------------|-----------------------------------------------------------------------------------------------------|
-| [LTPBR Science & Case Studies](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module2)       | 1:30 pm - 3:30 pm | Tuesdays    | Zoom | Feb 09, 23 & Mar 2, 2021 |  [Nicolaas W Bouwes (P), Stephen Nicholas Bennett, Joseph Michael Wheaton]({{ site.baseurl }}//workshops/2020/SGI/#instruction-team) |
-
-
-##### Planning LTPBR 
-- Matriculated Students: [ST:PLANLOWTEC PRCBASED REST RI - 12075 - WATS 6900 - 004](https://ssb.banner.usu.edu/zprod/bwckschd.p_disp_detail_sched?term_in=202120&crn_in=12075)
-- Non-Matriculated Students: 26395 - CEWA 5700 - LB3
-
-
-
-
-
-| Class     | Time              | Days | Where                     | Dates                 |  Instructors                                                                                         |
-|----------|-------------------|------|---------------------------|-----------------------------|-----------------------------------------------------------------------------------------------------|
-| [Planning LTPBR](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module3)       | 1:30 pm - 3:30 pm | Tuesdays    | Zoom | Mar 09, 16, & 23, 2021 |  [Joseph Michael Wheaton (P), Stephen Nicholas Bennett]({{ site.baseurl }}//workshops/2020/SGI/#instruction-team) |
-
-
-##### Designing LTPBR 
-- Matriculated Students: [ST:DES LOWTEC PRCBAS REST RIV - 12083 - WATS 6900 - 005](https://ssb.banner.usu.edu/zprod/bwckschd.p_disp_detail_sched?term_in=202120&crn_in=12083)
-- Non-Matriculated Students: 26397 - CEWA 5700 - LB4
-
-
-
-| Class     | Time              | Days | Where                     | Dates                 |  Instructors                                                                                         |
-|----------|-------------------|------|---------------------------|-----------------------------|-----------------------------------------------------------------------------------------------------|
-| [Desiging LTPBR](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module4)       | 1:30 pm - 3:30 pm | Tuesdays    | Zoom | Mar 30, Apr 6, & 13, 2021 |  [Joseph Michael Wheaton (P), Stephen Nicholas Bennett, Scott M Shahverdian]({{ site.baseurl }}//workshops/2020/SGI/#instruction-team) |
-| [Desiging LTPBR](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module4)       | 8:30 am - 5:30 pm | Saturday    | Field Trip | Apr 10, 2021 |  [Joseph Michael Wheaton (P), Stephen Nicholas Bennett, Scott M Shahverdian]({{ site.baseurl }}//workshops/2020/SGI/#instruction-team) |
-
-
-
-
-##### Implementing LTPBR 
-- Matriculated Students: ST:IMP LOWTEC PRCBAS REST RIV - ????? - WATS 6900 - 00?
-- Non-Matriculated Students: ???? - CEWA 5700 - LB?
-
-
-
-| Class     | Time              | Days | Where                     | Dates                 |  Instructors                                                                                         |
-|----------|-------------------|------|---------------------------|-----------------------------|-----------------------------------------------------------------------------------------------------|
-| [Implementing LTPBR](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module5)       | 1:30 pm - 3:30 pm | Tuesday    | Zoom | Apr 20, 2021 |  [Scott M Shahverdian (P), Joseph Michael Wheaton, Stephen Nicholas Bennett, Nicolaas W Bouwes]({{ site.baseurl }}//workshops/2020/SGI/#instruction-team) |
-| [Implementing LTPBR](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module3)       | 7:30 am - 5:30 pm | Saturday    | Field Trip | Apr 24, 2021 |  [Scott M Shahverdian (P), Joseph Michael Wheaton, Stephen Nicholas Bennett, Nicolaas W Bouwes]({{ site.baseurl }}//workshops/2020/SGI/#instruction-team) |
-
----------------------
-
-### Public Enrollment Workshops
-
-| Year  | Workshop | Location | Audience |
-| ------ | ------ | ------ | ------ |
-| 2020, August 11-14 | [Low-Tech Process-Based Restoration of Riverscapes - 2020 Virtual Workshop]({{ site.baseurl }}/workshops/2020/SGI/) | Online | NRCS, [WLFW](https://www.nrcs.usda.gov/wps/portal/nrcs/detail/national/plantsanimals/fishwildlife/?cid=stelprdb1046975), [Pheasants Forever](https://pheasantsforever.org/Hunt/pheasant-hunting.aspx), [USU Restoration Consortium](http://restoration.usu.edu/), |
-| 2019, October | [Stage Zero Restoration]({{ site.baseurl }}/workshops/2019/Stage0/materials.html) | Sisters, OR | [River Restoration Northwest](http://restoration.usu.edu/) & [Portland State University](https://www.pdx.edu/environmental-professional-program/river-restoration-certificate) |
-| 2019, September | [Introduction to Low-Tech Process-Based Restoration]({{ site.baseurl }}/workshops/2019/RC/) | Logan, UT | [USU Restoration Consortium](http://restoration.usu.edu/) |
-| 2016,  October | Beaver Restoration Class | Prineville, Oregon | [Portland State University](https://www.pdx.edu/environmental-professional-program/river-restoration-certificate) |
-| 2013, February | Working with Beaver in Restoration | Skamania, WA | [River Restoration Northwest Annual Symposium]([USU Restoration Consortium](http://restoration.usu.edu/)) |
-
-
+###  University Courses on LTPBR
 
 
 

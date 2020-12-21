@@ -1,10 +1,15 @@
 ---
-title:  Intro LTPBR Workshop Materials 
+title:  Old Intro LTPBR Workshop Materials 
 weight: 2
 ---
 
 
-Below you can find PDFs of the slides we cover in the intro to low-tech process-based restoration workshops. Each is licensed with a [Creative Commons licence](https://creativecommons.org/), so you are free to re-use subject to the terms of the license. 
+Below you can find PDFs of the slides we covered in the intro to low-tech process-based restoration workshops for [2019]({{ site.baseurl }}/workshops/2019/SGI/). Each is licensed with a [Creative Commons licence](https://creativecommons.org/), so you are free to re-use subject to the terms of the license. **NOTE: These were superseded in 2020 by the free virtual workshop materials:**
+
+<div align="center">
+<a class=" button hollow" href="{{ site.baseurl }}/resources/Topics"><img src="{{ site.baseurl }}/assets/images/PBR-LT_round_30.png">  <b>FREE!  LTPBR Workshop Modules</b> and Self-Paced Resources  <i class="fa fa-graduation-cap"></i>  </a>
+</div>
+
 
 # Day 1 - Intro to Low-Tech Process Based Restoration
 

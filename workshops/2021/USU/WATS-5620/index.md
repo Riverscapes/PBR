@@ -3,15 +3,34 @@ title: Intro to LTPBR - Syllabus
 weight: 1
 ---
 
-# Course Description
+# WATS 5620 - Course Description
 
-Insert your course description here.
+## [Catalog Description](https://ssb.banner.usu.edu/zprod/bwckctlg.p_display_courses?term_in=202120&one_subj=WATS&sel_crse_strt=5150&sel_crse_end=5150&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=)
+Provides an introduction to the practice of Low-Tech Process-Based Restoration of Riverscapes. Students will gain exposure to the scope of riverscape degradation, example low-tech restoration techniques, riverscape and restoration principles. 
 
-# Fees
+|**Title**| Introduction to Low-Tech Process-Based Restoration of Riverscapes|
+|**Semester(s) Traditionally Offered**| Spring|
+|**Credits**: |1.0 Credit hours  (1.5 CEU)|
+|**Levels**: |Graduate|
+|**Schedule Types**: |Hybrid Face to Face Lecture |
+|**Cross-Listed As**: |NA|
+
+
+
+## Schedule
+### Spring 2021 - Intro to LTPBR
+- Matriculated Students: [ST:INTRO LOWTECH PROC REST RIV - 12043 - WATS 6900 - 002](https://ssb.banner.usu.edu/zprod/bwckschd.p_disp_detail_sched?term_in=202120&crn_in=12043)
+- Non-Matriculated Students: CEWA 5700 - 26236 - LB1 
+
+| Class     | Time              | Days | Where                     | Dates                 |  Instructors                                                                                         |
+|----------|-------------------|------|---------------------------|-----------------------------|-----------------------------------------------------------------------------------------------------|
+| [Intro to LTPBR](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module1)     | 1:30 pm - 3:30 pm | Tuesdays    | Zoom | Jan 19, 26 & Feb 2,  2021 |  [Joseph Michael Wheaton (P), Stephen Nicholas Bennett, Nicolaas W Bouwes, Scott M Shahverdian]({{ site.baseurl }}//workshops/2020/SGI/#instruction-team) |
+
+## Fees
 
 Insert content here.
 
-# Course Objectives
+## Course Objectives
 
 By the end of this course, you will be able to:
 
@@ -20,7 +39,7 @@ By the end of this course, you will be able to:
 3. Objective
 
 ------
-# Instructors
+## Instructors
 
 Instructor Name, Contact information, Office Hours and Course Schedule. If applicable, may also include items such as TA information, course or instructor website information, etc.
 
@@ -62,7 +81,7 @@ To get in touch with instructor(s), please use [Canvas](https://usu.instructure.
 Please use Office Hours (Wednesday 12:00 - 13:00 via [Zoom](https://usu-edu.zoom.us/my/h20joe?pwd=eFNjSllqT3VDNTRoLzZ3Sk9IM1F6UT09) <i class="fa fa-search" aria-hidden="true"></i>
 
 
-## Instructor Affiliations
+### Instructor Affiliations
 
 <div class="row small-up-2 medium-up-2 large-up-5" align="center">
   <div class="column column-block">
@@ -91,8 +110,9 @@ Required and Optional Course Resources (e.g., textbook, safety equipment, etc.).
 ## Slides & Handouts
 
 <div align="center">
+<a class="hollow button" href="https://usu.instructure.com/courses/618129"><img src="{{ site.baseurl }}/assets/images/canvas_logo.png">  <b>Spring 2021 Canvas</b><br> WATS 6900 - Intro to LTPBR Course Assignments</a>
 
-<a class="hollow button" href="{{ site.baseurl }}/workshops/2020/SGI/Modules/module1"><img src="{{ site.baseurl }}/assets/images/diagrams/presentation.png"> <b>Module 1 - Intro</b> <br> Slides  <i class="fa fa-file-pdf-o" aria-hidden="true"></i>, Recorded Lectures <i class="fa fa-youtube-play" aria-hidden="true"></i> and Exercises </a>
+<a class="hollow button" href="{{ site.baseurl }}/workshops/2020/SGI/Modules/module1"><img src="{{ site.baseurl }}/assets/images/diagrams/presentation.png"> <b>Module  - Intro Resources</b> <br> Slides  <i class="fa fa-file-pdf-o" aria-hidden="true"></i>, Recorded Lectures <i class="fa fa-youtube-play" aria-hidden="true"></i> and Exercises </a>
 
 <a class="hollow button" href="{{ site.baseurl }}/workshops/2020/SGI/Modules/module2"><img src="{{ site.baseurl }}/assets/images/diagrams/presentation.png"> <b>Module 2 - Science</b> <br> Slides  <i class="fa fa-file-pdf-o" aria-hidden="true"></i>, Recorded Lectures <i class="fa fa-youtube-play" aria-hidden="true"></i> and Exercises </a>
 
@@ -151,9 +171,11 @@ The following grading standards will be used in this class:
 
 Outline dates and assignments
 
+
 # Attendance and Excused Absences Policy
 
 Insert course policy content here.
+
 
 # Library Services
 
@@ -163,6 +185,7 @@ All USU students attending classes in Logan, at our Regional Campuses, or online
 
 Utah State University supports the principle of freedom of expression for both faculty and students. The University respects the rights of faculty to teach and students to learn. Maintenance of these rights requires classroom conditions that do not impede the learning process. Disruptive classroom behavior will not be tolerated. An individual engaging in such behavior may be subject to disciplinary action. Read [Student Code Article V Section V-3 (Links to an external site.)](https://studentconduct.usu.edu/studentcode/article5) for more information.
 
+------------
 # University Policies & Procedures
 
 ## COVID-19 Classroom Protocols
