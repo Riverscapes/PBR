@@ -1,5 +1,4 @@
 ---
-
 title: Low-Tech PBR Workshops
 weight: 4
 ---
@@ -10,9 +9,11 @@ weight: 4
 
 <img class="float-right" src="{{ site.baseurl }}/assets/images/workshops/teaching.jpg">We have taught over 20 workshops, short-courses and full semester long classes since 2010 on low-tech process-based restoration (see table below).  There are a variety of ways in which we have offered this training:
 
-- **Short courses & workshops** open to public enrollment administered through Utah State University [Restoration Consortium](http://restoration.usu.edu)  
-- **Custom short course for private audience** (paid for by sponsor)- Free [Virtual Workshops]({{ site.baseurl }}/workshops/2020/SGI) and/or [Self-Paced Modules]({{ site.baseurl }}/resources/Topics/)
-- **[University courses]({{ site.baseurl }}/workshops/usu)** through Utah State University Department of Watershed Sciences for matriculated graudate students (e.g. WATS 5620, 5621, 5622, 5623, 5624, 6900, 6860) or professionals as continuing education units (CEUs; e.g. CEWA 5620, 5621, 5622, 5623, 5624, 6900 )
+- **[University courses]({{ site.baseurl }}/workshops/usu.html)** through Utah State [University Department of Watershed Sciences](https://qcnr.usu.edu/wats/) for matriculated graudate students (e.g. WATS 5620, 5621, 5622, 5623, 5624, 6900, 6860) or professionals as continuing education units (CEUs; e.g. CEWA 5620, 5621, 5622, 5623, 5624, 6900 )  - *tuition fee charged per unit*  
+- **Short courses & workshops** open to public enrollment administered through Utah State University [Restoration Consortium](http://restoration.usu.edu) - *workshop fee charged* 
+- **Custom short course for private audience** - Virtual Workshops ([e.g. WLFW 2020]]({{ site.baseurl }}/workshops/2020/SGI)) and In-Person Workshops *(paid for by workshop sponsor(s))*
+- **[Self-Paced Modules]({{ site.baseurl }}/resources/Topics/)** - *Free*
+
 
 Note that Undergraduates in the [Department of Watershed Sciences](https://qcnr.usu.edu/wats/)  [Management and Restoration of Aquatic Ecosystems](https://qcnr.usu.edu/undergraduates/prospective/degrees/aquatic_ecosystems) Major get a full year of training on low-tech process-based restoration in the [Capstone Classes (WATS 5340 & 5350)](http://capstone.restoration.usu.edu). 
 
@@ -21,24 +22,30 @@ Note that Undergraduates in the [Department of Watershed Sciences](https://qcnr.
 	<a href="http://restoration.usu.edu"><img class="float-right" src="{{ site.baseurl }}/assets/images/logos/Restoration-PAIRED-05_Horizontal_BlueOnWhite.png"></a>
 </div>
 
------
-## Workshop Locations
-In addition to teaching these workshops at the [Utah State University campus](https://www.usu.edu/map/) in Logan, we have taught LTPBR workshops in a vareity of locations:
 
-<div class="responsive-embed">
-<iframe src="https://www.google.com/maps/d/u/0/embed?mid=11j18BJXFTUUEOYZZIS_mLex6ijZx0sFf" width="640" height="480"></iframe>
+-----
+
+# Workshops &  Short-Courses
+
+
+##  University Courses on LTPBR
+See our [University courses]({{ site.baseurl }}/workshops/uni) for a full listing.
+<div align="center">
+<a class=" button hollow" href="{{ site.baseurl }}/workshops/uni"><img width="100" src="{{ site.baseurl }}/assets/images/sponsors/USU.png">   <b>LTPBR Courses</b> For University Credit or Professional CEU  <i class="fa fa-graduation-cap"></i>  </a>
 </div>
------
+---------------------
+## Public Enrollment Workshops
 
-## Workshops &  Short-Courses
+| Year               | Workshop                                                     | Location           | Audience                                                     |
+| ------------------ | ------------------------------------------------------------ | ------------------ | ------------------------------------------------------------ |
+| 2020, August 11-14 | [Low-Tech Process-Based Restoration of Riverscapes - 2020 Virtual Workshop]({{ site.baseurl }}/workshops/2020/SGI/) | Online             | NRCS, [WLFW](https://www.nrcs.usda.gov/wps/portal/nrcs/detail/national/plantsanimals/fishwildlife/?cid=stelprdb1046975), [Pheasants Forever](https://pheasantsforever.org/Hunt/pheasant-hunting.aspx), [USU Restoration Consortium](http://restoration.usu.edu/), |
+| 2019, October      | [Stage Zero Restoration]({{ site.baseurl }}/workshops/2019/Stage0/materials.html) | Sisters, OR        | [River Restoration Northwest](http://restoration.usu.edu/) & [Portland State University](https://www.pdx.edu/environmental-professional-program/river-restoration-certificate) |
+| 2019, September    | [Introduction to Low-Tech Process-Based Restoration]({{ site.baseurl }}/workshops/2019/RC/) | Logan, UT          | [USU Restoration Consortium](http://restoration.usu.edu/)    |
+| 2016,  October     | Beaver Restoration Class                                     | Prineville, Oregon | [Portland State University](https://www.pdx.edu/environmental-professional-program/river-restoration-certificate) |
+| 2013, February     | Working with Beaver in Restoration                           | Skamania, WA       | [River Restoration Northwest Annual Symposium]([USU Restoration Consortium](http://restoration.usu.edu/)) |
 
---------------
-
-###  University Courses on LTPBR
-
-
-
-###  Custom Private Workshops
+-------------
+##  Custom Private Workshops
 
 
 
@@ -56,21 +63,10 @@ In addition to teaching these workshops at the [Utah State University campus](ht
 
 
 -----
-# Can I make it Count?
+# Workshop Locations
+In addition to teaching these workshops at the [Utah State University campus](https://www.usu.edu/map/) in Logan, we have taught LTPBR workshops in a vareity of locations:
 
-Through our [USU Restoration Consoritum](http://restoration.usu.edu/) we do offer professional CEU credit hours as well as undergraduate and graduate matriculated student regular credit hours. To earn these credits, one needs to both pay the tuition and submit assignments, which are formally asssessed. By contrast, if you just want a Certificate of Participation (suffices for some professional development and training requirements), we issue these at participant request for all our workshops. 
+<div class="responsive-embed">
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=11j18BJXFTUUEOYZZIS_mLex6ijZx0sFf" width="640" height="480"></iframe>
+</div>
 
-## Graduate or Undergraduate University Credit
-In the past, for the 2.5 day workshop, that was the equivalent of 1 matriculated semester credit (i.e. 15 contatct hours... with lab/field work counting @ 1/3) at [regular tuition](https://www.usu.edu/registrar/registration/payment/). The low-tech content has been oferred as both Espresso-Courses (short-courses) and Semseter Long as:
-- [WATS 6900](https://catalog.usu.edu/content.php?filter%5B27%5D=WATS&filter%5B29%5D=6900&filter%5Bcourse_type%5D=-1&filter%5Bkeyword%5D=&filter%5B32%5D=1&filter%5Bcpage%5D=1&cur_cat_oid=12&expand=&navoid=3068&search_database=Filter#/usr/local/webroot/acalog-legacy/shared/htdocs_gateway/ajax/preview_course.php) - Graduate Special Topics
-- [WATS 6860](https://catalog.usu.edu/preview_course_nopop.php?catoid=12&coid=93002) - Partnering with Beaver in Restoration Design
-
-From Spring 2021,  a revamped range of courses will be oferred (see above). All of these can be used to count toward our[Graduate Certificate Program in Restoration](http://restoration.usu.edu/programs/aquatic_ecosystem_restoration). 
-
-## Professional Continuing Education Units
-Our University offers professional continuing education units ([CEUs](https://www.usu.edu/ais/ceu/about)) where 1 CEU is roughly 10 contact hours).
-
-With the  switch to this [3.5 day format with 5 modules](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/), we're restructuring that. We will be addingsome courses this Fall and Spring, which cover the same content as Virtual Workshop, but they will have some homework assignments and quizzes that will be assessed so that the credits are confirming some level of knowledge (as opposed to just participation). 
-
-## Future Plans
-We're also working with the Society of Ecological Restoration so that  these courses will count towards their [Certified Ecological Restoration Practitioner Program](https://www.ser.org/page/Certification). 
