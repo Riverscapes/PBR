@@ -12,13 +12,20 @@ In Spring 2021, we began offering a sequence of five, short-courses, that parall
 
 The  LTBPR Spring Series of courses meet weekly on Tuesdays from 13:30 to 15:30  ([hybrid F2F](https://www.usu.edu/ais/scheduling/deliverymethods)), and the Design and Implementation have mandatory Saturday Field Trips in addition (see [Spring 2021 for dates]({{ site.baseurl }}/workshops/2021/USU/)).
 
-- WATS/CEWA 5620♣ - **Introduction** to Low-Tech Process-Based Restoration of Riverscapes - *Meets 3 times remotely*
-- WATS/CEWA 5621♣ - **Science and Case Studies** of Low-Tech Process-Based Restoration of Riverscapes  - *Meets 3 times remotely*
-- WATS/CEWA 5622♣ - **Planning** Low-Tech Process-Based Restoration of Riverscapes   - *Meets 3 times remotely*
-- WATS/CEWA 5623♣ - **Designing** Low-Tech Process-Based Restoration of Riverscapes  - *Meets 3 times remotely, with mandatory Saturday Design Field Trip*
-- WATS/CEWA 5624♣ - **Implementing** Low-Tech Process-Based Restoration of Riverscapes   - *Meets once remotely, with mandatory Construction Field Trip on a Saturday*
+
+| Course # |  Course Title | Number of Meetings     | Pre-Requesite |
+|--------------------------------------------------------------------------------------------------------------------------------------------------------------|---|---|---|
+| WATS/CEWA 5620♣ |  **Introduction** to Low-Tech Process-Based Restoration of Riverscapes | Meets 3 times remotely     | NA|
+| WATS/CEWA 5621♣ | **Science and Case Studies** of Low-Tech Process-Based Restoration of Riverscapes | Meets 3 times remotely    |  WATS 5620|              
+| WATS/CEWA 5622♣ | **Planning** Low-Tech Process-Based Restoration of Riverscapes | Meets 3 times remotely    |WATS 5620| 
+| WATS/CEWA 5623♣ | **Designing** Low-Tech Process-Based Restoration of Riverscapes | Meets 3 times remotely, with mandatory Saturday Design Field Trip      | WATS 5620 & 5622| 
+| WATS/CEWA 5624♣ | **Implementing** Low-Tech Process-Based Restoration of Riverscapes | Meets once remotely, with mandatory Construction Field Trip on a Saturday   |WATS 5620| 
 
 ♣ Course numbers pending; Note for [Spring 2021]({{ site.baseurl }}/workshops/2021/USU/), these were offered as WATS 6900 and CEWA 5700 Special Topics 
+
+<div align="center">
+<a class=" button hollow" href="{{ site.baseurl }}/workshops/uni"><img src="{{ site.baseurl }}/assets/images/sponsors/USU.png">  <b> Spring 2021 - Register Now for   LTPBR Courses</b>  University Credit or Professional CEU  <i class="fa fa-graduation-cap"></i>  </a>
+</div>
 
 # Make it Count
 

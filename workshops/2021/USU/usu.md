@@ -1,0 +1,43 @@
+
+---
+title: USU LTPBR Courses
+weight: 2
+
+---
+
+
+
+# Utah State University Administered Courses
+
+In Spring 2021, we began offering a sequence of five, short-courses, that parallel the modularized workshop curriculum (available for free, self-pacing [here]({{ site.baseurl }}/resources/Topics/ )). These short-courses differ from the workshop curriculum in that:
+- These courses are taken for University Credit (for matriculated USU students) or University [Continuing Education Units](https://www.usu.edu/ais/ceu/about)
+- These courses use the same curriculum, but are augmented by more in-depth class discussions, quizzes and homework assignments
+- These courses are assessed, and you will receive feedback and a letter grade based on your assessed work.
+
+Note that these courses meet weekly at specific times ([hybrid F2F](https://www.usu.edu/ais/scheduling/deliverymethods)), and the Design and Implementation have mandatory Saturday Field Trips.
+
+- WATS/CEWA 5620♣ - **Introduction** to Low-Tech Process-Based Restoration of Riverscapes - *Meets 3 times remotely*
+- WATS/CEWA 5621♣ - **Science and Case Studies** of Low-Tech Process-Based Restoration of Riverscapes  - *Meets 3 times remotely*
+- WATS/CEWA 5622♣ - **Planning** Low-Tech Process-Based Restoration of Riverscapes   - *Meets 3 times remotely*
+- WATS/CEWA 5623♣ - Designing Low-Tech Process-Based Restoration of Riverscapes  - *Meets 3 times remotely, with mandatory Saturday Design Field Trip*
+- WATS/CEWA 5624♣ - **Implementing** Low-Tech Process-Based Restoration of Riverscapes   - *Meets once remotely, with mandatory Construction Field Trip on a Saturday*
+
+♣ Course Numbers Pending; Note for Spring 2021, these were offered as WATS 6900 and CEWA 5700 Special Topics 
+
+# Can I make it Count?
+
+Through our [USU Restoration Consoritum](http://restoration.usu.edu/) we do offer professional CEU credit hours as well as undergraduate and graduate matriculated student regular credit hours through the registrar. To earn these credits, one needs to both pay the [regular tuition](https://www.usu.edu/registrar/registration/payment/) and submit assignments, which are formally asssessed. By contrast, if you just want a Certificate of Participation (suffices for some professional development and training requirements), we issue these at participant request for all our workshops. 
+
+## Graduate or Undergraduate University Credit
+
+From Spring 2021,  a revamped range of courses will be oferred (see above). All of these can be used to count toward our[Graduate Certificate Program in Restoration](http://restoration.usu.edu/programs/aquatic_ecosystem_restoration). 
+
+
+
+## Professional Continuing Education Units
+Our University offers professional continuing education units ([CEUs](https://www.usu.edu/ais/ceu/about)) where 1 CEU is roughly 10 contact hours). These are available through the CEWA (Continueing Education WAtershed) course prefix and include special topics (CEWA 5700) as well as the Low-Tech Series (CEWA 5620-5624) .
+
+With the  switch to this [3.5 day format with 5 modules](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/), we're restructuring that. We will be addingsome courses this Fall and Spring, which cover the same content as Virtual Workshop, but they will have some homework assignments and quizzes that will be assessed so that the credits are confirming some level of knowledge (as opposed to just participation). 
+
+## CERP - Compliant
+Our program and the LTPBR curriculum are undergoing a review by the Society of Ecological Restoration so that  these courses will count towards their [Certified Ecological Restoration Practitioner Program](https://www.ser.org/page/Certification). 
