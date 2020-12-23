@@ -5,17 +5,21 @@ weight: 1
 
 # WATS 5620 - Course Description
 
+
 ## [Catalog Description](https://ssb.banner.usu.edu/zprod/bwckctlg.p_display_courses?term_in=202120&one_subj=WATS&sel_crse_strt=5150&sel_crse_end=5150&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=)
 Provides an introduction to the practice of Low-Tech Process-Based Restoration of Riverscapes. Students will gain exposure to the scope of riverscape degradation, example low-tech restoration techniques, riverscape and restoration principles. 
 
 |**Title**| Introduction to Low-Tech Process-Based Restoration of Riverscapes|
 |**Semester(s) Traditionally Offered**| Spring|
 |**Credits**: |1.0 Credit hours  (1.5 CEU)|
-|**Levels**: |Graduate|
+|**Levels**: |Graduate/Undergraduate|
 |**Schedule Types**: |Hybrid Face to Face Lecture |
-|**Cross-Listed As**: |NA|
+|**Cross-Listed As**: |CEWA 5700|
 
-
+<div align="center">
+<a class=" button hollow" href="{{ site.baseurl }}/workshops/uni"> <i class="fa fa-chevron-circle-left" aria-hidden="true"></i> <b> Back to  Spring 2021 LTPBR Courses</b>  for University Credit or Professional CEU  
+  </a>
+</div>
 
 ## Schedule
 ### Spring 2021 - Intro to LTPBR
@@ -26,41 +30,69 @@ Provides an introduction to the practice of Low-Tech Process-Based Restoration o
 |----------|-------------------|------|---------------------------|-----------------------------|-----------------------------------------------------------------------------------------------------|
 | [Intro to LTPBR](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module1)     | 1:30 pm - 3:30 pm | Tuesdays    | Zoom | Jan 19, 26 & Feb 2,  2021 |  [Joseph Michael Wheaton (P), Stephen Nicholas Bennett, Nicolaas W Bouwes, Scott M Shahverdian]({{ site.baseurl }}//workshops/2020/SGI/#instruction-team) |
 
-## Fees
+### Course Schedule/Outline
 
-Insert content here.
+Outline dates and assignments are all available on Canvas:
+<div align="center">
+<a class="hollow button" href="https://usu.instructure.com/courses/618129"><img src="{{ site.baseurl }}/assets/images/canvas_logo.png">  <b>Spring 2021 Canvas</b><br> WATS 6900 - Intro to LTPBR Course Assignments</a></div>
+
+Students are expected to watch pre-recorded lectures and complete the reading assignments prior to our class meetings, where those topics will be discussed and exercises completed as a group. 
+
+This class meets three times for these discussion sessions:
+
+| Meeting Date | Modules | Topics                                                   |
+|--------------|---------|----------------------------------------------------------|
+|    1/19/2021 | 1 & 2   | Background & Scope of Degradation / Build your First BDA |
+|    1/26/2021 | 3 & 4   | Intro to Low-Tech Tools & Guiding Principles             |
+|     2/2/2021 | 5 & 6   | Partnering with Beaver & Synthesis                       |
+
+
+## Fees
+### Matriculated Students
+Current USU [Tuition](https://www.usu.edu/registrar/registration/payment/) for 1 credit.
+### Continuing Education Students
 
 ## Course Objectives
 
-By the end of this course, you will be able to:
+This introductory course is focused on remembering and understanding, and is a pre-requisite to more [in depth courses]({{ site.baseurl }}/workshops/uni) on [LTPBR]({{ site.baseurl }}) .
+By the end of this course, students will:
 
-1. Objective
-2. Objective
-3. Objective
+1. *Understand* the scope and seriousness of riverscape degradation. 
+2. *Identify* a vision for what riverscapes could be.
+3. *Recognize* various low-tech treatments and practices used in riverscape restoration.
+4. *Use* [Principles of Riverscape Health]({{ site.baseurl }}/manual/Chap02) as a basis for discriminating condition in riverscapes.
+5. *Distinguish* [Principles of Low-Tech Process-Based Restoration]({{ site.baseurl }}/manual/Chap02) from more traditional restoration approaches and other PBR principles. 
+6. *Articualte* why and where **beaver dam activity** is so often such an important part of low-tech process-based restoration of riverscapes.
 
 ------
 ## Instructors
 
-Instructor Name, Contact information, Office Hours and Course Schedule. If applicable, may also include items such as TA information, course or instructor website information, etc.
+
 
 <div class="row small-up-2 medium-up-2 large-up-4" align="center">
 
    <div class="column column-block">
     <a href="http://joewheaton.org"><img src="{{ site.baseurl }}/assets/images/people/Wheaton_round.png"></a>
     <h4><a href="http://joewheaton.org">Joseph Wheaton<sup>1,2</sup></a></h4>
-    Associate Professor of Riverscapes<br>
-   <b>Lead Instructor</b><br>
-   Office Hour: Wednesday, 12:00 to 13:00 - <a href="https://usu-edu.zoom.us/my/h20joe?pwd=eFNjSllqT3VDNTRoLzZ3Sk9IM1F6UT09">Zoom Drop-In</a> or By Appointment
+    <b>Lead Instructor</b><br>
+    <a href="https://qcnr.usu.edu/directory/wheaton_joseph">Associate Professor of Riverscapes</a>,<br> <a href="https://www.anabranchsolutions.com/joe-wheaton.html">Principal<sup>2</sup></a><br>
+   
+   Office Hours: Wednesday, 12:00 to 13:00 - <a href="https://usu-edu.zoom.us/my/h20joe?pwd=eFNjSllqT3VDNTRoLzZ3Sk9IM1F6UT09">Zoom Drop-In</a> or By Appointment
   </div>
   <div class="column column-block">
     <a href="https://www.researchgate.net/profile/Stephen_Bennett8"><img src="{{ site.baseurl }}/assets/images/people/bennett-round_orig.png"></a>
     <h4><a href="https://www.researchgate.net/profile/Stephen_Bennett8">Stephen N. Bennett<sup>1,2,3</sup></a></h4>
-    Ecologist, Adjunct Professor
+    <b>Co-Instructor</b><br>
+    Ecologist, <a href="https://qcnr.usu.edu/directory/bennett_stephen">Adjunct Professor</a>, <a href="https://www.anabranchsolutions.com/stephen-bennett.html">Principal<sup>2</sup></a><br>
+    Office Hours:  By Appointment
   </div>
   <div class="column column-block">
     <a href="https://www.researchgate.net/profile/Nick_Bouwes"><img src="{{ site.baseurl }}/assets/images/people/bouwes-round_1_orig.png"></a>
     <h4><a href="https://www.researchgate.net/profile/Nick_Bouwes">Nicolaas Bouwes<sup>3,2,1</sup></a></h4>
-   Aquatic  Ecologist, Adjunct Professor
+    <b>Co-Instructor</b><br>
+   Aquatic  Ecologist, <a href="https://qcnr.usu.edu/directory/bouwes_nicolaas">Adjunct Professor</a>, <a href="https://www.anabranchsolutions.com/nick-bouwes.html">Principal<sup>2</sup></a><br>
+   
+   Office Hours:  By Appointment
   </div>
 
 
@@ -69,7 +101,9 @@ Instructor Name, Contact information, Office Hours and Course Schedule. If appli
 <div class="column column-block">
 	<a href="https://www.researchgate.net/profile/Scott_Shahverdian"><img src="{{ site.baseurl }}/assets/images/people/shahverdian-round_1.png"></a>
     <h4><a href="https://www.researchgate.net/profile/Scott_Shahverdian">Scott Shahveridan<sup>2,1</sup></a></h4>
-    Fluvial Geomorphologist
+    <b>Co-Instructor</b><br>
+    Fluvial Geomorphologist, <a href="https://www.anabranchsolutions.com/scott-shahverdian.html">Associate Design Geomorphologist<sup>2</sup></a><br>
+      Office Hours:  By Appointment
   </div>
 
 
@@ -78,7 +112,8 @@ Instructor Name, Contact information, Office Hours and Course Schedule. If appli
 </div>
 
 To get in touch with instructor(s), please use [Canvas](https://usu.instructure.com/courses/618129) for communication. 
-Please use Office Hours (Wednesday 12:00 - 13:00 via [Zoom](https://usu-edu.zoom.us/my/h20joe?pwd=eFNjSllqT3VDNTRoLzZ3Sk9IM1F6UT09) <i class="fa fa-search" aria-hidden="true"></i>
+
+**Group Office Hours** (Wednesday 12:00 - 13:00 via [Zoom](https://usu-edu.zoom.us/my/h20joe?pwd=eFNjSllqT3VDNTRoLzZ3Sk9IM1F6UT09) <i class="fa fa-search" aria-hidden="true"></i>
 
 
 ### Instructor Affiliations
@@ -103,11 +138,11 @@ Please use Office Hours (Wednesday 12:00 - 13:00 via [Zoom](https://usu-edu.zoom
 --------
 # Course Resources
 
-Required and Optional Course Resources (e.g., textbook, safety equipment, etc.).
-
-
+The course is organized into a series of modules or topics. Slides (as PDFs), recordings (as YouTube videos), and readings (from textbook or provided PDFs) are the main course materials.  Within each module, formative assignments (unassessed) and graded assignments are assigned in Canvas. Assignment weightings, assessment critiera, rubrics (if appropriate) are provided by assignment and in the grade book.
 
 ## Slides & Handouts
+
+All of course lecture slides and materials are linked from the Canvas page by module and assignment.
 
 <div align="center">
 <a class="hollow button" href="https://usu.instructure.com/courses/618129"><img src="{{ site.baseurl }}/assets/images/canvas_logo.png">  <b>Spring 2021 Canvas</b><br> WATS 6900 - Intro to LTPBR Course Assignments</a>
@@ -125,7 +160,7 @@ Required and Optional Course Resources (e.g., textbook, safety equipment, etc.).
 </div>
 
 ## Course Textbooks
-**Mandatory Texts** - A hard copy of both the manual and pocket-guide will make your participation in the courses easier, but *free digital versions* are available below. If you do not have hard copies, please have a PDF open in the background.  
+**Mandatory Texts** - A hard copy of both the manual and pocket-guide will make your participation in the courses easier, but *free digital versions* are available below. If you do not have hard copies, please have a PDF open in the background during class.  
 
 For the workshop, we rely on the a [Design Manual]({{ site.baseurl }}/manual) and the [Pocket Guide]({{ site.baseurl }}/resources/pocket), which  free electronic versions are below. Print copies of manual are available for ~ $60 [on Amazon](https://www.amazon.com/Low-Tech-Process-Based-Restoration-Riverscapes-Design/dp/1543972993/ref=sr_1_1?keywords=low+tech+process-based+restoration&qid=1558989073&s=gateway&sr=8-1) or [on BookBaby](https://store.bookbaby.com/bookshop/book/index.aspx?bookURL=Low-Tech-Process-Based-Restoration-of-Riverscapes) and waterproof versions of the pocket guide can be [purchased here](http://www.anabranchsolutions.com/store/p7/pocketguide.html). 
 
@@ -138,18 +173,14 @@ For the workshop, we rely on the a [Design Manual]({{ site.baseurl }}/manual) an
 
 - <a href="http://dx.doi.org/10.13140/RG.2.2.28222.13123/1"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a> Wheaton JM, Wheaton A, Maestas J, Bennett S, Bouwes N, Shahveridan S, Camp R, Jordan C, Macfarlane W, Portugal E, Weber N. 2019. [Low-Tech Process-Based Restoration of Riverscapes: Pocket Field Guide]({{ site.baseurl }}/resources/pocke). [Utah State University Restoration Consortium](http://restoration.usu.edu). DOI: [10.13140/RG.2.2.28222.13123/1](http://dx.doi.org/10.13140/RG.2.2.28222.13123/1).
 
+----------
+# Course Specific Policies
 
-# Course Requirements
-
-Each student will:
-
-1. Requirement
-
-# Evaluation Methods and Criteria
+## Evaluation Methods and Criteria
 
 (e.g., exams, presentations, papers, performances, etc.)
 
-# Grade Scheme
+## Grade Scheme
 
 The following grading standards will be used in this class:
 
@@ -167,27 +198,22 @@ The following grading standards will be used in this class:
 | D     | < 67.0 % to 60.0% |
 | F     | < 59.0 % to 0.0%  |
 
-# Course Schedule/Outline
 
-Outline dates and assignments
-
-
-# Attendance and Excused Absences Policy
-
-Insert course policy content here.
-
-
-# Library Services
-
-All USU students attending classes in Logan, at our Regional Campuses, or online can access all databases, e-journals, and e-books regardless of location. Additionally, the library will mail printed books to students, at no charge to them. Students can also borrow books from any Utah academic library. Take advantage of all library services and learn more at [libguides.usu.edu/rc. (Links to an external site.)](http://libguides.usu.edu/rc)
-
-# Classroom Civility
-
-Utah State University supports the principle of freedom of expression for both faculty and students. The University respects the rights of faculty to teach and students to learn. Maintenance of these rights requires classroom conditions that do not impede the learning process. Disruptive classroom behavior will not be tolerated. An individual engaging in such behavior may be subject to disciplinary action. Read [Student Code Article V Section V-3 (Links to an external site.)](https://studentconduct.usu.edu/studentcode/article5) for more information.
 
 ------------
 # University Policies & Procedures
+## Attendance and Excused Absences Policy
 
+We adopt [USU's Attendance & Excused Absence policies](https://catalog.usu.edu/content.php?catoid=12&navoid=3160). Attendance to all class meetings is expected and participation in live discussions is expected.  If for any reason you miss a class for a non- "excused" absence, you are expected to make use of the course website, canvas, office hours, and/or if necessary the class discussion boards on canvas, and/or contact your peers to make up for anything you missed. If you have an "excused" absence, please contact the lead instructor to make alternative arrangements. 
+
+
+## Library Services
+
+All USU students attending classes in Logan, at our Regional Campuses, or online can access all databases, e-journals, and e-books regardless of location. Additionally, the library will mail printed books to students, at no charge to them. Students can also borrow books from any Utah academic library. Take advantage of all library services and learn more at [libguides.usu.edu/rc. (Links to an external site.)](http://libguides.usu.edu/rc)
+
+## Classroom Civility
+
+Utah State University supports the principle of freedom of expression for both faculty and students. The University respects the rights of faculty to teach and students to learn. Maintenance of these rights requires classroom conditions that do not impede the learning process. Disruptive classroom behavior will not be tolerated. An individual engaging in such behavior may be subject to disciplinary action. Read [Student Code Article V Section V-3 (Links to an external site.)](https://studentconduct.usu.edu/studentcode/article5) for more information.
 ## COVID-19 Classroom Protocols
 
 In order to continue to provide a high standard of instruction at USU, and to limit the spread of COVID-19 during the pandemic, students are asked to follow certain classroom protocols during the fall 2020 semester. These protocols are in place not only for your safety but also the safety of the rest of the campus community. You will be asked to clean your desk area at the start of each class, sit in designated seats, wear face coverings, and follow dismission instructions. There may be individual medical circumstances that prevent some students from using face coverings. These circumstances will be rare, but if they do exist, we ask that everyone be respectful. It is imperative that we each do our part so that on-campus instruction can continue.
@@ -277,3 +303,8 @@ In the case of a drill or real emergency, classes will be notified to evacuate t
 Mental health is critically important for the success of USU students. As a student, you may experience a range of issues that can cause barriers to learning, such as strained relationships, increased anxiety, alcohol/drug problems, feeling down, difficulty concentrating and/or lack of motivation. These mental health concerns or stressful events may lead to diminished academic performance or reduce your ability to participate in daily activities. Utah State University provides free services for students to assist them with addressing these and other concerns. You can learn more about the broad range of confidential mental health services available on campus at [Counseling and Psychological Services (CAPS) (Links to an external site.)](https://counseling.usu.edu/).
 
 Students are also encouraged to download the [“SafeUT App” (Links to an external site.)](https://healthcare.utah.edu/uni/programs/safe-ut-smartphone-app) to their smartphones. The SafeUT application is a 24/7 statewide crisis text and tip service that provides real-time crisis intervention to students through texting and a confidential tip program that can help anyone with emotional crises, bullying, relationship problems, mental health, or suicide related issues
+
+<div align="center">
+<a class=" button hollow" href="{{ site.baseurl }}/workshops/uni"><img width="100" src="{{ site.baseurl }}/assets/images/sponsors/USU.png">  <b> Back to  LTPBR Courses</b>  for University Credit or Professional CEU  <i class="fa fa-chevron-circle-left" aria-hidden="true"></i>
+  </a>
+</div>
