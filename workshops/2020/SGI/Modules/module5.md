@@ -6,15 +6,18 @@ weight: 5
 
 Below you can find PDFs and video recordings of the slides we cover in the intro to low-tech process-based restoration virtual workshop. Each is licensed with a [Creative Commons licence](https://creativecommons.org/), so you are free to re-use subject to the terms of the license. 
 
-# Module 5: Implementing Low-Tech PBR
+<div align="center">
+<a class=" button hollow" href="{{ site.baseurl }}/resources/Topics/"> <i class="fa fa-chevron-circle-left" aria-hidden="true"></i> <b> Back to all Modules</b>    </a>
+</div>
 
-Friday, Aug 14: 9:00 AM - 1:00 PM  (Mountain Time)
+# Module 5: Implementing Low-Tech PBR
 --------
+
 ## Module 5 Video Playlist
 
-<i class="fa fa-youtube-play" aria-hidden="true"></i> <a href="https://www.youtube.com/playlist?list=PLjhZYBVnXmgaEPvKn0MtljTPuJwUFOWCS" target="_blank">Module 5 YouTube Playlist</a>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLjhZYBVnXmgaEPvKn0MtljTPuJwUFOWCS" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Watch entire <i class="fa fa-youtube-play" aria-hidden="true"></i> <a href="https://www.youtube.com/playlist?list=PLjhZYBVnXmgaEPvKn0MtljTPuJwUFOWCS" target="_blank">Module 5 YouTube Playlist</a>, or scroll below for individual topics, resources and videos.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLjhZYBVnXmgaEPvKn0MtljTPuJwUFOWCS" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 --------
 ## Slides & Videos by Topic
 
