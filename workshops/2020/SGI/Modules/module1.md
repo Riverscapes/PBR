@@ -7,16 +7,19 @@ weight: 1
 
 Below you can find PDFs and video recordings of the topics we covered in the intro to low-tech process-based restoration virtual workshop. Use the navigation menu to jump to a specific topic. Each is licensed with a [Creative Commons licence](https://creativecommons.org/), so you are free to, share, adapt re-use subject to the terms of the license. 
 
+<div align="center">
+<a class=" button hollow" href="{{ site.baseurl }}/resources/Topics/"> <i class="fa fa-chevron-circle-left" aria-hidden="true"></i> <b> Back to all Modules</b>    </a>
+</div>
+
 # Introduction to Low-Tech Process-Based Restoration
 
-## Live Schedule & Agenda:
 
-*Tuesday*, **Aug 11, 2020**
-10:00 AM - 4:00 PM (Mountain Time)
+
 --------
 ## Module 1 Video Playlist
 
-<i class="fa fa-youtube-play" aria-hidden="true"></i> <a href="https://www.youtube.com/playlist?list=PLjhZYBVnXmga114fdPTOzh60t8lDUm_Mi" target="_blank">Module 1 YouTube Playlist</a>
+Watch entire <i class="fa fa-youtube-play" aria-hidden="true"></i> <a href="https://www.youtube.com/playlist?list=PLjhZYBVnXmga114fdPTOzh60t8lDUm_Mi" target="_blank">Module 1 YouTube Playlist</a>, or scroll below for individual topics, resources and videos.
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLjhZYBVnXmga114fdPTOzh60t8lDUm_Mi" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 --------
@@ -675,7 +678,7 @@ In this section,  [Nick Bouwes]({{ site.baseurl }}/workshops/2020/SGI/#instructi
 <ol>      		
      	<li><strong>Question:</strong> You seem to be suggesting that beaver were everywhere and are still appropriate everywhere. Where I come from, beaver are just not a socially acceptable option. So what should I do?
      <p><strong>Answer:</strong> (Mark Beardsley) Beaver did have a historically wide range across most of North America.  I do not think that means beavers are appropriate everywhere because many of the historical riverscapes occupied by beavers have been converted to land uses that are no longer compatible.  If beavers are socially unacceptable, perhaps try to understand why and see if the reason is something you can work with.  I would definitely not recommend forcing beaver restoration on people who don’t want it, but if it is only perception, maybe education is a good approach.</p></li>
-    	     
+
     <li><strong>Question:</strong> Can we just mimic beaver dam activity instead of having to have the beaver do it?
     
     <p><strong>Answer:</strong> (Mark Beardsley) You can mimic beaver dam activity and probably get temporary benefits, but if you don’t  promote the natural processes it won’t be sustainable and you can’t expect long-term recovery. </p></li>
