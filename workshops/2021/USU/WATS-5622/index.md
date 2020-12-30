@@ -109,7 +109,7 @@ By the end of this course, students will:
 
 </div>
 
-To get in touch with instructor(s), please use [Canvas](https://usu.instructure.com/courses/618129) for communication. 
+To get in touch with instructor(s), please use [Canvas](https://usu.instructure.com/courses/618192) for communication. 
 
 **Group Office Hours** (Wednesday 12:00 - 13:00 via [Zoom](https://usu-edu.zoom.us/my/h20joe?pwd=eFNjSllqT3VDNTRoLzZ3Sk9IM1F6UT09) <i class="fa fa-search" aria-hidden="true"></i>
 
@@ -143,7 +143,7 @@ The course is organized into a series of modules or topics. Slides (as PDFs), re
 All of course lecture slides and materials are linked from the Canvas page by module and assignment.
 
 <div align="center">
-<a class="hollow button" href="https://usu.instructure.com/courses/618129"><img src="{{ site.baseurl }}/assets/images/canvas_logo.png">  <b>Spring 2021 Canvas</b><br> WATS 6900 - Intro to LTPBR Course Assignments</a>
+<a class="hollow button" href="https://usu.instructure.com/courses/618192"><img src="{{ site.baseurl }}/assets/images/canvas_logo.png">  <b>Spring 2021 Canvas</b><br> WATS 6900 - Intro to LTPBR Course Assignments</a>
 
 <a class="hollow button" href="{{ site.baseurl }}/workshops/2020/SGI/Modules/module3"><img src="{{ site.baseurl }}/assets/images/diagrams/presentation.png"> <b>Module 3 - Planning</b> <br> Slides  <i class="fa fa-file-pdf-o" aria-hidden="true"></i>, Recorded Lectures <i class="fa fa-youtube-play" aria-hidden="true"></i> and Exercises </a>
 
