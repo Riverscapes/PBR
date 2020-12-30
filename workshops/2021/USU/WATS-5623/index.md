@@ -3,32 +3,37 @@ title: Design LTPBR - Syllabus
 weight: 4
 ---
 
-# WATS 5623 - Course Description
+# WATS 6900 §5 - Syllabus
+
+![header]({{ site.baseurl }}/assets/images/courses/WATS-5623_header_C.png)
 
 
 ## [Catalog Description](https://ssb.banner.usu.edu/zprod/bwckctlg.p_display_courses?term_in=202120&one_subj=WATS&sel_crse_strt=5150&sel_crse_end=5150&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=)
-Provides an introduction to the practice of Low-Tech Process-Based Restoration of Riverscapes. Students will gain exposure to the scope of riverscape degradation, example low-tech restoration techniques, riverscape and restoration principles. 
+Provides an introduction to designing Low-Tech Process-Based Restoration of Riverscapes. Students will design their own LTPBR restoration projects at a site of their choosing. 
 
-|**Title**| Introduction to Low-Tech Process-Based Restoration of Riverscapes|
+|**Title**| Design of Low-Tech Process-Based Restoration of Riverscapes|
 |**Semester(s) Traditionally Offered**| Spring|
 |**Credits**: |1.0 Credit hours  (1.5 CEU)|
 |**Levels**: |Graduate/Undergraduate|
 |**Schedule Types**: |Hybrid Face to Face Lecture |
-|**Cross-Listed As**: |CEWA 5700|
+|**Cross-Listed As**: |CEWA 5700 (will be WATS/CEWA 5623 in 2022) |
 
 <div align="center">
-<a class=" button hollow" href="{{ site.baseurl }}/workshops/uni"> <i class="fa fa-chevron-circle-left" aria-hidden="true"></i> <b> Back to  Spring 2021 LTPBR Courses</b>  for University Credit or Professional CEU  
+<a class=" button hollow" href="{{ site.baseurl }}/workshops/2021/USU/"> <i class="fa fa-chevron-circle-left" aria-hidden="true"></i> <b> Back to  Spring 2021 LTPBR Courses</b>  for University Credit or Professional CEU  
   </a>
 </div>
 
 ## Schedule
 ### Spring 2021 - Design LTPBR
-- Matriculated Students: [ST:INTRO LOWTECH PROC REST RIV - 12043 - WATS 6900 - 002](https://ssb.banner.usu.edu/zprod/bwckschd.p_disp_detail_sched?term_in=202120&crn_in=12043)
-- Non-Matriculated Students: CEWA 5700 - 26236 - LB1 
+- Matriculated Students: [ST:DES LOWTEC PRCBAS REST RIV - 12083 - WATS 6900 - 005](https://ssb.banner.usu.edu/zprod/bwckschd.p_disp_detail_sched?term_in=202120&crn_in=12083)
+- Non-Matriculated Students: 26397 - CEWA 5700 - LB4
 
-| Class     | Time              | Days | Where                     | Dates                 |  Instructors                                                                                         |
-|----------|-------------------|------|---------------------------|-----------------------------|-----------------------------------------------------------------------------------------------------|
-| [Intro to LTPBR](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module1)     | 1:30 pm - 3:30 pm | Tuesdays    | Zoom | Jan 19, 26 & Feb 2,  2021 |  [Joseph Michael Wheaton (P), Stephen Nicholas Bennett, Nicolaas W Bouwes, Scott M Shahverdian]({{ site.baseurl }}//workshops/2020/SGI/#instruction-team) |
+
+
+| Class                                                        | Time              | Days     | Where      | Dates                     | Instructors                                                  |
+| ------------------------------------------------------------ | ----------------- | -------- | ---------- | ------------------------- | ------------------------------------------------------------ |
+| [Desiging LTPBR]({{ site.baseurl }}/workshops/2021/USU/WATS-5623/) | 1:30 pm - 3:30 pm | Tuesdays | Zoom       | Mar 30, Apr 6, & 13, 2021 | [Joseph Michael Wheaton (P), Stephen Nicholas Bennett, Scott M Shahverdian]({{ site.baseurl }}//workshops/2020/SGI/#instruction-team) |
+| [Desiging LTPBR]({{ site.baseurl }}/workshops/2021/USU/WATS-5623/) | 8:30 am - 5:30 pm | Saturday | Field Trip | Apr 10, 2021              | [Joseph Michael Wheaton (P), Stephen Nicholas Bennett, Scott M Shahverdian]({{ site.baseurl }}//workshops/2020/SGI/#instruction-team) |
 
 ### Course Schedule/Outline
 
@@ -46,12 +51,22 @@ This class meets three times for these discussion sessions:
 |    1/26/2021 | 3 & 4   | Intro to Low-Tech Tools & Guiding Principles             |
 |     2/2/2021 | 5 & 6   | Partnering with Beaver & Synthesis                       |
 
+This course is based on [Module 4]({{ site.baseurl }}/workshops/2020/SGI/Modules/module4.html) of the self-paced materials. 
+<div align="center">
+<a class="hollow button" href="{{ site.baseurl }}/workshops/2020/SGI/Modules/module4"><img src="{{ site.baseurl }}/assets/images/diagrams/presentation.png"> <b>Module 4 - Design</b> <br> Slides  <i class="fa fa-file-pdf-o" aria-hidden="true"></i>, Recorded Lectures <i class="fa fa-youtube-play" aria-hidden="true"></i> and Exercises </a></div>
 
+------------------
 ## Fees
 ### Matriculated Students
-Current USU [Tuition](https://www.usu.edu/registrar/registration/payment/) for 1 credit.
-### Continuing Education Students
+Current USU [Tuition](https://www.usu.edu/registrar/registration/payment/) for 1 credit. 
+No additional Course Fee. 
+Please register on [Banner](http://banner.usu.edu). *Note, tuition  for 1 credit varies between $601.21 and $2482.92 per credit based on undergraduate vs. graduate, in-state vs. out-of-state, and total number of credits)*
 
+### Continuing Education Students
+$265.79  ($210 Course Fee + $39 CEU processing fee + $16.79 Eventbrite Fees) [Register on Eventbrite]()
+
+
+-----------------
 ## Course Objectives
 
 This introductory course is focused on remembering and understanding, and is a pre-requisite to more [in depth courses]({{ site.baseurl }}/workshops/uni) on [LTPBR]({{ site.baseurl }}) .
@@ -86,14 +101,7 @@ By the end of this course, students will:
     Ecologist, <a href="https://qcnr.usu.edu/directory/bennett_stephen">Adjunct Professor</a>, <a href="https://www.anabranchsolutions.com/stephen-bennett.html">Principal<sup>2</sup></a><br>
     Office Hours:  By Appointment
   </div>
-  <div class="column column-block">
-    <a href="https://www.researchgate.net/profile/Nick_Bouwes"><img src="{{ site.baseurl }}/assets/images/people/bouwes-round_1_orig.png"></a>
-    <h4><a href="https://www.researchgate.net/profile/Nick_Bouwes">Nicolaas Bouwes<sup>3,2,1</sup></a></h4>
-    <b>Co-Instructor</b><br>
-   Aquatic  Ecologist, <a href="https://qcnr.usu.edu/directory/bouwes_nicolaas">Adjunct Professor</a>, <a href="https://www.anabranchsolutions.com/nick-bouwes.html">Principal<sup>2</sup></a><br>
-
-   Office Hours:  By Appointment
-  </div>
+  
 
 
 
@@ -147,15 +155,11 @@ All of course lecture slides and materials are linked from the Canvas page by mo
 <div align="center">
 <a class="hollow button" href="https://usu.instructure.com/courses/618129"><img src="{{ site.baseurl }}/assets/images/canvas_logo.png">  <b>Spring 2021 Canvas</b><br> WATS 6900 - Intro to LTPBR Course Assignments</a>
 
-<a class="hollow button" href="{{ site.baseurl }}/workshops/2020/SGI/Modules/module1"><img src="{{ site.baseurl }}/assets/images/diagrams/presentation.png"> <b>Module  - Intro Resources</b> <br> Slides  <i class="fa fa-file-pdf-o" aria-hidden="true"></i>, Recorded Lectures <i class="fa fa-youtube-play" aria-hidden="true"></i> and Exercises </a>
 
-<a class="hollow button" href="{{ site.baseurl }}/workshops/2020/SGI/Modules/module2"><img src="{{ site.baseurl }}/assets/images/diagrams/presentation.png"> <b>Module 2 - Science</b> <br> Slides  <i class="fa fa-file-pdf-o" aria-hidden="true"></i>, Recorded Lectures <i class="fa fa-youtube-play" aria-hidden="true"></i> and Exercises </a>
-
-<a class="hollow button" href="{{ site.baseurl }}/workshops/2020/SGI/Modules/module3"><img src="{{ site.baseurl }}/assets/images/diagrams/presentation.png"> <b>Module 3 - Planning</b> <br> Slides  <i class="fa fa-file-pdf-o" aria-hidden="true"></i>, Recorded Lectures <i class="fa fa-youtube-play" aria-hidden="true"></i> and Exercises </a>
 
 <a class="hollow button" href="{{ site.baseurl }}/workshops/2020/SGI/Modules/module4"><img src="{{ site.baseurl }}/assets/images/diagrams/presentation.png"> <b>Module 4 - Design</b> <br> Slides  <i class="fa fa-file-pdf-o" aria-hidden="true"></i>, Recorded Lectures <i class="fa fa-youtube-play" aria-hidden="true"></i> and Exercises </a>
 
-<a class="hollow button" href="{{ site.baseurl }}/workshops/2020/SGI/Modules/module5"><img src="{{ site.baseurl }}/assets/images/diagrams/presentation.png"> <b>Module 5 - Implementation</b> <br> Slides  <i class="fa fa-file-pdf-o" aria-hidden="true"></i>, Recorded Lectures <i class="fa fa-youtube-play" aria-hidden="true"></i> and Exercises </a>
+
 
 </div>
 
@@ -164,6 +168,7 @@ All of course lecture slides and materials are linked from the Canvas page by mo
 
 For the workshop, we rely on the a [Design Manual]({{ site.baseurl }}/manual) and the [Pocket Guide]({{ site.baseurl }}/resources/pocket), which  free electronic versions are below. Print copies of manual are available for ~ $60 [on Amazon](https://www.amazon.com/Low-Tech-Process-Based-Restoration-Riverscapes-Design/dp/1543972993/ref=sr_1_1?keywords=low+tech+process-based+restoration&qid=1558989073&s=gateway&sr=8-1) or [on BookBaby](https://store.bookbaby.com/bookshop/book/index.aspx?bookURL=Low-Tech-Process-Based-Restoration-of-Riverscapes) and waterproof versions of the pocket guide can be [purchased here](http://www.anabranchsolutions.com/store/p7/pocketguide.html). 
 
+We will primarily focus on Chapters [4]({{ site.baseurl }}/manual/chap04) and [5]({{ site.baseurl }}/manual/chap05) of the Design Manual.
 
 <a href="{{ site.baseurl }}/manual"><img class="float-right" src="{{ site.baseurl }}/assets/images/covers/Manual_Tilted_150.png"></a>
 
@@ -178,7 +183,7 @@ For the workshop, we rely on the a [Design Manual]({{ site.baseurl }}/manual) an
 
 ## Evaluation Methods and Criteria
 
-(e.g., exams, presentations, papers, performances, etc.)
+Points are awarded for quize(s) ans assessed assignments as specified in Cavnas. Rubrics are provided. 
 
 ## Grade Scheme
 
