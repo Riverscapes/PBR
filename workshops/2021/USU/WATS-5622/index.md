@@ -25,7 +25,7 @@ Provides an introduction to the practice of Low-Tech Process-Based Restoration o
 </div>
 
 ## Schedule
-### Spring 2021 - Intro to LTPBR
+### Spring 2021 - Planning LTPBR
 - Matriculated Students: [ST:PLANLOWTEC PRCBASED REST RI - 12075 - WATS 6900 - 004](https://ssb.banner.usu.edu/zprod/bwckschd.p_disp_detail_sched?term_in=202120&crn_in=12075)
 - Non-Matriculated Students: 26395 - CEWA 5700 - LB3
 
@@ -41,11 +41,11 @@ Provides an introduction to the practice of Low-Tech Process-Based Restoration o
 
 Outline dates and assignments are all available on Canvas:
 <div align="center">
-<a class="hollow button" href="https://usu.instructure.com/courses/618129"><img src="{{ site.baseurl }}/assets/images/canvas_logo.png">  <b>Spring 2021 Canvas</b><br> WATS 6900 - Intro to LTPBR Course Assignments</a></div>
+<a class="hollow button" href="https://usu.instructure.com/courses/618129"><img src="{{ site.baseurl }}/assets/images/canvas_logo.png">  <b>Spring 2021 Canvas</b><br> WATS 6900  §4 - Planning LTPBR Course Assignments</a></div>
 
 Students are expected to watch pre-recorded lectures and complete the reading assignments prior to our class meetings, where those topics will be discussed and exercises completed as a group. 
 
-This class meets three times for these discussion sessions:
+This class meets three times for these discussion sessions. Students will take on virtual field trip and are encouraged to take one real field trip (self-guided).
 
 | Meeting Date | Modules | Topics                                                   |
 |--------------|---------|----------------------------------------------------------|
