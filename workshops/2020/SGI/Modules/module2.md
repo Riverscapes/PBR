@@ -420,11 +420,11 @@ Hear the Birch Creek Beaver story directly from Jay. This video is from his pres
 ​    </p>
 ​    </li>
 ​    
-    <li><strong>Question:</strong> What is the latest research on the relationship between beaver, beaver restoration and whirling disease? 
-    <p><strong>Answer:</strong> (Nick Bouwes) no evidence that they transmit whirling disease but something we are studying at the moment.  But fine sediments is where you find the tubifex worm which is the carrier so it likely contributes to establishment of whirling disease.  On the flip to this, in good habitat and healthy fish, fish can show little symptoms and survive the disease just fine. 
-    </p>
-    </li>
-    
+​    <li><strong>Question:</strong> What is the latest research on the relationship between beaver, beaver restoration and whirling disease? 
+​    <p><strong>Answer:</strong> (Nick Bouwes) no evidence that they transmit whirling disease but something we are studying at the moment.  But fine sediments is where you find the tubifex worm which is the carrier so it likely contributes to establishment of whirling disease.  On the flip to this, in good habitat and healthy fish, fish can show little symptoms and survive the disease just fine. 
+​    </p>
+​    </li>
+​    
     <li><strong>Question:</strong> Amazing work. Have you dealt with multiple landowner situations like this?
     <p><strong>Answer:</strong> (Nick Bouwes) We have dealt with some landowners and have request from ranchers to get beaver established on their property.  Generally they are quite supportive.  Beaver are an easier sell than a lot people think. 
     </p>
@@ -442,11 +442,11 @@ Hear the Birch Creek Beaver story directly from Jay. This video is from his pres
 ​    </p>
 ​    </li>
 ​    
-    <li><strong>Question:</strong> Was there a comparison of benthic habitat with/without treatment and implications/quantification for fishes/inverts? Or will we get to that later?
-    <p><strong>Answer:</strong> (Nick Bouwes) The benthic invertebrate community was different between ponded and free flowing reaches.  But we did not quantify differences in secondary production.  Substrate in free flowing reaches dominated by cobble.  In beaver ponds was mostly fines and gravel areas near the head of the pond, or when dams blow out. 
-    </p>
-    </li>
-    
+​    <li><strong>Question:</strong> Was there a comparison of benthic habitat with/without treatment and implications/quantification for fishes/inverts? Or will we get to that later?
+​    <p><strong>Answer:</strong> (Nick Bouwes) The benthic invertebrate community was different between ponded and free flowing reaches.  But we did not quantify differences in secondary production.  Substrate in free flowing reaches dominated by cobble.  In beaver ponds was mostly fines and gravel areas near the head of the pond, or when dams blow out. 
+​    </p>
+​    </li>
+​    
     <li><strong>Question:</strong> I imagine there will be water rights discussion at some point this week. Somehwhat related to that, I am curious about impacts to downstream water rights users and on the ground impacts. if mgmt occurs upstream, is it expected that an longer seasonal flows will occur downstream in areas that are mostly unmanaged?
     <p><strong>Answer:</strong> (Nick Bouwes) we will get into this more.  But yes, we have to deal with concerns of water users downstream of beaver/bda complexes.  There is perception that if there is more water upstream then these complexes are “stealing” water from downstream users. But this water storage occurs during high flow events when irrigation is less important, and slowly releases and augments during the low flow periods. 
     </p>
@@ -464,11 +464,11 @@ Hear the Birch Creek Beaver story directly from Jay. This video is from his pres
 ​    </p>
 ​    </li>
 ​    
-    <li><strong>Question:</strong> What are the BDAs' limiting flow, height, and substrate?
-    <p><strong>Answer:</strong> (Stephen Bennett) Very large rivers are likely not suitable for BDAs (e.g., order 6 and up). However, beavers do build dams on the margins of large rivers where there are multiple channels or back-channels. We recommend that you do not build BDAs too high. For example if your stream is incised 2 m or 6 feet - build a BDA that is 1 m or 3 feet high. If the BDA traps sediment and the pond fills in build on top of the existing BDA - in other words, build BDAs in stages to reduce incision. You can build a BDA in any substrate type except maybe bedrock. Our best advice is to use local cues and especially observing what beaver populations in your area are doing - emulate their behavior. We also recommend using a pilot or trial project to sort out these type of questions - what’s the worst that can happen, your BDA may fail if you build it too high. 
-    </p>
-    </li>
-    
+​    <li><strong>Question:</strong> What are the BDAs' limiting flow, height, and substrate?
+​    <p><strong>Answer:</strong> (Stephen Bennett) Very large rivers are likely not suitable for BDAs (e.g., order 6 and up). However, beavers do build dams on the margins of large rivers where there are multiple channels or back-channels. We recommend that you do not build BDAs too high. For example if your stream is incised 2 m or 6 feet - build a BDA that is 1 m or 3 feet high. If the BDA traps sediment and the pond fills in build on top of the existing BDA - in other words, build BDAs in stages to reduce incision. You can build a BDA in any substrate type except maybe bedrock. Our best advice is to use local cues and especially observing what beaver populations in your area are doing - emulate their behavior. We also recommend using a pilot or trial project to sort out these type of questions - what’s the worst that can happen, your BDA may fail if you build it too high. 
+​    </p>
+​    </li>
+​    
     <li><strong>Question:</strong> Since streams almost always adjust to their lowest bed elevation, is there any point to trying to rebuild an incised channel if you don’t have access/permission to work in the lower end of the stream downstream of the restoration reach? Similarly, can you restore a stream reach with these methods if you are working on just a portion of the stream (e.g., a single landowner along the stream wants restoration but others do not or cannot)? How do you deal with degraded areas up and downstream?
     <p><strong>Answer:</strong> (Nick Bouwes) Good question and is a bit too complex for quick answer.  If the gradient is stepped down, and you dissipate energy on the floodplain, AND you have structure, you do not have have to have a head cut from downstream control to your reach.  But it is good idea to know what your conditions are upstream and downstream. 
     </p>
@@ -868,7 +868,11 @@ Hear the Birch Creek Beaver story directly from Jay. This video is from his pres
 
 
 -----
+
 <div align="center">
-        <a class="hollow button" href="{{ site.baseurl }}/workshops/2020/SGI/"><i class="fa fa-graduation-cap"></i>  Back to Virtual Workshop </a>  
+        <a class="hollow button" href="{{ site.baseurl }}/workshops/2020/SGI/"><img width="60" src="{{ site.baseurl }}/assets/images/sponsors/WLFW_100.png">  Back to Virtual Workshop <i class="fa fa-graduation-cap"></i></a>  
+
+<a class=" button hollow" href="{{ site.baseurl }}/workshops/uni"><img width="100" src="{{ site.baseurl }}/assets/images/sponsors/USU.png">  <b> Take this Module</b>  for University Credit or Professional CEU  <i class="fa fa-graduation-cap"></i> 
+  </a>
 </div>
 

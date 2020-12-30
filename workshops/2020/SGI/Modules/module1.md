@@ -751,5 +751,8 @@ In this section,  [Nick Bouwes]({{ site.baseurl }}/workshops/2020/SGI/#instructi
 -----
 
 <div align="center">
-        <a class="hollow button" href="{{ site.baseurl }}/workshops/2020/SGI/"><i class="fa fa-graduation-cap"></i>  Back to Virtual Workshop </a>  
+        <a class="hollow button" href="{{ site.baseurl }}/workshops/2020/SGI/"><img width="60" src="{{ site.baseurl }}/assets/images/sponsors/WLFW_100.png">  Back to Virtual Workshop <i class="fa fa-graduation-cap"></i></a>  
+
+<a class=" button hollow" href="{{ site.baseurl }}/workshops/uni"><img width="100" src="{{ site.baseurl }}/assets/images/sponsors/USU.png">  <b> Take this Module</b>  for University Credit or Professional CEU  <i class="fa fa-graduation-cap"></i> 
+  </a>
 </div>

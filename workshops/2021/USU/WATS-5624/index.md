@@ -9,7 +9,7 @@ weight: 5
 
 
 ## [Catalog Description](https://ssb.banner.usu.edu/zprod/bwckctlg.p_display_courses?term_in=202120&one_subj=WATS&sel_crse_strt=5150&sel_crse_end=5150&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=)
-Provides an introduction to the implementatoin of Low-Tech Process-Based Restoration of Riverscapes. Students will gain direct experience constructing low-tech structures like PALS (post-assisted log structures) and BDAs (beaver dam analogues) on a real restoration project designed by students. Students will be exposed to consultation, permititng and become proficient in construction safety and logistics.  
+Provides an introduction to the implementation of Low-Tech Process-Based Restoration of Riverscapes. Students will gain direct experience constructing low-tech structures like PALS (post-assisted log structures) and BDAs (beaver dam analogues) on a real restoration project designed by students. Students will be exposed to consultation, permitting and become proficient in construction safety and logistics.  
 
 |**Title**| Implementation of Low-Tech Process-Based Restoration of Riverscapes|
 |**Semester(s) Traditionally Offered**| Spring|
@@ -43,13 +43,13 @@ Outline dates and assignments are all available on Canvas:
 <div align="center">
 <a class="hollow button" href="https://usu.instructure.com/courses/618129"><img src="{{ site.baseurl }}/assets/images/canvas_logo.png">  <b>Spring 2021 Canvas</b><br> WATS 6900 - Intro to LTPBR Course Assignments</a></div>
 
-Students are expected to watch pre-recorded lectures and complete the reading assignments prior to our class meeting, where those topics will be discussed and exercises completed as a group. Both that session and the Saturday field trip are mandatory attendence. 
+Students are expected to watch pre-recorded lectures and complete the reading assignments prior to our class meeting, where those topics will be discussed and exercises completed as a group. Both that session and the Saturday field trip are mandatory attendance. 
 
-This class meets once for a discussion session (remotely) and once in person for an all-day field trip learnign constuction:
+This class meets once for a discussion session (remotely) and once in person for an all-day field trip learning construction:
 
 | Meeting Date | Modules     | Topics                                                       |
 | ------------ | ----------- | ------------------------------------------------------------ |
-| 4/20/2021    | 2, 3, 4 & 5 | Overview; Consultation & Permitting; Logistics, Equipment & Safety, Construction of PALS & BDAs; Adaptive Management |
+| 4/20/2021    | [2](), [3](), [4]() & [5]() | [Overview](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module5#b-low-tech-implementation-overview); [Consultation & Permitting](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module5#c-consultation--permitting); [Logistics, Equipment & Safety](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module5#d-logistics-equipment--safety), [Construction of PALS & BDAs](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module5#e-construction-of-pals--bdas); [Adaptive Management](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module5#f-adaptive-management) |
 | 4/24/2021    | 6           | Field Day (Saturday) - Constructing an LTPBR Project                    |
 
 
@@ -75,14 +75,11 @@ $371.88  ($310 Course Fee + $39 CEU processing fee + $19.89 Eventbrite Fees) [Re
 This introductory course is focused on remembering and understanding, and is a pre-requisite to more [in depth courses]({{ site.baseurl }}/workshops/uni) on [LTPBR]({{ site.baseurl }}) .
 By the end of this course, students will:
 
-1. *Understand* aspects of the consultation and permitting process.. 
+1. *Understand* aspects of the consultation and permitting process. 
 2. *Use* low-tech construction techniques safely
-3. 
-4. .
-3. *Recognize* various low-tech treatments and practices used in riverscape restoration.
-4. *Use* [Principles of Riverscape Health]({{ site.baseurl }}/manual/Chap02) as a basis for discriminating condition in riverscapes.
-5. *Distinguish* [Principles of Low-Tech Process-Based Restoration]({{ site.baseurl }}/manual/Chap02) from more traditional restoration approaches and other PBR principles. 
-6. *Articualte* why and where **beaver dam activity** is so often such an important part of low-tech process-based restoration of riverscapes.
+3. *Create* an adaptive management plan to include mainteance, and intiation of potential subsequent phases of design and construction. 
+4. *Document* as-built conditions. 
+
 
 ------
 ## Instructors
@@ -98,7 +95,7 @@ By the end of this course, students will:
     Fluvial Geomorphologist, <a href="https://www.anabranchsolutions.com/scott-shahverdian.html">Associate Design Geomorphologist<sup>2</sup></a><br>
       Office Hours:  By Appointment
   </div>
-  
+
 <div class="column column-block">
     <a href="https://www.researchgate.net/profile/Stephen_Bennett8"><img src="{{ site.baseurl }}/assets/images/people/bennett-round_orig.png"></a>
     <h4><a href="https://www.researchgate.net/profile/Stephen_Bennett8">Stephen N. Bennett<sup>1,2,3</sup></a></h4>
@@ -114,7 +111,7 @@ By the end of this course, students will:
 
    Office Hours: Wednesday, 12:00 to 13:00 - <a href="https://usu-edu.zoom.us/my/h20joe?pwd=eFNjSllqT3VDNTRoLzZ3Sk9IM1F6UT09">Zoom Drop-In</a> or By Appointment
   </div>
-  
+
   <div class="column column-block">
     <a href="https://www.researchgate.net/profile/Nick_Bouwes"><img src="{{ site.baseurl }}/assets/images/people/bouwes-round_1_orig.png"></a>
     <h4><a href="https://www.researchgate.net/profile/Nick_Bouwes">Nicolaas Bouwes<sup>3,2,1</sup></a></h4>
@@ -154,7 +151,7 @@ To get in touch with instructor(s), please use [Canvas](https://usu.instructure.
 --------
 # Course Resources
 
-The course is organized into a series of modules or topics. Slides (as PDFs), recordings (as YouTube videos), and readings (from textbook or provided PDFs) are the main course materials.  Within each module, formative assignments (unassessed) and graded assignments are assigned in Canvas. Assignment weightings, assessment critiera, rubrics (if appropriate) are provided by assignment and in the grade book.
+The course is organized into a series of modules or topics. Slides (as PDFs), recordings (as YouTube videos), and readings (from textbook or provided PDFs) are the main course materials.  Within each module, formative assignments (unassessed) and graded assignments are assigned in Canvas. Assignment weightings, assessment criteria, rubrics (if appropriate) are provided by assignment and in the grade book.
 
 ## Slides & Handouts
 
@@ -188,7 +185,7 @@ We will primarily focus on Chapters [4]({{ site.baseurl }}/manual/chap04) and [6
 
 ## Evaluation Methods and Criteria
 
-Points are awarded for quize(s) ans assessed assignments as specified in Cavnas. Rubrics are provided. 
+Points are awarded for quize(s) and assessed assignments as specified in Cavnas. Rubrics are provided. 
 ## Grade Scheme
 
 The following grading standards will be used in this class:
