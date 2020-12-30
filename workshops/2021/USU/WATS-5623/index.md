@@ -39,7 +39,7 @@ Provides an introduction to designing Low-Tech Process-Based Restoration of Rive
 
 Outline dates and assignments are all available on Canvas:
 <div align="center">
-<a class="hollow button" href="https://usu.instructure.com/courses/618129"><img src="{{ site.baseurl }}/assets/images/canvas_logo.png">  <b>Spring 2021 Canvas</b><br> WATS 6900 - Intro to LTPBR Course Assignments</a></div>
+<a class="hollow button" href="https://usu.instructure.com/courses/618129"><img src="{{ site.baseurl }}/assets/images/canvas_logo.png">  <b>Spring 2021 Canvas</b><br> WATS 6900 §5 - Design LTPBR Course Assignments</a></div>
 
 Students are expected to watch pre-recorded lectures and complete the reading assignments prior to our class meetings, where those topics will be discussed and exercises completed as a group. 
 
@@ -47,9 +47,13 @@ This class meets three times for these discussion sessions:
 
 | Meeting Date | Modules | Topics                                                   |
 |--------------|---------|----------------------------------------------------------|
-|    1/19/2021 | 1 & 2   | Background & Scope of Degradation / Build your First BDA |
-|    1/26/2021 | 3 & 4   | Intro to Low-Tech Tools & Guiding Principles             |
-|     2/2/2021 | 5 & 6   | Partnering with Beaver & Synthesis                       |
+|    3/30/2021 | [1]() & [2]()   | [Intro to Design Process](); [Leading Design with Recovery Potential]() |
+|    4/6/2021 | [3]() & [4]()   | [Design Standards of Practice @ Complex-Scale]() ; [Learning How to Design @ Structure-Scale]()|
+|     4/10/2021 | Optional   | Design Field Trip                       |
+|     4/13/2021 | [5]() & [6]()   | [Choosing Indicators]() ; [Designing at Your Own Riverscape]()                      |
+
+
+Students are also invited to an optional, Saturday field trip where they can execute the field-based design process for a real project that will be buillt in the [Implementaion course]({{ site.baseurl }}/workshops/2021/USU/WATS-5624/). Beyond that optional field trip, students will be expected to take their own field trip to a real riverscape of their choosing  and complete a design assignment. 
 
 This course is based on [Module 4]({{ site.baseurl }}/workshops/2020/SGI/Modules/module4.html) of the self-paced materials. 
 <div align="center">
