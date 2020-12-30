@@ -6,14 +6,17 @@ weight: 2
 
 Below you can find PDFs and video recordings of the slides we cover in the intro to low-tech process-based restoration virtual workshop. Each is licensed with a [Creative Commons licence](https://creativecommons.org/), so you are free to re-use subject to the terms of the license. 
 
+<div align="center">
+<a class=" button hollow" href="{{ site.baseurl }}/resources/Topics/"> <i class="fa fa-chevron-circle-left" aria-hidden="true"></i> <b> Back to all Modules</b>    </a>
+</div>
+
 # Module 2: Underlying Science & Case Studies for Low-Tech PBR Process-Based Restoration
 
-Wednesday, Aug 12: 9:00 AM - 12:00 PM  (Mountain Time)
-Mimicking and promoting wood accumulation and beaver dam activity (Chapter 4 - Design Manual)
-
+----------------
 ## Module 2 Video Playlist
 
-<i class="fa fa-youtube-play" aria-hidden="true"></i> <a href="https://www.youtube.com/playlist?list=PLjhZYBVnXmgb7mOFP6ltwdnAhxRmsBvWg" target="_blank">Module 2 YouTube Playlist</a>
+Watch entire <i class="fa fa-youtube-play" aria-hidden="true"></i> <a href="https://www.youtube.com/playlist?list=PLjhZYBVnXmgb7mOFP6ltwdnAhxRmsBvWg" target="_blank">Module 2 YouTube Playlist</a>, or scroll below for individual topics, resources and videos.
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLjhZYBVnXmgb7mOFP6ltwdnAhxRmsBvWg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 --------
@@ -412,11 +415,11 @@ Hear the Birch Creek Beaver story directly from Jay. This video is from his pres
 
 
 ​       
-    <li><strong>Question:</strong> A beaver biology question - maybe better for yesterday but, Can someone talk about how beaver expand range?  How far will they go?  How big are barriers such as roads?  How about using estuaries, bays and coast lines to enter new watersheds?
-    <p><strong>Answer:</strong> (Nick Bouwes) They can travel great distances.  Some work by the Methow Beaver Project have documented PIT tag beaver detected at PIT antenna 300 miles away.  Beaver moving 10-20 miles is probably pretty common.  I have seen a lot of road kill beaver.  But if the habitat is good they might not move at all.  Beaver use estuaries quite a bit.  I am not sure how much these environments lead to dispersal but would not surprise me all that they use them extensively. 
-    </p>
-    </li>
-    
+​    <li><strong>Question:</strong> A beaver biology question - maybe better for yesterday but, Can someone talk about how beaver expand range?  How far will they go?  How big are barriers such as roads?  How about using estuaries, bays and coast lines to enter new watersheds?
+​    <p><strong>Answer:</strong> (Nick Bouwes) They can travel great distances.  Some work by the Methow Beaver Project have documented PIT tag beaver detected at PIT antenna 300 miles away.  Beaver moving 10-20 miles is probably pretty common.  I have seen a lot of road kill beaver.  But if the habitat is good they might not move at all.  Beaver use estuaries quite a bit.  I am not sure how much these environments lead to dispersal but would not surprise me all that they use them extensively. 
+​    </p>
+​    </li>
+​    
     <li><strong>Question:</strong> What is the latest research on the relationship between beaver, beaver restoration and whirling disease? 
     <p><strong>Answer:</strong> (Nick Bouwes) no evidence that they transmit whirling disease but something we are studying at the moment.  But fine sediments is where you find the tubifex worm which is the carrier so it likely contributes to establishment of whirling disease.  On the flip to this, in good habitat and healthy fish, fish can show little symptoms and survive the disease just fine. 
     </p>
@@ -434,11 +437,11 @@ Hear the Birch Creek Beaver story directly from Jay. This video is from his pres
 
 
 ​    
-    <li><strong>Question:</strong> For Birch Creek, you mentioned that you introduced several beavers following BDA construction, and then the creek went dry that first year. Did the introduced beavers persist through the time the creek was dry, or did you have to relocated another batch of beavers the following year?  Also, were you relocating beavers during the spring when flows were higher?
-    <p><strong>Answer:</strong> (Nick Bouwes) I should have clarified, so thanks for asking.  Higher in the watershed where the beaver were building ponds the flows are perennial.  It dries up lower in the system.  We relocated beaver in the late summer and fall.  The idea is that they starting dam building closer to winter when they start to cache food in ponds.  But I think you can relocate anytime outside winter if they have deepwater habitat
-    </p>
-    </li>
-    
+​    <li><strong>Question:</strong> For Birch Creek, you mentioned that you introduced several beavers following BDA construction, and then the creek went dry that first year. Did the introduced beavers persist through the time the creek was dry, or did you have to relocated another batch of beavers the following year?  Also, were you relocating beavers during the spring when flows were higher?
+​    <p><strong>Answer:</strong> (Nick Bouwes) I should have clarified, so thanks for asking.  Higher in the watershed where the beaver were building ponds the flows are perennial.  It dries up lower in the system.  We relocated beaver in the late summer and fall.  The idea is that they starting dam building closer to winter when they start to cache food in ponds.  But I think you can relocate anytime outside winter if they have deepwater habitat
+​    </p>
+​    </li>
+​    
     <li><strong>Question:</strong> Was there a comparison of benthic habitat with/without treatment and implications/quantification for fishes/inverts? Or will we get to that later?
     <p><strong>Answer:</strong> (Nick Bouwes) The benthic invertebrate community was different between ponded and free flowing reaches.  But we did not quantify differences in secondary production.  Substrate in free flowing reaches dominated by cobble.  In beaver ponds was mostly fines and gravel areas near the head of the pond, or when dams blow out. 
     </p>
@@ -456,11 +459,11 @@ Hear the Birch Creek Beaver story directly from Jay. This video is from his pres
 
 
 ​    
-    <li><strong>Question:</strong> If beavers are at such a low level, why don't natural resource agencies have a massive captive breeding program?
-    <p><strong>Answer:</strong> (Nick Bouwes) The demand for beavers often comes from aquatic folks. Wildlife managers often see beaver a nuisance animal that can be highly destructive and require management.  There are also people who believe beaver are at carrying capacity already (even though beaver can alter their own carrying capacity) and we should not be moving them.  But maybe in the future a breeding program might catch on. 
-    </p>
-    </li>
-    
+​    <li><strong>Question:</strong> If beavers are at such a low level, why don't natural resource agencies have a massive captive breeding program?
+​    <p><strong>Answer:</strong> (Nick Bouwes) The demand for beavers often comes from aquatic folks. Wildlife managers often see beaver a nuisance animal that can be highly destructive and require management.  There are also people who believe beaver are at carrying capacity already (even though beaver can alter their own carrying capacity) and we should not be moving them.  But maybe in the future a breeding program might catch on. 
+​    </p>
+​    </li>
+​    
     <li><strong>Question:</strong> What are the BDAs' limiting flow, height, and substrate?
     <p><strong>Answer:</strong> (Stephen Bennett) Very large rivers are likely not suitable for BDAs (e.g., order 6 and up). However, beavers do build dams on the margins of large rivers where there are multiple channels or back-channels. We recommend that you do not build BDAs too high. For example if your stream is incised 2 m or 6 feet - build a BDA that is 1 m or 3 feet high. If the BDA traps sediment and the pond fills in build on top of the existing BDA - in other words, build BDAs in stages to reduce incision. You can build a BDA in any substrate type except maybe bedrock. Our best advice is to use local cues and especially observing what beaver populations in your area are doing - emulate their behavior. We also recommend using a pilot or trial project to sort out these type of questions - what’s the worst that can happen, your BDA may fail if you build it too high. 
     </p>
