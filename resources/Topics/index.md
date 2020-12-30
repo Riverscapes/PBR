@@ -70,4 +70,12 @@ Thanks to the generous support of the [Natural Resource Conservation Service's](
 
 -----------
 
+## Want to Take Above for Credit?
+
+If you want to take the above self-paced learning modules for University credit or Continuing Education Unit credits, register for one of [our classes]({{ site.baseurl }}/workshops/uni) through Utah State University's [Restoration Consortium](http://restoration.usu.edu). These classes have smaller class sizes, and assignments you complete that are graded with individualized feedback. 
+
+<div align="center">
+<a class=" button hollow" href="{{ site.baseurl }}/workshops/uni"><img width="100" src="{{ site.baseurl }}/assets/images/sponsors/USU.png">  <b> See   LTPBR Courses</b>  for University Credit or Professional CEU  <i class="fa fa-graduation-cap"></i> 
+  </a>
+</div>
 
