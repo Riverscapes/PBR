@@ -41,7 +41,7 @@ Provides an introduction to the practice of Low-Tech Process-Based Restoration o
 
 Outline dates and assignments are all available on Canvas:
 <div align="center">
-<a class="hollow button" href="https://usu.instructure.com/courses/618129"><img src="{{ site.baseurl }}/assets/images/canvas_logo.png">  <b>Spring 2021 Canvas</b><br> WATS 6900  §4 - Planning LTPBR Course Assignments</a></div>
+<a class="hollow button" href="https://usu.instructure.com/courses/618192"><img src="{{ site.baseurl }}/assets/images/canvas_logo.png">  <b>Spring 2021 Canvas</b><br> WATS 6900  §4 - Planning LTPBR Course Assignments</a></div>
 
 Students are expected to watch pre-recorded lectures and complete the reading assignments prior to our class meetings, where those topics will be discussed and exercises completed as a group. 
 
@@ -74,10 +74,10 @@ $265.79  ($210 Course Fee + $39 CEU processing fee + $16.79 Eventbrite Fees) [Re
 This introductory course is focused on remembering and understanding, and is a pre-requisite to more [in depth courses]({{ site.baseurl }}/workshops/uni) on [LTPBR]({{ site.baseurl }}) .
 By the end of this course, students will:
 
-1. *Differentiate* the **collection & analysis phase** of the NRCS's Conservation Planning Process from other phases, and *recognize* the smiliarities to other restoratoin planning processes.
+1. *Differentiate* the **collection & analysis phase** of the NRCS's Conservation Planning Process from other phases, and *recognize* the similarities to other restoration planning processes.
 2. *Explore* and read riverscapes to identify valley bottom extents, and recognize zone of influence of structural forcing.  
 3. Gain experience in *evaluating* current conditions of a riverscape and *estimating* a realistic recovery potential using LTPBR.
-4. Recast restoraion objectives by *articulating* realistic, S-M-A-R-T (specific, measureable, achievable, relevant, time-bound), indicators. 
+4. Recast restoration objectives by *articulating* realistic, S-M-A-R-T (specific, measurable, achievable, relevant, time-bound), indicators. 
 
 
 ------
@@ -136,7 +136,7 @@ To get in touch with instructor(s), please use [Canvas](https://usu.instructure.
 --------
 # Course Resources
 
-The course is organized into a series of modules or topics. Slides (as PDFs), recordings (as YouTube videos), and readings (from textbook or provided PDFs) are the main course materials.  Within each module, formative assignments (unassessed) and graded assignments are assigned in Canvas. Assignment weightings, assessment critiera, rubrics (if appropriate) are provided by assignment and in the grade book.
+The course is organized into a series of modules or topics. Slides (as PDFs), recordings (as YouTube videos), and readings (from textbook or provided PDFs) are the main course materials.  Within each module, formative assignments (unassessed) and graded assignments are assigned in Canvas. Assignment weightings, assessment criteria, rubrics (if appropriate) are provided by assignment and in the grade book.
 
 ## Slides & Handouts
 
