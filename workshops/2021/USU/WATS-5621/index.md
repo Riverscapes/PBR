@@ -69,15 +69,11 @@ $265.79  ($210 Course Fee + $39 CEU processing fee + $16.79 Eventbrite Fees) [Re
 -----------------
 ## Course Objectives
 
-This introductory course is focused on remembering and understanding, and is a pre-requisite to more [in depth courses]({{ site.baseurl }}/workshops/uni) on [LTPBR]({{ site.baseurl }}) .
-By the end of this course, students will:
+This introductory course is focused on remembering and understanding, and is intended as a follow-up to the [Introduction to LTPBR Course]({{ site.baseurl }}/workshops/2020/USU/WATS-5620/), offering students an overview of some of the underlying science and case studies that have helped build confidence in [LTPBR practice]({{ site.baseurl }}).By the end of this course, students will:
 
-1. *Understand* the scope and seriousness of riverscape degradation. 
-2. *Identify* a vision for what riverscapes could be.
-3. *Recognize* various low-tech treatments and practices used in riverscape restoration.
-4. *Use* [Principles of Riverscape Health]({{ site.baseurl }}/manual/Chap02) as a basis for discriminating condition in riverscapes.
-5. *Distinguish* [Principles of Low-Tech Process-Based Restoration]({{ site.baseurl }}/manual/Chap02) from more traditional restoration approaches and other PBR principles. 
-6. Articulate why and where **beaver dam activity** is so often such an important part of low-tech process-based restoration of riverscapes.
+1. Be able to *indicate* what broad swaths of scholary literature and science have been used as the conceptual foundations for low-tech process-based restoration.
+3. *Understand* how some of the key case-studies from experimental LTPBR studies were used to build confidence in the use of post-assisted log-structures, beaver dam analogues and other low-tech treatments to invoke specific processes and increase resilience.
+4. *Recognize* what outstanding knowledge gaps exist within the science.
 
 ------
 ## Instructors
