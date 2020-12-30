@@ -62,7 +62,7 @@ This course is based on [Module 5]({{ site.baseurl }}/workshops/2020/SGI/Modules
 ## Fees
 ### Matriculated Students
 Current USU [Tuition](https://www.usu.edu/registrar/registration/payment/) for 1 credit. 
-No additional Course Fee. 
+$100 Course Fee for field trip (construction supplies, equipment, travel, safety equipment, etc.). 
 Please register on [Banner](http://banner.usu.edu). *Note, tuition  for 1 credit varies between $601.21 and $2482.92 per credit based on undergraduate vs. graduate, in-state vs. out-of-state, and total number of credits)*
 
 ### Continuing Education Students
