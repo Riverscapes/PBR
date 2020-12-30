@@ -73,15 +73,15 @@ $265.79  ($210 Course Fee + $39 CEU processing fee + $16.79 Eventbrite Fees) [Re
 -----------------
 ## Course Objectives
 
-This introductory course is focused on remembering and understanding, and is a pre-requisite to more [in depth courses]({{ site.baseurl }}/workshops/uni) on [LTPBR]({{ site.baseurl }}) .
+This introductory course is focused on creating LTPBR designs .
 By the end of this course, students will:
 
-1. *Understand* the scope and seriousness of riverscape degradation. 
-2. *Identify* a vision for what riverscapes could be.
-3. *Recognize* various low-tech treatments and practices used in riverscape restoration.
-4. *Use* [Principles of Riverscape Health]({{ site.baseurl }}/manual/Chap02) as a basis for discriminating condition in riverscapes.
-5. *Distinguish* [Principles of Low-Tech Process-Based Restoration]({{ site.baseurl }}/manual/Chap02) from more traditional restoration approaches and other PBR principles. 
-6. *Articualte* why and where **beaver dam activity** is so often such an important part of low-tech process-based restoration of riverscapes.
+1. Develop *familiarity* with the core components of [LTPBR design process](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module4#d-design-standards-of-practice--designing-at-complex-scale).
+2. *Understand*  the difference between an engineering-based design process and the LTPBR design process.  
+3. *Create* a complete low-tech PBR field design for a first phase of restoration in an impaired riverscape. 
+4. *Learn* how to use a **zone of influence** to convey design hypotheses assocaited with structural forcing. 
+4. *Assess* the degree of uplift associated with a design phase (as proportion of recovery potential) and estimate how many phases and how long it should take to achieve full recovery potential. 
+
 
 ------
 ## Instructors
