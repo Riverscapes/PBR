@@ -9,7 +9,7 @@ weight: 4
 
 <img class="float-right" src="{{ site.baseurl }}/assets/images/workshops/teaching.jpg">We have taught over 20 workshops, short-courses and full semester long classes since 2010 on low-tech process-based restoration (see table below).  There are a variety of ways in which we have offered this training:
 
-- **[University courses]({{ site.baseurl }}/workshops/usu.html)** through Utah State [University Department of Watershed Sciences](https://qcnr.usu.edu/wats/) for matriculated graudate students (e.g. WATS 5620, 5621, 5622, 5623, 5624, 6900, 6860) or professionals as continuing education units (CEUs; e.g. CEWA 5620, 5621, 5622, 5623, 5624, 6900 )  - *tuition fee charged per unit*  
+- **[University courses]({{ site.baseurl }}/workshops/uni)** through Utah State [University Department of Watershed Sciences](https://qcnr.usu.edu/wats/) for matriculated graudate students (e.g. WATS 5620, 5621, 5622, 5623, 5624, 6900, 6860) or professionals as continuing education units (CEUs; e.g. CEWA 5620, 5621, 5622, 5623, 5624, 6900 )  - *tuition fee charged per unit*  
 - **Short courses & workshops** open to public enrollment administered through Utah State University [Restoration Consortium](http://restoration.usu.edu) - *workshop fee charged* 
 - **Custom short course for private audience** - Virtual Workshops ([e.g. WLFW 2020]]({{ site.baseurl }}/workshops/2020/SGI)) and In-Person Workshops *(paid for by workshop sponsor(s))*
 - **[Self-Paced Modules]({{ site.baseurl }}/resources/Topics/)** - *Free*
