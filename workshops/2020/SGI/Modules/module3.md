@@ -6,15 +6,18 @@ weight: 3
 
 Below you can find PDFs and video recordings of the slides we cover in the intro to low-tech process-based restoration virtual workshop. Each is licensed with a [Creative Commons licence](https://creativecommons.org/), so you are free to re-use subject to the terms of the license. 
 
-# Module 3: Planning Low-Tech PBR
+<div align="center">
+<a class=" button hollow" href="{{ site.baseurl }}/resources/Topics/"> <i class="fa fa-chevron-circle-left" aria-hidden="true"></i> <b> Back to all Modules</b>    </a>
+</div>
 
-Wednesday, Aug 12: 1:00 PM - 4:30 PM  (Mountain Time)
+# Module 3: Planning Low-Tech PBR
 
 ------
 
 ## Module 3 Video Playlist
 
-<i class="fa fa-youtube-play" aria-hidden="true"></i> <a href="https://www.youtube.com/playlist?list=PLjhZYBVnXmgbFKKeCXWMjalIxam4gcZXx" target="_blank">Module 3 YouTube Playlist</a>
+Watch entire <i class="fa fa-youtube-play" aria-hidden="true"></i> <a href="https://www.youtube.com/playlist?list=PLjhZYBVnXmgbFKKeCXWMjalIxam4gcZXx" target="_blank">Module 3 YouTube Playlist</a>, or scroll below for individual topics, resources and videos.
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLjhZYBVnXmgbFKKeCXWMjalIxam4gcZXx" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 --------
@@ -177,13 +180,13 @@ The valley bottom is the entry point to understanding a riverscape. Fortunately,
 
 
   </div>
-  
+
 If you are participating virtually, you are missing out on one of the best parts, a real field trip! While it is not as good as going out together, we have prepared a virtual field trip to Spawn Creek for reading riverscapes for you! Follow along on an 80 minute guided field trip. 
 
 <div align="center">
         <a class="hollow button" href="{{ site.baseurl }}/resources/Topics/03_Planning/sturcturalForcing.html"><i class="fa fa-blind" aria-hidden="true"></i>  Go on the Virtual <b>Reading Riverscapes Field Trip</b> </a>  
 </div>
-  
+
 -----
 
 #### Panel Discussion 
