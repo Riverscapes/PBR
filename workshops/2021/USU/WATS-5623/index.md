@@ -47,10 +47,10 @@ This class meets three times for these discussion sessions:
 
 | Meeting Date | Modules | Topics                                                   |
 |--------------|---------|----------------------------------------------------------|
-|    3/30/2021 | [1]() & [2]()   | [Intro to Design Process](); [Leading Design with Recovery Potential]() |
-|    4/6/2021 | [3]() & [4]()   | [Design Standards of Practice @ Complex-Scale]() ; [Learning How to Design @ Structure-Scale]()|
+|    3/30/2021 | [1](https://usu.instructure.com/courses/618194/modules/732304) & [2](https://usu.instructure.com/courses/618194/modules/732305)   | [Intro to Design Process](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module4#b-designing-low-tech-restoration-projects); [Leading Design with Recovery Potential](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module4#c-leading-design-with-recovery-potential) |
+|    4/6/2021 | [3](https://usu.instructure.com/courses/618194/modules/732306) & [4](https://usu.instructure.com/courses/618194/modules/732307)   | [Design Standards of Practice @ Complex-Scale](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module4#d-design-standards-of-practice--designing-at-complex-scale) ; [Learning How to Design @ Structure-Scale](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module4#e-learning-how-to-design-at-structure-scale)|
 |     4/10/2021 | Optional   | Design Field Trip                       |
-|     4/13/2021 | [5]() & [6]()   | [Choosing Indicators]() ; [Designing at Your Own Riverscape]()                      |
+|     4/13/2021 | [5](https://usu.instructure.com/courses/618194/modules/732308) & [6](https://usu.instructure.com/courses/618194/modules/732309)   | [Field Design Documentation](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module4#f-putting-it-all-together-in-the-field) ; Designing at Your Own Riverscape                      |
 
 
 Students are also invited to an optional, Saturday field trip where they can execute the field-based design process for a real project that will be buillt in the [Implementaion course]({{ site.baseurl }}/workshops/2021/USU/WATS-5624/). Beyond that optional field trip, students will be expected to take their own field trip to a real riverscape of their choosing  and complete a design assignment. 
