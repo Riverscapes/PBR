@@ -49,9 +49,9 @@ This class meets three times for these discussion sessions:
 
 | Meeting Date | Modules | Topics                                                   |
 |--------------|---------|----------------------------------------------------------|
-|    1/19/2021 | 1 & 2   | Background & Scope of Degradation / Build your First BDA |
-|    1/26/2021 | 3 & 4   | Intro to Low-Tech Tools & Guiding Principles             |
-|     2/2/2021 | 5 & 6   | Partnering with Beaver & Synthesis                       |
+|    2/9/2021 | [3.1](https://usu.instructure.com/courses/618192/modules/732290) & [3.2](https://usu.instructure.com/courses/618192/modules/732291)   | [Intro to Planning Process](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module3#b-overview-of-planning--nrcs-conservation-planning-process) ; [Reading Riverscapes](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module3#c-valley-bottom-mapping--virtual-field-trip) |
+|    2/23/2021 | [3.3](https://usu.instructure.com/courses/618192/modules/732292)   | [Planning Phase](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module3#e-risk-assessment-condition-assessment--recovery-potential)           |
+|     3/2/2021 | [3.4](https://usu.instructure.com/courses/618192/modules/732293)   | Planning Applied to your own Riverscape                       |
 
 This course is based on [Module 3]({{ site.baseurl }}/workshops/2020/SGI/Modules/module3.html) of the self-paced materials. 
 <div align="center">
@@ -74,12 +74,11 @@ $265.79  ($210 Course Fee + $39 CEU processing fee + $16.79 Eventbrite Fees) [Re
 This introductory course is focused on remembering and understanding, and is a pre-requisite to more [in depth courses]({{ site.baseurl }}/workshops/uni) on [LTPBR]({{ site.baseurl }}) .
 By the end of this course, students will:
 
-1. *Understand* the scope and seriousness of riverscape degradation. 
-2. *Identify* a vision for what riverscapes could be.
-3. *Recognize* various low-tech treatments and practices used in riverscape restoration.
-4. *Use* [Principles of Riverscape Health]({{ site.baseurl }}/manual/Chap02) as a basis for discriminating condition in riverscapes.
-5. *Distinguish* [Principles of Low-Tech Process-Based Restoration]({{ site.baseurl }}/manual/Chap02) from more traditional restoration approaches and other PBR principles. 
-6. *Articualte* why and where **beaver dam activity** is so often such an important part of low-tech process-based restoration of riverscapes.
+1. *Differentiate* the **collection & analysis phase** of the NRCS's Conservation Planning Process from other phases, and *recognize* the smiliarities to other restoratoin planning processes.
+2. *Explore* and read riverscapes to identify valley bottom extents, and recognize zone of influence of structural forcing.  
+3. Gain experience in *evaluating* current conditions of a riverscape and *estimating* a realistic recovery potential using LTPBR.
+4. Recast restoraion objectives by *articulating* realistic, S-M-A-R-T (specific, measureable, achievable, relevant, time-bound), indicators. 
+
 
 ------
 ## Instructors
