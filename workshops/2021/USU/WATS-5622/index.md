@@ -49,9 +49,9 @@ This class meets three times for these discussion sessions. Students will take o
 
 | Meeting Date | Modules | Topics                                                   |
 |--------------|---------|----------------------------------------------------------|
-|    2/9/2021 | [3.1](https://usu.instructure.com/courses/618192/modules/732290) & [3.2](https://usu.instructure.com/courses/618192/modules/732291)   | [Intro to Planning Process](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module3#b-overview-of-planning--nrcs-conservation-planning-process) ; [Reading Riverscapes](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module3#c-valley-bottom-mapping--virtual-field-trip) |
-|    2/23/2021 | [3.3](https://usu.instructure.com/courses/618192/modules/732292)   | [Planning Phase](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module3#e-risk-assessment-condition-assessment--recovery-potential)           |
-|     3/2/2021 | [3.4](https://usu.instructure.com/courses/618192/modules/732293)   | Planning Applied to your own Riverscape                       |
+|    3/9/2021 | [3.1](https://usu.instructure.com/courses/618192/modules/732290) & [3.2](https://usu.instructure.com/courses/618192/modules/732291)   | [Intro to Planning Process](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module3#b-overview-of-planning--nrcs-conservation-planning-process) ; [Reading Riverscapes](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module3#c-valley-bottom-mapping--virtual-field-trip) |
+|    3/16/2021 | [3.3](https://usu.instructure.com/courses/618192/modules/732292)   | [Planning Phase](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module3#e-risk-assessment-condition-assessment--recovery-potential)           |
+|     3/23/2021 | [3.4](https://usu.instructure.com/courses/618192/modules/732293)   | Planning Applied to your own Riverscape                       |
 
 This course is based on [Module 3]({{ site.baseurl }}/workshops/2020/SGI/Modules/module3.html) of the self-paced materials. 
 <div align="center">
