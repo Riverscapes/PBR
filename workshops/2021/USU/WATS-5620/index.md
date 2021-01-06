@@ -44,9 +44,9 @@ This class meets three times for these discussion sessions:
 
 | Meeting Date | Modules | Topics                                                   |
 |--------------|---------|----------------------------------------------------------|
-|    1/19/2021 | [1.1]() & [1.2]()   | [Background & Scope of Degradation]() / [Build your First BDA]() |
-|    1/26/2021 | [1.3]() & [1.4]()   | [Intro to Low-Tech Tools]() & [Guiding Principles]()            |
-|     2/2/2021 | [1.5]() & [1.6]()   | [Partnering with Beaver & Synthesis]()                       |
+|    1/19/2021 | [1.1](https://usu.instructure.com/courses/618129/modules/721597)   | [Background & Scope of Degradation](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module1#b-background--why-were-here) / [Build your First BDA](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module1#f-what-you-came-for---your-first-bda) |
+|    1/26/2021 | [1.2](https://usu.instructure.com/courses/618129/modules/721598)   | [Intro to Low-Tech Tools](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module1#g-broad-umbrella-of-low-tech-restoration) & [Guiding Principles](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module1#j-principles)            |
+|     2/2/2021 | [1.3](https://usu.instructure.com/courses/618129/modules/721599)   | [Partnering with Beaver](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module1#k-beaver-history--biology) & [Synthesis](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module1#n-wrap-up-and-preview-of-remaining-modules)                       |
 
 This course is based on [Module 1]({{ site.baseurl }}/workshops/2020/SGI/Modules/module1.html) of the self-paced materials. 
 <div align="center">
