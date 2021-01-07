@@ -24,7 +24,7 @@ Provides an introduction to the implementation of Low-Tech Process-Based Restora
 </div>
 
 ## Schedule
-### Spring 2021 - Intro to LTPBR
+### Spring 2021 - Implementation of LTPBR
 - Matriculated Students: ST:IMP LOWTEC PRCBAS REST RIV - ????? - WATS 6900 - 00?
 - Non-Matriculated Students: ???? - CEWA 5700 - LB?
 
