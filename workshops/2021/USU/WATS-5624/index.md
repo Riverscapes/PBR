@@ -49,8 +49,8 @@ This class meets once for a discussion session (remotely) and once in person for
 
 | Meeting Date | Modules     | Topics                                                       |
 | ------------ | ----------- | ------------------------------------------------------------ |
-| 4/20/2021    | [2](), [3](), [4]() & [5]() | [Overview](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module5#b-low-tech-implementation-overview); [Consultation & Permitting](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module5#c-consultation--permitting); [Logistics, Equipment & Safety](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module5#d-logistics-equipment--safety), [Construction of PALS & BDAs](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module5#e-construction-of-pals--bdas); [Adaptive Management](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module5#f-adaptive-management) |
-| 4/24/2021    | 6           | Field Day (Saturday) - Constructing an LTPBR Project                    |
+| 4/20/2021    | [5.2](), [5.3](), [5.4]() & [5.5]() | [Overview](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module5#b-low-tech-implementation-overview); [Consultation & Permitting](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module5#c-consultation--permitting); [Logistics, Equipment & Safety](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module5#d-logistics-equipment--safety), [Construction of PALS & BDAs](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module5#e-construction-of-pals--bdas); [Adaptive Management](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module5#f-adaptive-management) |
+| 4/24/2021    | 5.6           | Field Day (Saturday) - Constructing an LTPBR Project                    |
 
 
 This course is based on [Module 5]({{ site.baseurl }}/workshops/2020/SGI/Modules/module5.html) of the self-paced materials. 
