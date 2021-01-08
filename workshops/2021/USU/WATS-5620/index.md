@@ -25,8 +25,8 @@ Provides an introduction to the practice of Low-Tech Process-Based Restoration o
 
 ## Schedule
 ### Spring 2021 - Intro to LTPBR
-- Matriculated Students: [ST:INTRO LOWTECH PROC REST RIV - 12043 - WATS 6900 - 002](https://ssb.banner.usu.edu/zprod/bwckschd.p_disp_detail_sched?term_in=202120&crn_in=12043)
-- Non-Matriculated Students: CEWA 5700 - 26236 - LB1 
+- Matriculated Students: [ST:INTRO LOWTECH PROC REST RIV - 12043 - WATS 6900 - 002](https://ssb.banner.usu.edu/zprod/bwckschd.p_disp_detail_sched?term_in=202120&crn_in=12043) - *register in Banner*
+- Non-Matriculated Students: CEWA 5700 - 26236 - LB1 - [Register on Eventbrite now](https://www.eventbrite.com/e/intro-to-low-tech-process-based-restoration-of-riverscapes-course-tickets-134050363245)
 
 | Class     | Time              | Days | Where                     | Dates                 |  Instructors                                                                                         |
 |----------|-------------------|------|---------------------------|-----------------------------|-----------------------------------------------------------------------------------------------------|
@@ -60,7 +60,7 @@ No additional Course Fee.
 Please register on [Banner](http://banner.usu.edu). *Note, tuition  for 1 credit varies between $601.21 and $2482.92 per credit based on undergraduate vs. graduate, in-state vs. out-of-state, and total number of credits)*
 
 ### Continuing Education Students
-$265.79  ($210 Course Fee + $39 CEU processing fee + $16.79 Eventbrite Fees) [Register on Eventbrite]()
+$265.79  ($210 Course Fee + $39 CEU processing fee + $16.79 Eventbrite Fees) [Register on Eventbrite](https://www.eventbrite.com/e/intro-to-low-tech-process-based-restoration-of-riverscapes-course-tickets-134050363245)
 
 
 -----------------
