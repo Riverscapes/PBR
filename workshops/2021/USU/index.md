@@ -14,7 +14,7 @@ Our popular 2.5 - 4 day LTPBR Workshop has been expanded into five 1 credit (1.5
 | WATS 6900♣| **[Science and Case Studies]({{ site.baseurl }}/workshops/2021/USU/WATS-5621/)** of Low-Tech Process-Based Restoration of Riverscapes | 12054    |
 | WATS 6900♣| **[Planning]({{ site.baseurl }}/workshops/2021/USU/WATS-5622/)** Low-Tech Process-Based Restoration of Riverscapes | 12075   |
 | WATS 6900♣| **[Designing]({{ site.baseurl }}/workshops/2021/USU/WATS-5623/)** Low-Tech Process-Based Restoration of Riverscapes | 12086     |
-| WATS 6900♣| **[Implementing]({{ site.baseurl }}/workshops/2021/USU/WATS-5624/)** Low-Tech Process-Based Restoration of Riverscapes | Pending   |
+| WATS 6900♣| **[Implementing]({{ site.baseurl }}/workshops/2021/USU/WATS-5624/)** Low-Tech Process-Based Restoration of Riverscapes | 37989   |
 
 ♣ Course numbers pending; Note for [Spring 2021]({{ site.baseurl }}/workshops/2021/USU/), these were offered as WATS 6900
 
