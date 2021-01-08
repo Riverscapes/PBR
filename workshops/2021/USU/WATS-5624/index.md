@@ -3,12 +3,13 @@ title: Implementation of LTPBR - Syllabus
 weight: 5
 ---
 
-# WATS 6900 §? - Syllabus
+# WATS 6900 §6 - Syllabus
 
 ![header]({{ site.baseurl }}/assets/images/courses/WATS-5624_header_C.png)
 
 
-## [Catalog Description](https://ssb.banner.usu.edu/zprod/bwckctlg.p_display_courses?term_in=202120&one_subj=WATS&sel_crse_strt=5150&sel_crse_end=5150&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=)
+## Catalog Description
+
 Provides an introduction to the implementation of Low-Tech Process-Based Restoration of Riverscapes. Students will gain direct experience constructing low-tech structures like PALS (post-assisted log structures) and BDAs (beaver dam analogues) on a real restoration project designed by students. Students will be exposed to consultation, permitting and become proficient in construction safety and logistics.  
 
 |**Title**| Implementation of Low-Tech Process-Based Restoration of Riverscapes|
@@ -25,7 +26,7 @@ Provides an introduction to the implementation of Low-Tech Process-Based Restora
 
 ## Schedule
 ### Spring 2021 - Implementation of LTPBR
-- Matriculated Students: ST:IMP LOWTEC PRCBAS REST RIV - ????? - WATS 6900 - 00?
+- Matriculated Students: ST:IMP LOWTEC PRCBAS REST RIV - 37989 - WATS 6900 - 006
 - Non-Matriculated Students: ???? - CEWA 5700 - LB?
 
 
