@@ -22,7 +22,7 @@ Provides an overview of some of the science and case studies that helped build c
 </div>
 
 ## Schedule
-### Spring 2021 - Intro to LTPBR
+### Spring 2021 - Science of LTPBR
 - Matriculated Students: [ST:SCI&CASE STUD LOWTECH RIV - 12054 - WATS 6900 - 003](https://ssb.banner.usu.edu/zprod/bwckschd.p_disp_detail_sched?term_in=202120&crn_in=12054)
 - Non-Matriculated Students: CEWA 5700 - 26394 - LB2 
 
