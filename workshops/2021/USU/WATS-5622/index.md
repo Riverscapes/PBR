@@ -65,8 +65,9 @@ No additional Course Fee.
 Please register on [Banner](http://banner.usu.edu). *Note, tuition  for 1 credit varies between $601.21 and $2482.92 per credit based on undergraduate vs. graduate, in-state vs. out-of-state, and total number of credits)*
 
 ### Continuing Education Students
-$265.79  ($210 Course Fee + $39 CEU processing fee + $16.79 Eventbrite Fees) [Register on Eventbrite]()
+$265.79  ($210 Course Fee + $39 CEU processing fee + $16.79 Eventbrite Fees) [Register on Eventbrite](https://www.eventbrite.com/e/planning-low-tech-process-based-restoration-of-riverscapes-tickets-136321217431)
 
+<div align="center"><a class="button" href="https://www.eventbrite.com/e/planning-low-tech-process-based-restoration-of-riverscapes-tickets-136321217431"> <b>Module 3 - Planning</b> <br> Register Now! <i class="fa fa-user-plus" aria-hidden="true"></i> </a></div>
 
 -----------------
 ## Course Objectives

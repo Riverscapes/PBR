@@ -62,6 +62,7 @@ Please register on [Banner](http://banner.usu.edu). *Note, tuition  for 1 credit
 ### Continuing Education Students
 $265.79  ($210 Course Fee + $39 CEU processing fee + $16.79 Eventbrite Fees) [Register on Eventbrite](https://www.eventbrite.com/e/intro-to-low-tech-process-based-restoration-of-riverscapes-course-tickets-134050363245)
 
+<div align="center"><a class="button" href="https://www.eventbrite.com/e/intro-to-low-tech-process-based-restoration-of-riverscapes-course-tickets-134050363245"> <b>Module 1 - Intro</b> <br> Register Now! <i class="fa fa-user-plus" aria-hidden="true"></i> </a></div>
 
 -----------------
 ## Course Objectives
