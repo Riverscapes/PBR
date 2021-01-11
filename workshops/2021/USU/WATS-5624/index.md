@@ -27,7 +27,7 @@ Provides an introduction to the implementation of Low-Tech Process-Based Restora
 ## Schedule
 ### Spring 2021 - Implementation of LTPBR
 - Matriculated Students: ST:IMP LOWTEC PRCBAS REST RIV - 37989 - WATS 6900 - 006
-- Non-Matriculated Students: ???? - CEWA 5700 - LB?
+- Non-Matriculated Students: 26398 - CEWA 5700 - LB5
 
 
 
@@ -67,7 +67,9 @@ $100 Course Fee for field trip (construction supplies, equipment, travel, safety
 Please register on [Banner](http://banner.usu.edu). *Note, tuition  for 1 credit varies between $601.21 and $2482.92 per credit based on undergraduate vs. graduate, in-state vs. out-of-state, and total number of credits)*
 
 ### Continuing Education Students
-$371.88  ($310 Course Fee + $39 CEU processing fee + $19.89 Eventbrite Fees) [Register on Eventbrite]()
+$371.88  ($310 Course Fee + $39 CEU processing fee + $19.89 Eventbrite Fees) [Register on Eventbrite](https://www.eventbrite.com/e/implementing-low-tech-process-based-restoration-of-riverscapes-tickets-136337207257)
+
+<div align="center"><a class="button" href="https://www.eventbrite.com/e/implementing-low-tech-process-based-restoration-of-riverscapes-tickets-136337207257"> <b>Module 5 - Implementation</b> <br> Register Now! <i class="fa fa-user-plus" aria-hidden="true"></i> </a></div>
 
 
 -----------------
