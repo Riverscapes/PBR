@@ -90,8 +90,8 @@ Course meeting times and dates are shown below.
 
 
 ## Implementing LTPBR 
-- Matriculated Students: ST:IMP LOWTEC PRCBAS REST RIV - ????? - WATS 6900 - 00?
-- Non-Matriculated Students: ???? - CEWA 5700 - LB?
+- Matriculated Students: ST:IMP LOWTEC PRCBAS REST RIV - 37989 - WATS 6900 - 006
+- Non-Matriculated Students: 26398 - CEWA 5700 - LB5
 
 
 
