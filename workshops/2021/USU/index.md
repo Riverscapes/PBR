@@ -20,13 +20,13 @@ Our popular 2.5 - 4 day LTPBR Workshop has been expanded into five 1 credit (1.5
 
 ## For Professionals
 
-| Course # |  Course Title | CRN     |
-|--------------------------------------------------------------------------------------------------------------------------------------------------------------|---|---|
-| CEWA 5700♣|  **[Introduction]({{ site.baseurl }}/workshops/2021/USU/WATS-5620/)** to Low-Tech Process-Based Restoration of Riverscapes | 26236     |
-| CEWA 5700♣| **[Science and Case Studies]({{ site.baseurl }}/workshops/2021/USU/WATS-5621/)** of Low-Tech Process-Based Restoration of Riverscapes | 26394    |
-| CEWA 5700♣| **[Planning]({{ site.baseurl }}/workshops/2021/USU/WATS-5622/)** Low-Tech Process-Based Restoration of Riverscapes | 26395   |
-| CEWA 5700♣| **[Designing]({{ site.baseurl }}/workshops/2021/USU/WATS-5623/)** Low-Tech Process-Based Restoration of Riverscapes | 26397     |
-| CEWA 5700♣| **[Implementing]({{ site.baseurl }}/workshops/2021/USU/WATS-5624/)** Low-Tech Process-Based Restoration of Riverscapes | Pending   |
+| Course # |  Course Title | Registration Cost & Link | Banner CRN |
+|--------------------------------------------------------------------------------------------------------------------------------------------------------------|---|---|---|
+| CEWA 5700♣|  **[Introduction]({{ site.baseurl }}/workshops/2021/USU/WATS-5620/)** to Low-Tech Process-Based Restoration of Riverscapes | $265.79 [Register](https://www.eventbrite.com/e/intro-to-low-tech-process-based-restoration-of-riverscapes-course-tickets-134050363245) | 26236     |
+| CEWA 5700♣| **[Science and Case Studies]({{ site.baseurl }}/workshops/2021/USU/WATS-5621/)** of Low-Tech Process-Based Restoration of Riverscapes | $265.79 [Register](https://www.eventbrite.com/e/science-case-studies-of-low-tech-process-based-restoration-of-riverscapes-tickets-136330517247) | 26394    |
+| CEWA 5700♣| **[Planning]({{ site.baseurl }}/workshops/2021/USU/WATS-5622/)** Low-Tech Process-Based Restoration of Riverscapes | $265.79 [Register](https://www.eventbrite.com/e/planning-low-tech-process-based-restoration-of-riverscapes-tickets-136321217431) | 26395   |
+| CEWA 5700♣| **[Designing]({{ site.baseurl }}/workshops/2021/USU/WATS-5623/)** Low-Tech Process-Based Restoration of Riverscapes | $265.79 [Register](https://www.eventbrite.com/e/designing-low-tech-process-based-restoration-of-riverscapes-tickets-136334970567) | 26397     |
+| CEWA 5700♣| **[Implementing]({{ site.baseurl }}/workshops/2021/USU/WATS-5624/)** Low-Tech Process-Based Restoration of Riverscapes | $371.88 [Register](https://www.eventbrite.com/e/implementing-low-tech-process-based-restoration-of-riverscapes-tickets-136337207257) | 26398 |
 
 ♣ Course numbers pending; Note for [Spring 2021]({{ site.baseurl }}/workshops/2021/USU/), these were offered as  CEWA 5700 Special Topics 
 <div align="center">
