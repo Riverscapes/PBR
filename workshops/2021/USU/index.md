@@ -4,7 +4,7 @@ title: USU LTPBR Courses 2021
 
 # Overview of Spring 2021 Offerings
 
-Our popular 2.5 - 4 day LTPBR Workshop has been expanded into five 1 credit (1.5 CEU) courses offered in series over Spring Semester.  
+Our popular 2.5 - 4 day LTPBR Workshop has been expanded into five 1 credit (1.5 CEU) courses offered in series over Spring Semester.  Matriculated students register in [banner](http://banner.usu.edu).
 
 ## For Matriculated Students
 
@@ -16,9 +16,11 @@ Our popular 2.5 - 4 day LTPBR Workshop has been expanded into five 1 credit (1.5
 | WATS 6900♣| **[Designing]({{ site.baseurl }}/workshops/2021/USU/WATS-5623/)** Low-Tech Process-Based Restoration of Riverscapes | 12086     |
 | WATS 6900♣| **[Implementing]({{ site.baseurl }}/workshops/2021/USU/WATS-5624/)** Low-Tech Process-Based Restoration of Riverscapes | 37989   |
 
-♣ Course numbers pending; Note for [Spring 2021]({{ site.baseurl }}/workshops/2021/USU/), these were offered as WATS 6900
+♣ Course numbers pending; Note for [Spring 2021]({{ site.baseurl }}/workshops/2021/USU/), these were offered as WATS 6900. 
 
 ## For Professionals
+
+Non-matriculated students can take the classes for a direct fee (register on Eventbrite for each course separately using links below). Optional continuing education unit credit is available on request (select option during registration). 
 
 | Course # |  Course Title | Registration Cost & Link | Banner CRN |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------|---|---|---|
