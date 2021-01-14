@@ -10,7 +10,8 @@ weight: 5
 
 ## Catalog Description
 
-Provides an introduction to the implementation of Low-Tech Process-Based Restoration of Riverscapes. Students will gain direct experience constructing low-tech structures like PALS (post-assisted log structures) and BDAs (beaver dam analogues) on a real restoration project designed by students. Students will be exposed to consultation, permitting and become proficient in construction safety and logistics.  
+This course introduces Low-Tech Process-Based Restoration of Riverscapes implementation. Students construct low-tech structures like PALS (post-assisted log structures) and BDAs (beaver dam analogues) on student-designed restoration projects. Students explore consultation and permitting, and become proficient in construction safety and logistics.
+
 
 |**Title**| Implementation of Low-Tech Process-Based Restoration of Riverscapes|
 |**Semester(s) Traditionally Offered**| Spring|
