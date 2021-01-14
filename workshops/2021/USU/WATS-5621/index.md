@@ -7,7 +7,9 @@ weight: 2
 ![header]({{ site.baseurl }}/assets/images/courses/WATS-5621_header_C.png)
 
 ## [Catalog Description](https://ssb.banner.usu.edu/zprod/bwckctlg.p_display_courses?term_in=202120&one_subj=WATS&sel_crse_strt=5150&sel_crse_end=5150&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=)
-Provides an overview of some of the science and case studies that helped build confidence in  Low-Tech Process-Based Restoration of Riverscapes. Students will gain exposure to some of the key experiments and studies, as well as build an understanding of what the state of current LTPBR science is and where remaining knowledge gaps exist.
+Students explore the science and case studies that encouraged Low-Tech Process-Based Restoration of Riverscapes. Students gain exposure to key experiments and studies, and come to understand what the state of current LTPBR science is and where remaining knowledge gaps exist.
+
+
 
 |**Title**| Science & Case Studies of Low-Tech Process-Based Restoration of Riverscapes|
 |**Semester(s) Traditionally Offered**| Spring|
