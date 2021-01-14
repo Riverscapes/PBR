@@ -10,7 +10,7 @@ weight: 3
 
 
 ## [Catalog Description](https://ssb.banner.usu.edu/zprod/bwckctlg.p_display_courses?term_in=202120&one_subj=WATS&sel_crse_strt=5150&sel_crse_end=5150&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=)
-Provides an introduction to the practice of Low-Tech Process-Based Restoration of Riverscapes. Students will gain exposure to the scope of riverscape degradation, example low-tech restoration techniques, riverscape and restoration principles. 
+Provides an introduction to planning process of Low-Tech Process-Based Restoration of Riverscapes. Students will learn how to map riverscapes, assess current conditions and estimate recovery potential to support LTPBR projects. 
 
 |**Title**| Planning to Low-Tech Process-Based Restoration of Riverscapes|
 |**Semester(s) Traditionally Offered**| Spring|
