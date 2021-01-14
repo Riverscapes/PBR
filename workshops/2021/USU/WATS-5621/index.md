@@ -74,10 +74,13 @@ $265.79  ($210 Course Fee + $39 CEU processing fee + $16.79 Eventbrite Fees) [Re
 
 This introductory course is focused on remembering and understanding, and is intended as a follow-up to the [Introduction to LTPBR Course]({{ site.baseurl }}/workshops/2020/USU/WATS-5620/), offering students an overview of some of the underlying science and case studies that have helped build confidence in [LTPBR practice]({{ site.baseurl }}).By the end of this course, students will:
 
-1. Be able to *indicate* what broad swaths of scholary literature and science have been used as the conceptual foundations for low-tech process-based restoration.
-3. *Understand* how some of the key case-studies from experimental LTPBR studies were used to build confidence in the use of post-assisted log-structures, beaver dam analogues and other low-tech treatments to invoke specific processes and increase resilience.
-4. *Recognize* what outstanding knowledge gaps exist within the science.
 
+1. Be able to *indicate* what scholarly literature and science have been used as the conceptual foundations for low-tech process-based restoration.
+2. *Understand* how key LTPBR studies were used to build confidence in the use of post-assisted log-structures, beaver dam analogues and other low-tech treatments to invoke specific processes and increase resilience.
+3. *Recognize* what outstanding knowledge gaps exist within the science.
+
+
+Recognize what outstanding knowledge gaps exist within the science.
 ------
 ## Instructors
 
