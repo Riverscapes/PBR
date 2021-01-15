@@ -8,7 +8,7 @@ weight: 1
 ![header]({{ site.baseurl }}/assets/images/courses/WATS-5620_header_C.png)
 
 ## [Catalog Description](https://ssb.banner.usu.edu/zprod/bwckctlg.p_display_courses?term_in=202120&one_subj=WATS&sel_crse_strt=5150&sel_crse_end=5150&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=)
-Provides an introduction to the practice of Low-Tech Process-Based Restoration of Riverscapes. Students will gain exposure to the scope of riverscape degradation, example low-tech restoration techniques, riverscape and restoration principles.
+This course provides an introduction to the practice of Low-Tech Process-Based Restoration of Riverscapes. Students gain exposure to the scope of riverscape degradation, low-tech restoration technique examples, and riverscape and restoration principles.
 
 |**Title**| Introduction to Low-Tech Process-Based Restoration of Riverscapes|
 |**Course Number**: | WATS 6900 (will be WATS 5620 in 2022)|
