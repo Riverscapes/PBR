@@ -9,7 +9,7 @@ weight: 4
 
 
 ## [Catalog Description](https://ssb.banner.usu.edu/zprod/bwckctlg.p_display_courses?term_in=202120&one_subj=WATS&sel_crse_strt=5150&sel_crse_end=5150&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=)
-Provides an introduction to designing Low-Tech Process-Based Restoration of Riverscapes. Students will design their own LTPBR restoration projects at a site of their choosing. 
+This course provides an introduction to designing Low-Tech Process-Based Restoration of Riverscapes. Students design their own LTPBR restoration projects at a site of their choosing.
 
 |**Title**| Design of Low-Tech Process-Based Restoration of Riverscapes|
 |**Semester(s) Traditionally Offered**| Spring|
