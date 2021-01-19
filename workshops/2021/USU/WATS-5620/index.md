@@ -32,6 +32,16 @@ This course provides an introduction to the practice of Low-Tech Process-Based R
 |----------|-------------------|------|---------------------------|-----------------------------|-----------------------------------------------------------------------------------------------------|
 | [Intro to LTPBR](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module1)     | 1:30 pm - 3:30 pm | Tuesdays    | Zoom | Jan 19, 26 & Feb 2,  2021 |  [Joseph Michael Wheaton (P), Stephen Nicholas Bennett, Nicolaas W Bouwes, Scott M Shahverdian]({{ site.baseurl }}//workshops/2020/SGI/#instruction-team) |
 
+We will use the same recurring [Zoom Meeting Link](https://usu-edu.zoom.us/j/83072774959?pwd=L1k5UWVCb3FBR0ZpSm5KWnZJVHlZUT09):
+<div align="center">
+<a class="hollow button" href="https://usu-edu.zoom.us/j/83072774959?pwd=L1k5UWVCb3FBR0ZpSm5KWnZJVHlZUT09"><img src="{{ site.baseurl }}/assets/images/zoom_icon_32.png">  <b>Zoom Meeting Link</b><br>Mondays & Wednesdays</a>
+
+</div>
+Meeting ID: 830 7277 4959
+One tap mobile
++16699006833,,83072774959#,,,,,,0#,,565413# US (San Jose)
+
+
 ### Course Schedule/Outline
 
 Outline dates and assignments are all available on Canvas:
