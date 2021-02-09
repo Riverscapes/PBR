@@ -39,7 +39,7 @@ Students explore the science and case studies that encouraged Low-Tech Process-B
 
 Outline dates and assignments are all available on Canvas:
 <div align="center">
-<a class="hollow button" href="https://usu.instructure.com/courses/618152/modules"><img src="{{ site.baseurl }}/assets/images/canvas_logo.png">  <b>Spring 2021 Canvas</b><br> WATS 6900 - §3 - Science & Case Studies of LTPBR Course Assignments</a></div>
+<a class="hollow button" href="https://usu.instructure.com/courses/639115"><img src="{{ site.baseurl }}/assets/images/canvas_logo.png">  <b>Spring 2021 Canvas</b><br> WATS 6900 - §3 - Science & Case Studies of LTPBR Course Assignments</a></div>
 
 Students are expected to watch pre-recorded lectures and complete the reading assignments prior to our class meetings, where those topics will be discussed and exercises completed as a group. 
 
@@ -65,9 +65,9 @@ No additional Course Fee.
 Please register on [Banner](http://banner.usu.edu). *Note, tuition  for 1 credit varies between $601.21 and $2482.92 per credit based on undergraduate vs. graduate, in-state vs. out-of-state, and total number of credits)*
 
 ### Continuing Education Students
-$265.79  ($210 Course Fee + $39 CEU processing fee + $16.79 Eventbrite Fees) [Register on Eventbrite](https://www.eventbrite.com/e/science-case-studies-of-low-tech-process-based-restoration-of-riverscapes-tickets-136330517247)
+$265.79   [Register Here](https://www.usu.edu/ais/ceu/register/?term=202120&crns=26394,26395,26397,26398)
 
-<div align="center"><a class="button" href="https://www.eventbrite.com/e/science-case-studies-of-low-tech-process-based-restoration-of-riverscapes-tickets-136330517247"> <b>Module 2 - Science & Case Studies</b> <br> Register Now! <i class="fa fa-user-plus" aria-hidden="true"></i> </a></div>
+<div align="center"><a class="button" href="https://www.usu.edu/ais/ceu/register/?term=202120&crns=26236,26394,26395,26397,26398"> <b>Module 2 - Science & Case Studies</b> <br> Register Now! <i class="fa fa-user-plus" aria-hidden="true"></i> </a></div>
 
 -----------------
 ## Course Objectives
