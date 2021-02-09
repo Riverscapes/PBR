@@ -32,7 +32,7 @@ Non-matriculated students can take the classes for a direct fee (register on Eve
 
 ♣ Course numbers pending; Note for [Spring 2021]({{ site.baseurl }}/workshops/2021/USU/), these were offered as  CEWA 5700 Special Topics 
 <div align="center">
-<a class=" button hollow" href="{{ site.baseurl }}/workshops/uni"><img width="100" src="{{ site.baseurl }}/assets/images/sponsors/USU.png">  <b> Back to  LTPBR Courses</b>  for University Credit or Professional CEU  <i class="fa fa-chevron-circle-left" aria-hidden="true"></i>
+<a class=" button hollow" href="{{ site.baseurl }}/workshops/uni.html#professional-continuing-education-units"><img width="100" src="{{ site.baseurl }}/assets/images/sponsors/USU.png">  <b> Back to  LTPBR Courses</b>  for University Credit or Professional CEU  <i class="fa fa-chevron-circle-left" aria-hidden="true"></i>
   </a>
 </div>
 
