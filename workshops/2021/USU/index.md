@@ -20,15 +20,15 @@ Our popular 2.5 - 4 day LTPBR Workshop has been expanded into five 1 credit (1.5
 
 ## For Professionals
 
-Non-matriculated students can take the classes for a direct fee (register on Eventbrite for each course separately using links below). Optional continuing education unit credit is available on request (select option during registration). 
+Non-matriculated students can take the classes for a direct fee through our Continuing Education Unit system.
 
 | Course # |  Course Title | Registration Cost & Link | Banner CRN |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------|---|---|---|
-| CEWA 5700♣|  **[Introduction]({{ site.baseurl }}/workshops/2021/USU/WATS-5620/)** to Low-Tech Process-Based Restoration of Riverscapes | $265.79 [Register](https://www.eventbrite.com/e/intro-to-low-tech-process-based-restoration-of-riverscapes-course-tickets-134050363245) | 26236     |
-| CEWA 5700♣| **[Science and Case Studies]({{ site.baseurl }}/workshops/2021/USU/WATS-5621/)** of Low-Tech Process-Based Restoration of Riverscapes | $265.79 [Register](https://www.eventbrite.com/e/science-case-studies-of-low-tech-process-based-restoration-of-riverscapes-tickets-136330517247) | 26394    |
-| CEWA 5700♣| **[Planning]({{ site.baseurl }}/workshops/2021/USU/WATS-5622/)** Low-Tech Process-Based Restoration of Riverscapes | $265.79 [Register](https://www.eventbrite.com/e/planning-low-tech-process-based-restoration-of-riverscapes-tickets-136321217431) | 26395   |
-| CEWA 5700♣| **[Designing]({{ site.baseurl }}/workshops/2021/USU/WATS-5623/)** Low-Tech Process-Based Restoration of Riverscapes | $265.79 [Register](https://www.eventbrite.com/e/designing-low-tech-process-based-restoration-of-riverscapes-tickets-136334970567) | 26397     |
-| CEWA 5700♣| **[Implementing]({{ site.baseurl }}/workshops/2021/USU/WATS-5624/)** Low-Tech Process-Based Restoration of Riverscapes | $371.88 [Register](https://www.eventbrite.com/e/implementing-low-tech-process-based-restoration-of-riverscapes-tickets-136337207257) | 26398 |
+| CEWA 5700♣|  **[Introduction]({{ site.baseurl }}/workshops/2021/USU/WATS-5620/)** to Low-Tech Process-Based Restoration of Riverscapes | $265.79 [Register](https://www.usu.edu/ais/ceu/register/?term=202120&crns=26236,26394,26395,26397,26398) | 26236     |
+| CEWA 5700♣| **[Science and Case Studies]({{ site.baseurl }}/workshops/2021/USU/WATS-5621/)** of Low-Tech Process-Based Restoration of Riverscapes | $265.79 [Register](https://www.usu.edu/ais/ceu/register/?term=202120&crns=26236,26394,26395,26397,26398) | 26394    |
+| CEWA 5700♣| **[Planning]({{ site.baseurl }}/workshops/2021/USU/WATS-5622/)** Low-Tech Process-Based Restoration of Riverscapes | $265.79 [Register](https://www.usu.edu/ais/ceu/register/?term=202120&crns=26236,26394,26395,26397,26398) | 26395   |
+| CEWA 5700♣| **[Designing]({{ site.baseurl }}/workshops/2021/USU/WATS-5623/)** Low-Tech Process-Based Restoration of Riverscapes | $265.79 [Register](https://www.usu.edu/ais/ceu/register/?term=202120&crns=26236,26394,26395,26397,263987) | 26397     |
+| CEWA 5700♣| **[Implementing]({{ site.baseurl }}/workshops/2021/USU/WATS-5624/)** Low-Tech Process-Based Restoration of Riverscapes | $371.88 [Register](https://www.usu.edu/ais/ceu/register/?term=202120&crns=26236,26394,26395,26397,26398) | 26398 |
 
 ♣ Course numbers pending; Note for [Spring 2021]({{ site.baseurl }}/workshops/2021/USU/), these were offered as  CEWA 5700 Special Topics 
 <div align="center">
@@ -43,7 +43,7 @@ Course meeting times and dates are shown below.
 
 ## Intro to LTPBR
 - Matriculated Students: [ST:INTRO LOWTECH PROC REST RIV - 12043 - WATS 6900 - 002](https://ssb.banner.usu.edu/zprod/bwckschd.p_disp_detail_sched?term_in=202120&crn_in=12043)
-- Non-Matriculated Students: CEWA 5700 - 26236 - LB1 
+- Non-Matriculated Students: [CEWA 5700 - 26236 - LB1](https://www.usu.edu/ais/ceu/register/?term=202120&crns=26236) 
 
 | Class                                                        | Time              | Days     | Where | Dates                     | Instructors                                                  |
 | ------------------------------------------------------------ | ----------------- | -------- | ----- | ------------------------- | ------------------------------------------------------------ |
@@ -52,7 +52,7 @@ Course meeting times and dates are shown below.
 
 ## LTPBR Science & Case Studies
 - Matriculated Students: [ST:SCI&CASE STUD LOWTECH RIV - 12054 - WATS 6900 - 003](https://ssb.banner.usu.edu/zprod/bwckschd.p_disp_detail_sched?term_in=202120&crn_in=12054)
-- Non-Matriculated Students: CEWA 5700 - 26394 - LB2 
+- Non-Matriculated Students: [CEWA 5700 - 26394 - LB2](https://www.usu.edu/ais/ceu/register/?term=202120&crns=26394) 
 
 
 
@@ -64,7 +64,7 @@ Course meeting times and dates are shown below.
 
 ## Planning LTPBR 
 - Matriculated Students: [ST:PLANLOWTEC PRCBASED REST RI - 12075 - WATS 6900 - 004](https://ssb.banner.usu.edu/zprod/bwckschd.p_disp_detail_sched?term_in=202120&crn_in=12075)
-- Non-Matriculated Students: 26395 - CEWA 5700 - LB3
+- Non-Matriculated Students: [26395 - CEWA 5700 - LB3](https://www.usu.edu/ais/ceu/register/?term=202120&crns=26395)
 
 
 
@@ -77,7 +77,7 @@ Course meeting times and dates are shown below.
 
 ## Designing LTPBR 
 - Matriculated Students: [ST:DES LOWTEC PRCBAS REST RIV - 12083 - WATS 6900 - 005](https://ssb.banner.usu.edu/zprod/bwckschd.p_disp_detail_sched?term_in=202120&crn_in=12083)
-- Non-Matriculated Students: 26397 - CEWA 5700 - LB4
+- Non-Matriculated Students: [26397 - CEWA 5700 - LB4](https://www.usu.edu/ais/ceu/register/?term=202120&crns=26397)
 
 
 
@@ -91,7 +91,7 @@ Course meeting times and dates are shown below.
 
 ## Implementing LTPBR 
 - Matriculated Students: ST:IMP LOWTEC PRCBAS REST RIV - 37989 - WATS 6900 - 006
-- Non-Matriculated Students: 26398 - CEWA 5700 - LB5
+- Non-Matriculated Students: [26398 - CEWA 5700 - LB5](https://www.usu.edu/ais/ceu/register/?term=202120&crns=26398)
 
 
 
