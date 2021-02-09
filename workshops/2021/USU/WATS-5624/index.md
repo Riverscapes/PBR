@@ -68,9 +68,9 @@ $100 Course Fee for field trip (construction supplies, equipment, travel, safety
 Please register on [Banner](http://banner.usu.edu). *Note, tuition  for 1 credit varies between $601.21 and $2482.92 per credit based on undergraduate vs. graduate, in-state vs. out-of-state, and total number of credits)*
 
 ### Continuing Education Students
-$371.88  ($310 Course Fee + $39 CEU processing fee + $19.89 Eventbrite Fees) [Register on Eventbrite](https://www.eventbrite.com/e/implementing-low-tech-process-based-restoration-of-riverscapes-tickets-136337207257)
+$371.88  [Register Here](https://www.usu.edu/ais/ceu/register/?term=202120&crns=26236,26394,26395,26397,26398)
 
-<div align="center"><a class="button" href="https://www.eventbrite.com/e/implementing-low-tech-process-based-restoration-of-riverscapes-tickets-136337207257"> <b>Module 5 - Implementation</b> <br> Register Now! <i class="fa fa-user-plus" aria-hidden="true"></i> </a></div>
+<div align="center"><a class="button" href="https://www.usu.edu/ais/ceu/register/?term=202120&crns=26236,26394,26395,26397,26398"> <b>Module 5 - Implementation</b> <br> Register Now! <i class="fa fa-user-plus" aria-hidden="true"></i> </a></div>
 
 
 -----------------

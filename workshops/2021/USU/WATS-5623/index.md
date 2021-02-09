@@ -67,9 +67,9 @@ No additional Course Fee.
 Please register on [Banner](http://banner.usu.edu). *Note, tuition  for 1 credit varies between $601.21 and $2482.92 per credit based on undergraduate vs. graduate, in-state vs. out-of-state, and total number of credits)*
 
 ### Continuing Education Students
-$265.79  ($210 Course Fee + $39 CEU processing fee + $16.79 Eventbrite Fees) [Register on Eventbrite](https://www.eventbrite.com/e/designing-low-tech-process-based-restoration-of-riverscapes-tickets-136334970567)
+$265.79   [Register Here](https://www.usu.edu/ais/ceu/register/?term=202120&crns=26236,26394,26395,26397,26398)
 
-<div align="center"><a class="button" href="https://www.eventbrite.com/e/designing-low-tech-process-based-restoration-of-riverscapes-tickets-136334970567"> <b>Module 4 - Design</b> <br> Register Now! <i class="fa fa-user-plus" aria-hidden="true"></i> </a></div>
+<div align="center"><a class="button" href="https://www.usu.edu/ais/ceu/register/?term=202120&crns=26236,26394,26395,26397,26398"> <b>Module 4 - Design</b> <br> Register Now! <i class="fa fa-user-plus" aria-hidden="true"></i> </a></div>
 
 -----------------
 ## Course Objectives
