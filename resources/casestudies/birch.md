@@ -73,11 +73,12 @@ Nick Bouwes gave an abbreviated version of the Birch Creek story in the [Virtual
   </div>
 </div>
 
+-----------------
 ## Story Told by Others
 This story has appeared in multiple media outlets. Here are a few of the recent ones:
 
 ### Range Magazine - Return of Nature's Hydro Engineers (2021)
-<a hef="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/WATS5350/RANGE+Magazine+-+Wilde+Feature+-+Spring+2021.pdf"><img class="float-right" src="{{ sitebase.url }}/assets/images/pics/casestudies/RangeMag.png"></a>
+<a hef="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/WATS5350/RANGE+Magazine+-+Wilde+Feature+-+Spring+2021.pdf"><img class="float-left" src="{{ sitebase.url }}/assets/images/pics/casestudies/RangeMag.png"></a>
 An article titled "[Return of Nature's Hydro Engineers](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/WATS5350/RANGE+Magazine+-+Wilde+Feature+-+Spring+2021.pdf)" appeared in the [Spring 2021 issue](http://www.rangemagazine.com/features/spring-21/range-sp21-contents.htm) of Range Magazine on Jay's story.
 
 ### Beef Magazine: Beaver power provides year-long water to Idaho ranch (2020)
