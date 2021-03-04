@@ -16,8 +16,14 @@ weight: 4
 # Jay Wilde's Story: Reintroducing beaver to bring back perennial flow 
 
 <a href="https://earth.app.goo.gl/n9RRA6"><img width="100" class="float-left" src="{{ site.baseurl }}/assets/images/people/Wilde_round.png"></a>
-We have had the privilege of working with Idaho Rancher Jay Wilde since 2014.  For a more elaborate version of what [Joe explains here](http://capstone.restoration.usu.edu/Course_Topics/WATS_5350/Low-Tech/Projects/birch/#part-1---why-we-can-even-work-in-birch-creek), its best to hear directly from Jay what happened. Jay tells his [story](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Workshops/CheapCheerful/2018/NRCS/Idaho/Lectures/2018_IdahoNRCS_Wilde_BirchCreek.pdf) about bringing beaver back to the creek he grew up on to restore flow.  Jay went on the road in the summer of 2018 with us and helped spread this message to workshop participants in five SGI Low-Tech Process Based Restoration of Mesic & Riparian Workshops. This video below is from the [Logan Workshop](http://beaver.joewheaton.org/logan-workshop-materials.html):
+We have had the privilege of working with Idaho Rancher Jay Wilde since 2014.  For a more elaborate version of what [Joe explains here](http://capstone.restoration.usu.edu/Course_Topics/WATS_5350/Low-Tech/Projects/birch/#part-1---why-we-can-even-work-in-birch-creek), its best to hear directly from Jay what happened. Jay tells his [story](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Workshops/CheapCheerful/2018/NRCS/Idaho/Lectures/2018_IdahoNRCS_Wilde_BirchCreek.pdf) about bringing beaver back to the creek he grew up on to restore flow.  
 
+See Life on the Range's condensed version of Jay's Story here (or even [shorter teaser](https://youtu.be/gJYPEpv8X-c))
+
+<div class="responsive-embed"><iframe width="560" height="315" src="https://www.youtube.com/embed/K_2Ib0pQYPo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
+## Jay's Story - The longer version
+Jay started going  on the road in the summer of 2018 with us and helped spread this message to workshop participants in  SGI Low-Tech Process Based Restoration of Mesic & Riparian Workshops. He's now told his story to 1000's of workshop participants all over the American West. This video below is from the [Logan Workshop](http://beaver.joewheaton.org/logan-workshop-materials.html):
 <div class="responsive-embed">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4j6R1JxG8M8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
@@ -70,14 +76,22 @@ Nick Bouwes gave an abbreviated version of the Birch Creek story in the [Virtual
 ## Story Told by Others
 This story has appeared in multiple media outlets. Here are a few of the recent ones:
 
-### Beef Magazine: Beaver power provides year-long water to Idaho ranch
+### Range Magazine - Return of Nature's Hydro Engineers (2021)
+<a hef="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/WATS5350/RANGE+Magazine+-+Wilde+Feature+-+Spring+2021.pdf"><img class="float-right" src="{{ sitebase.url }}/assets/images/pics/casestudies/RangeMag.png"></a>
+An article titled "[Return of Nature's Hydro Engineers](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/WATS5350/RANGE+Magazine+-+Wilde+Feature+-+Spring+2021.pdf)" appeared in the [Spring 2021 issue](http://www.rangemagazine.com/features/spring-21/range-sp21-contents.htm) of Range Magazine on Jay's story.
+
+### Beef Magazine: Beaver power provides year-long water to Idaho ranch (2020)
 [<img class="float-right" src="{{ sitebase.url }}/assets/images/pics/casestudies/Beef_Birch.png">](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/WATS5350/Lowtech/birch/BEEF+30-31+april+REVISED.pdf)
 That's right, [Beef Magazine](https://www.beefmagazine.com/sustainability/beaver-power-provides-year-long-water-idaho-ranch)! This article by Briana Randall titled "[Beaver power provides year-long water to Idaho ranch: Beavers? You read that right. Here’s how four-legged engineers helped restore an Idaho ranch.](https://www.beefmagazine.com/sustainability/beaver-power-provides-year-long-water-idaho-ranch)" explains to other cattlemen why Jay wants what many view as a nuisance on his ranch.
 
-### National Wildlife Federation Magazine
+### Life on the Range: Ranher Jay Wilde Realizes long-time dream tof bringng beaver back to Birch Creek (2020)
+[<img class="float-left" src="{{ sitebase.url }}/assets/images/pics/casestudies/LOR_Birch.png">](https://idrange.org/range-stories/southeast-idaho/restoring-beaver-to-birch-creek/)
+Steve Stuebner does a great job of capturing Jay's story in both print and a 15 minute video for Idaho Rangeland's [Life on the Range](https://idrange.org/range-stories/southeast-idaho/restoring-beaver-to-birch-creek/). 
+
+### National Wildlife Federation Magazine (2020)
 In this article titled ""[Nature's Ecosystem Engineers Beaver dams create climate-smart wetlands that benefit wildlife and people](https://www.nwf.org/Magazines/National-Wildlife/2020/August-September/Conservation/Beavers)", Catherine Arnold highlights Jay's story on Birch Creek.
 
-### Eager
+### Eager (2018)
 [<img class="float-right" src="{{ sitebase.url }}/assets/images/pics/casestudies/eager-goldfarb_1.jpg">](https://www.amazon.com/Eager-Surprising-Secret-Beavers-Matter/dp/160358739X/ref=sr_1_6?ie=UTF8&qid=1512586233&sr=8-6&keywords=eager+beaver)
 This talk is elaborated in [Ben Goldfarb's](http://bengoldfarb.com/) new award winning book:  [Eager - The Surprising Secret Life of Beaver and Why they Matter](https://www.amazon.com/Eager-Surprising-Secret-Beavers-Matter/dp/160358739X/ref=sr_1_6?ie=UTF8&qid=1512586233&sr=8-6&keywords=eager+beaver). 
 
