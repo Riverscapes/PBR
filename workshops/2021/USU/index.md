@@ -1,5 +1,6 @@
 ---
 title: USU LTPBR Courses 2021
+index: 1
 ---
 
 # Overview of Spring 2021 Offerings

@@ -1,6 +1,6 @@
 ---
 title:  Montana AFS - Intro 
-weight:  1
+weight:  2
 ---
 # Continuing Education Short-Course: An Intro to Low-Tech Process-Based Restoration of Riverscapes 
 
