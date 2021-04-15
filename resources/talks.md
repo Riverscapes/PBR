@@ -8,6 +8,20 @@ This page contains a long, ever-growing and incomplete listing of  talks on LTPB
 
 # Webinars & Recorded Talks
 
+
+## 2021 California  Beaver  Summit
+<a target="blank" href="https://cabeaversummit.org/"><img width="300" class="float-right" src="https://baynature.org/wp-content/uploads/2021/02/Beaver-Summit-Logo-002.jpg"></a> As part of the [2021 California Beaver Summit](https://cabeaversummit.org/day-one-video/) the following speakers gave tallks on LTPBR:
+- [Kevin Swift](https://youtu.be/Q0gkY7V1S2Y?t=11822)
+- [Bethany Johnson](https://youtu.be/zFXYOejzDZA?t=5113)
+- [Joe Wheaton](https://youtu.be/zFXYOejzDZA?t=6072)
+
+See below:
+
+<div class="responsive-embed">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zFXYOejzDZA?start=6072" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+
 ## 2020 New Mexico Beaver  Summit
 The [2020 New Mexico Beaver Summit](https://nmbeaversummit.org/) featured a session on [Return of the Beaver](https://nmbeaversummit.org/schedule-register/) in which Joe gave this talk:
 <div class="responsive-embed">
@@ -39,7 +53,7 @@ In 2018, a symposium at the [Society of Range Management's](https://rangelands.o
 See also [Rancher's Stories below](#ranchers-stories-of-low-tech-pbr).
 
 <div class="responsive-embed">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLbQnrJD6rX90dtVJYrx3q0Q6q-G-YNLze" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLbQnrJD6rX90dtVJYrx3q0Q6q-G-YNLze" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 ##  2017 [NRCS Webinar on BDAS](https://www.sagegrouseinitiative.com/page/1?s=beaver)
