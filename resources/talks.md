@@ -15,12 +15,6 @@ This page contains a long, ever-growing and incomplete listing of  talks on LTPB
 - [Bethany Johnson](https://youtu.be/zFXYOejzDZA?t=5113)
 - [Joe Wheaton](https://youtu.be/zFXYOejzDZA?t=6072)
 
-See below:
-
-<div class="responsive-embed">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zFXYOejzDZA?start=6072" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
 
 ## 2020 New Mexico Beaver  Summit
 The [2020 New Mexico Beaver Summit](https://nmbeaversummit.org/) featured a session on [Return of the Beaver](https://nmbeaversummit.org/schedule-register/) in which Joe gave this talk:
@@ -49,12 +43,10 @@ In this [SER webinar](https://www.ser.org/news/511194/Open-Access-Principles-of-
 ## 2018 Society of Range Management Talks on [Restoring "Emerald Islands"](https://www.sagegrouseinitiative.com/30-videos-now-available-sagebrush-countrys-resilience-resistance-emerald-islands/)
 
 <a target="blank" href="https://rangelands.org/"><img class="float-right" src="{{ site.baseurl }}/assets/images/logos/SRM.png"></a> 
-In 2018, a symposium at the [Society of Range Management's](https://rangelands.org/) annual meeting on ["Restoring and Managing Emerald Isles"](https://www.youtube.com/playlist?list=PLbQnrJD6rX90dtVJYrx3q0Q6q-G-YNLze)"). Below is a series of 30 talks in a play-list.
+In 2018, a symposium at the [Society of Range Management's](https://rangelands.org/) annual meeting on ["Restoring and Managing Emerald Isles"](https://www.youtube.com/playlist?list=PLbQnrJD6rX90dtVJYrx3q0Q6q-G-YNLze)"). There are 30 talks in the play-list.
 See also [Rancher's Stories below](#ranchers-stories-of-low-tech-pbr).
 
-<div class="responsive-embed">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLbQnrJD6rX90dtVJYrx3q0Q6q-G-YNLze" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+
 
 ##  2017 [NRCS Webinar on BDAS](https://www.sagegrouseinitiative.com/page/1?s=beaver)
 
@@ -106,7 +98,12 @@ See also:
 <a href="https://www.researchgate.net/profile/Joseph_Wheaton"><img class="float-right" src="{{ site.baseurl }}/assets/images/people/JoeWheaton_Circle.png"></a> Here is a partial list of talks [Joe Wheaton](http://joewheaton.org) has given on LTPBR since 2015. Slides for all talks are available through the DOI links to ResearchGate. Every presentation is licensed with a <i class="fa fa-creative-commons" aria-hidden="true"></i>  [Creative Commons Attribution Licence](https://creativecommons.org/), so you are free to re-use slides, figures and content subject to the terms of the license. Those for which a video is recorded are embedded.
 
 
-- *Invited Webinar* **Wheaton JM.** 2020.   Identifying Where to Place Beavers and When to Use Beaver Mimicry for Low Tech Restoration. [Association of State Wetland Managers 2020 Beaver Restoration Webinar Series](https://www.aswm.org/aswm/aswm-webinarscalls/3355-2020-past-beaver-restoration-webinar-series). DOI: [10.13140/RG.2.2.24584.65282](https://doi.org/10.13140/RG.2.2.24584.65282)
+- *Invited Virtual Talk* **Wheaton JM.** 2021.   Low-Tech Process-Based  Restoration of Riverscapes. [California Beaver Summit](https://cabeaversummit.org/day-one-video/). 
+
+<div class="responsive-embed">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zFXYOejzDZA?start=6072" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+-  *Invited Webinar* **Wheaton JM.** 2020.   Identifying Where to Place Beavers and When to Use Beaver Mimicry for Low Tech Restoration. [Association of State Wetland Managers 2020 Beaver Restoration Webinar Series](https://www.aswm.org/aswm/aswm-webinarscalls/3355-2020-past-beaver-restoration-webinar-series). DOI: [10.13140/RG.2.2.24584.65282](https://doi.org/10.13140/RG.2.2.24584.65282)
 <div class="responsive-embed">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PL0ZiZg4rilzKsrXmGFQGyj3ja8shGP2aM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
