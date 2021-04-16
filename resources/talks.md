@@ -30,6 +30,7 @@ One part of LTPBR is beaver-assisted restoration, is beaver, and Association of 
 - Webinar #2 Wheaton JM.  2020.   Identifying Where to Place Beavers and When to Use Beaver Mimicry for Low Tech Restoration. [Association of State Wetland Managers 2020 Beaver Restoration Webinar Series](https://www.aswm.org/aswm/aswm-webinarscalls/3355-2020-past-beaver-restoration-webinar-series). DOI: [10.13140/RG.2.2.24584.65282](https://doi.org/10.13140/RG.2.2.24584.65282)
 -  Webinar #3 Wohl E., Bouwes N.  2020.  Case Studies of Long-term Changes from Beaver Restoration Activities. [Association of State Wetland Managers 2020 Beaver Restoration Webinar Series](https://www.aswm.org/aswm/aswm-webinarscalls/3354-beaver-restoration-webinar-series#beaver1). 
 
+
 ## 2020 Society for Ecological Restoration [Webinar](https://www.ser.org/news/511194/Open-Access-Principles-of-Riverscape-Health--Low-Tech-Process-Based-Restoration.htm)
 
 <a target="blank" href="https://www.ser.org"><img class="float-right" src="{{ site.baseurl }}/assets/images/logos/SER.jpg"></a> 
@@ -105,8 +106,7 @@ See also:
 </div>
 -  *Invited Webinar* **Wheaton JM.** 2020.   Identifying Where to Place Beavers and When to Use Beaver Mimicry for Low Tech Restoration. [Association of State Wetland Managers 2020 Beaver Restoration Webinar Series](https://www.aswm.org/aswm/aswm-webinarscalls/3355-2020-past-beaver-restoration-webinar-series). DOI: [10.13140/RG.2.2.24584.65282](https://doi.org/10.13140/RG.2.2.24584.65282)
 <div class="responsive-embed">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PL0ZiZg4rilzKsrXmGFQGyj3ja8shGP2aM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PL0ZiZg4rilzKsrXmGFQGyj3ja8shGP2aM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 - *Keynote Award Talk.* **Wheaton JM.** 2020.  Riverscape Health? Science, Standards, Actions & Community: 2020 Warwick Lecture. British Society for Geomorphology Medal Winners Webinar 2020. Virtual. [Video](https://youtu.be/EaLN3wZ6cM8). DOI: [10.13140/RG.2.2.24584.65282](https://doi.org/10.13140/RG.2.2.24584.65282)
 <div class="responsive-embed">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EaLN3wZ6cM8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
