@@ -70,8 +70,9 @@ Chapter 4 also has appendices on:
 ## Related Resources
 
 <div align="center">
-	<a class="hollow button" href="{{ site.baseurl }}/resources/recipes/wood/pals"><img src="{{ site.baseurl }}/assets/images/BeaverLogo_Orange_24.png"> Beaver Dam Analogue Recipes <i class="fa fa-address-card" aria-hidden="true"></i> </a>
-		<a class="hollow button" href="{{ site.baseurl }}/resources/recipes/beaver/bda"><img src="{{ site.baseurl }}/assets/images/hdLWD_100_Orange.png"> Post-Assisted Log Structure Recipes  <i class="fa fa-address-card" aria-hidden="true"></i></a>
+	<a class="hollow button" href="{{ site.baseurl }}/resources/recipes/Beaver/bda"><img src="{{ site.baseurl }}/assets/images/BeaverLogo_Orange_24.png"> Beaver Dam Analogue Recipes <i class="fa fa-address-card" aria-hidden="true"></i> </a>
+		
+		<a class="hollow button" href="{{ site.baseurl }}/resources/recipes/Wood/pals"><img src="{{ site.baseurl }}/assets/images/hdLWD_100_Orange.png"> Post-Assisted Log Structure Recipes  <i class="fa fa-address-card" aria-hidden="true"></i></a>
 </div>
 <div align="center">
 	<a class=" button" href="https://github.com/Riverscapes/PBR/issues"><i class="fa fa-question-circle" aria-hidden="true"></i> Ask a Queston to the Community </a>
