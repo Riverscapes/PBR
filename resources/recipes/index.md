@@ -48,9 +48,11 @@ Adapted from Appendix C (Table 4) in [Chapter 1 - Shahverdian et al. (2019)]({{ 
                                 |
 | **Structural Placement of Wood Accumulations**                    |                                                   |
 | Post-Assisted Log Structures                                  | [Chapter 5 (Shahverdian et al., 2019)](({{ site.baseurl }}/manual/chap01) )             |
+| Submerged Shelters                                  | [Page 34-35 of White and Bryndilson (1967)](https://dnr.wi.gov/files/PDF/pubs/ss/SS0039.pdf)             |
 | **Improving Supply of Woody Material**                            |                                                   |
 | Riparian Plantings                                            | (Hall et al., 2011)                               |
-| Grazing Management                                            | (Swanson et al., 2015)                            |
+| Practical Grazing Management for Riparian Areas                                           | (Swanson et al., [2015](https://naes.agnt.unr.edu/PMS/Pubs/61_2015_18.pdf))                            |
+| Fencing                                | [Page 34-35 of White and Bryndilson (1967)](https://dnr.wi.gov/files/PDF/pubs/ss/SS0039.pdf)             |
 
 
 
@@ -106,6 +108,23 @@ These are typically done in intermittent & ephemeral channels, but not exclusive
 
 	</div>
 </div>
+
+<div class="row small-up-2 medium-up-2 large-up-3" align="center">
+  	<div class="column column-block">
+  		<a href="https://www.chelseagreen.com/product/let-the-water-do-the-work/"><img src="{{ site.baseurl }}/assets/images/covers/1967WI_Guidelines.png"></a>
+<br>
+	White RJ and Brynildson OM. 1967. <a href="https://dnr.wi.gov/files/PDF/pubs/ss/SS0039.pdf">Guidelines for management of trout stream habitat in Wisconsin</a>. Wisconsin Department of Natural Resources: Madison, WI. 68 pp.
+
+
+	</div>
+	
+<div class="column column-block">
+  		<a href="https://naes.agnt.unr.edu/PMS/Pubs/61_2015_18.pdf"><img src="{{ site.baseurl }}/assets/images/covers/Swanson2015.png"></a>
+<br> 	Swanson S, Wyman S, Evans C. 2015. <a href="https://naes.agnt.unr.edu/PMS/Pubs/61_2015_18.pdf">Practical Grazing Management to Maintain or Restore Riparian Functions and Values on Rangelands</a>. Journal of Range Management 2 : 28 pp.
+ 
+	</div>
+</div>
+
 
 ------
 <div align="center">
