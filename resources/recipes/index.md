@@ -22,10 +22,10 @@ weight: 2
 
 <div class="row small-up-2 medium-up-2 large-up-3" align="center">
   <div class="column column-block">
-	<a class="hollow button" href="{{ site.baseurl }}/manual/chap04"><img src="{{ site.baseurl }}/assets/images/BeaverLogo_Orange_24.png">  <br>Beaver Dam Analogues</a>
+	<a class="hollow button" href="{{ site.baseurl }}/resources/recipes/Beaver/bda"><img src="{{ site.baseurl }}/assets/images/BeaverLogo_Orange_24.png">  <br>Beaver Dam Analogues</a>
  </div>
  <div class="column column-block">
-	<a class="hollow button" href="{{ site.baseurl }}/manual/chap04"><img src="{{ site.baseurl }}/assets/images/hdLWD_100_Orange.png">  <br> Post Assisted Log Structures</a>
+	<a class="hollow button" href="{{ site.baseurl }}/resources/recipes/Wood/pals"><img src="{{ site.baseurl }}/assets/images/hdLWD_100_Orange.png">  <br> Post Assisted Log Structures</a>
   </div>
 </div>
 
@@ -117,11 +117,11 @@ These are typically done in intermittent & ephemeral channels, but not exclusive
 
 
 	</div>
-	
+
 <div class="column column-block">
   		<a href="https://naes.agnt.unr.edu/PMS/Pubs/61_2015_18.pdf"><img src="{{ site.baseurl }}/assets/images/covers/Swanson2015.png"></a>
 <br> 	Swanson S, Wyman S, Evans C. 2015. <a href="https://naes.agnt.unr.edu/PMS/Pubs/61_2015_18.pdf">Practical Grazing Management to Maintain or Restore Riparian Functions and Values on Rangelands</a>. Journal of Range Management 2 : 28 pp.
- 
+
 	</div>
 </div>
 
