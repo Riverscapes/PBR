@@ -29,6 +29,9 @@ weight: 2
   </div>
 </div>
 
+<div align="center">
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Despite making all the recipes (<a href="https://t.co/YCF1oDjbGs">https://t.co/YCF1oDjbGs</a>) in the <a href="https://twitter.com/hashtag/lowtechPBR?src=hash&amp;ref_src=twsrc%5Etfw">#lowtechPBR</a> manual free for re-use with <a href="https://twitter.com/creativecommons?ref_src=twsrc%5Etfw">@creativecommons</a> licenses, people still are confused 🙄. Yes, its okay to use or adapt them! For example: <br>Typical Schematics of <a href="https://twitter.com/hashtag/BDAs?src=hash&amp;ref_src=twsrc%5Etfw">#BDAs</a> <a href="https://t.co/JHV8c2KoQQ">https://t.co/JHV8c2KoQQ</a> <a href="https://t.co/PXsMUQOZfy">pic.twitter.com/PXsMUQOZfy</a></p>&mdash; Joe Wheaton (@fluvialwheaton) <a href="https://twitter.com/fluvialwheaton/status/1383864864716705800?ref_src=twsrc%5Etfw">April 18, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div>
 
 ----
 ## Other Related Low-Tech Techniques & Resources
