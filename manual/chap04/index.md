@@ -12,9 +12,9 @@ The [fourth chapter](http://dx.doi.org/10.13140/RG.2.2.22526.64324) is meant to 
 Chapter 4 also has appendices on:
 - Appendix A. Freqently Asked Questions About PALS and BDAs 
 - Appendix B: Low-Tech Process-Based Restoration Semantics
-- [Appendix C](/#chapter-four-figures): Recent History of Beaver Dam Analogues
-- [Appendix D](/#chapter-four-figures): Typical Schematics and General Suggestions for Placement and Construction of PALS
-- [Appendix E](/#chapter-four-figures): Typical Schematics and General Suggestions for Placement and Construction of BDAs
+- [Appendix C](#chapter-four-figures): Recent History of Beaver Dam Analogues
+- [Appendix D](#chapter-four-figures): Typical Schematics and General Suggestions for Placement and Construction of PALS
+- [Appendix E](#chapter-four-figures): Typical Schematics and General Suggestions for Placement and Construction of BDAs
 
 <div align="center">
 	<a class="hollow button" href="http://dx.doi.org/10.13140/RG.2.2.22526.64324"> Download Chapter 4 <i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>
