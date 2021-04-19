@@ -9,6 +9,8 @@ Below you can find PDFs and video recordings of the topics we covered in the int
 
 <div align="center">
 <a class=" button hollow" href="{{ site.baseurl }}/resources/Topics/"> <i class="fa fa-chevron-circle-left" aria-hidden="true"></i> <b> Back to all Modules</b>    </a>
+<a class=" button" href="{{ site.baseurl }}/resources/Topics/01_Overview/">   See Bonus <b>Resources</b> for Module 1  <i class="fa fa-trophy" aria-hidden="true"></i>  </a>
+
 </div>
 
 # Introduction to Low-Tech Process-Based Restoration

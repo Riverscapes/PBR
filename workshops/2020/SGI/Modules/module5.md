@@ -8,6 +8,8 @@ Below you can find PDFs and video recordings of the slides we cover in the intro
 
 <div align="center">
 <a class=" button hollow" href="{{ site.baseurl }}/resources/Topics/"> <i class="fa fa-chevron-circle-left" aria-hidden="true"></i> <b> Back to all Modules</b>    </a>
+
+<a class=" button" href="{{ site.baseurl }}/resources/Topics/05_Implementation/">   See Bonus <b>Resources</b> for Module 5  <i class="fa fa-trophy" aria-hidden="true"></i>  </a>
 </div>
 
 # Module 5: Implementing Low-Tech PBR

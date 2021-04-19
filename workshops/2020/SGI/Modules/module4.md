@@ -7,7 +7,8 @@ weight: 4
 Below you can find PDFs and video recordings of the slides we cover in the intro to low-tech process-based restoration virtual workshop. Each is licensed with a [Creative Commons licence](https://creativecommons.org/), so you are free to re-use subject to the terms of the license. 
 
 <div align="center">
-<a class=" button hollow" href="{{ site.baseurl }}/resources/Topics/"> <i class="fa fa-chevron-circle-left" aria-hidden="true"></i> <b> Back to all Modules</b>    </a>
+<a class=" button hollow" href="{{ site.baseurl }}/resources/Topics/"> <i class="fa fa-chevron-circle-left" aria-hidden="true"></i> <b> Back to all Modules</b></a>
+<a class=" button" href="{{ site.baseurl }}/resources/Topics/04_Design/">   See Bonus <b>Resources</b> for Module 4  <i class="fa fa-trophy" aria-hidden="true"></i>  </a>
 </div>
 
 # Module 4: Designing Low-Tech PBR

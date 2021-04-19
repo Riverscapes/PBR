@@ -8,6 +8,7 @@ Below you can find PDFs and video recordings of the slides we cover in the intro
 
 <div align="center">
 <a class=" button hollow" href="{{ site.baseurl }}/resources/Topics/"> <i class="fa fa-chevron-circle-left" aria-hidden="true"></i> <b> Back to all Modules</b>    </a>
+<a class=" button" href="{{ site.baseurl }}/resources/Topics/02_Science/">   See Bonus <b>Resources</b> for Module 2  <i class="fa fa-trophy" aria-hidden="true"></i>  </a>
 </div>
 
 # Module 2: Underlying Science & Case Studies for Low-Tech PBR Process-Based Restoration
@@ -425,11 +426,11 @@ Hear the Birch Creek Beaver story directly from Jay. This video is from his pres
 ​    </p>
 ​    </li>
 ​    
-    <li><strong>Question:</strong> Amazing work. Have you dealt with multiple landowner situations like this?
-    <p><strong>Answer:</strong> (Nick Bouwes) We have dealt with some landowners and have request from ranchers to get beaver established on their property.  Generally they are quite supportive.  Beaver are an easier sell than a lot people think. 
-    </p>
-    </li>
-    
+​    <li><strong>Question:</strong> Amazing work. Have you dealt with multiple landowner situations like this?
+​    <p><strong>Answer:</strong> (Nick Bouwes) We have dealt with some landowners and have request from ranchers to get beaver established on their property.  Generally they are quite supportive.  Beaver are an easier sell than a lot people think. 
+​    </p>
+​    </li>
+​    
     <li><strong>Question:</strong> Would you say that the monitoring of schemes nationally is much better present-day or is this still a challenge?
     <p><strong>Answer:</strong> (Nick Bouwes)  I do think it is better present day, but I still think it is a challenge.  And the funding is often not for monitoring responses that we are really interested in (i.e. funding to evaluate the stability of structure, rather than the results of the structures).
     </p>
@@ -447,11 +448,11 @@ Hear the Birch Creek Beaver story directly from Jay. This video is from his pres
 ​    </p>
 ​    </li>
 ​    
-    <li><strong>Question:</strong> I imagine there will be water rights discussion at some point this week. Somehwhat related to that, I am curious about impacts to downstream water rights users and on the ground impacts. if mgmt occurs upstream, is it expected that an longer seasonal flows will occur downstream in areas that are mostly unmanaged?
-    <p><strong>Answer:</strong> (Nick Bouwes) we will get into this more.  But yes, we have to deal with concerns of water users downstream of beaver/bda complexes.  There is perception that if there is more water upstream then these complexes are “stealing” water from downstream users. But this water storage occurs during high flow events when irrigation is less important, and slowly releases and augments during the low flow periods. 
-    </p>
-    </li>
-    
+​    <li><strong>Question:</strong> I imagine there will be water rights discussion at some point this week. Somehwhat related to that, I am curious about impacts to downstream water rights users and on the ground impacts. if mgmt occurs upstream, is it expected that an longer seasonal flows will occur downstream in areas that are mostly unmanaged?
+​    <p><strong>Answer:</strong> (Nick Bouwes) we will get into this more.  But yes, we have to deal with concerns of water users downstream of beaver/bda complexes.  There is perception that if there is more water upstream then these complexes are “stealing” water from downstream users. But this water storage occurs during high flow events when irrigation is less important, and slowly releases and augments during the low flow periods. 
+​    </p>
+​    </li>
+​    
     <li><strong>Question:</strong> Do beaver dams restrict movement of non-native trout introduced for sport fishing, e.g., brook, brown, and rainbows?  Are there any studies documenting population impacts for non-native trout?
     <p><strong>Answer:</strong> (Nick Bouwes) The paper by Lokteff et al. referenced in my talk looked at movement of native cutthroat, and non-native brook and brown trout.  Brooks tend to stay put in ponds, cuts move back and forth, and browns tend to be lazier and not often do not negotiate dams. 
     </p>
@@ -469,11 +470,11 @@ Hear the Birch Creek Beaver story directly from Jay. This video is from his pres
 ​    </p>
 ​    </li>
 ​    
-    <li><strong>Question:</strong> Since streams almost always adjust to their lowest bed elevation, is there any point to trying to rebuild an incised channel if you don’t have access/permission to work in the lower end of the stream downstream of the restoration reach? Similarly, can you restore a stream reach with these methods if you are working on just a portion of the stream (e.g., a single landowner along the stream wants restoration but others do not or cannot)? How do you deal with degraded areas up and downstream?
-    <p><strong>Answer:</strong> (Nick Bouwes) Good question and is a bit too complex for quick answer.  If the gradient is stepped down, and you dissipate energy on the floodplain, AND you have structure, you do not have have to have a head cut from downstream control to your reach.  But it is good idea to know what your conditions are upstream and downstream. 
-    </p>
-    </li>
-    
+​    <li><strong>Question:</strong> Since streams almost always adjust to their lowest bed elevation, is there any point to trying to rebuild an incised channel if you don’t have access/permission to work in the lower end of the stream downstream of the restoration reach? Similarly, can you restore a stream reach with these methods if you are working on just a portion of the stream (e.g., a single landowner along the stream wants restoration but others do not or cannot)? How do you deal with degraded areas up and downstream?
+​    <p><strong>Answer:</strong> (Nick Bouwes) Good question and is a bit too complex for quick answer.  If the gradient is stepped down, and you dissipate energy on the floodplain, AND you have structure, you do not have have to have a head cut from downstream control to your reach.  But it is good idea to know what your conditions are upstream and downstream. 
+​    </p>
+​    </li>
+​    
     <li><strong>Question:</strong> Have you had beavers abandon a reach because they decimated the tree sources?  is that a concern for some land owners?
    <p><strong>Answer:</strong> (Nick Bouwes) Yes beaver move out of areas if they deplete their food source.  But often the abandon areas have regeneration and beaver may reoccupy (we like to call them rotational crop farmers).  But, yes some trees do not regenerate and can be a problem for landowner.  Caging or painting with paint with sand might be a form of mitigation </p>
   </li>
