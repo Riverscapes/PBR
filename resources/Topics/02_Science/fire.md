@@ -28,20 +28,25 @@ In recent years, there has been some media attention focused on the role that be
 
 ## News Articles
 
+
+
 <a target="blank" href="https://swc.idaho.gov/wp-content/uploads/sites/78/2019/08/final-2018_12-december-2018-newsletter.pdf"><img class="float-right" src="{{ site.baseurl }}/assets/images/covers/ISWCC_Pioneer.png"></a>
-- Maughan R.  2013). [Beaver restoration would reduce wildfires](http://www.thewildlifenews.com/2013/10/25/beaver-restoration-would-reduce-wildfires/). The Wildlife News. 
+- Maughan R.  2013. [Beaver restoration would reduce wildfires](http://www.thewildlifenews.com/2013/10/25/beaver-restoration-would-reduce-wildfires/). The Wildlife News. 
 - Stuebner S. 2018. [Idaho Soil & Water Conservaton Commission - "Partners Pioneering on Post-Fire Project in the the Pioneer Mountains"](https://swc.idaho.gov/wp-content/uploads/sites/78/2019/08/final-2018_12-december-2018-newsletter.pdf) Conservation the Idaho Way. Idaho Soil & Water Conservation Commission.
 
 - Randall, B. 2018. [Beavers, Water, and Fire—A New Formula for Success
 Low-tech stream restoration works wonders for people and wildlife](https://blog.nwf.org/2018/10/beavers-water-and-fire-a-new-formula-for-success/). [National Wildlife Federation Blog](https://blog.nwf.org/). 
 - Goldfarb, B. 2020. [How beavers became North America's best firefighter](https://www.nationalgeographic.com/animals/2020/09/beavers-firefighters-wildfires-california-oregon/). National Geographic.
-
+<a target="blank" href="https://www.sciencenews.org/article/stream-survival-beaver-dam-simple-structures-wildfires-drought"><img class="float-right" src="{{ site.baseurl }}/assets/images/covers/ScienceNews.jpg"></a>
+- Briana Randall. 2021. [Simple hand-built structures can help streams survive wildfires and drought](https://www.sciencenews.org/article/stream-survival-beaver-dam-simple-structures-wildfires-drought). Science News. 
+<br><br>
 Ben Goldfarb's (2020) [article in NatGeo](https://www.nationalgeographic.com/animals/2020/09/beavers-firefighters-wildfires-california-oregon/) has gotten a lot of attention:
+
 
 <div align="center">
 <blockquote class="twitter-tweet" data-theme="dark"><p lang="en" dir="ltr">Beaver dams slow the spread of wildfires, and in some cases, can even extinguish them <a href="https://t.co/yAxhJxeEqG">https://t.co/yAxhJxeEqG</a></p>&mdash; National Geographic (@NatGeo) <a href="https://twitter.com/NatGeo/status/1309314944186437636?ref_src=twsrc%5Etfw">September 25, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </div>
-
+<br><br>
 <a target="blank" href="https://www.lemonde.fr/sciences/article/2020/10/11/les-castors-font-barrage-aux-feux-de-foret_6055632_1650684.html"><img class="float-left" src="{{ site.baseurl }}/assets/images/logos/200px-Le_Monde.svg.png"></a>
 <a target="blank" href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Papers/Les+castors+font+barrage+aux+feux+de+for%C3%AAt.pdf"><img class="float-right" src="{{ site.baseurl }}/assets/images/covers/LesCastors.png"></a>If you read French, [LeMonde's](https://www.lemonde.fr/sciences/article/2020/10/11/les-castors-font-barrage-aux-feux-de-foret_6055632_1650684.html) Fanny Rochrbacher picked up the  [NatGeo](https://www.nationalgeographic.com/animals/2020/09/beavers-firefighters-wildfires-california-oregon/) story and featured the [Baugh Creek]({{ site.baseurl }}/resources/casestudies/firecasestudies.html#baugh-creek-idaho--sharps-fire-2018) example extensively in this article:
 
