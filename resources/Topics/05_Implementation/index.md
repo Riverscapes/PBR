@@ -12,11 +12,11 @@ Related to the LTPBR workshop [Module 5 - Implementation]({{ site.baseurl }}/wor
 <div align="center">
 
 
-<a class="hollow button" href="{{ site.baseurl }}/resources/Topics/05_Implementation/PALS.html"> <b>Consultation & Permitting  </b><br> Resources </a>
+<a class="hollow button" href="{{ site.baseurl }}/resources/Topics/05_Implementation/permitting.html"> <b>Consultation & Permitting  </b><br> Resources </a>
 
 <a class="hollow button" href="{{ site.baseurl }}/resources/Topics/05_Implementation/PALS.html"> <b>PALS  </b><br> Being Built   </a>
 
-<a class="hollow button" href="{{ site.baseurl }}/resources/Topics/05_Implementation/PALS.html"> <b>BDAs  </b><br> Being Built   </a>
+<a class="hollow button" href="{{ site.baseurl }}/resources/Topics/05_Implementation/BDAs.html"> <b>BDAs  </b><br> Being Built   </a>
 </div>
 
 - [Additional Introductory Lectures from *WATS 5350 Capstone*](http://capstone.restoration.usu.edu/Course_Topics/WATS_5350/Low-Tech/intro.html)

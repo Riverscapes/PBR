@@ -30,26 +30,26 @@ Or take these modules as actual university coureses and be paced and assessed:
 </div>
 
 ### Bonus Resources & Exercises by Module Topic
-#### [Module 1 - Introduction]({{ site.baseurl }}/resources/Topics/01_Overview/)
+#### [Module 1 - Introduction *Additional Resources*]({{ site.baseurl }}/resources/Topics/01_Overview/)
 - [Parking Lot Exercise]({{ site.baseurl }}/resources/Topics/01_Overview/parkinglot.html)
 - [Stream Evolution Model Quiz]({{ site.baseurl }}/resources/Topics/01_Overview/sem.html)
 - [Additional Introductory Lectures from *WATS 5350 Capstone*](http://capstone.restoration.usu.edu/Course_Topics/WATS_5350/Low-Tech/intro.html)
 
-#### [Module 2 - Science & Case Studies]({{ site.baseurl }}/resources/Topics/02_Science/)
+#### [Module 2 - Science & Case Studies *Additional Resources*]({{ site.baseurl }}/resources/Topics/02_Science/)
 - [Fire Resiliency]({{ site.baseurl }}/resources/Topics/02_Science/fire.html)
 - [Fish and Beaver]({{ site.baseurl }}/resources/Topics/02_Science/fish.html)
 
-#### [Module 3 - Planning]({{ site.baseurl }}/resources/Topics/03_Planning/)
+#### [Module 3 - Planning *Additional Resources*]({{ site.baseurl }}/resources/Topics/03_Planning/)
 - [Virtual Field Trip Reading Riverscapes ]({{ site.baseurl }}/resources/Topics/03_Planning/sturcturalForcing.html)
 - [Virtual Field to Birch Creek LTPBR Project ]({{ site.baseurl }}/resources/Topics/03_Planning/birchcreek.html)
 - [Additional Introductory Lectures on **Planning**  from *WATS 5350 Capstone*](http://capstone.restoration.usu.edu/Course_Topics/WATS_5350/Low-Tech/planning.html)
 - [An Extra **Planning Assignment** for Birch Creek from *WATS 5350 Capstone*](http://capstone.restoration.usu.edu/Course_Topics/WATS_5350/Low-Tech/Projects/birch/birchplanning.html)
 
-#### [Module 4 - Design]({{ site.baseurl }}/resources/Topics/04_Design/)
+#### [Module 4 - Design *Additional Resources*]({{ site.baseurl }}/resources/Topics/04_Design/)
 - [Additional Introductory Lectures on **Design**  from *WATS 5350 Capstone*](http://capstone.restoration.usu.edu/Course_Topics/WATS_5350/Low-Tech/planning.html)
 - [An Extra **Design Assignment** for Birch Creek from *WATS 5350 Capstone*](http://capstone.restoration.usu.edu/Course_Topics/WATS_5350/Low-Tech/Projects/birch/birchdesign.html)
 
-#### [Module 5 - Implementation]({{ site.baseurl }}/resources/Topics/05_Implementation/)
+#### [Module 5 - Implementation *Additional Resources*]({{ site.baseurl }}/resources/Topics/05_Implementation/)
 - [Consultation & Permitting]({{ site.baseurl }}/resources/Topics/05_Implementation/permitting.html)
 - [PALS Contruction]({{ site.baseurl }}/resources/Topics/05_Implementation/PALS.html)
 - [BDA Contruction]({{ site.baseurl }}/resources/Topics/05_Implementation/BDAs.html)

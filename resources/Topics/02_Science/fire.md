@@ -60,7 +60,13 @@ In [Sara Tensegrity's](https://www.tensegrityproductions.com/) award-winning 201
 Below are some talks on beaver and fire. As more talks emerge, we'll post them here (or let us know if you want to contribute one).
 
 ## Emily Fairfax 
-In the webinar below, [Emily Fairfax](https://emilyfairfaxscience.com/) explains the concept and the [science](#documentation-of-beaver-increasing-resilience) behind [Smokey the Beaver]().
+In the recent California Beaver Summit, Emily Fairfax gave a wonderful talk on the resilence to fire and drought that beaver can bring to rivrescapes:
+
+<div class="responsive-embed">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zFXYOejzDZA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+<a target="blank" href="https://esajournals.onlinelibrary.wiley.com/doi/full/10.1002/eap.2225"><img class="float-right" src="{{ site.baseurl }}/assets/images/covers/SmokeyBeaver.png"></a>In a slightly longer  webinar below, [Emily Fairfax](https://emilyfairfaxscience.com/) explains the concept and the [science](#documentation-of-beaver-increasing-resilience) behind [Smokey the Beaver](https://esajournals.onlinelibrary.wiley.com/doi/full/10.1002/eap.2225).
 
 <div class="responsive-embed">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/39CWo2Qk7TM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
