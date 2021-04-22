@@ -108,6 +108,8 @@ Rick Lanman updated Wikipedia to include in the North American Beaver page, a se
 
 - Eric Collier (1959). [Three Against the Wilderness](https://www.amazon.com/Three-Against-Wilderness-Classics-West/dp/1894898540). Victoria, British Columbia: TouchWood Editions. p. 362. ISBN 9781894898546.
 
+## Essays & Blogs
+- Quinn-Davidson (2020) [If Fire Were an Animal, it Would be Beaver](https://fireadaptednetwork.org/if-fire-were-an-animal-it-would-be-a-beaver/), Landscape Treatments. *A wonderful essay by respected fire expert Lenya Quinn-Davidson.*. 
 
 ## Scholarly Literature
 Some of the  scientific documentation <i class="fa fa-key" aria-hidden="true"></i>  we are aware of is listed below, as well as more conceptual summaries  (let us know if you know of studies missing from here):
