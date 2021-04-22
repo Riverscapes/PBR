@@ -10,7 +10,7 @@ This page contains a long, ever-growing and incomplete listing of  talks on LTPB
 
 
 ## 2021 California  Beaver  Summit
-<a target="blank" href="https://cabeaversummit.org/"><img width="300" class="float-right" src="https://baynature.org/wp-content/uploads/2021/02/Beaver-Summit-Logo-002.jpg"></a> As part of the [2021 California Beaver Summit](https://cabeaversummit.org/day-one-video/) the following speakers gave tallks on LTPBR:
+<a target="blank" href="https://cabeaversummit.org/"><img width="300" class="float-right" src="https://baynature.org/wp-content/uploads/2021/02/Beaver-Summit-Logo-002.jpg"></a> As part of the [2021 California Beaver Summit](https://cabeaversummit.org/day-one-video/) the following speakers gave talks on LTPBR:
 - [Kevin Swift](https://youtu.be/Q0gkY7V1S2Y?t=11822)
 - [Bethany Johnson](https://youtu.be/zFXYOejzDZA?t=5113)
 - [Joe Wheaton](https://youtu.be/zFXYOejzDZA?t=6072)
@@ -98,8 +98,10 @@ See also:
 
 <a href="https://www.researchgate.net/profile/Joseph_Wheaton"><img class="float-right" src="{{ site.baseurl }}/assets/images/people/JoeWheaton_Circle.png"></a> Here is a partial list of talks [Joe Wheaton](http://joewheaton.org) has given on LTPBR since 2015. Slides for all talks are available through the DOI links to ResearchGate. Every presentation is licensed with a <i class="fa fa-creative-commons" aria-hidden="true"></i>  [Creative Commons Attribution Licence](https://creativecommons.org/), so you are free to re-use slides, figures and content subject to the terms of the license. Those for which a video is recorded are embedded.
 
+-  *Invited Virtual Symposia* **Wheaton JM.** 2021.   [Low-Tech Process-Based  Restoration: Applications to Post Wildfire Landscapes](https://www.researchgate.net/publication/351055402_Low-Tech_Process-Based_Restoration_Applications_to_Post_Wildfire_Landscapes). [Natural Areas Association 2021 Symposia on "Nature's Firefighters: The Role of Beavers in Wildfire Mitigation and Recovery.](https://www.naturalareas.org/naa_earthday.php). 
+<div class="responsive-embed"><iframe width="560" height="315" src="https://www.youtube.com/embed/VhnnX9e0NjE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
-- *Invited Virtual Talk* **Wheaton JM.** 2021.   Low-Tech Process-Based  Restoration of Riverscapes. [California Beaver Summit](https://cabeaversummit.org/day-one-video/). 
+-  *Invited Virtual Talk* **Wheaton JM.** 2021.   Low-Tech Process-Based  Restoration of Riverscapes. [California Beaver Summit](https://cabeaversummit.org/day-one-video/). 
 
 <div class="responsive-embed">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zFXYOejzDZA?start=6072" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
