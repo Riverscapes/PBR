@@ -86,13 +86,14 @@ Below, is an excerpt from [LTPBR Workshop Module 1's Principles Lecture](http://
 <div class="responsive-embed">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/v5gZQDEXlxQ?start=700" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
+-  *Invited Virtual Symposia* **Wheaton JM.** 2021.   [Low-Tech Process-Based  Restoration: Applications to Post Wildfire Landscapes](https://www.researchgate.net/publication/351055402_Low-Tech_Process-Based_Restoration_Applications_to_Post_Wildfire_Landscapes). [Natural Areas Association 2021 Symposia on "Nature's Firefighters: The Role of Beavers in Wildfire Mitigation and Recovery.](https://www.naturalareas.org/naa_earthday.php). 
+<div class="responsive-embed"><iframe width="560" height="315" src="https://www.youtube.com/embed/VhnnX9e0NjE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 <a target="blank" href="http://dx.doi.org/10.13140/RG.2.2.29413.96480"><img class="float-right" src="{{ site.baseurl }}/assets/images/pics/Fire_LTPBR.png"></a>
 The slide show for the [Utah Watershed Restoration Intiative](https://wri.utah.gov/wri/)  covers some of the concepts and examples of LTPBR used in a post-fire context (see [case studies also]({{ site.baseurl }}/resources/casestudies/firecasestudies.html))
 - Wheaton JM. 2019.   [Low-Tech Riverscape Restoration: Post Fire Use]((http://dx.doi.org/10.13140/RG.2.2.29413.96480)). UPCD-[WRI](https://wri.utah.gov/wri/) Regional Partnership Workshop. Richfield, UT. DOI: [10.13140/RG.2.2.29413.96480](http://dx.doi.org/10.13140/RG.2.2.29413.96480)
 
--  *Invited Virtual Symposia* **Wheaton JM.** 2021.   [Low-Tech Process-Based  Restoration: Applications to Post Wildfire Landscapes](https://www.researchgate.net/publication/351055402_Low-Tech_Process-Based_Restoration_Applications_to_Post_Wildfire_Landscapes). [Natural Areas Association 2021 Symposia on "Nature's Firefighters: The Role of Beavers in Wildfire Mitigation and Recovery.](https://www.naturalareas.org/naa_earthday.php). 
-<div class="responsive-embed"><iframe width="560" height="315" src="https://www.youtube.com/embed/VhnnX9e0NjE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
 
 -----------
 # Documentation of Beaver Increasing Resilience
