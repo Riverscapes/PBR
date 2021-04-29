@@ -67,6 +67,11 @@ Chapter 1 also has appendices on:
 -----
 ## Related Resources
 
+### Chapter One Figures
+All *original* figures downloadable and citeable now with DOI: [10.6084/m9.figshare.14515461.v3](https://doi.org/10.6084/m9.figshare.14515461.v3). 
+<iframe src="https://widgets.figshare.com/articles/14515461/embed?show_title=1" width="568" height="351" allowfullscreen frameborder="0"></iframe>
+
+Note: Figures 1.2 and 1.5 were modified to correct some minor typos and terminology inconsistencies. 
 
 ### PBR Literature
 
