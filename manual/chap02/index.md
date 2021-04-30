@@ -71,6 +71,14 @@ The [second chapter](http://dx.doi.org/10.13140/RG.2.2.34270.69447) covers the u
 
 - <a href="http://dx.doi.org/10.13140/RG.2.2.34270.69447" ><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a> Wheaton, J.M., Bennett, S.N., Bouwes, N., Camp, R., Maestas, J.D. and Shahverdian, S.M. 2019. [**Chapter 2 – Principles of Low-Tech Process-Based Restoration**](http://dx.doi.org/10.13140/RG.2.2.34270.69447). In: J.M. Wheaton, S.N. Bennett, N. Bouwes, J.D. Maestas and S.M. Shahverdian (Editors), [Low-Tech Process-Based Restoration of Riverscapes: Design Manual]({{ site.baseurl }}/manual). Utah State University Wheaton Restoration Consortium, Logan, Utah. 30 pp. DOI: [10.13140/RG.2.2.34270.69447](http://dx.doi.org/10.13140/RG.2.2.34270.69447)
 
+-----
+## Related Resources
+
+
+
+### Chapter Two  Figures
+All *original* figures downloadable and citeable now with DOI: [10.6084/m9.figshare.14515854.v1](https://doi.org/10.6084/m9.figshare.14515854.v1)
+<iframe src="https://widgets.figshare.com/articles/14515854/embed?show_title=1" width="568" height="351" allowfullscreen frameborder="0"></iframe>
 
 
 ------

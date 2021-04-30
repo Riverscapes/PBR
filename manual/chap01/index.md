@@ -16,7 +16,7 @@ Chapter 1 also has appendices on:
 - Appendix B: Low-Tech Process-Based Restoration Semantics
 - Appendix C: Existing Low-Tech Practices
 - Appendix D: Nothing is Really New
-- [Appendix E]({{ site.baseurl }}/manual/chap01/appendix-E): Partial Selection of Past Literature Relevant to Low-Tech Restoration
+- [Appendix E]({{ site.baseurl }}/manual/chap01/appendix-E): River Health Analogy
 
 <div align="center">
 	<a class="hollow button" href="http://dx.doi.org/10.13140/RG.2.2.14138.03529"> Download Chapter 1 <i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>
