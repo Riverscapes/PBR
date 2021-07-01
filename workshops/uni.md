@@ -10,7 +10,7 @@ In Spring 2021, we began offering a sequence of five, short-courses, that parall
 - These courses use the same curriculum as the [free self-paced modules](http://lowtechpbr.restoration.usu.edu/resources/Topics/), but are augmented by more in-depth class discussions, quizzes and homework assignments
 - These courses are assessed, and you will receive feedback and a letter grade based on your assessed work.
 
-The  LTBPR Spring Series of courses meet weekly on Tuesdays from 13:30 to 15:30  ([hybrid F2F](https://www.usu.edu/ais/scheduling/deliverymethods)), and the Design and Implementation have mandatory Saturday Field Trips in addition (see [Spring 2021 for dates]({{ site.baseurl }}/workshops/2021/USU/)).
+The  LTBPR Spring Series of courses met weekly on Tuesdays from 13:30 to 15:30  ([hybrid F2F](https://www.usu.edu/ais/scheduling/deliverymethods)), and the Design and Implementation have mandatory Saturday Field Trips in addition (see [Spring 2021 for dates]({{ site.baseurl }}/workshops/2021/USU/)).
 
 
 | Course # |  Course Title | Number of Meetings     | Pre-Requisite |
