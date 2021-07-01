@@ -51,4 +51,4 @@ If you do not have A Number, you can obtain one by applying as a Non-Degree Seek
 -------------
 
 ## CERP - Compliant
-Our program and the LTPBR curriculum are undergoing a review by the Society of Ecological Restoration so that  these courses will count towards their [Certified Ecological Restoration Practitioner Program](https://www.ser.org/page/Certification). 
+Our program and the LTPBR curriculum have undergone a review by the Society of Ecological Restoration so that  these courses count towards their [Certified Ecological Restoration Practitioner Program](https://www.ser.org/page/Certification). 
