@@ -5,7 +5,7 @@ weight: 1
 <div align="center">
 <a class=" button hollow" href="{{ site.baseurl }}/resources/Topics"><img src="{{ site.baseurl }}/assets/images/PBR-LT_round_30.png">  <b>FREE!  LTPBR Workshop Modules</b>   Self-Paced Resources  <i class="fa fa-leanpub" aria-hidden="true"></i>  </a>
 <br>
-<a class=" button hollow" href="{{ site.baseurl }}/workshops/uni"><img width="100" src="{{ site.baseurl }}/assets/images/sponsors/USU.png">  Spring 2022- <b> Registration opens in November for  LTPBR Courses</b>  University Credit or Professional CEU  <i class="fa fa-graduation-cap"></i>  </a>
+<a class=" button hollow" href="{{ site.baseurl }}/workshops/2021/USU"><img width="100" src="{{ site.baseurl }}/assets/images/sponsors/USU.png">  Spring 2021- <b> Register Now for  LTPBR Courses</b>  University Credit or Professional CEU  <i class="fa fa-graduation-cap"></i>  </a>
 </div>
 
 
