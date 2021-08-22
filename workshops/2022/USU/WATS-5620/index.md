@@ -3,7 +3,7 @@ title: Intro to LTPBR - Syllabus
 weight: 1
 ---
 
-# WATS 6900 §2  - Course Syllabus
+# WATS 5620  - Course Syllabus
 
 ![header]({{ site.baseurl }}/assets/images/courses/WATS-5620_header_C.png)
 
@@ -11,42 +11,41 @@ weight: 1
 This course provides an introduction to the practice of Low-Tech Process-Based Restoration of Riverscapes. Students gain exposure to the scope of riverscape degradation, low-tech restoration technique examples, and riverscape and restoration principles.
 
 |**Title**| Introduction to Low-Tech Process-Based Restoration of Riverscapes|
-|**Course Number**: | WATS 6900 (will be WATS 5620 in 2022)|
+|**Course Number**: | WATS 5620|
 |**Semester(s) Traditionally Offered**| Spring|
 |**Credits**: |1.0 Credit hours  (1.5 CEU)|
 |**Levels**: |Graduate/Undergraduate|
 |**Schedule Types**: |Hybrid Face to Face Lecture |
-|**Cross-Listed As**: |CEWA 5700 (will be CEWA 5620 in 2022)|
+|**Cross-Listed As**: |CEWA 5620|
 
 <div align="center">
-<a class=" button hollow" href="{{ site.baseurl }}/workshops/2021/USU/"> <i class="fa fa-chevron-circle-left" aria-hidden="true"></i> <b> Back to  Spring 2021 LTPBR Courses</b>  for University Credit or Professional CEU  
+<a class=" button hollow" href="{{ site.baseurl }}/workshops/2022/USU/"> <i class="fa fa-chevron-circle-left" aria-hidden="true"></i> <b> Back to  Spring 2022 LTPBR Courses</b>  for University Credit or Professional CEU  
   </a>
 </div>
 
 ## Schedule
-### Spring 2021 - Intro to LTPBR
-- Matriculated Students: [ST:INTRO LOWTECH PROC REST RIV - 12043 - WATS 6900 - 002](https://ssb.banner.usu.edu/zprod/bwckschd.p_disp_detail_sched?term_in=202120&crn_in=12043) - *register in Banner*
-- Non-Matriculated Students: CEWA 5700 - 26236 - LB1 - [Register on Eventbrite now](https://www.eventbrite.com/e/intro-to-low-tech-process-based-restoration-of-riverscapes-course-tickets-134050363245)
+### Spring 2022 - Intro to LTPBR
+## Intro to LTPBR
+- Matriculated Students: [INTRO LOWTECH PROC REST RIV - XXXXX  - WATS 5620 - 00X]()
+- Non-Matriculated Students: [CEWA 5620 - XXXXX  - LB1]() 
 
-| Class     | Time              | Days | Where                     | Dates                 |  Instructors                                                                                         |
-|----------|-------------------|------|---------------------------|-----------------------------|-----------------------------------------------------------------------------------------------------|
-| [Intro to LTPBR](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module1)     | 1:30 pm - 3:30 pm | Tuesdays    | Zoom | Jan 19, 26 & Feb 2,  2021 |  [Joseph Michael Wheaton (P), Stephen Nicholas Bennett, Nicolaas W Bouwes, Scott M Shahverdian]({{ site.baseurl }}//workshops/2020/SGI/#instruction-team) |
+| Class                                                        | Time              | Days     | Where                     | Dates                  | Instructor                 |
+| ------------------------------------------------------------ | ----------------- | -------- | ------------------------- | ---------------------- | -------------------------- |
+| [Intro to LTPBR]({{ site.baseurl }}/workshops/2022/USU/WATS-5620/) | 1:30 pm - 3:30 pm | Tuesdays | Hybrid F2F ([Zoom](https://usu-edu.zoom.us/j/88041118826?pwd=d2JqUE1NQWlrWnk0YVExVTgxdHN3dz09) and TBD) | Jan 11, 18 & 25,  2022 | Joseph Michael Wheaton (P) |
 
-We will use the same recurring [Zoom Meeting Link](https://usu-edu.zoom.us/j/83072774959?pwd=L1k5UWVCb3FBR0ZpSm5KWnZJVHlZUT09):
+We will use the same recurring [Zoom Meeting Link](https://usu-edu.zoom.us/j/88041118826?pwd=d2JqUE1NQWlrWnk0YVExVTgxdHN3dz09):
 <div align="center">
-<a class="hollow button" href="https://usu-edu.zoom.us/j/83072774959?pwd=L1k5UWVCb3FBR0ZpSm5KWnZJVHlZUT09"><img src="{{ site.baseurl }}/assets/images/zoom_icon_32.png">  <b>Zoom Meeting Link</b><br>Tuesdays</a>
+<a class="hollow button" href="https://usu-edu.zoom.us/j/88041118826?pwd=d2JqUE1NQWlrWnk0YVExVTgxdHN3dz09"><img src="{{ site.baseurl }}/assets/images/zoom_icon_32.png">  <b>Zoom Meeting Link</b><br>Tuesdays</a>
 
 </div>
-Meeting ID: 830 7277 4959
 
-One tap mobile:  +16699006833,,83072774959#,,,,,,0#,,565413# US (San Jose)
 
 
 ### Course Schedule/Outline
 
 Outline dates and assignments are all available on Canvas:
 <div align="center">
-<a class="hollow button" href="https://usu.instructure.com/courses/618129"><img src="{{ site.baseurl }}/assets/images/canvas_logo.png">  <b>Spring 2021 Canvas</b><br> WATS 6900 - Intro to LTPBR Course Assignments</a></div>
+<a class="hollow button" href="https://usu.instructure.com/courses/"><img src="{{ site.baseurl }}/assets/images/canvas_logo.png">  <b>Spring 2022 Canvas</b><br> WATS 5620 - Intro to LTPBR Course Assignments</a></div>
 
 Students are expected to watch pre-recorded lectures and complete the reading assignments prior to our class meetings, where those topics will be discussed and exercises completed as a group. 
 
@@ -54,9 +53,9 @@ This class meets three times for these discussion sessions:
 
 | Meeting Date | Modules | Topics                                                   |
 |--------------|---------|----------------------------------------------------------|
-|    1/19/2021 | [1.1](https://usu.instructure.com/courses/618129/modules/721597)   | [Background & Scope of Degradation](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module1#b-background--why-were-here) / [Build your First BDA](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module1#f-what-you-came-for---your-first-bda) |
-|    1/26/2021 | [1.2](https://usu.instructure.com/courses/618129/modules/721598)   | [Intro to Low-Tech Tools](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module1#g-broad-umbrella-of-low-tech-restoration) & [Guiding Principles](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module1#j-principles)            |
-|     2/2/2021 | [1.3](https://usu.instructure.com/courses/618129/modules/721599)   | [Partnering with Beaver](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module1#k-beaver-history--biology) & [Synthesis](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module1#n-wrap-up-and-preview-of-remaining-modules)                       |
+|    1/11/2022 | [1.1](https://usu.instructure.com/courses/618129/modules/721597)   | [Background & Scope of Degradation](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module1#b-background--why-were-here) / [Build your First BDA](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module1#f-what-you-came-for---your-first-bda) |
+|    1/18/2022 | [1.2](https://usu.instructure.com/courses/618129/modules/721598)   | [Intro to Low-Tech Tools](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module1#g-broad-umbrella-of-low-tech-restoration) & [Guiding Principles](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module1#j-principles)            |
+|     1/25/2022 | [1.3](https://usu.instructure.com/courses/618129/modules/721599)   | [Partnering with Beaver](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module1#k-beaver-history--biology) & [Synthesis](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module1#n-wrap-up-and-preview-of-remaining-modules)                       |
 
 This course is based on [Module 1]({{ site.baseurl }}/workshops/2020/SGI/Modules/module1.html) of the self-paced materials. 
 <div align="center">
@@ -70,9 +69,9 @@ No additional Course Fee.
 Please register on [Banner](http://banner.usu.edu). *Note, tuition  for 1 credit varies between $601.21 and $2482.92 per credit based on undergraduate vs. graduate, in-state vs. out-of-state, and total number of credits)*
 
 ### Continuing Education Students
-$265.79  ($210 Course Fee + $39 CEU processing fee + $16.79 Eventbrite Fees) [Register on Eventbrite](https://www.eventbrite.com/e/intro-to-low-tech-process-based-restoration-of-riverscapes-course-tickets-134050363245)
+$260.00 ($221 Course Fee + $39 CEU processing fee) [Register on CEU]()
 
-<div align="center"><a class="button" href="https://www.eventbrite.com/e/intro-to-low-tech-process-based-restoration-of-riverscapes-course-tickets-134050363245"> <b>Module 1 - Intro</b> <br> Register Now! <i class="fa fa-user-plus" aria-hidden="true"></i> </a></div>
+<div align="center"><a class="button" href=""> <b>Module 1 - Intro</b> <br> Register Now! <i class="fa fa-user-plus" aria-hidden="true"></i> </a></div>
 
 -----------------
 ## Course Objectives
@@ -95,37 +94,15 @@ By the end of this course, students will:
    <div class="column column-block">
     <a href="http://joewheaton.org"><img src="{{ site.baseurl }}/assets/images/people/Wheaton_round.png"></a>
     <h4><a href="http://joewheaton.org">Joseph Wheaton<sup>1,2</sup></a></h4>
-    <b>Lead Instructor</b><br>
-    <a href="https://qcnr.usu.edu/directory/wheaton_joseph">Associate Professor of Riverscapes</a>,<br> <a href="https://www.anabranchsolutions.com/joe-wheaton.html">Principal<sup>2</sup></a><br>
+    <b>Instructor</b><br>
+    <a href="https://qcnr.usu.edu/directory/wheaton_joseph"> Professor of Riverscapes</a>,<br> <a href="https://www.anabranchsolutions.com/joe-wheaton.html">Principal<sup>2</sup></a><br>
 
    Office Hours: Wednesday, 12:00 to 13:00 - <a href="https://usu-edu.zoom.us/my/h20joe?pwd=eFNjSllqT3VDNTRoLzZ3Sk9IM1F6UT09">Zoom Drop-In</a> or By Appointment
   </div>
-  <div class="column column-block">
-    <a href="https://www.researchgate.net/profile/Stephen_Bennett8"><img src="{{ site.baseurl }}/assets/images/people/bennett-round_orig.png"></a>
-    <h4><a href="https://www.researchgate.net/profile/Stephen_Bennett8">Stephen N. Bennett<sup>1,2,3</sup></a></h4>
-    <b>Co-Instructor</b><br>
-    Ecologist, <a href="https://qcnr.usu.edu/directory/bennett_stephen">Adjunct Professor</a>, <a href="https://www.anabranchsolutions.com/stephen-bennett.html">Principal<sup>2</sup></a><br>
-    Office Hours:  By Appointment
-  </div>
-  <div class="column column-block">
-    <a href="https://www.researchgate.net/profile/Nick_Bouwes"><img src="{{ site.baseurl }}/assets/images/people/bouwes-round_1_orig.png"></a>
-    <h4><a href="https://www.researchgate.net/profile/Nick_Bouwes">Nicolaas Bouwes<sup>3,2,1</sup></a></h4>
-    <b>Co-Instructor</b><br>
-   Aquatic  Ecologist, <a href="https://qcnr.usu.edu/directory/bouwes_nicolaas">Adjunct Professor</a>, <a href="https://www.anabranchsolutions.com/nick-bouwes.html">Principal<sup>2</sup></a><br>
-
-   Office Hours:  By Appointment
-  </div>
 
 
 
 
-<div class="column column-block">
-	<a href="https://www.researchgate.net/profile/Scott_Shahverdian"><img src="{{ site.baseurl }}/assets/images/people/shahverdian-round_1.png"></a>
-    <h4><a href="https://www.researchgate.net/profile/Scott_Shahverdian">Scott Shahveridan<sup>2,1</sup></a></h4>
-    <b>Co-Instructor</b><br>
-    Fluvial Geomorphologist, <a href="https://www.anabranchsolutions.com/scott-shahverdian.html">Associate Design Geomorphologist<sup>2</sup></a><br>
-      Office Hours:  By Appointment
-  </div>
 
 
 

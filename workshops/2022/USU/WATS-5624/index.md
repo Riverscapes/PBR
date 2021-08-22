@@ -3,7 +3,7 @@ title: Implementation of LTPBR - Syllabus
 weight: 5
 ---
 
-# WATS 6900 §6 - Syllabus
+# WATS 5624 - Syllabus
 
 ![header]({{ site.baseurl }}/assets/images/courses/WATS-5624_header_C.png)
 
@@ -18,26 +18,24 @@ This course introduces Low-Tech Process-Based Restoration of Riverscapes impleme
 |**Credits**: |1.0 Credit hours  (1.5 CEU)|
 |**Levels**: |Graduate/Undergraduate|
 |**Schedule Types**: |Hybrid Face to Face Lecture |
-|**Cross-Listed As**: |CEWA 5700 (will be WATS/CEWA 5624 in 2022)|
+|**Cross-Listed As**: |CEWA 5624|
 
 <div align="center">
-<a class=" button hollow" href="{{ site.baseurl }}/workshops/2021/USU/"> <i class="fa fa-chevron-circle-left" aria-hidden="true"></i> <b> Back to  Spring 2021 LTPBR Courses</b>  for University Credit or Professional CEU  
+<a class=" button hollow" href="{{ site.baseurl }}/workshops/2022/USU/"> <i class="fa fa-chevron-circle-left" aria-hidden="true"></i> <b> Back to  Spring 2022 LTPBR Courses</b>  for University Credit or Professional CEU  
   </a>
 </div>
 
 ## Schedule
 ### Spring 2021 - Implementation of LTPBR
-- Matriculated Students: ST:IMP LOWTEC PRCBAS REST RIV - 37989 - WATS 6900 - 006
-- Non-Matriculated Students: 26398 - CEWA 5700 - LB5
+- Matriculated Students: IMP LOWTEC PRCBAS REST RIV - XXXX - WATS 5624 - 00X
+- Non-Matriculated Students: [XXXX - CEWA 5624 - LB5]()
 
 
 
 | Class                                                        | Time              | Days     | Where      | Dates        | Instructors                                                  |
 | ------------------------------------------------------------ | ----------------- | -------- | ---------- | ------------ | ------------------------------------------------------------ |
-| [Implementing LTPBR]({{ site.baseurl }}/workshops/2021/USU/WATS-5624/) | 1:30 pm - 3:30 pm | Tuesday  | Zoom       | Apr 20, 2021 | [Scott M Shahverdian (P), Joseph Michael Wheaton, Stephen Nicholas Bennett, Nicolaas W Bouwes]({{ site.baseurl }}//workshops/2020/SGI/#instruction-team) |
-| [Implementing LTPBR]({{ site.baseurl }}/workshops/2021/USU/WATS-5624/) | 7:30 am - 5:30 pm | Saturday | Field Trip | Apr 24, 2021 | [Scott M Shahverdian (P), Joseph Michael Wheaton, Stephen Nicholas Bennett, Nicolaas W Bouwes]({{ site.baseurl }}//workshops/2020/SGI/#instruction-team) |
-
-
+| [Implementing LTPBR]({{ site.baseurl }}/workshops/2022/USU/WATS-5624/) | 1:30 pm - 3:30 pm | Tuesday  | [Zoom](https://usu-edu.zoom.us/j/88041118826?pwd=d2JqUE1NQWlrWnk0YVExVTgxdHN3dz09)       | Apr 19, 2022 | [Stephen Nicholas Bennett]({{ site.baseurl }}//workshops/2020/SGI/#instruction-team) |
+| [Implementing LTPBR]({{ site.baseurl }}/workshops/2022/USU/WATS-5624/) | 7:30 am - 5:30 pm | Saturday | Field Trip | Apr 23, 2022 | [Stephen Nicholas Bennett]({{ site.baseurl }}//workshops/2020/SGI/#instruction-team) |
 
 ### Course Schedule/Outline
 
@@ -51,8 +49,8 @@ This class meets once for a discussion session (remotely) and once in person for
 
 | Meeting Date | Modules     | Topics                                                       |
 | ------------ | ----------- | ------------------------------------------------------------ |
-| 4/20/2021    | [5.2](), [5.3](), [5.4]() & [5.5]() | [Overview](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module5#b-low-tech-implementation-overview); [Consultation & Permitting](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module5#c-consultation--permitting); [Logistics, Equipment & Safety](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module5#d-logistics-equipment--safety), [Construction of PALS & BDAs](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module5#e-construction-of-pals--bdas); [Adaptive Management](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module5#f-adaptive-management) |
-| 4/24/2021    | 5.6           | Field Day (Saturday) - Constructing an LTPBR Project                    |
+| 4/19/2022    | [5.2](), [5.3](), [5.4]() & [5.5]() | [Overview](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module5#b-low-tech-implementation-overview); [Consultation & Permitting](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module5#c-consultation--permitting); [Logistics, Equipment & Safety](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module5#d-logistics-equipment--safety), [Construction of PALS & BDAs](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module5#e-construction-of-pals--bdas) |
+| 4/23/2022    | 5.6           | Field Day (Saturday) - Constructing an LTPBR Project                    |
 
 
 This course is based on [Module 5]({{ site.baseurl }}/workshops/2020/SGI/Modules/module5.html) of the self-paced materials. 
@@ -68,9 +66,9 @@ $100 Course Fee for field trip (construction supplies, equipment, travel, safety
 Please register on [Banner](http://banner.usu.edu). *Note, tuition  for 1 credit varies between $601.21 and $2482.92 per credit based on undergraduate vs. graduate, in-state vs. out-of-state, and total number of credits)*
 
 ### Continuing Education Students
-$371.88  [Register Here](https://www.usu.edu/ais/ceu/register/?term=202120&crns=26236,26394,26395,26397,26398)
+$370.00  [Register Here](https://www.usu.edu/ais/ceu/register/)
 
-<div align="center"><a class="button" href="https://www.usu.edu/ais/ceu/register/?term=202120&crns=26236,26394,26395,26397,26398"> <b>Module 5 - Implementation</b> <br> Register Now! <i class="fa fa-user-plus" aria-hidden="true"></i> </a></div>
+<div align="center"><a class="button" href="https://www.usu.edu/ais/ceu/register/"> <b>Module 5 - Implementation</b> <br> Register Now! <i class="fa fa-user-plus" aria-hidden="true"></i> </a></div>
 
 
 -----------------
@@ -93,17 +91,9 @@ By the end of this course, students will:
 <div class="row small-up-2 medium-up-2 large-up-4" align="center">
 
 <div class="column column-block">
-	<a href="https://www.researchgate.net/profile/Scott_Shahverdian"><img src="{{ site.baseurl }}/assets/images/people/shahverdian-round_1.png"></a>
-    <h4><a href="https://www.researchgate.net/profile/Scott_Shahverdian">Scott Shahveridan<sup>2,1</sup></a></h4>
-    <b>Lead Instructor</b><br>
-    Fluvial Geomorphologist, <a href="https://www.anabranchsolutions.com/scott-shahverdian.html">Associate Design Geomorphologist<sup>2</sup></a><br>
-      Office Hours:  By Appointment
-  </div>
-
-<div class="column column-block">
     <a href="https://www.researchgate.net/profile/Stephen_Bennett8"><img src="{{ site.baseurl }}/assets/images/people/bennett-round_orig.png"></a>
     <h4><a href="https://www.researchgate.net/profile/Stephen_Bennett8">Stephen N. Bennett<sup>1,2,3</sup></a></h4>
-    <b>Co-Instructor</b><br>
+    <b>Lead Instructor</b><br>
     Ecologist, <a href="https://qcnr.usu.edu/directory/bennett_stephen">Adjunct Professor</a>, <a href="https://www.anabranchsolutions.com/stephen-bennett.html">Principal<sup>2</sup></a><br>
     Office Hours:  By Appointment
   </div>
@@ -111,19 +101,9 @@ By the end of this course, students will:
     <a href="http://joewheaton.org"><img src="{{ site.baseurl }}/assets/images/people/Wheaton_round.png"></a>
     <h4><a href="http://joewheaton.org">Joseph Wheaton<sup>1,2</sup></a></h4>
     <b>Co-Instructor</b><br>
-    <a href="https://qcnr.usu.edu/directory/wheaton_joseph">Associate Professor of Riverscapes</a>,<br> <a href="https://www.anabranchsolutions.com/joe-wheaton.html">Principal<sup>2</sup></a><br>
-
-   Office Hours: Wednesday, 12:00 to 13:00 - <a href="https://usu-edu.zoom.us/my/h20joe?pwd=eFNjSllqT3VDNTRoLzZ3Sk9IM1F6UT09">Zoom Drop-In</a> or By Appointment
+    <a href="https://qcnr.usu.edu/directory/wheaton_joseph">Associate Professor of Riverscapes</a>,<br> <a href="https://www.anabranchsolutions.com/joe-wheaton.html">Principal<sup>2</sup></a>
   </div>
 
-  <div class="column column-block">
-    <a href="https://www.researchgate.net/profile/Nick_Bouwes"><img src="{{ site.baseurl }}/assets/images/people/bouwes-round_1_orig.png"></a>
-    <h4><a href="https://www.researchgate.net/profile/Nick_Bouwes">Nicolaas Bouwes<sup>3,2,1</sup></a></h4>
-    <b>Co-Instructor</b><br>
-   Aquatic  Ecologist, <a href="https://qcnr.usu.edu/directory/bouwes_nicolaas">Adjunct Professor</a>, <a href="https://www.anabranchsolutions.com/nick-bouwes.html">Principal<sup>2</sup></a><br>
-
-   Office Hours:  By Appointment
-  </div>
 
 
 </div>
@@ -162,7 +142,7 @@ The course is organized into a series of modules or topics. Slides (as PDFs), re
 All of course lecture slides and materials are linked from the Canvas page by module and assignment.
 
 <div align="center">
-<a class="hollow button" href="https://usu.instructure.com/courses/618129"><img src="{{ site.baseurl }}/assets/images/canvas_logo.png">  <b>Spring 2021 Canvas</b><br> WATS 6900 - Intro to LTPBR Course Assignments</a>
+<a class="hollow button" href="https://usu.instructure.com/"><img src="{{ site.baseurl }}/assets/images/canvas_logo.png">  <b>Spring 2021 Canvas</b><br> WATS 5624 - Implementation of LTPBR Course Assignments</a>
 
 
 <a class="hollow button" href="{{ site.baseurl }}/workshops/2020/SGI/Modules/module5"><img src="{{ site.baseurl }}/assets/images/diagrams/presentation.png"> <b>Module 5 - Implementation</b> <br> Slides  <i class="fa fa-file-pdf-o" aria-hidden="true"></i>, Recorded Lectures <i class="fa fa-youtube-play" aria-hidden="true"></i> and Exercises </a>
