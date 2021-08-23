@@ -101,7 +101,7 @@ By the end of this course, students will:
     <a href="http://joewheaton.org"><img src="{{ site.baseurl }}/assets/images/people/Wheaton_round.png"></a>
     <h4><a href="http://joewheaton.org">Joseph Wheaton<sup>1,2</sup></a></h4>
     <b>Co-Instructor</b><br>
-    <a href="https://qcnr.usu.edu/directory/wheaton_joseph">Associate Professor of Riverscapes</a>,<br> <a href="https://www.anabranchsolutions.com/joe-wheaton.html">Principal<sup>2</sup></a>
+    <a href="https://qcnr.usu.edu/directory/wheaton_joseph">Professor of Riverscapes</a>,<br> <a href="https://www.anabranchsolutions.com/joe-wheaton.html">Principal<sup>2</sup></a>
   </div>
 
 
