@@ -2,11 +2,6 @@
 title: Riverscapes Restoration Design Manual - Home
 weight: 1
 ---
-<div align="center">
-<a class=" button hollow" href="{{ site.baseurl }}/resources/Topics"><img src="{{ site.baseurl }}/assets/images/PBR-LT_round_30.png">  <b>FREE!  LTPBR Workshop Modules</b>   Self-Paced Resources  <i class="fa fa-leanpub" aria-hidden="true"></i>  </a>
-<br>
-<a class=" button hollow" href="{{ site.baseurl }}/workshops/2021/USU"><img width="100" src="{{ site.baseurl }}/assets/images/sponsors/USU.png">  Spring 2021- <b> Register Now for  LTPBR Courses</b>  University Credit or Professional CEU  <i class="fa fa-graduation-cap"></i>  </a>
-</div>
 
 
 ## Manual
@@ -30,8 +25,13 @@ The [design manual]({{ site.baseurl }}/manual) and  [Pocket Guide]({{ site.baseu
 
 -------
 ## Training
-<a href="https://www.nrcs.usda.gov/wps/portal/nrcs/detail/national/plantsanimals/fishwildlife/?cid=stelprdb1046975"><img class="float-left" src="{{ site.baseurl }}/assets/images/sponsors/WLFW_100.png"> </a> **2020 Registration Closed** -  Due to COVID-19, the 2020 NRCS, [Working Lands for Wildlife](https://www.nrcs.usda.gov/wps/portal/nrcs/detail/national/plantsanimals/fishwildlife/?cid=stelprdb1046975) Low-Tech PBR Field Workshop Series was switched to a [virtual webinar format]({{ site.baseurl }}/workshops/2020/SGI/). The 2020 in-person trainings would have reached 100 invited participants in two events. The equivalent publicly offered workshops are normally $900 to $1100 per person.  Thanks to the [NRCS Working Lands for Wildlife](https://www.nrcs.usda.gov/wps/portal/nrcs/detail/national/plantsanimals/fishwildlife/?cid=stelprdb1046975) partnership, this [virtual workshop]({{ site.baseurl }}/workshops/2020/SGI/) was made available for anyone interested on August 11-14, 2020. We had to close registration at 1000, and 767 participants ended up participating in the live modules. 
 
+<div align="center">
+<a class=" button hollow" href="{{ site.baseurl }}/workshops/uni"><img width="100" src="{{ site.baseurl }}/assets/images/sponsors/USU.png">   <b>Register for LTPBR Courses</b><br>  for University Credit or Professional CEU  <i class="fa fa-graduation-cap"></i>  </a>
+</div>
+The next publicly oferred classes will be in [Spring 2022]({{ site.baseurl }}/workshops/2022/USU). 
+
+<a href="https://www.nrcs.usda.gov/wps/portal/nrcs/detail/national/plantsanimals/fishwildlife/?cid=stelprdb1046975"><img class="float-left" src="{{ site.baseurl }}/assets/images/sponsors/WLFW_100.png"> </a>Due to the pandemic, the 2020 NRCS, [Working Lands for Wildlife](https://www.nrcs.usda.gov/wps/portal/nrcs/detail/national/plantsanimals/fishwildlife/?cid=stelprdb1046975) Low-Tech PBR Field Workshop Series was switched to a [virtual webinar format]({{ site.baseurl }}/workshops/2020/SGI/). The 2020 in-person trainings would have reached 100 invited participants in two events. The equivalent publicly offered workshops are normally $900 to $1100 per person.  Thanks to the [NRCS Working Lands for Wildlife](https://www.nrcs.usda.gov/wps/portal/nrcs/detail/national/plantsanimals/fishwildlife/?cid=stelprdb1046975) partnership, this [virtual workshop]({{ site.baseurl }}/workshops/2020/SGI/) was made available for anyone interested on August 11-14, 2020. We had to close registration at 1000, and 767 participants ended up participating in the live modules. 
 
 
 Those that did not make the live virtual workshop can take advantage of [self-paced recordings, exercises and content](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/#slides--handouts) at any time. Thank you NRCS, Sage Grouse Initiative and Working Lands for Wildlife!
@@ -39,7 +39,7 @@ Those that did not make the live virtual workshop can take advantage of [self-pa
 
 
 <div align="center">
-<a class=" button" href="{{ site.baseurl }}/workshops/2020/SGI/#course-materials"><img src="{{ site.baseurl }}/assets/images/PBR-LT_round_30.png"> <b>FREE!  LTPBR Workshop Modules</b><br> See here for Self-Paced Resources<br> <br> <i class="fa fa-graduation-cap"></i>  Delivered Live August 11-14, 2020 </a>
+<a class=" button" href="{{ site.baseurl }}/workshops/2020/SGI/#course-materials"><img src="{{ site.baseurl }}/assets/images/PBR-LT_round_30.png"> <b>FREE!  LTPBR Workshop Modules</b><br> See here for Self-Paced Resources  </a>
 <a class="hollow button" href="{{ site.baseurl }}/resources/Topics/03_Planning/sturcturalForcing.html"><i class="fa fa-blind" aria-hidden="true"></i>  Take a Virtual<br> <b>Reading Riverscapes Field Trip</b> </a> 
 </div>
 
