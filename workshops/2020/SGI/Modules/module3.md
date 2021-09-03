@@ -182,6 +182,50 @@ The valley bottom is the entry point to understanding a riverscape. Fortunately,
 #### Panel Discussion 
 <i class="fa fa-youtube-play" aria-hidden="true"></i> <a href="https://youtu.be/cZm6eH4JnsU" target="_blank">Module 3 Panel Discussion 1</a> 
 
+#### Questions to the Panel
+
+<ul class="accordion" data-accordion data-allow-all-closed="true">
+  <li class="accordion-item" data-accordion-item>
+    <!-- Accordion tab title -->
+    	<a href="#" class="accordion-title">Panel Q & A for Module 3 Panel Discussion 1 Valley Bottoms</a>
+      	<div class="accordion-content" data-tab-content>
+  <ol>
+  <li><strong>Question:</strong> I'd like to hear some perspective on when BDAs or PALS might be the most appropriate restoration tool and where Zeedyk rock structures might be more appropriate. I'm specifically looking to restore headwaters riparian meadows (increase water residence time, replant riparian veg, and create more pool habitat).
+<p><strong>Answer:</strong> (Jeremy Maestas) Great question. There is definitely some overlap in where these different structure types are used. However, I typically think of the BDA/PALS being used more in perennial systems where beaver dam activity and wood accumulation are the processes we’re trying to mimic and promote. I use the Zeedyk rock structures more in the upper headwater meadows, like you’re referring to, to address issues of headcutting and gully erosion. These are ephemeral/intermittent systems. </p>
+</li>
+
+<li><strong>Question:</strong> So, a soils map would provide clues?
+<p><strong>Answer:</strong> (Joe Wheaton) Yes, any evidence can be used.</p>
+</li>
+
+<li><strong>Question:</strong> question goes here
+<p><strong>Answer:</strong> (Stephen Bennett) answer goes here </p>
+</li>
+
+<li><strong>Question:</strong> question goes here
+<p><strong>Answer:</strong> (Stephen Bennett) answer goes here </p>
+</li>
+
+<li><strong>Question:</strong> question goes here
+<p><strong>Answer:</strong> (Stephen Bennett) answer goes here </p>
+</li>
+
+<li><strong>Question:</strong> question goes here
+<p><strong>Answer:</strong> (Stephen Bennett) answer goes here </p>
+</li>
+
+<li><strong>Question:</strong> question goes here
+<p><strong>Answer:</strong> (Stephen Bennett) answer goes here </p>
+</li>
+
+<li><strong>Question:</strong> question goes here
+<p><strong>Answer:</strong> (Stephen Bennett) answer goes here </p>
+</li>
+</ol>
+</div>
+  </li>
+</ul>
+
 
 --------
 
@@ -231,7 +275,49 @@ The valley bottom is the entry point to understanding a riverscape. Fortunately,
 
 #### Panel Discussion 
 <i class="fa fa-youtube-play" aria-hidden="true"></i> <a href="https://youtu.be/FYInuGGBIgw" target="_blank">Module 3 Panel Discussion 2</a> 
+#### Questions to the Panel
 
+<ul class="accordion" data-accordion data-allow-all-closed="true">
+  <li class="accordion-item" data-accordion-item>
+    <!-- Accordion tab title -->
+    	<a href="#" class="accordion-title">Panel Q & A for Module 3 Panel Discussion 2 Reading Riverscapes/Structural Forcing</a>
+      	<div class="accordion-content" data-tab-content>
+  <ol>
+  <li><strong>Question:</strong> In doing a juniper control project in a valley bottom, should I cut the trees at 3 foot high and leave the stumps to create velcro?  Any instances of folks doing that?
+<p><strong>Answer:</strong> (Jeremy Maestas)  Interesting idea. I haven’t seen that done, but might worth trying a bit of that. Biggest concern I’d have is just aesthetics. Make it look natural rather than logged. The other idea is to just flood the valley bottom through restoration. Those juniper will die and leave nice snags that can provide same velcro effect. </p>
+</li>
+
+<li><strong>Question:</strong> question goes here
+<p><strong>Answer:</strong> (Stephen Bennett) answer goes here </p>
+</li>
+
+<li><strong>Question:</strong> question goes here
+<p><strong>Answer:</strong> (Stephen Bennett) answer goes here </p>
+</li>
+
+<li><strong>Question:</strong> question goes here
+<p><strong>Answer:</strong> (Stephen Bennett) answer goes here </p>
+</li>
+
+<li><strong>Question:</strong> question goes here
+<p><strong>Answer:</strong> (Stephen Bennett) answer goes here </p>
+</li>
+
+<li><strong>Question:</strong> question goes here
+<p><strong>Answer:</strong> (Stephen Bennett) answer goes here </p>
+</li>
+
+<li><strong>Question:</strong> question goes here
+<p><strong>Answer:</strong> (Stephen Bennett) answer goes here </p>
+</li>
+
+<li><strong>Question:</strong> question goes here
+<p><strong>Answer:</strong> (Stephen Bennett) answer goes here </p>
+</li>
+</ol>
+</div>
+  </li>
+</ul>
 --------
 
 ### E. Risk Assessment, Condition Assessment, & Recovery Potential
@@ -316,6 +402,52 @@ In many riverscapes, beaver dams can have a profound impact on riverscape condit
 #### Panel Discussion 
 <i class="fa fa-youtube-play" aria-hidden="true"></i> <a href="https://youtu.be/8ZHoAzTqDLI" target="_blank">Module 3 Panel Discussion 3</a> 
 
+#### Questions to the Panel
+
+<ul class="accordion" data-accordion data-allow-all-closed="true">
+  <li class="accordion-item" data-accordion-item>
+    <!-- Accordion tab title -->
+    	<a href="#" class="accordion-title">Panel Q & A for Module 3 Panel Discussion 3 Risk Assessment & Recovery Potential</a>
+      	<div class="accordion-content" data-tab-content>
+  <ol>
+  <li><strong>Question:</strong> 'Potential' also needs to consider sediment supply
+<p><strong>Answer:</strong> (Jeremy Maestas) Sure does. Good point! We often talk about the need to ‘harvest’ sediment from incised banks to build elements downstream. </p>
+</li>
+
+<li><strong>Question:</strong> If there is not infrastructure on the inactive FP, would you consider that within the restoration potential?  Or only the active FP?
+<p><strong>Answer:</strong> (Jeremy Maestas) Yes, the inactive FP without infrastructure could be a great opportunity for uplift if the flow regime still allows you to engage that area. Getting beaver dam activity back is especially helpful in recovering these inactive FPs.
+ </p>
+</li>
+
+<li><strong>Question:</strong> So for a low risk area would we use good jusgement to decide 'okay any more treatments could cause undue risk for these areas, so we're not going to continue treatments?
+<p><strong>Answer:</strong> (Jeremy Maestas) The risk assessment is inherently qualitative and should be done with the landowner/manager. Low risk areas should give you much more freedom to work without causing undue problems than areas with more infrastructure concerns. 
+ </p>
+</li>
+
+<li><strong>Question:</strong> When you speak of winners and losers for vegetation etc, do you suggest that there are certain qualifications of the individual doing the design so that can be predicted.  I am unclear about what kind of background knowledge the designer needs to get all fo this correct and make the right judngements.
+<p><strong>Answer:</strong> (Jeremy Maestas) Never hurts to have someone on your interdisciplinary team with plant ID skills! They can help you better understand what will happen with various levels of inundation.
+</p>
+</li>
+
+<li><strong>Question:</strong> Can you control the design to the degree that you can create semiwet meadow and still use it as "irrigated" pasture versus soppy wet wetland where livestock should not be. 
+<p><strong>Answer:</strong> (Jeremy Maestas) Might be hard to do that kind of precision management with natural processes. Probably best to select areas to work where you don’t need that level of control. </p>
+</li>
+
+<li><strong>Question:</strong> question goes here
+<p><strong>Answer:</strong> (Stephen Bennett) answer goes here </p>
+</li>
+
+<li><strong>Question:</strong> question goes here
+<p><strong>Answer:</strong> (Stephen Bennett) answer goes here </p>
+</li>
+
+<li><strong>Question:</strong> question goes here
+<p><strong>Answer:</strong> (Stephen Bennett) answer goes here </p>
+</li>
+</ol>
+</div>
+  </li>
+</ul>
 --------
 
 ### F. Connecting & Clarifying Objectives & Tying to Goals
@@ -361,6 +493,51 @@ In many riverscapes, beaver dams can have a profound impact on riverscape condit
   </div>
 </div>
 
+
+#### Questions & Answers
+
+<ul class="accordion" data-accordion data-allow-all-closed="true">
+  <li class="accordion-item" data-accordion-item>
+    <!-- Accordion tab title -->
+    	<a href="#" class="accordion-title">Panel Q & A for Module 2 F: Project Objectives</a>
+      	<div class="accordion-content" data-tab-content>
+  <ol>
+  <li><strong>Question:</strong> Were beavers relocated to Bridge Creek to supplement the existing population? Might one need to "artificially" increase the beaver population size to take advantage of these structures before they degrade (i.e., if you can't rely on dispersal of juveniles and/or high survival of juveniles)?
+<p><strong>Answer:</strong> (Jeremy Maestas) No, beavers were already present in Bridge. Yes, putting beaver back in where missing can be hugely important, as in the example from Jay Wilde’s Birch Creek project in Idaho. 
+ </p>
+</li>
+
+<li><strong>Question:</strong> question goes here
+<p><strong>Answer:</strong> (Stephen Bennett) answer goes here </p>
+</li>
+
+<li><strong>Question:</strong> question goes here
+<p><strong>Answer:</strong> (Stephen Bennett) answer goes here </p>
+</li>
+
+<li><strong>Question:</strong> question goes here
+<p><strong>Answer:</strong> (Stephen Bennett) answer goes here </p>
+</li>
+
+<li><strong>Question:</strong> question goes here
+<p><strong>Answer:</strong> (Stephen Bennett) answer goes here </p>
+</li>
+
+<li><strong>Question:</strong> question goes here
+<p><strong>Answer:</strong> (Stephen Bennett) answer goes here </p>
+</li>
+
+<li><strong>Question:</strong> question goes here
+<p><strong>Answer:</strong> (Stephen Bennett) answer goes here </p>
+</li>
+
+<li><strong>Question:</strong> question goes here
+<p><strong>Answer:</strong> (Stephen Bennett) answer goes here </p>
+</li>
+</ol>
+</div>
+  </li>
+</ul>
 
 --------
 
