@@ -14,6 +14,8 @@ Related to the LTPBR workshop [Module 1 - Introduction to Low-Tech Process-Based
 
 <a class="hollow button" href="{{ site.baseurl }}/resources/Topics/01_Overview/parkinglot.html"> <b>Parking Lot Exercise</b> <br> Build your first PALS or BDAs <i class="fa fa-product-hunt" aria-hidden="true"></i></a>
 
+<a class="hollow button" href="{{ site.baseurl }}/resources/Topics/01_Overview/homeversion.html"> <b>Home Grown Low-Tech Structures</b> <br> Build your first PALS or BDAs ... Alone <i class="fa fa-product-hunt" aria-hidden="true"></i></a>
+
 </div>
 
 # Other Resources

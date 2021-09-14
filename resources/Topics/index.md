@@ -32,6 +32,7 @@ Or take these modules as actual university coureses and be paced and assessed:
 ### Bonus Resources & Exercises by Module Topic
 #### [Module 1 - Introduction *Additional Resources*]({{ site.baseurl }}/resources/Topics/01_Overview/)
 - [Parking Lot Exercise]({{ site.baseurl }}/resources/Topics/01_Overview/parkinglot.html)
+- [Home Low-Tech Structure Exercise]({{ site.baseurl }}/resources/Topics/01_Overview/homeversion.html)
 - [Stream Evolution Model Quiz]({{ site.baseurl }}/resources/Topics/01_Overview/sem.html)
 - [Additional Introductory Lectures from *WATS 5350 Capstone*](http://capstone.restoration.usu.edu/Course_Topics/WATS_5350/Low-Tech/intro.html)
 
@@ -83,4 +84,3 @@ If you want to take the above self-paced learning modules for University credit 
 <a class=" button hollow" href="{{ site.baseurl }}/workshops/uni"><img width="100" src="{{ site.baseurl }}/assets/images/sponsors/USU.png">  <b> See   LTPBR Courses</b>  for University Credit or Professional CEU  <i class="fa fa-graduation-cap"></i> 
   </a>
 </div>
-
