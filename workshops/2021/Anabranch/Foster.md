@@ -193,18 +193,17 @@ The latest iteration of these is a lecture series designed to be presented virtu
 
 
 <div class="column column-block">
-    <a href="https://www.researchgate.net/profile/Stephen_Bennett8"><img src="{{ site.baseurl }}/assets/images/people/bennett-round_orig.png"></a>
-    <h4><a href="https://www.researchgate.net/profile/Stephen_Bennett8">Stephen N. Bennett</a></h4>
+    <a href="https://www.anabranchsolutions.com/stephen-bennett.html"><img src="{{ site.baseurl }}/assets/images/people/Steve_Bennett_round.png"></a>
+    <h4><a href="https://www.anabranchsolutions.com/stephen-bennett.html">Stephen N. Bennett</a></h4>
     Principal Fish & Wildlife Biologist, Anabranch Solutions
 
     Research Scientist, USU
   </div>
 <div class="column column-block">
-    <a href="https://www.researchgate.net/profile/Stephen_Bennett8"><img src="{{ site.baseurl }}/assets/images/people/bennett-round_orig.png"></a>
-    <h4><a href="https://www.researchgate.net/profile/Stephen_Bennett8">Andrew Hill</a></h4>
-    Principal Fish & Wildlife Biologist, Anabranch Solutions
+    <a href="https://www.anabranchsolutions.com/andy-hill.html"><img src="{{ site.baseurl }}/assets/images/people/AndyHill_round-02-01.png"></a>
+    <h4><a href="https://www.anabranchsolutions.com/andy-hill.html">Andrew Hill</a></h4>
+    Spatial Ecologist & Designer, Anabranch Solutions
 
-    Research Scientist, USU
   </div>
 
 </div>
