@@ -15,15 +15,15 @@ weight:  2
   </div>
 
 <div class="column column-block">
-    <a href="https://www.fws.gov/"><img src="{{ site.baseurl }}/assets/images/sponsors/pf-logo_2.png"></a>
+    <a href="https://www.pheasantsforever.org/"><img src="{{ site.baseurl }}/assets/images/sponsors/pf-logo_2.png"></a>
   </div>
 
   <div class="column column-block">
-    <a href="https://www.fws.gov/"><img src="{{ site.baseurl }}/assets/images/sponsors/conservation_NW.png"></a>
+    <a href="https://www.conservationnw.org/"><img src="{{ site.baseurl }}/assets/images/sponsors/conservation_NW.png"></a>
   </div>
 
   <div class="column column-block">
-    <a href="https://www.fws.gov/"><img src="{{ site.baseurl }}/assets/images/sponsors/usda-nrcs-logo_1_orig.png"></a>
+    <a href="https://www.nrcs.usda.gov/"><img src="{{ site.baseurl }}/assets/images/sponsors/usda-nrcs-logo_1_orig.png"></a>
   </div>
   
 
