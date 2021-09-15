@@ -77,7 +77,8 @@ During the workshop, please follow state, local, and employer guidelines for soc
 ### Wednesday, September 29, 2021
 #### Meeting Location/Stop 1– Willow Flats Recreation Area (Upstream of Chief Joseph Dam on the south side of the Columbia R.)
 
-**9:00-9:50: Introductions, Agenda, & Goals of Workshop ** 
+
+**9:00-9:50: Introductions, Agenda, & Goals of Workshop** 
 
 Introductions, Goals, Agenda, and Logistics
 - Introductions
@@ -90,7 +91,7 @@ Scope of Problem
 - Loss and importance of structure (beavers and wood)
 - Define process-based restoration (contrast with traditional) 
 
-**10:20-10:30: Break **
+**10:20-10:30: Break**
 
 **10:30-11:00: Guiding Principles (Pocket Guide p. 1, Design Manual Ch.2)**
 
@@ -120,7 +121,7 @@ Connecting Observations with goals and objectives
 - Things to think about (hydrology, geology, sediment supply, confinement, riparian, other)
 - Reading riverscapes - Valley Bottom, Recovery Potential, Risk Assessment
 
-3:00-3:30: Break & Travel to Stop 3 
+**3:00-3:30: Break & Travel to Stop 3**
 
 #### Stop 3 – Smith Draw (tributary to W. Foster Creek near Bridgeport Hill Road)
 
