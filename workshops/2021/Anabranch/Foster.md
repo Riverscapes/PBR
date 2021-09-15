@@ -195,35 +195,6 @@ The latest iteration of these is a lecture series designed to be presented virtu
 </div>
 
 
-<div class="row small-up-2 medium-up-2 large-up-6" align="center">
-
-  <div class="column column-block">
-    <a href="https://www.fws.gov/"><img src="{{ site.baseurl }}/assets/images/sponsors/USFWS.jpg"></a>
-  </div>
-
-<div class="column column-block">
-    <a href="https://www.fostercreekcd.org/"><img src="{{ site.baseurl }}/assets/images/sponsors/FCCD.png"></a>
-  </div>
-
-<div class="column column-block">
-    <a href="https://www.fws.gov/"><img src="{{ site.baseurl }}/assets/images/sponsors/pf-logo_2.png"></a>
-  </div>
-
-  <div class="column column-block">
-    <a href="https://www.fws.gov/"><img src="{{ site.baseurl }}/assets/images/sponsors/conservation_NW.png"></a>
-  </div>
-
-  <div class="column column-block">
-    <a href="https://www.fws.gov/"><img src="{{ site.baseurl }}/assets/images/sponsors/usda-nrcs-logo_1_orig.png"></a>
-  </div>
-  
-
-  <div class="column column-block">
-	<a href="http://www.anabranchsolutions.com"><img src="{{ site.baseurl }}/assets/images/sponsors/anabranchsolutionslogo-square-450_10.png"></a><br>
-  </div>
-
-
-</div>
 
 
 
@@ -231,6 +202,3 @@ The latest iteration of these is a lecture series designed to be presented virtu
 
 
 
-<div align="center">
-        <a class="hollow button" href="{{ site.baseurl }}/workshops/"><i class="fa fa-graduation-cap"></i>  Back to Workshops </a>  
-</div>
