@@ -156,8 +156,9 @@ Review/discussion upper, mid, and lower (headcut site) portions of property
 
 #### Stop 3 – Terry Hayes Road (12 miles south of Bridgeport on Highway 17)
 
-**1:00-3:45: Design and Construction (Pocket Guide p. 23-48, Design Manual Ch. 6)
-- Design and hands-on construction of various structures**
+**1:00-3:45: Design and Construction (Pocket Guide p. 23-48, Design Manual Ch. 6)**
+
+- Design and hands-on construction of various structures
 
 **3:45-4:30: Workshop Synthesis**
 
@@ -198,7 +199,13 @@ The latest iteration of these is a lecture series designed to be presented virtu
 
     Research Scientist, USU
   </div>
+<div class="column column-block">
+    <a href="https://www.researchgate.net/profile/Stephen_Bennett8"><img src="{{ site.baseurl }}/assets/images/people/bennett-round_orig.png"></a>
+    <h4><a href="https://www.researchgate.net/profile/Stephen_Bennett8">Andrew Hill</a></h4>
+    Principal Fish & Wildlife Biologist, Anabranch Solutions
 
+    Research Scientist, USU
+  </div>
 
 </div>
 
