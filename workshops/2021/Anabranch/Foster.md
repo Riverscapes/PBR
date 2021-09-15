@@ -41,6 +41,8 @@ In this 2 day workshop, you will be introduced to the principles of a healthy ri
 
 Because the course will be taught in the field, it will be helpful to refer to some documents. We will have hard copies of the [Design Manual]({{ site.baseurl }}/manual) and the [Pocket Guide]({{ site.baseurl }}/resources/pocket), available for workshop participants at no cost. 
 
+
+-----
 ## Description
 This two-day field-based workshop will take place in the Foster Creek watershed near Bridgeport, WA and is intended to introduce resource managers, land-owners, and conservation groups to ‘low-tech’ process-based (LTPBR) approaches for restoring streams and their associated riparian areas (riverscapes) to benefit fish, wildlife, and working lands. Participants will learn principles guiding low-tech process-based restoration, become familiar with basic beaver ecology, and different types of low-tech structures, including Beaver Dam Analogues (BDAs) and Post-Assisted Log Structures (PALS). The focus of the workshop will be on the guiding principles, the construction of different low-tech structures, and the impairments the structures can treat. Aspects of low-tech planning, assessment, design, and permitting will not be discussed in detail. A workshop website is provided which will include more in-depth information including links to digital copies of a low-tech process-based restoration manual and pocket guide, and an online lecture series which can be viewed either as videos or pdf documents. We encourage workshop participants to review some of the lecture material before the workshop. We will update the website with pictures and other information after the workshop. Hard copy manuals and pocket guides will also be available at the workshop free of charge.  
 
@@ -71,6 +73,7 @@ During the workshop, please follow state, local, and employer guidelines for soc
 - Lunch and bottled water will be provided both days by Pheasants Forever
 - Dinner on Wednesday night at Mansfield City Hall will be provided by Conservation Northwest
 
+-----
 ## Agenda
 - <a href="http://dx.doi.org/10.13140/RG.2.2.19590.63049/2"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a> ***Print Agenda***
 
@@ -161,6 +164,8 @@ Review/discussion upper, mid, and lower (headcut site) portions of property
 - Workshop recap
 - Permits, resources, materials/logistics, costs, questions
 
+
+-----
 ## Course Materials
 
 
