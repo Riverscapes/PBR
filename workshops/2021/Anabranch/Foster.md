@@ -2,7 +2,7 @@
 title:  Foster Creek LTPBR Workshop
 weight:  2
 ---
-# Foster Creek 2022: Field-Based Workshop:  Intro to Low-Tech Process-Based Restoration of Riverscapes 
+# Foster Creek 2021: Field-Based Workshop:  Intro to Low-Tech Process-Based Restoration of Riverscapes 
 
 <div class="row small-up-2 medium-up-2 large-up-6" align="center">
 
