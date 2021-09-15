@@ -75,7 +75,7 @@ During the workshop, please follow state, local, and employer guidelines for soc
 
 -----
 ## Agenda
-- <a href="http://dx.doi.org/10.13140/RG.2.2.19590.63049/2"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a> ***Print Agenda***
+- <a href="https://s3.us-west-2.amazonaws.com/etalweb.joewheaton.org/Workshops/LTPBR/2021/FosterCreek+LTPBR+Workshop+Agenda+Sept29%2630.pdf"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a> ***Print Agenda***
 
 ### Wednesday, September 29, 2021
 #### Meeting Location/Stop 1– Willow Flats Recreation Area (Upstream of Chief Joseph Dam on the south side of the Columbia R.)
