@@ -37,7 +37,7 @@ weight:  2
 
 **September 29 & 30,  2021 in Bridgeport, WA**
 
-In this 2 day workshop, you will be introduced to the principles of a healthy riverscape and low-tech process-based restoration.
+In this 2 day workshop, you will be introduced to  principles of a healthy riverscapes and principles of riverscape restoration.
 
 Because the course will be taught in the field, it will be helpful to refer to some documents. We will have hard copies of the [Design Manual]({{ site.baseurl }}/manual) and the [Pocket Guide]({{ site.baseurl }}/resources/pocket), available for workshop participants at no cost. 
 
@@ -51,7 +51,7 @@ To register, please contact the Foster Creek Conservation District by phone at (
 For meal planning, please let us know if you have any dietary restrictions or preferences and whether you will be attending dinner on day 1.
 
 ### Location
-The workshop will be held in the field throughout the Foster Creek drainage and will be meeting at the Willow Flat Recreation Area on the morning of day 1. If weather is really miserable, we will conduct the morning session of day 1 at Chief Joseph Dam. See the agenda for specific locations of where we will be meeting and stopping each day. The following links provide workshop meeting and stopping locations in the map below. Also availble as a [.kmz](https://ecologicalresearchinc.box.com/s/u2srclio8xzrvd85mpgl9pqddyiv8v0i) and  [google map link](https://goo.gl/maps/eqpCHzm9dCSA8dtx6). 
+The workshop will be held in the field throughout the Foster Creek drainage and will be meeting at the Willow Flat Recreation Area on the morning of day 1. If weather is miserable, we will conduct the morning session of day 1 at Chief Joseph Dam. See the agenda for specific locations of where we will be meeting and stopping each day. The following links provide workshop meeting and stopping locations in the map below. Also availble as a [.kmz](https://ecologicalresearchinc.box.com/s/u2srclio8xzrvd85mpgl9pqddyiv8v0i) and  [google map link](https://goo.gl/maps/eqpCHzm9dCSA8dtx6). 
 <div class="responsive-embed">
 <iframe src="https://www.google.com/maps/d/embed?mid=1BGTgqpV0DX0FdKaf-2qJ0TCoWQMRVRMN" width="640" height="480"></iframe>
 </div>
@@ -71,7 +71,7 @@ During the workshop, please follow state, local, and employer guidelines for soc
 - Restoration Tools (shovels, buckets, post pounder) and extra safety gear
 - Coffee and snacks will be provided by the Foster Creek Conservation District
 - Lunch and bottled water will be provided both days by Pheasants Forever
-- Dinner on Wednesday night at Mansfield City Hall will be provided by Conservation Northwest
+- Dinner on Wednesday night at the Willow Flats Recreation Site will be provided by Conservation Northwest
 
 -----
 ## Agenda
@@ -134,17 +134,17 @@ Review/discussion upper, mid, and lower (headcut site) portions of property
 
 **4:30-5:00 Travel to Mansfield**
 
-#### Stop 4 – Dinner and a Presentation: Mansfield Town Hall (26 Main Street)
+#### Stop 4 – Dinner and a Presentation: Willow Flats Recreation Area 
 
 **5:00-7:00: Science behind Low-tech process-based restoration**
 
-- Stories from Maggie, Bridge, Asotin, Birch, and Pataha/Tumalum Creeks – successes and failures?
+- Case-studies of riparian & beaver management, and low-tech structure projects 
 
 
 ### Thursday, September 30, 2021
 #### Meeting Location/Stop 1 - Bridgeport Chevron (Highway 17 and Foster Creek Ave.)
 
-**8:00-8:15: Day 2 agenda and Carpool to Construction Site**
+**8:00-8:15: Day 2 Agenda and Carpool to Construction Site**
 
 #### Stop 2 – Peaceful Valley (4 miles south of Bridgeport on Highway 17)
 
@@ -173,8 +173,6 @@ Review/discussion upper, mid, and lower (headcut site) portions of property
 ### Workshop Textbooks
 For the workshops, we will rely on the new [Design Manual]({{ site.baseurl }}/manual) and the [Pocket Guide]({{ site.baseurl }}/resources/pocket), which are both available free digitally.   A hard copy of both will be provided to you in person at the workshop.  
 
-Extra print copies of manual are available for ~ $60 [on Amazon](https://www.amazon.com/Low-Tech-Process-Based-Restoration-Riverscapes-Design/dp/1543972993/ref=sr_1_1?keywords=low+tech+process-based+restoration&qid=1558989073&s=gateway&sr=8-1) and print runs of the pocket guide can be [arranged]({{ site.baseurl }}/resources/pocket). 
-
 
 
 ### Workshop Lectures
@@ -183,7 +181,10 @@ Thanks to the generous support of the Natural Resource Conservation Service’s 
 The latest iteration of these is a lecture series designed to be presented virtually over five days. The link below provides access to all the lectures on each aspect of low-tech PBR (e.g., planning and assessment, design, implementation)  in video and pdf format. These resources will provide more detailed information and links to scientific literature than can be delivered in field-based format.  
 
 
-***link to lectures***
+<div align="left">
+        <a class="hollow button" href="{{ site.baseurl }}/resources/">  Link to LTPBR Resources </a>  
+</div>
+
 
 -----
 
