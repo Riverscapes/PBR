@@ -39,7 +39,7 @@ weight:  2
 
 In this 2 day workshop, you will be introduced to the principles of a healthy riverscape and low-tech process-based restoration.
 
-Because the course will be taught in the field, it will be helpful to refer to some documents. We will have hard copies of the ***low-tech process-based restoration manual*** and ***pocket guide*** available for workshop participants at no cost. 
+Because the course will be taught in the field, it will be helpful to refer to some documents. We will have hard copies of the [Design Manual]({{ site.baseurl }}/manual) and the [Pocket Guide]({{ site.baseurl }}/resources/pocket), available for workshop participants at no cost. 
 
 ## Description
 This two-day field-based workshop will take place in the Foster Creek watershed near Bridgeport, WA and is intended to introduce resource managers, land-owners, and conservation groups to ‘low-tech’ process-based (LTPBR) approaches for restoring streams and their associated riparian areas (riverscapes) to benefit fish, wildlife, and working lands. Participants will learn principles guiding low-tech process-based restoration, become familiar with basic beaver ecology, and different types of low-tech structures, including Beaver Dam Analogues (BDAs) and Post-Assisted Log Structures (PALS). The focus of the workshop will be on the guiding principles, the construction of different low-tech structures, and the impairments the structures can treat. Aspects of low-tech planning, assessment, design, and permitting will not be discussed in detail. A workshop website is provided which will include more in-depth information including links to digital copies of a low-tech process-based restoration manual and pocket guide, and an online lecture series which can be viewed either as videos or pdf documents. We encourage workshop participants to review some of the lecture material before the workshop. We will update the website with pictures and other information after the workshop. Hard copy manuals and pocket guides will also be available at the workshop free of charge.  
@@ -74,43 +74,43 @@ During the workshop, please follow state, local, and employer guidelines for soc
 ## Agenda
 - <a href="http://dx.doi.org/10.13140/RG.2.2.19590.63049/2"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a> ***Print Agenda***
 
-### WEDNESDAY – SEPTEMBER 29
-**Meeting Location/Stop 1** – Willow Flats Recreation Area (Upstream of Chief Joseph Dam on the south side of the Columbia R.)
+### Wednesday, September 29, 2021
+#### Meeting Location/Stop 1– Willow Flats Recreation Area (Upstream of Chief Joseph Dam on the south side of the Columbia R.)
 
-**9:00-9:50:**  Introductions, Agenda, & Goals of Workshop 
+**9:00-9:50: Introductions, Agenda, & Goals of Workshop ** 
 
 Introductions, Goals, Agenda, and Logistics
 - Introductions
 - Goals/Agenda/Logistics – hand-outs
 
-**9:50-10:20:** Background and Purpose (Pocket Guide p. 5, Design Manual Ch.1)
+**9:50-10:20: Background and Purpose (Pocket Guide p. 5, Design Manual Ch.1)**
 
 Scope of Problem
 - General degradation
 - Loss and importance of structure (beavers and wood)
 - Define process-based restoration (contrast with traditional) 
 
-**10:20-10:30:** Break 
+**10:20-10:30: Break **
 
-**10:30-11:00:** Guiding Principles (Pocket Guide p. 1, Design Manual Ch.2)
+**10:30-11:00: Guiding Principles (Pocket Guide p. 1, Design Manual Ch.2)**
 
 Riverscape Principles
 
 Restoration Principles
 
-**11:00-12:00:** Low-tech Structures (Pocket Guide p. 23 & 55)
+**11:00-12:00: Low-tech Structures (Pocket Guide p. 23 & 55)**
 
 Low-tech toolbox – introduction to structures 
 
 Build your first Beaver Dam Analogue or PALS exercise
 - Parking lot BDA exercise
 
-**12:00-1:00:** Lunch & Travel to Stop 2
+**12:00-1:00: Lunch & Travel to Stop 2**
 
 
-**Stop 2** – K Road/Mary Jane Hill Road along Highway 17
+#### Stop 2– K Road/Mary Jane Hill Road along Highway 17
 
-1:00-3:00:  The Good, the Bad, and the Ugly
+**1:00-3:00:  The Good, the Bad, and the Ugly**
 Learning from beaver
 - Beaver ecology and management 
 Example of Low-tech Implementation
@@ -122,39 +122,41 @@ Connecting Observations with goals and objectives
 
 3:00-3:30: Break & Travel to Stop 3 
 
-**Stop 3** – Smith Draw (tributary to W. Foster Creek near Bridgeport Hill Road)
+#### Stop 3 – Smith Draw (tributary to W. Foster Creek near Bridgeport Hill Road)
 
-**3:30-4:30:** Put it all into practice; Observations, Goals, Design Options
+**3:30-4:30: Put it all into practice; Observations, Goals, Design Options**
 
 Review/discussion upper, mid, and lower (headcut site) portions of property
 
-4:30-5:00 Travel to Mansfield
+**4:30-5:00 Travel to Mansfield**
 
-Stop 4 – Dinner and a Presentation: Mansfield Town Hall (26 Main Street)
+#### Stop 4 – Dinner and a Presentation: Mansfield Town Hall (26 Main Street)
 
-5:00-7:00: Science behind Low-tech process-based restoration 
-	Stories from Maggie, Bridge, Asotin, Birch, and Pataha/Tumalum Creeks – successes and failures?
+**5:00-7:00: Science behind Low-tech process-based restoration**
+
+- Stories from Maggie, Bridge, Asotin, Birch, and Pataha/Tumalum Creeks – successes and failures?
 
 
-### THURSDAY – SEPTEMBER 30
-**Meeting Location/Stop 1 - Bridgeport Chevron (Highway 17 and Foster Creek Ave.)**
+### Thursday, September 30, 2021
+#### Meeting Location/Stop 1 - Bridgeport Chevron (Highway 17 and Foster Creek Ave.)
 
-**8:00-8:15: **Day 2 agenda and Carpool to Construction Site
+**8:00-8:15: Day 2 agenda and Carpool to Construction Site**
 
-**Stop 2 – Peaceful Valley (4 miles south of Bridgeport on Highway 17)**
+#### Stop 2 – Peaceful Valley (4 miles south of Bridgeport on Highway 17)
 
-**8:30-12:00: **Design and Construction (Pocket Guide p. 23-48, Design Manual Ch. 6)
+**8:30-12:00: Design and Construction (Pocket Guide p. 23-48, Design Manual Ch. 6)**
 - Review existing structures and safety and equipment operation demo
 - Design and hands-on construction of various structures 
 
-**12:00-1:00:** Lunch and Travel to Stop 3
+**12:00-1:00: Lunch and Travel to Stop 3**
 
-**Stop 3 – Terry Hayes Road (12 miles south of Bridgeport on Highway 17)**
+#### Stop 3 – Terry Hayes Road (12 miles south of Bridgeport on Highway 17)
 
-**1:00-3:45:** Design and Construction (Pocket Guide p. 23-48, Design Manual Ch. 6)
-- Design and hands-on construction of various structures
+**1:00-3:45: Design and Construction (Pocket Guide p. 23-48, Design Manual Ch. 6)
+- Design and hands-on construction of various structures**
 
-**3:45-4:30:** Workshop Synthesis
+**3:45-4:30: Workshop Synthesis**
+
 - Workshop recap
 - Permits, resources, materials/logistics, costs, questions
 
