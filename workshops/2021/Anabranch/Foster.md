@@ -49,10 +49,10 @@ Because the course will be taught in the field, it will be helpful to refer to s
 
 
 <div align="center">
-        <a class="hollow button" href="{{ site.baseurl }}/manual/">  Link to LTPBR manual</a>  
+        <a class="hollow button" href="{{ site.baseurl }}/manual/">  Link to LTPBR Design Manual</a>  
 </div>
 <div align="center">
-        <a class="hollow button" href="{{ site.baseurl }}/resources/pocket">  Link to LTPBR Pocket guide </a>  
+        <a class="hollow button" href="{{ site.baseurl }}/resources/pocket">  Link to LTPBR Pocket Guide </a>  
 </div>
 <div align="center">
         <a class="hollow button" href="{{ site.baseurl }}/resources/Topics/">  Link to Online Lecture Series </a>  
