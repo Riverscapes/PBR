@@ -44,17 +44,18 @@ In this 2 day workshop, you will be introduced to  principles of a healthy river
 This two-day field-based workshop will take place in the Foster Creek watershed near Bridgeport, WA and is intended to introduce resource managers, land-owners, and conservation groups to ‘low-tech’ process-based (LTPBR) approaches for restoring streams and their associated riparian areas (riverscapes) to benefit fish, wildlife, and working lands. Participants will learn principles guiding low-tech process-based restoration, become familiar with basic beaver ecology, and different types of low-tech structures, including Beaver Dam Analogues (BDAs) and Post-Assisted Log Structures (PALS). The focus of the workshop will be on the guiding principles, the construction of different low-tech structures, and the impairments the structures can treat. Aspects of low-tech planning, assessment, design, and permitting will not be discussed in detail. 
 
 
-Because the course will be taught in the field, it will be helpful to refer to some documents. We will have hard copies of the [Design Manual]({{ site.baseurl }}/manual) and the [Pocket Guide]({{ site.baseurl }}/resources/pocket), available for workshop participants at no cost. An [online lecture seasons]({{ site.baseurl }}/resources/Topics/)   can be viewed either as videos or pdf documents.  We encourage workshop participants to review some of the lecture material before the workshop. We will update the website with pictures and other information after the workshop. 
+Because the course will be taught in the field, it will be helpful to refer to some documents. We will have hard copies of the [Design Manual]({{ site.baseurl }}/manual) and the [Pocket Guide]({{ site.baseurl }}/resources/pocket), available for workshop participants at no cost. An [online lecture series]({{ site.baseurl }}/resources/Topics/)  can be viewed either as videos or pdf documents.  We encourage workshop participants to review some of the lecture material before the workshop. We will update the website with pictures and other information after the workshop. 
 
 
-<div align="left">
-        <a class="hollow button" href="{{ site.baseurl }}/resources/Topics/">  Link to online lecture series </a>  
-</div>
+
 <div align="left">
         <a class="hollow button" href="{{ site.baseurl }}/manual/">  Link to LTPBR manual</a>  
 </div>
 <div align="left">
         <a class="hollow button" href="{{ site.baseurl }}/resources/pocket">  Link to LTPBR Pocket guide </a>  
+</div>
+<div align="left">
+        <a class="hollow button" href="{{ site.baseurl }}/resources/Topics/">  Link to online lecture series </a>  
 </div>
 
 ### Location
