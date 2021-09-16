@@ -132,7 +132,7 @@ Connecting Observations with goals and objectives
 
 Review/discussion upper, mid, and lower (headcut site) portions of property
 
-**4:30-5:00 Travel to Wo;;pw Flats Recreation Area**
+**4:30-5:00 Travel to Willow Flats Recreation Area**
 
 #### Stop 4 – Dinner and a Presentation: Willow Flats Recreation Area 
 
