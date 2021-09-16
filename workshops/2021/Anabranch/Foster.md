@@ -39,22 +39,23 @@ weight:  2
 
 In this 2 day workshop, you will be introduced to  principles of a healthy riverscapes and principles of riverscape restoration.
 
-Because the course will be taught in the field, it will be helpful to refer to some documents. We will have hard copies of the [Design Manual]({{ site.baseurl }}/manual) and the [Pocket Guide]({{ site.baseurl }}/resources/pocket), available for workshop participants at no cost. 
-
-
 -----
 ## Description
-This two-day field-based workshop will take place in the Foster Creek watershed near Bridgeport, WA and is intended to introduce resource managers, land-owners, and conservation groups to ‘low-tech’ process-based (LTPBR) approaches for restoring streams and their associated riparian areas (riverscapes) to benefit fish, wildlife, and working lands. Participants will learn principles guiding low-tech process-based restoration, become familiar with basic beaver ecology, and different types of low-tech structures, including Beaver Dam Analogues (BDAs) and Post-Assisted Log Structures (PALS). The focus of the workshop will be on the guiding principles, the construction of different low-tech structures, and the impairments the structures can treat. Aspects of low-tech planning, assessment, design, and permitting will not be discussed in detail. A workshop website is provided which will include more in-depth information including links to digital copies of a low-tech process-based restoration manual and pocket guide, and an online lecture series which can be viewed either as videos or pdf documents. We encourage workshop participants to review some of the lecture material before the workshop. We will update the website with pictures and other information after the workshop. Hard copy manuals and pocket guides will also be available at the workshop free of charge.  
+This two-day field-based workshop will take place in the Foster Creek watershed near Bridgeport, WA and is intended to introduce resource managers, land-owners, and conservation groups to ‘low-tech’ process-based (LTPBR) approaches for restoring streams and their associated riparian areas (riverscapes) to benefit fish, wildlife, and working lands. Participants will learn principles guiding low-tech process-based restoration, become familiar with basic beaver ecology, and different types of low-tech structures, including Beaver Dam Analogues (BDAs) and Post-Assisted Log Structures (PALS). The focus of the workshop will be on the guiding principles, the construction of different low-tech structures, and the impairments the structures can treat. Aspects of low-tech planning, assessment, design, and permitting will not be discussed in detail. 
 
-### How to Sign Up
-To register, please contact the Foster Creek Conservation District by phone at (509) 888-6372 or Ryan Lefler by email at <a href="rlefler@fostercreekcd.org">rlefler@fostercreekcd.org</a>. 
-For meal planning, please let us know if you have any dietary restrictions or preferences and whether you will be attending dinner on day 1.
+
+Because the course will be taught in the field, it will be helpful to refer to some documents. We will have hard copies of the [Design Manual]({{ site.baseurl }}/manual) and the [Pocket Guide]({{ site.baseurl }}/resources/pocket), available for workshop participants at no cost. An ***online lecture series***   can be viewed either as videos or pdf documents.  We encourage workshop participants to review some of the lecture material before the workshop. We will update the website with pictures and other information after the workshop. 
 
 ### Location
 The workshop will be held in the field throughout the Foster Creek drainage and will be meeting at the Willow Flat Recreation Area on the morning of day 1. If weather is miserable, we will conduct the morning session of day 1 at Chief Joseph Dam. See the agenda for specific locations of where we will be meeting and stopping each day. The following links provide workshop meeting and stopping locations in the map below. Also availble as a [.kmz](https://ecologicalresearchinc.box.com/s/u2srclio8xzrvd85mpgl9pqddyiv8v0i) and  [google map link](https://goo.gl/maps/eqpCHzm9dCSA8dtx6). 
 <div class="responsive-embed">
 <iframe src="https://www.google.com/maps/d/embed?mid=1BGTgqpV0DX0FdKaf-2qJ0TCoWQMRVRMN" width="640" height="480"></iframe>
 </div>
+
+### How to Sign Up
+To register, please contact the Foster Creek Conservation District by phone at (509) 888-6372 or Ryan Lefler by email at <a href="rlefler@fostercreekcd.org">rlefler@fostercreekcd.org</a>. 
+For meal planning, please let us know if you have any dietary restrictions or preferences and whether you will be attending dinner on day 1.
+
 ### What to Bring
 - Closed toe footwear
 - Wading boots or waders
@@ -72,6 +73,8 @@ During the workshop, please follow state, local, and employer guidelines for soc
 - Coffee and snacks will be provided by the Foster Creek Conservation District
 - Lunch and bottled water will be provided both days by Pheasants Forever
 - Dinner on Wednesday night at the Willow Flats Recreation Site will be provided by Conservation Northwest
+
+
 
 -----
 ## Agenda
@@ -185,6 +188,23 @@ The latest iteration of these is a lecture series designed to be presented virtu
         <a class="hollow button" href="{{ site.baseurl }}/resources/">  Link to LTPBR Resources </a>  
 </div>
 
+
+## Course Materials
+
+####  Workshop Textbooks
+For the workshops, we will rely on the new [Design Manual]({{ site.baseurl }}/manual) and the [Pocket Guide]({{ site.baseurl }}/resources/pocket), which are both available free digitally.   A hard copy of both will be provided to you in person at the workshop.  
+
+---
+
+#### Workshop Lectures
+Thanks to the generous support of the Natural Resource Conservation Service’s Working Lands for Wildlife, and a grant through Pheasants Forever to Utah State University’s Restoration Consortium and Joe Wheaton’s ET-AL lab are able to deliver a free virtual workshops to NRCS conservationists and their partners. This series was envisioned by Jeremy Maestas (NRCS) and is possible thanks to partner matches by various local organizations in each state and matching funds from Utah State University. This grew out of the successful 2016 Enhancing Mesic Habitat Resilience in Sagebrush Ecosystems Workshop at Utah State University and the 2018 and 2019 workshop series.
+
+The latest iteration of these is a lecture series designed to be presented virtually over five days. The link below provides access to all the lectures on each aspect of low-tech PBR (e.g., planning and assessment, design, implementation)  in video and pdf format. These resources will provide more detailed information and links to scientific literature than can be delivered in field-based format.  
+
+
+<div align="left">
+        <a class="hollow button" href="{{ site.baseurl }}/resources/">  Link to LTPBR Resources </a>  
+</div>
 
 -----
 
