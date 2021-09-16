@@ -48,7 +48,13 @@ Because the course will be taught in the field, it will be helpful to refer to s
 
 
 <div align="left">
-        <a class="hollow button" href="{{ site.baseurl }}/resources/">  Link to LTPBR Resources </a>  
+        <a class="hollow button" href="{{ site.baseurl }}/workshops/2020/SGI/">  Link to online lecture series </a>  
+</div>
+<div align="left">
+        <a class="hollow button" href="{{ site.baseurl }}/resources/manual/">  Link to LTPBR manual</a>  
+</div>
+<div align="left">
+        <a class="hollow button" href="{{ site.baseurl }}/resources/pocket">  Link to LTPBR Pocket guide </a>  
 </div>
 
 ### Location
