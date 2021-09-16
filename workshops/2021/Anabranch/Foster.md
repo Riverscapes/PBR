@@ -46,6 +46,11 @@ This two-day field-based workshop will take place in the Foster Creek watershed 
 
 Because the course will be taught in the field, it will be helpful to refer to some documents. We will have hard copies of the [Design Manual]({{ site.baseurl }}/manual) and the [Pocket Guide]({{ site.baseurl }}/resources/pocket), available for workshop participants at no cost. An ***online lecture series***   can be viewed either as videos or pdf documents.  We encourage workshop participants to review some of the lecture material before the workshop. We will update the website with pictures and other information after the workshop. 
 
+
+<div align="left">
+        <a class="hollow button" href="{{ site.baseurl }}/resources/">  Link to LTPBR Resources </a>  
+</div>
+
 ### Location
 The workshop will be held in the field throughout the Foster Creek drainage and will be meeting at the Willow Flat Recreation Area on the morning of day 1. If weather is miserable, we will conduct the morning session of day 1 at Chief Joseph Dam. See the agenda for specific locations of where we will be meeting and stopping each day. The following links provide workshop meeting and stopping locations in the map below. Also availble as a [.kmz](https://ecologicalresearchinc.box.com/s/u2srclio8xzrvd85mpgl9pqddyiv8v0i) and  [google map link](https://goo.gl/maps/eqpCHzm9dCSA8dtx6). 
 <div class="responsive-embed">
@@ -177,7 +182,6 @@ Review/discussion upper, mid, and lower (headcut site) portions of property
 For the workshops, we will rely on the new [Design Manual]({{ site.baseurl }}/manual) and the [Pocket Guide]({{ site.baseurl }}/resources/pocket), which are both available free digitally.   A hard copy of both will be provided to you in person at the workshop.  
 
 
-
 ### Workshop Lectures
 Thanks to the generous support of the Natural Resource Conservation Service’s Working Lands for Wildlife, and a grant through Pheasants Forever to Utah State University’s Restoration Consortium and Joe Wheaton’s ET-AL lab are able to deliver a free virtual workshops to NRCS conservationists and their partners. This series was envisioned by Jeremy Maestas (NRCS) and is possible thanks to partner matches by various local organizations in each state and matching funds from Utah State University. This grew out of the successful 2016 Enhancing Mesic Habitat Resilience in Sagebrush Ecosystems Workshop at Utah State University and the 2018 and 2019 workshop series.
 
@@ -189,22 +193,8 @@ The latest iteration of these is a lecture series designed to be presented virtu
 </div>
 
 
-## Course Materials
-
-####  Workshop Textbooks
-For the workshops, we will rely on the new [Design Manual]({{ site.baseurl }}/manual) and the [Pocket Guide]({{ site.baseurl }}/resources/pocket), which are both available free digitally.   A hard copy of both will be provided to you in person at the workshop.  
-
----
-
-#### Workshop Lectures
-Thanks to the generous support of the Natural Resource Conservation Service’s Working Lands for Wildlife, and a grant through Pheasants Forever to Utah State University’s Restoration Consortium and Joe Wheaton’s ET-AL lab are able to deliver a free virtual workshops to NRCS conservationists and their partners. This series was envisioned by Jeremy Maestas (NRCS) and is possible thanks to partner matches by various local organizations in each state and matching funds from Utah State University. This grew out of the successful 2016 Enhancing Mesic Habitat Resilience in Sagebrush Ecosystems Workshop at Utah State University and the 2018 and 2019 workshop series.
-
-The latest iteration of these is a lecture series designed to be presented virtually over five days. The link below provides access to all the lectures on each aspect of low-tech PBR (e.g., planning and assessment, design, implementation)  in video and pdf format. These resources will provide more detailed information and links to scientific literature than can be delivered in field-based format.  
 
 
-<div align="left">
-        <a class="hollow button" href="{{ site.baseurl }}/resources/">  Link to LTPBR Resources </a>  
-</div>
 
 -----
 
