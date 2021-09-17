@@ -20,14 +20,13 @@ weight:  2
 </div>
 ## Taught for [Yakama Nation Fisheries](https://www.fostercreekcd.org/)
 
-**September 29 & 30,  2021 in Bridgeport, WA**
+**October 12 & 13,  2021 in Tepee Creek, WA**
 
 In this 2 day workshop, you will be introduced to  principles of a healthy riverscapes and principles of riverscape restoration.
 
 -----
 ## Description
-This two-day field-based workshop will take place in the Foster Creek watershed near Bridgeport, WA and is intended to introduce resource managers, land-owners, and conservation groups to ‘low-tech’ process-based (LTPBR) approaches for restoring streams and their associated riparian areas (riverscapes) to benefit fish, wildlife, and working lands. Participants will learn principles guiding low-tech process-based restoration, become familiar with basic beaver ecology, and different types of low-tech structures, including Beaver Dam Analogues (BDAs) and Post-Assisted Log Structures (PALS). The focus of the workshop will be on the guiding principles, the construction of different low-tech structures, and the impairments the structures can treat. Aspects of low-tech planning, assessment, design, and permitting will not be discussed in detail. 
-
+This field-based workshop will take place on Tepee Creek in the Klickitat River watershed and is intended to introduce conservationists to ‘low-tech’ process-based (LTPBR) approaches for restoring streams and their associated riparian areas (riverscapes) to benefit fish, wildlife, and Tribal lands. Participants will learn principles guiding low-tech process-based restoration and become familiar with simple, hand-built tools, including Beaver Dam Analogues (BDAs) and Post-Assisted Log Structures (PALS), intended to mimic and promote specific ecosystem processes. Participants will gain basic skills in the planning, design, and implementation phases of project development. 
 
 Because the course will be taught in the field, it will be helpful to refer to some documents. We will have hard copies of the [Design Manual]({{ site.baseurl }}/manual) and the [Pocket Guide]({{ site.baseurl }}/resources/pocket), available for workshop participants at no cost. An [online lecture series]({{ site.baseurl }}/resources/Topics/)  can be viewed either as videos or pdf documents.  We encourage workshop participants to review some of the lecture material before the workshop. We will update the website with pictures and other information after the workshop. 
 
@@ -43,14 +42,25 @@ Because the course will be taught in the field, it will be helpful to refer to s
         <a class="hollow button" href="{{ site.baseurl }}/resources/Topics/">  Link to Online Lecture Series </a>  
 </div>
 
-### Location
+### Where to Meet
+**Wednesday (10/13):**  9:00 AM Yakama Nation: Tepee Creek IXL <a href="https://goo.gl/maps/X1hWkn2dFD48jWqi8"> (46.1841640, -121.0260258) </a>
 
+**Thursday (10/14):**  8:30 AM @ Tepee LTPBR Meadow Site <a href="https://goo.gl/maps/49mSiryXWB4TQdjC7">(46.1384681, -121.0696050)</a>
+
+See the agenda for specific locations of where we will be meeting and stopping each day. The following links provide workshop meeting and stopping locations in .kmz and google map formats. 
+
+**embed map**
 
 ### How to Sign Up
-
+To sign up, please contact Adrianne Grimm (agrimm@ykfp.org) or Jeanette Burkhardt (jeanette@ykfp.org). 
 
 ### What to Bring
-r
+	Closed toe footwear, clothes you can get dirty in
+	Wading boots or waders
+	Water, lunch
+	PPE (sun protection, ear protection, work gloves, eye protection, hard hat)
+o	Some PPE will also be available on-site for work on day 2
+
 
 ### COVID-19 Precautions 
 During the workshop, please follow state, local, and employer guidelines for social distancing and wearing masks. 
