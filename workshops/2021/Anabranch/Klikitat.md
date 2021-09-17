@@ -52,14 +52,14 @@ See the agenda for specific locations of where we will be meeting and stopping e
 **embed map**
 
 ### How to Sign Up
-To sign up, please contact Adrianne Grimm (agrimm@ykfp.org) or Jeanette Burkhardt (jeanette@ykfp.org). 
+To sign up, please contact Adrianne Grimm <a href="mailto:agrimm@ykfp.org">(agrimm@ykfp.org)</a> or Jeanette Burkhardt <a href="mailto:jeanette@ykfp.org">(jeanette@ykfp.org)</a>. 
 
 ### What to Bring
-	Closed toe footwear, clothes you can get dirty in
-	Wading boots or waders
-	Water, lunch
-	PPE (sun protection, ear protection, work gloves, eye protection, hard hat)
-o	Some PPE will also be available on-site for work on day 2
+- Closed toe footwear, clothes you can get dirty in
+- Wading boots or waders
+- Water, lunch
+- PPE (sun protection, ear protection, work gloves, eye protection, hard hat)
+- Some PPE will also be available on-site for work on day 2
 
 
 ### COVID-19 Precautions 
@@ -68,10 +68,8 @@ During the workshop, please follow state, local, and employer guidelines for soc
 ### What Will Be Provided
 - LTPBR Manual and Pocket Guide
 - Restoration Tools (shovels, buckets, post pounder) and extra safety gear
-- Coffee and snacks will be provided by the Foster Creek Conservation District
-- Lunch and bottled water will be provided both days by Pheasants Forever
-- Dinner on Wednesday night at the Willow Flats Recreation Site will be provided by Conservation Northwest
-
+- Snacks
+- PPE if needed
 
 
 -----
@@ -79,93 +77,19 @@ During the workshop, please follow state, local, and employer guidelines for soc
 - <a href="><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a> ***Print Agenda***
 
 ### Day 1
-#### Meeting Location/Stop 1– Willow Flats Recreation Area (Upstream of Chief Joseph Dam on the south side of the Columbia R.)
+#### Meeting Location
+
+#### Stop 1
+TBD
 
 
-**9:00-9:50: Introductions, Agenda, & Goals of Workshop** 
-
-Introductions, Goals, Agenda, and Logistics
-- Introductions
-- Goals/Agenda/Logistics – hand-outs
-
-**9:50-10:20: Background and Purpose (Pocket Guide p. 5, Design Manual Ch.1)**
-
-Scope of Problem
-- General degradation
-- Loss and importance of structure (beavers and wood)
-- Define process-based restoration (contrast with traditional) 
-
-**10:20-10:30: Break**
-
-**10:30-11:00: Guiding Principles (Pocket Guide p. 1, Design Manual Ch.2)**
-
-Riverscape Principles
-
-Restoration Principles
-
-**11:00-12:00: Low-tech Structures (Pocket Guide p. 23 & 55)**
-
-Low-tech toolbox – introduction to structures 
-
-Build your first Beaver Dam Analogue or PALS exercise
-- Parking lot BDA exercise
-
-**12:00-1:00: Lunch & Travel to Stop 2**
+#### Stop 2– 
 
 
-#### Stop 2– K Road/Mary Jane Hill Road along Highway 17
+### Day 2: Wednesday, October 13
+#### Meeting Location:
 
-**1:00-3:00:  The Good, the Bad, and the Ugly**
-Learning from beaver
-- Beaver ecology and management 
-Example of Low-tech Implementation
-- FCCD goals and design 
-Connecting Observations with goals and objectives
-- Uncertainty - Adaptive Management and Expectation Management 
-- Things to think about (hydrology, geology, sediment supply, confinement, riparian, other)
-- Reading riverscapes - Valley Bottom, Recovery Potential, Risk Assessment
-
-**3:00-3:30: Break & Travel to Stop 3**
-
-#### Stop 3 – Smith Draw (tributary to W. Foster Creek near Bridgeport Hill Road)
-
-**3:30-4:30: Put it all into practice; Observations, Goals, Design Options**
-
-Review/discussion upper, mid, and lower (headcut site) portions of property
-
-**4:30-5:00 Travel to Willow Flats Recreation Area**
-
-#### Stop 4 – Dinner and a Presentation: Willow Flats Recreation Area 
-
-**5:00-7:00: Science behind Low-tech process-based restoration**
-
-- Case-studies of riparian & beaver management, and low-tech structure projects 
-
-
-### Thursday, September 30, 2021
-#### Meeting Location/Stop 1 - Bridgeport Chevron (Highway 17 and Foster Creek Ave.)
-
-**8:00-8:15: Day 2 Agenda and Carpool to Construction Site**
-
-#### Stop 2 – Peaceful Valley (4 miles south of Bridgeport on Highway 17)
-
-**8:30-12:00: Design and Construction (Pocket Guide p. 23-48, Design Manual Ch. 6)**
-- Review existing structures and safety and equipment operation demo
-- Design and hands-on construction of various structures 
-
-**12:00-1:00: Lunch and Travel to Stop 3**
-
-#### Stop 3 – Terry Hayes Road (12 miles south of Bridgeport on Highway 17)
-
-**1:00-3:45: Design and Construction (Pocket Guide p. 23-48, Design Manual Ch. 6)**
-
-- Design and hands-on construction of various structures
-
-**3:45-4:30: Workshop Synthesis**
-
-- Workshop recap
-- Permits, resources, materials/logistics, costs, questions
-
+TBD
 
 -----
 ## Course Materials
