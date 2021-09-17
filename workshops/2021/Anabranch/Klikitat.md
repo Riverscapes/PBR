@@ -2,29 +2,14 @@
 title:  Klikitat
 weight:  2
 ---
-# Foster Creek 2021: Field-Based Workshop:  Intro to Low-Tech Process-Based Restoration of Riverscapes 
+# Klickitat River Watershed 2021 Field-Based Workshop:  Intro to Low-Tech Process-Based Restoration of Riverscapes 
 
 <div class="row small-up-2 medium-up-2 large-up-6" align="center">
 
   <div class="column column-block">
-    <a href="https://www.fws.gov/"><img src="{{ site.baseurl }}/assets/images/sponsors/USFWS.jpg"></a>
+    <a href="https://yakamafish-nsn.gov/"><img src="{{ site.baseurl }}/assets/images/sponsors/Yakama.png"></a>
   </div>
 
-<div class="column column-block">
-    <a href="https://www.fostercreekcd.org/"><img src="{{ site.baseurl }}/assets/images/sponsors/FCCD.png"></a>
-  </div>
-
-<div class="column column-block">
-    <a href="https://www.pheasantsforever.org/"><img src="{{ site.baseurl }}/assets/images/sponsors/pf-logo_2.png"></a>
-  </div>
-
-  <div class="column column-block">
-    <a href="https://www.conservationnw.org/"><img src="{{ site.baseurl }}/assets/images/sponsors/conservation_NW.png"></a>
-  </div>
-
-  <div class="column column-block">
-    <a href="https://www.nrcs.usda.gov/"><img src="{{ site.baseurl }}/assets/images/sponsors/usda-nrcs-logo_1_orig.png"></a>
-  </div>
   
 
   <div class="column column-block">
@@ -33,7 +18,7 @@ weight:  2
 
 
 </div>
-## Taught for [Foster Creek Conservation District](https://www.fostercreekcd.org/)
+## Taught for [Yakama Nation Fisheries](https://www.fostercreekcd.org/)
 
 **September 29 & 30,  2021 in Bridgeport, WA**
 
@@ -59,22 +44,13 @@ Because the course will be taught in the field, it will be helpful to refer to s
 </div>
 
 ### Location
-The workshop will be held in the field throughout the Foster Creek drainage and will be meeting at the Willow Flat Recreation Area on the morning of day 1. If weather is miserable, we will conduct the morning session of day 1 at Chief Joseph Dam. See the agenda for specific locations of where we will be meeting and stopping each day. The following links provide workshop meeting and stopping locations in the map below. Also availble as a [.kmz](https://ecologicalresearchinc.box.com/s/u2srclio8xzrvd85mpgl9pqddyiv8v0i) and  [google map link](https://goo.gl/maps/eqpCHzm9dCSA8dtx6). 
-<div class="responsive-embed">
-<iframe src="https://www.google.com/maps/d/embed?mid=1BGTgqpV0DX0FdKaf-2qJ0TCoWQMRVRMN" width="640" height="480"></iframe>
-</div>
+
 
 ### How to Sign Up
-To register, please contact the Foster Creek Conservation District by phone at (509) 888-6372 or Ryan Lefler by email at <a href="rlefler@fostercreekcd.org">rlefler@fostercreekcd.org</a>. 
-For meal planning, please let us know if you have any dietary restrictions or preferences and whether you will be attending dinner on day 1.
+
 
 ### What to Bring
-- Closed toe footwear
-- Wading boots or waders
-- Water, Sun protection
-- PPE (ear protection, work gloves, eye protection, hard hat)
-- Some PPE will also be available on-site for work on day 2
-- Lawn chair
+r
 
 ### COVID-19 Precautions 
 During the workshop, please follow state, local, and employer guidelines for social distancing and wearing masks. 
@@ -90,9 +66,9 @@ During the workshop, please follow state, local, and employer guidelines for soc
 
 -----
 ## Agenda
-- <a href="https://s3.us-west-2.amazonaws.com/etalweb.joewheaton.org/Workshops/LTPBR/2021/FosterCreek+LTPBR+Workshop+Agenda+Sept29%2630.pdf"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a> ***Print Agenda***
+- <a href="><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a> ***Print Agenda***
 
-### Wednesday, September 29, 2021
+### Day 1
 #### Meeting Location/Stop 1– Willow Flats Recreation Area (Upstream of Chief Joseph Dam on the south side of the Columbia R.)
 
 
