@@ -65,7 +65,7 @@ The workshop will be held in the field throughout the Foster Creek drainage and 
 </div>
 
 ### How to Sign Up
-To register, please contact the Foster Creek Conservation District by phone at (509) 888-6372 or Ryan Lefler by email at <a href="rlefler@fostercreekcd.org">rlefler@fostercreekcd.org</a>. 
+To register, please contact the Foster Creek Conservation District by phone at (509) 888-6372 or Ryan Lefler by email at <a href="mailto:rlefler@fostercreekcd.org">rlefler@fostercreekcd.org</a>. 
 For meal planning, please let us know if you have any dietary restrictions or preferences and whether you will be attending dinner on day 1.
 
 ### What to Bring
