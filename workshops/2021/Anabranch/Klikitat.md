@@ -22,8 +22,6 @@ weight:  2
 
 **October 12 & 13,  2021 in Tepee Creek, WA**
 
-In this 2 day workshop, you will be introduced to  principles of a healthy riverscapes and principles of riverscape restoration.
-
 -----
 ## Description
 This field-based workshop will take place on Tepee Creek in the Klickitat River watershed and is intended to introduce conservationists to ‘low-tech’ process-based (LTPBR) approaches for restoring streams and their associated riparian areas (riverscapes) to benefit fish, wildlife, and Tribal lands. Participants will learn principles guiding low-tech process-based restoration and become familiar with simple, hand-built tools, including Beaver Dam Analogues (BDAs) and Post-Assisted Log Structures (PALS), intended to mimic and promote specific ecosystem processes. Participants will gain basic skills in the planning, design, and implementation phases of project development. 
