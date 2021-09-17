@@ -1,5 +1,5 @@
 ---
-title:  Klikitat
+title:  Klickitat LTPBR Workshop
 weight:  2
 ---
 # Klickitat River Watershed 2021 Field-Based Workshop:  Intro to Low-Tech Process-Based Restoration of Riverscapes 
@@ -10,7 +10,7 @@ weight:  2
     <a href="https://yakamafish-nsn.gov/"><img src="{{ site.baseurl }}/assets/images/sponsors/Yakama.png"></a>
   </div>
 
-  
+
 
   <div class="column column-block">
 	<a href="http://www.anabranchsolutions.com"><img src="{{ site.baseurl }}/assets/images/sponsors/anabranchsolutionslogo-square-450_10.png"></a><br>
