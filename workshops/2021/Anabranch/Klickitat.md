@@ -110,7 +110,7 @@ The latest iteration of these is a lecture series designed to be presented virtu
 ## Additional Resources
 
 ### Tepee Creek LTPBR Design
-The following map outlines the locations of LTPBR structures on Tepee Creek. A full restoration design report can be found <a href="https://s3.us-west-2.amazonaws.com/etalweb.joewheaton.org/Workshops/LTPBR/2021/YakamaNation_TepeeCreek_80PercentDesignReport.pdf"> here</a>. 
+The following map outlines the locations of LTPBR structures on Tepee Creek. A full restoration design report can be found <a href="https://s3.us-west-2.amazonaws.com/etalweb.joewheaton.org/Workshops/LTPBR/2021/YakamaNation_TepeeCreek_80PercentDesignReport_Final.pdf"> here</a>. 
 
 <iframe src="https://www.google.com/maps/d/embed?mid=1vEn3tqIVrDqR7SWKXoXgrwT-pzuHaYK-" width="640" height="480"></iframe>
 <div align="left">
