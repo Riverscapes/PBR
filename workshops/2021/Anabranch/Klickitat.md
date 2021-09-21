@@ -133,8 +133,7 @@ BRAT was ran for all the perennial rivers and streams within the Yakama Nation R
     <a href="https://www.anabranchsolutions.com/stephen-bennett.html"><img src="{{ site.baseurl }}/assets/images/people/Steve_Bennett_round.png"></a>
     <h4><a href="https://www.anabranchsolutions.com/stephen-bennett.html">Stephen N. Bennett</a></h4>
     Principal Fish & Wildlife Biologist, Anabranch Solutions
-
-    Research Scientist, USU
+<p>Research Scientist, USU</p>
   </div>
 <div class="column column-block">
     <a href="https://www.anabranchsolutions.com/andy-hill.html"><img src="{{ site.baseurl }}/assets/images/people/AndyHill_round-02-01.png"></a>
