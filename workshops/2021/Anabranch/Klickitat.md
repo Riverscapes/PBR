@@ -18,7 +18,7 @@ weight:  2
 
 
 </div>
-## Taught for [Yakama Nation Fisheries](https://www.fostercreekcd.org/)
+
 
 **October 12 & 13,  2021 in Tepee Creek, WA**
 
