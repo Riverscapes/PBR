@@ -112,6 +112,8 @@ The latest iteration of these is a lecture series designed to be presented virtu
 ### Tepee Creek LTPBR Design
 The following map outlines the locations of LTPBR structures on Tepee Creek. A full restoration design report can be found <a href="https://s3.us-west-2.amazonaws.com/etalweb.joewheaton.org/Workshops/LTPBR/2021/YakamaNation_TepeeCreek_80PercentDesignReport.pdf"> here</a>. 
 
+<iframe src="https://www.google.com/maps/d/embed?mid=1vEn3tqIVrDqR7SWKXoXgrwT-pzuHaYK-" width="640" height="480"></iframe>
+
 ### Yakama Nation – Beaver Restoration Assessment Tool
 The Beaver Restoration Assessment Tool (BRAT) is a capacity model developed to assess the upper limits of riverscapes ability to support beaver dam-building activities. Both existing and historic capacity are estimated using readily available spatial datasets to evaluate five key lines of evidence: 1) a perennial water source, 2) availability of dam building materials, 3) ability to build a dam at baseflow, 4) likelihood of dams to withstand a typical flood, and 5) likelihood that stream gradient would limit or completely eliminate dam building by beaver.
 BRAT was ran for all the perennial rivers and streams within the Yakama Nation Reservation, which includes portions of the Lower Yakima, and Klickitat watersheds. The analysis also included the Rock Creek, White Salmon, Little White Salmon, and Wind River watersheds. Click on the below link to access the data.
