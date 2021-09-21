@@ -114,7 +114,7 @@ The following map outlines the locations of LTPBR structures on Tepee Creek. A f
 
 <iframe src="https://www.google.com/maps/d/embed?mid=1vEn3tqIVrDqR7SWKXoXgrwT-pzuHaYK-" width="640" height="480"></iframe>
 <div align="left">
-        <a class="hollow button" href="http://brat.riverscapes.xyz/Regions/USA/Yakama_Nation/">  LTPBR Tepee Creek</a>  
+        <a class="hollow button" href="https://s3.us-west-2.amazonaws.com/etalweb.joewheaton.org/Workshops/LTPBR/2021/YakamaNation_TepeeCreek_80PercentDesignReport_Final.pdf">  LTPBR Tepee Creek Report</a>  
 </div>
 ### Yakama Nation – Beaver Restoration Assessment Tool
 The Beaver Restoration Assessment Tool (BRAT) is a capacity model developed to assess the upper limits of riverscapes ability to support beaver dam-building activities. Both existing and historic capacity are estimated using readily available spatial datasets to evaluate five key lines of evidence: 1) a perennial water source, 2) availability of dam building materials, 3) ability to build a dam at baseflow, 4) likelihood of dams to withstand a typical flood, and 5) likelihood that stream gradient would limit or completely eliminate dam building by beaver.
