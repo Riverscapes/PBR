@@ -41,9 +41,9 @@ Because the course will be taught in the field, it will be helpful to refer to s
 </div>
 
 ### Where to Meet
-**Wednesday (10/13):**  9:00 AM Yakama Nation: Tepee Creek IXL <a href="https://goo.gl/maps/X1hWkn2dFD48jWqi8"> (46.1841640, -121.0260258) </a>
+**Tuesday (10/12):**  9:00 AM Yakama Nation: Tepee Creek IXL <a href="https://goo.gl/maps/X1hWkn2dFD48jWqi8"> (46.1841640, -121.0260258) </a>
 
-**Thursday (10/14):**  8:30 AM @ Tepee LTPBR Meadow Site <a href="https://goo.gl/maps/49mSiryXWB4TQdjC7">(46.1384681, -121.0696050)</a>
+**Wednesday (10/13):**  8:30 AM @ Tepee LTPBR Meadow Site <a href="https://goo.gl/maps/49mSiryXWB4TQdjC7">(46.1384681, -121.0696050)</a>
 
 See the agenda for specific locations of where we will be meeting and stopping each day. The following links provide workshop meeting and stopping locations in .kmz and google map formats. 
 
@@ -74,7 +74,7 @@ During the workshop, please follow state, local, and employer guidelines for soc
 ## Agenda
 - <a href="><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a> ***Print Agenda***
 
-### Day 1
+### Day 1: Tuesday, October 12
 #### Meeting Location
 
 #### Stop 1
