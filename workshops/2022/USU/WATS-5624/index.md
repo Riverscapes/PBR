@@ -27,8 +27,8 @@ This course introduces Low-Tech Process-Based Restoration of Riverscapes impleme
 
 ## Schedule
 ### Spring 2021 - Implementation of LTPBR
-- Matriculated Students: IMP LOWTEC PRCBAS REST RIV - XXXX - WATS 5624 - 00X
-- Non-Matriculated Students: [XXXX - CEWA 5624 - LB5]()
+- Matriculated Students: WATS 5624 - [CNR 14340](https://ssb.banner.usu.edu/zprod/bwckschd.p_disp_detail_sched?term_in=202220&crn_in=14340)
+- Non-Matriculated Students: CEWA 5624 - CRN 18885. [Register Here](https://www.usu.edu/ais/ceu/register/?term=202220&crns=18885)
 
 
 
@@ -41,7 +41,7 @@ This course introduces Low-Tech Process-Based Restoration of Riverscapes impleme
 
 Outline dates and assignments are all available on Canvas:
 <div align="center">
-<a class="hollow button" href="https://usu.instructure.com/courses/618129"><img src="{{ site.baseurl }}/assets/images/canvas_logo.png">  <b>Spring 2021 Canvas</b><br> WATS 6900 - Intro to LTPBR Course Assignments</a></div>
+<a class="hollow button" href="https://usu.instructure.com/courses/618129"><img src="{{ site.baseurl }}/assets/images/canvas_logo.png">  <b>Spring 2021 Canvas</b><br> WATS 5624 - Implementation Course Assignments</a></div>
 
 Students are expected to watch pre-recorded lectures and complete the reading assignments prior to our class meeting, where those topics will be discussed and exercises completed as a group. Both that session and the Saturday field trip are mandatory attendance. 
 
@@ -63,12 +63,15 @@ This course is based on [Module 5]({{ site.baseurl }}/workshops/2020/SGI/Modules
 ### Matriculated Students
 Current USU [Tuition](https://www.usu.edu/registrar/registration/payment/) for 1 credit. 
 $100 Course Fee for field trip (construction supplies, equipment, travel, safety equipment, etc.). 
-Please register on [Banner](http://banner.usu.edu). *Note, tuition  for 1 credit varies between $601.21 and $2482.92 per credit based on undergraduate vs. graduate, in-state vs. out-of-state, and total number of credits)*
+Please register on Banner using  [CNR 14340](https://ssb.banner.usu.edu/zprod/bwckschd.p_disp_detail_sched?term_in=202220&crn_in=14340). *Note, tuition  for 1 credit varies between $601.21 and $2482.92 per credit based on undergraduate vs. graduate, in-state vs. out-of-state, and total number of credits)*
 
 ### Continuing Education Students
-$370.00  [Register Here](https://www.usu.edu/ais/ceu/register/)
+**$405** for 1.5 CEUs  (_$370 Course Fee + $39 CEU processing fee_) 
 
-<div align="center"><a class="button" href="https://www.usu.edu/ais/ceu/register/"> <b>Module 5 - Implementation</b> <br> Register Now! <i class="fa fa-user-plus" aria-hidden="true"></i> </a></div>
+[Register for CEU Credit](https://www.usu.edu/ais/ceu/register/?term=202220&crns=18885) using CEN CRN - 18885
+
+
+<div align="center"><a class="button" href="https://www.usu.edu/ais/ceu/register/"> <b>Module 5 - Implementation</b> <br> Professionals Register Now! <i class="fa fa-user-plus" aria-hidden="true"></i> </a></div>
 
 
 -----------------

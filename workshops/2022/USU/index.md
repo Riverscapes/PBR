@@ -33,42 +33,5 @@ Non-matriculated students can take the classes for a direct fee through our Cont
   </a>
 </div>
 
--------
-# Details of Spring 2021 Offerings
 
-Course meeting times and dates are shown below. 
-
-## Intro to LTPBR
-- Matriculated Students: [INTRO LOWTECH PROC REST RIV - XXXXX  - WATS 5620 - 00X]()
-- Non-Matriculated Students: [CEWA 5620 - XXXXX  - LB1]() 
-
-| Class                                                        | Time              | Days     | Where                     | Dates                  | Instructor                 |
-| ------------------------------------------------------------ | ----------------- | -------- | ------------------------- | ---------------------- | -------------------------- |
-| [Intro to LTPBR]({{ site.baseurl }}/workshops/2022/USU/WATS-5620/) | 1:30 pm - 3:30 pm | Tuesdays | Hybrid F2F ([Zoom](https://usu-edu.zoom.us/j/88041118826?pwd=d2JqUE1NQWlrWnk0YVExVTgxdHN3dz09) and TBD) | Jan 11, 18 & 25,  2022 | Joseph Michael Wheaton (P) |
-
-
-
-
-
-## Implementing LTPBR 
-- Matriculated Students: IMP LOWTEC PRCBAS REST RIV - XXXX - WATS 5624 - 00X
-- Non-Matriculated Students: [XXXX - CEWA 5624 - LB5]()
-
-
-
-| Class                                                        | Time              | Days     | Where      | Dates        | Instructors                                                  |
-| ------------------------------------------------------------ | ----------------- | -------- | ---------- | ------------ | ------------------------------------------------------------ |
-| [Implementing LTPBR]({{ site.baseurl }}/workshops/2022/USU/WATS-5624/) | 1:30 pm - 3:30 pm | Tuesday  | [Zoom](https://usu-edu.zoom.us/j/88041118826?pwd=d2JqUE1NQWlrWnk0YVExVTgxdHN3dz09)       | Apr 19, 2022 | [Stephen Nicholas Bennett]({{ site.baseurl }}//workshops/2020/SGI/#instruction-team) |
-| [Implementing LTPBR]({{ site.baseurl }}/workshops/2022/USU/WATS-5624/) | 7:30 am - 5:30 pm | Saturday | Field Trip | Apr 23, 2022 | [Stephen Nicholas Bennett]({{ site.baseurl }}//workshops/2020/SGI/#instruction-team) |
-
-
-
-
-## Adaptive Management of LTPBR
-- Matriculated Students: [ADAPT LOWTECH PROC REST RIV - XXXXX  - WATS 5625 - 00X]()
-- Non-Matriculated Students: [CEWA 5625 - XXXXX  - LB1]() 
-
-| Class                                                        | Time              | Days     | Where                     | Dates                  | Instructor                 |
-| ------------------------------------------------------------ | ----------------- | -------- | ------------------------- | ---------------------- | -------------------------- |
-| [Adaptive Management of LTPBR]({{ site.baseurl }}/workshops/2022/USU/WATS-5625/) | 1:30 pm - 3:30 pm | Tuesdays | Hybrid F2F ([Zoom](https://usu-edu.zoom.us/j/88041118826?pwd=d2JqUE1NQWlrWnk0YVExVTgxdHN3dz09) and TBD) | Apr 5, 12 & 26,  2022 | [Nicolaas W Bouwes]({{ site.baseurl }}//workshops/2020/SGI/#instruction-team) (P) |
 

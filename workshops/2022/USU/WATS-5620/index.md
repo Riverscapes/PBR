@@ -26,8 +26,8 @@ This course provides an introduction to the practice of Low-Tech Process-Based R
 ## Schedule
 ### Spring 2022 - Intro to LTPBR
 ## Intro to LTPBR
-- Matriculated Students: [INTRO LOWTECH PROC REST RIV - XXXXX  - WATS 5620 - 00X]()
-- Non-Matriculated Students: [CEWA 5620 - XXXXX  - LB1]() 
+- Matriculated Students: [INTRO LOWTECH PROC REST RIV - 14339  - WATS 5620](https://ssb.banner.usu.edu/zprod/bwckschd.p_disp_detail_sched?term_in=202220&crn_in=14339)
+- Non-Matriculated Students: [CEWA 5620](https://www.usu.edu/ais/ceu/register/?term=202220&crns=18884) 
 
 | Class                                                        | Time              | Days     | Where                     | Dates                  | Instructor                 |
 | ------------------------------------------------------------ | ----------------- | -------- | ------------------------- | ---------------------- | -------------------------- |
@@ -49,6 +49,13 @@ Outline dates and assignments are all available on Canvas:
 
 Students are expected to watch pre-recorded lectures and complete the reading assignments prior to our class meetings, where those topics will be discussed and exercises completed as a group. 
 
+| Type     | Time              | Days | Where                         | Date Range                  | Schedule Type                | Instructors                 |
+|----------|-------------------|------|-------------------------------|-----------------------------|------------------------------|-----------------------------|
+| Arranged | TBA               |      | Online-Logan                  | Jan 10, 2022 - May 04, 2022 | Blended Face to Face Lecture | Joseph Michael Wheaton (P)# |
+| Class    | 1:30 pm - 3:30 pm | T    | Biology/Natural Resources 278 | Jan 11, 2022 - Jan 11, 2022 | Blended Face to Face Lecture | Joseph Michael Wheaton (P)# |
+| Class    | 1:30 pm - 3:30 pm | T    | Biology/Natural Resources 278 | Jan 18, 2022 - Jan 18, 2022 | Blended Face to Face Lecture | Joseph Michael Wheaton (P)# |
+| Class    | 1:30 pm - 3:30 pm | T    | Biology/Natural Resources 278 | Jan 25, 2022 - Jan 25, 2022 | Blended Face to Face Lecture | Joseph Michael Wheaton (P)# |
+
 This class meets three times for these discussion sessions:
 
 | Meeting Date | Modules | Topics                                                   |
@@ -66,12 +73,13 @@ This course is based on [Module 1]({{ site.baseurl }}/workshops/2020/SGI/Modules
 ### Matriculated Students
 Current USU [Tuition](https://www.usu.edu/registrar/registration/payment/) for 1 credit. 
 No additional Course Fee. 
-Please register on [Banner](http://banner.usu.edu). *Note, tuition  for 1 credit varies between $601.21 and $2482.92 per credit based on undergraduate vs. graduate, in-state vs. out-of-state, and total number of credits)*
+Please register on [Banner](http://banner.usu.edu) for CRN: [14339](https://ssb.banner.usu.edu/zprod/bwckschd.p_disp_detail_sched?term_in=202220&crn_in=14339) . *Note, tuition  for 1 credit varies between $601.21 and $2482.92 per credit based on undergraduate vs. graduate, in-state vs. out-of-state, and total number of credits)*
 
 ### Continuing Education Students
-$260.00 ($221 Course Fee + $39 CEU processing fee) [Register on CEU]()
+**$305** for 1.5 CEUs  (_$270 Course Fee + $39 CEU processing fee_) 
+[Register on CEU](https://www.usu.edu/ais/ceu/register/?term=202220&crns=18884) CEN CRN - 18884
 
-<div align="center"><a class="button" href=""> <b>Module 1 - Intro</b> <br> Register Now! <i class="fa fa-user-plus" aria-hidden="true"></i> </a></div>
+<div align="center"><a class="button" href="https://www.usu.edu/ais/ceu/register/?term=202220&crns=18884"> <b>Module 1 - Intro</b> <br> Professionals Register Now! <i class="fa fa-user-plus" aria-hidden="true"></i> </a></div>
 
 -----------------
 ## Course Objectives
