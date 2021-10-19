@@ -2,7 +2,9 @@
 title: Riverscapes Restoration Design Manual - Home
 weight: 1
 ---
-
+<div align="center">
+<a class=" button hollow" href="{{ site.baseurl }}/workshops/2022/USU"><img width="100" src="{{ site.baseurl }}/assets/images/sponsors/USU.png">   <b>Registration now Open for Spring 2022 LTPBR Courses</b><br>  for University Credit or Professional CEU  <i class="fa fa-graduation-cap"></i>  </a>
+</div>
 
 ## Manual
 
