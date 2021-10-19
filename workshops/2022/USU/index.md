@@ -11,9 +11,9 @@ Three of our six popular LTPBR courses  are being offered as 1 credit (1.5 CEU) 
 
 | Course # |  Course Title | CRN     |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------|---|---|
-| WATS 5620 |  **[Introduction]({{ site.baseurl }}/workshops/2021/USU/WATS-5620/)** to Low-Tech Process-Based Restoration of Riverscapes | TBD   |
-| WATS 5624 | **[Implementing]({{ site.baseurl }}/workshops/2021/USU/WATS-5624/)** Low-Tech Process-Based Restoration of Riverscapes | TBD  |
-| WATS 5625 | **Adaptive Management** of Low-Tech Process-Based Restoration of Riverscapes | TBD |
+| WATS 5620 |  **[Introduction]({{ site.baseurl }}/workshops/2021/USU/WATS-5620/)** to Low-Tech Process-Based Restoration of Riverscapes | [14339](https://ssb.banner.usu.edu/zprod/bwckschd.p_disp_detail_sched?term_in=202220&crn_in=14339)   |
+| WATS 5624 | **[Implementing]({{ site.baseurl }}/workshops/2021/USU/WATS-5624/)** Low-Tech Process-Based Restoration of Riverscapes | [14340](https://ssb.banner.usu.edu/zprod/bwckschd.p_disp_detail_sched?term_in=202220&crn_in=14340)  |
+| WATS 5625 | **Adaptive Management** of Low-Tech Process-Based Restoration of Riverscapes | [14342](https://ssb.banner.usu.edu/zprod/bwckschd.p_disp_detail_sched?term_in=202220&crn_in=14342) |
 
 
 
@@ -21,11 +21,11 @@ Three of our six popular LTPBR courses  are being offered as 1 credit (1.5 CEU) 
 
 Non-matriculated students can take the classes for a direct fee through our Continuing Education Unit system.
 
-| Course # |  Course Title | Registration Cost & Link | Banner CRN |
+| Course # |  Course Title | Registration Cost & Link | CEU CRN |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------|---|---|---|
-| CEWA 5620 |  **[Introduction]({{ site.baseurl }}/workshops/2022/USU/WATS-5620/)** to Low-Tech Process-Based Restoration of Riverscapes | $260 [Register]() | TBD   |
-| CEWA 5624 | **[Implementing]({{ site.baseurl }}/workshops/2022/USU/WATS-5624/)** of Low-Tech Process-Based Restoration of Riverscapes | $370 [Register]() | TBD  |
-| CEWA 5625 | **Adaptive Management** of Low-Tech Process-Based Restoration of Riverscapes | $260 [Register]() | TBD |
+| CEWA 5620 |  **[Introduction]({{ site.baseurl }}/workshops/2022/USU/WATS-5620/)** to Low-Tech Process-Based Restoration of Riverscapes | $305 [Register](https://www.usu.edu/ais/ceu/register/?term=202220&crns=18884) | 18884   |
+| CEWA 5624 | **[Implementing]({{ site.baseurl }}/workshops/2022/USU/WATS-5624/)** of Low-Tech Process-Based Restoration of Riverscapes | $405 [Register](https://www.usu.edu/ais/ceu/register/?term=202220&crns=18885) | 18885  |
+| CEWA 5625 | **Adaptive Management** of Low-Tech Process-Based Restoration of Riverscapes | $305 [Register](https://www.usu.edu/ais/ceu/register/?term=202220&crns=18886) | 18886 |
 
 
 <div align="center">
