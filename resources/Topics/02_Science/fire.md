@@ -52,6 +52,28 @@ Ben Goldfarb's (2020) [article in NatGeo](https://www.nationalgeographic.com/ani
 
 - Rohrbacher, F. 2020 [Les castors font barrage aux feux de forêt](https://www.lemonde.fr/sciences/article/2020/10/11/les-castors-font-barrage-aux-feux-de-foret_6055632_1650684.html). Le Monde. France. [PDF](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Papers/Les+castors+font+barrage+aux+feux+de+for%C3%AAt.pdf)
 
+## Radio
+
+
+### NPR All Things Considered
+
+[To improve wildfire resistance, researchers look to beavers](https://www.npr.org/2021/10/16/1046779486/to-improve-wildfire-resistance-researchers-look-to-beavers) appeared on All Things Considered on _October 16, 2021_ - 3 minutes
+
+<iframe src="https://www.npr.org/player/embed/1046779486/1046779487" width="100%" height="290" frameborder="0" scrolling="no" title="NPR embedded audio player"></iframe>
+
+
+<div align="center">
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I’m beyond happy that my research on <a href="https://twitter.com/hashtag/beavers?src=hash&amp;ref_src=twsrc%5Etfw">#beavers</a> and <a href="https://twitter.com/hashtag/wildfires?src=hash&amp;ref_src=twsrc%5Etfw">#wildfires</a> was shared all across the country this evening on <a href="https://twitter.com/NPR?ref_src=twsrc%5Etfw">@NPR</a> All Things Considered <a href="https://twitter.com/npratc?ref_src=twsrc%5Etfw">@npratc</a>! <br><br>Thanks <a href="https://twitter.com/awhager?ref_src=twsrc%5Etfw">@awhager</a> for excellent reporting &amp; <a href="https://twitter.com/fluvialwheaton?ref_src=twsrc%5Etfw">@fluvialwheaton</a> for explaining healthy riverscapes so clearly!<a href="https://t.co/IfySUqW7ur">https://t.co/IfySUqW7ur</a></p>&mdash; Dr. Emily Fairfax (@EmilyFairfax) <a href="https://twitter.com/EmilyFairfax/status/1449509938573635584?ref_src=twsrc%5Etfw">October 16, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div>
+
+### NPR Science Friday
+On _October 22, 2021_, Science Firday picked up [Alex Hager's](https://twitter.com/awhager?lang=en) story and did a piece on [Beavers Build Ecosystems of Resilience](https://www.sciencefriday.com/segments/beaver-wetland-wildfires/)' - 17 minutes
+
+<div align="center">
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">🦫 Beavers are nature’s engineers and it turns out their habitats are wildfire-resistant.<br><br>On <a href="https://twitter.com/hashtag/SciFriLive?src=hash&amp;ref_src=twsrc%5Etfw">#SciFriLive</a>📻, ecohydrologist <a href="https://twitter.com/EmilyFairfax?ref_src=twsrc%5Etfw">@EmilyFairfax</a> &amp; <a href="https://twitter.com/KUNC?ref_src=twsrc%5Etfw">@KUNC</a>&#39;s <a href="https://twitter.com/awhager?ref_src=twsrc%5Etfw">@awhager</a> share why people are turning to these talented rodents to help prepare for wildfires.<a href="https://t.co/QrmxIj4On4">https://t.co/QrmxIj4On4</a></p>&mdash; Science Friday (@scifri) <a href="https://twitter.com/scifri/status/1451629430661582862?ref_src=twsrc%5Etfw">October 22, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div>
+
+
 ## Documentaries
 
 In [Sara Tensegrity's](https://www.tensegrityproductions.com/) award-winning 2018 documentary [Beaver Believers](https://www.thebeaverbelievers.com/), the [Methow Beaver Project's](https://methowbeaverproject.org/) Kent Woodruff talks about how the beaver ponds helped stave off the impacts of the 2015 Twisp Fire. A trailer is below.
@@ -99,6 +121,9 @@ The slide show for the [Utah Watershed Restoration Intiative](https://wri.utah.g
 # Documentation of Beaver Increasing Resilience
 
 The documentation of beaver increasing resilience of riverscapes to fire exists in both popular literature and is starting to emerge in the scholarly literature. 
+<div align="center">
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Remember the <a href="https://twitter.com/hashtag/BootlegFire?src=hash&amp;ref_src=twsrc%5Etfw">#BootlegFire</a> (3rd largest since 1900 in Oregon at &gt; 413,000 acres)? Well here&#39;s a little taste of what <a href="https://twitter.com/hashtag/beaver?src=hash&amp;ref_src=twsrc%5Etfw">#beaver</a>-induced <a href="https://twitter.com/hashtag/ResilienceToFire?src=hash&amp;ref_src=twsrc%5Etfw">#ResilienceToFire</a> looked like. Thank you Charlie Erdman from <a href="https://twitter.com/TroutUnlimited?ref_src=twsrc%5Etfw">@TroutUnlimited</a>. Not just anomalies. Got your own examples? Share! <a href="https://t.co/xiaWopyQXn">https://t.co/xiaWopyQXn</a> <a href="https://t.co/77I72Ir78p">pic.twitter.com/77I72Ir78p</a></p>&mdash; Joe Wheaton (@fluvialwheaton) <a href="https://twitter.com/fluvialwheaton/status/1450143952317734914?ref_src=twsrc%5Etfw">October 18, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div>
 
 ## Wikpedia
 Rick Lanman updated Wikipedia to include in the North American Beaver page, a section on [§ Beaver ponds as wildlife refugia and firebreaks in wildfires](https://en.wikipedia.org/wiki/North_American_beaver#Beaver_ponds_as_wildlife_refugia_and_firebreaks_in_wildfires).  
