@@ -15,8 +15,8 @@ Three of our six popular LTPBR courses  are being offered as 1 credit (1.5 CEU) 
 
 | Course # |  Course Title | CRN     |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------|---|---|
-| WATS 5620 |  **[Introduction]({{ site.baseurl }}/workshops/2021/USU/WATS-5620/)** to Low-Tech Process-Based Restoration of Riverscapes | [14339](https://ssb.banner.usu.edu/zprod/bwckschd.p_disp_detail_sched?term_in=202220&crn_in=14339)   |
-| WATS 5624 | **[Implementing]({{ site.baseurl }}/workshops/2021/USU/WATS-5624/)** Low-Tech Process-Based Restoration of Riverscapes | [14340](https://ssb.banner.usu.edu/zprod/bwckschd.p_disp_detail_sched?term_in=202220&crn_in=14340)  |
+| WATS 5620 |  **[Introduction]({{ site.baseurl }}/workshops/2022/USU/WATS-5620/)** to Low-Tech Process-Based Restoration of Riverscapes | [14339](https://ssb.banner.usu.edu/zprod/bwckschd.p_disp_detail_sched?term_in=202220&crn_in=14339)   |
+| WATS 5624 | **[Implementing]({{ site.baseurl }}/workshops/2022/USU/WATS-5624/)** Low-Tech Process-Based Restoration of Riverscapes | [14340](https://ssb.banner.usu.edu/zprod/bwckschd.p_disp_detail_sched?term_in=202220&crn_in=14340)  |
 | WATS 5625 | **Adaptive Management** of Low-Tech Process-Based Restoration of Riverscapes | [14342](https://ssb.banner.usu.edu/zprod/bwckschd.p_disp_detail_sched?term_in=202220&crn_in=14342) |
 
 _Click on course titles for syllabi._
