@@ -73,7 +73,7 @@ This course is based on [Module 1]({{ site.baseurl }}/workshops/2020/SGI/Modules
 ### Matriculated Students
 Current USU [Tuition](https://www.usu.edu/registrar/registration/payment/) for 1 credit. 
 No additional Course Fee. 
-Please register on [Banner](http://banner.usu.edu) for CRN: [14339](https://ssb.banner.usu.edu/zprod/bwckschd.p_disp_detail_sched?term_in=202220&crn_in=14339) . *Note, tuition  for 1 credit varies between $601.21 and $2482.92 per credit based on undergraduate vs. graduate, in-state vs. out-of-state, and total number of credits)*
+Please register on [Banner](https://ssb.banner.usu.edu/zprod/twbkwbis.P_WWWLogin) for CRN: [14339](https://ssb.banner.usu.edu/zprod/bwckschd.p_disp_detail_sched?term_in=202220&crn_in=14339) . *Note, tuition  for 1 credit varies between $601.21 and $2482.92 per credit based on undergraduate vs. graduate, in-state vs. out-of-state, and total number of credits)*
 
 ### Continuing Education Students
 **$305** for 1.5 CEUs  (_$270 Course Fee + $39 CEU processing fee_) 
@@ -90,8 +90,8 @@ By the end of this course, students will:
 1. *Understand* the scope and seriousness of riverscape degradation. 
 2. *Identify* a vision for what riverscapes could be.
 3. *Recognize* various low-tech treatments and practices used in riverscape restoration.
-4. *Use* [Principles of Riverscape Health]({{ site.baseurl }}/manual/Chap02) as a basis for discriminating condition in riverscapes.
-5. *Distinguish* [Principles of Low-Tech Process-Based Restoration]({{ site.baseurl }}/manual/Chap02) from more traditional restoration approaches and other PBR principles. 
+4. *Use* [Principles of Riverscape Health](http://lowtechpbr.restoration.usu.edu/manual/chap02/) as a basis for discriminating condition in riverscapes.
+5. *Distinguish* [Principles of Low-Tech Process-Based Restoration](http://lowtechpbr.restoration.usu.edu/manual/chap02/) from more traditional restoration approaches and other PBR principles. 
 6. *Articualte* why and where **beaver dam activity** is so often such an important part of low-tech process-based restoration of riverscapes.
 
 ------
@@ -117,7 +117,7 @@ By the end of this course, students will:
 
 </div>
 
-To get in touch with instructor(s), please use [Canvas](https://usu.instructure.com/courses/618129) for communication. 
+To get in touch with instructor(s), please use [Canvas](https://usu.instructure.com/courses/700764) for communication. 
 
 **Group Office Hours** Wednesday 12:00 - 1:00 via [Zoom](https://usu-edu.zoom.us/my/h20joe?pwd=eFNjSllqT3VDNTRoLzZ3Sk9IM1F6UT09) 
 
@@ -151,7 +151,7 @@ The course is organized into a series of modules or topics. Slides (as PDFs), re
 All of course lecture slides and materials are linked from the Canvas page by module and assignment.
 
 <div align="center">
-<a class="hollow button" href="https://usu.instructure.com/courses/618129"><img src="{{ site.baseurl }}/assets/images/canvas_logo.png">  <b>Spring 2021 Canvas</b><br> WATS 6900 - Intro to LTPBR Course Assignments</a>
+<a class="hollow button" href="https://usu.instructure.com/courses/700764"><img src="{{ site.baseurl }}/assets/images/canvas_logo.png">  <b>Spring 2021 Canvas</b><br> WATS 5620 - Intro to LTPBR Course Assignments</a>
 
 <a class="hollow button" href="{{ site.baseurl }}/workshops/2020/SGI/Modules/module1"><img src="{{ site.baseurl }}/assets/images/diagrams/presentation.png"> <b>Module  - Intro Resources</b> <br> Slides  <i class="fa fa-file-pdf-o" aria-hidden="true"></i>, Recorded Lectures <i class="fa fa-youtube-play" aria-hidden="true"></i> and Exercises </a>
 
@@ -163,7 +163,7 @@ All of course lecture slides and materials are linked from the Canvas page by mo
 
 For the workshop, we rely on the a [Design Manual]({{ site.baseurl }}/manual) and the [Pocket Guide]({{ site.baseurl }}/resources/pocket), which  free electronic versions are below. Print copies of manual are available for ~ $60 [on Amazon](https://www.amazon.com/Low-Tech-Process-Based-Restoration-Riverscapes-Design/dp/1543972993/ref=sr_1_1?keywords=low+tech+process-based+restoration&qid=1558989073&s=gateway&sr=8-1) or [on BookBaby](https://store.bookbaby.com/bookshop/book/index.aspx?bookURL=Low-Tech-Process-Based-Restoration-of-Riverscapes) and waterproof versions of the pocket guide can be [purchased here](http://www.anabranchsolutions.com/store/p7/pocketguide.html). 
 
-We will primarily focus on Chapters [1]({{ site.baseurl }}/manual/chap01), [2]({{ site.baseurl }}/manual/chap01) and [7](We will primarily focus on Chapters [1]({{ site.baseurl }}/manual/chap01) and [2]({{ site.baseurl }}/manual/chap07)   of the Design Manual.
+We will primarily focus on Chapters [1]({{ site.baseurl }}/manual/chap01), [2]({{ site.baseurl }}/manual/chap02) and [7]({{ site.baseurl }}/manual/chap07) of the Design Manual.
 
 <a href="{{ site.baseurl }}/manual"><img class="float-right" src="{{ site.baseurl }}/assets/images/covers/Manual_Tilted_150.png"></a>
 
@@ -171,7 +171,7 @@ We will primarily focus on Chapters [1]({{ site.baseurl }}/manual/chap01), [2]({
 
 <a href="{{ site.baseurl }}/resources/pocket"><img class="float-right" src="{{ site.baseurl }}/assets/images/covers/pocket_guide_cover_150w.png"></a>
 
-- <a href="http://dx.doi.org/10.13140/RG.2.2.28222.13123/1"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a> Wheaton JM, Wheaton A, Maestas J, Bennett S, Bouwes N, Shahveridan S, Camp R, Jordan C, Macfarlane W, Portugal E, Weber N. 2019. [Low-Tech Process-Based Restoration of Riverscapes: Pocket Field Guide]({{ site.baseurl }}/resources/pocke). [Utah State University Restoration Consortium](http://restoration.usu.edu). DOI: [10.13140/RG.2.2.28222.13123/1](http://dx.doi.org/10.13140/RG.2.2.28222.13123/1).
+- <a href="http://dx.doi.org/10.13140/RG.2.2.28222.13123/1"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a> Wheaton JM, Wheaton A, Maestas J, Bennett S, Bouwes N, Shahveridan S, Camp R, Jordan C, Macfarlane W, Portugal E, Weber N. 2019. [Low-Tech Process-Based Restoration of Riverscapes: Pocket Field Guide]({{ site.baseurl }}/resources/pocket). [Utah State University Restoration Consortium](http://restoration.usu.edu). DOI: [10.13140/RG.2.2.28222.13123/1](http://dx.doi.org/10.13140/RG.2.2.28222.13123/1).
 
 ----------
 # Course Specific Policies
