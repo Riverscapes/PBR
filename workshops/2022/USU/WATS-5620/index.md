@@ -167,11 +167,11 @@ We will primarily focus on Chapters [1]({{ site.baseurl }}/manual/chap01), [2]({
 
 <a href="{{ site.baseurl }}/manual"><img class="float-right" src="{{ site.baseurl }}/assets/images/covers/Manual_Tilted_150.png"></a>
 
-- <a href="http://dx.doi.org/10.13140/RG.2.2.19590.63049/2"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a> Wheaton J.M., Bennett S.N., Bouwes, N., Maestas J.D. and Shahverdian S.M. (Editors). 2019. [Low-Tech Process-Based Restoration of Riverscapes: Design Manual. Version 1.0]({{ site.baseurl }}/manual). Utah State University Restoration Consortium. Logan, UT. 286 pp. DOI: [10.13140/RG.2.2.19590.63049/2](http://dx.doi.org/10.13140/RG.2.2.19590.63049/2).
+- <a href="https://www.researchgate.net/publication/332304757_Low-Tech_Process-Based_Restoration_of_Riverscapes_Design_Manual_Version_10"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a> Wheaton J.M., Bennett S.N., Bouwes, N., Maestas J.D. and Shahverdian S.M. (Editors). 2019. [Low-Tech Process-Based Restoration of Riverscapes: Design Manual. Version 1.0]({{ site.baseurl }}/manual). Utah State University Restoration Consortium. Logan, UT. 286 pp. DOI: [10.13140/RG.2.2.19590.63049/2](https://www.researchgate.net/publication/332304757_Low-Tech_Process-Based_Restoration_of_Riverscapes_Design_Manual_Version_10).
 
 <a href="{{ site.baseurl }}/resources/pocket"><img class="float-right" src="{{ site.baseurl }}/assets/images/covers/pocket_guide_cover_150w.png"></a>
 
-- <a href="http://dx.doi.org/10.13140/RG.2.2.28222.13123/1"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a> Wheaton JM, Wheaton A, Maestas J, Bennett S, Bouwes N, Shahveridan S, Camp R, Jordan C, Macfarlane W, Portugal E, Weber N. 2019. [Low-Tech Process-Based Restoration of Riverscapes: Pocket Field Guide]({{ site.baseurl }}/resources/pocket). [Utah State University Restoration Consortium](http://restoration.usu.edu). DOI: [10.13140/RG.2.2.28222.13123/1](http://dx.doi.org/10.13140/RG.2.2.28222.13123/1).
+- <a href="https://www.researchgate.net/publication/333827387_Low-Tech_Process-Based_Restoration_of_Riverscapes_Pocket_Field_Guide"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a> Wheaton JM, Wheaton A, Maestas J, Bennett S, Bouwes N, Shahveridan S, Camp R, Jordan C, Macfarlane W, Portugal E, Weber N. 2019. [Low-Tech Process-Based Restoration of Riverscapes: Pocket Field Guide]({{ site.baseurl }}/resources/pocket). [Utah State University Restoration Consortium](http://restoration.usu.edu). DOI: [10.13140/RG.2.2.28222.13123/1](https://www.researchgate.net/publication/333827387_Low-Tech_Process-Based_Restoration_of_Riverscapes_Pocket_Field_Guide).
 
 ----------
 # Course Specific Policies
