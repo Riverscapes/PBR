@@ -7,7 +7,7 @@ weight: 1
 
 ![header]({{ site.baseurl }}/assets/images/courses/WATS-5620_header_C.png)
 
-## [Catalog Description](https://ssb.banner.usu.edu/zprod/bwckctlg.p_display_courses?term_in=202120&one_subj=WATS&sel_crse_strt=5150&sel_crse_end=5150&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=)
+## [Catalog Description](https://catalog.usu.edu/content.php?filter%5B27%5D=WATS&filter%5B29%5D=5620&filter%5Bcourse_type%5D=-1&filter%5Bkeyword%5D=&filter%5B32%5D=1&filter%5Bcpage%5D=1&cur_cat_oid=12&expand=&navoid=3068&search_database=Filter#acalog_template_course_filter)
 This course provides an introduction to the practice of Low-Tech Process-Based Restoration of Riverscapes. Students gain exposure to the scope of riverscape degradation, low-tech restoration technique examples, and riverscape and restoration principles.
 
 |**Title**| Introduction to Low-Tech Process-Based Restoration of Riverscapes|
@@ -27,7 +27,7 @@ This course provides an introduction to the practice of Low-Tech Process-Based R
 ### Spring 2022 - Intro to LTPBR
 ## Intro to LTPBR
 - Matriculated Students: [INTRO LOWTECH PROC REST RIV - 14339  - WATS 5620](https://ssb.banner.usu.edu/zprod/bwckschd.p_disp_detail_sched?term_in=202220&crn_in=14339)
-- Non-Matriculated Students: [CEWA 5620](https://www.usu.edu/ais/ceu/register/?term=202220&crns=18884) 
+- Non-Matriculated Students: [CEWA 5620](https://ssb.banner.usu.edu/zprod/bwckctlg.p_display_courses?term_in=202220&one_subj=CEWA&sel_crse_strt=5620&sel_crse_end=5620&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=) 
 
 | Class                                                        | Time              | Days     | Where                     | Dates                  | Instructor                 |
 | ------------------------------------------------------------ | ----------------- | -------- | ------------------------- | ---------------------- | -------------------------- |
@@ -45,7 +45,7 @@ We will use the same recurring [Zoom Meeting Link](https://usu-edu.zoom.us/j/880
 
 Outline dates and assignments are all available on Canvas:
 <div align="center">
-<a class="hollow button" href="https://usu.instructure.com/courses/"><img src="{{ site.baseurl }}/assets/images/canvas_logo.png">  <b>Spring 2022 Canvas</b><br> WATS 5620 - Intro to LTPBR Course Assignments</a></div>
+<a class="hollow button" href="https://usu.instructure.com/courses/700764/assignments"><img src="{{ site.baseurl }}/assets/images/canvas_logo.png">  <b>Spring 2022 Canvas</b><br> WATS 5620 - Intro to LTPBR Course Assignments</a></div>
 
 Students are expected to watch pre-recorded lectures and complete the reading assignments prior to our class meetings, where those topics will be discussed and exercises completed as a group. 
 
@@ -60,9 +60,9 @@ This class meets three times for these discussion sessions:
 
 | Meeting Date | Modules | Topics                                                   |
 |--------------|---------|----------------------------------------------------------|
-|    1/11/2022 | [1.1](https://usu.instructure.com/courses/618129/modules/721597)   | [Background & Scope of Degradation](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module1#b-background--why-were-here) / [Build your First BDA](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module1#f-what-you-came-for---your-first-bda) |
-|    1/18/2022 | [1.2](https://usu.instructure.com/courses/618129/modules/721598)   | [Intro to Low-Tech Tools](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module1#g-broad-umbrella-of-low-tech-restoration) & [Guiding Principles](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module1#j-principles)            |
-|     1/25/2022 | [1.3](https://usu.instructure.com/courses/618129/modules/721599)   | [Partnering with Beaver](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module1#k-beaver-history--biology) & [Synthesis](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module1#n-wrap-up-and-preview-of-remaining-modules)                       |
+|    1/11/2022 | [1.1](https://usu.instructure.com/courses/700764/assignments/3579131?module_item_id=4785107)   | [Background & Scope of Degradation](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module1#b-background--why-were-here) / [Build your First BDA](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module1#f-what-you-came-for---your-first-bda) |
+|    1/18/2022 | [1.2](https://usu.instructure.com/courses/700764/assignments/3579132?module_item_id=4785117)   | [Intro to Low-Tech Tools](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module1#g-broad-umbrella-of-low-tech-restoration) & [Guiding Principles](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module1#j-principles)            |
+|     1/25/2022 | [1.3](https://usu.instructure.com/courses/700764/assignments/3579133?module_item_id=4785125)   | [Partnering with Beaver](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module1#k-beaver-history--biology) & [Synthesis](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module1#n-wrap-up-and-preview-of-remaining-modules)                       |
 
 This course is based on [Module 1]({{ site.baseurl }}/workshops/2020/SGI/Modules/module1.html) of the self-paced materials. 
 <div align="center">
@@ -119,7 +119,7 @@ By the end of this course, students will:
 
 To get in touch with instructor(s), please use [Canvas](https://usu.instructure.com/courses/618129) for communication. 
 
-**Group Office Hours** (Wednesday 12:00 - 13:00 via [Zoom](https://usu-edu.zoom.us/my/h20joe?pwd=eFNjSllqT3VDNTRoLzZ3Sk9IM1F6UT09) <i class="fa fa-search" aria-hidden="true"></i>
+**Group Office Hours** Wednesday 12:00 - 1:00 via [Zoom](https://usu-edu.zoom.us/my/h20joe?pwd=eFNjSllqT3VDNTRoLzZ3Sk9IM1F6UT09) 
 
 
 ### Instructor Affiliations
@@ -178,7 +178,7 @@ We will primarily focus on Chapters [1]({{ site.baseurl }}/manual/chap01), [2]({
 
 ## Evaluation Methods and Criteria
 
-Points are awarded for quize(s) ans assessed assignments as specified in Cavnas. Rubrics are provided. 
+Points are awarded for quiz(s) and assessed assignments as specified in Canvas. Rubrics are provided. 
 
 ## Grade Scheme
 
