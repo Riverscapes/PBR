@@ -52,9 +52,9 @@ Students are expected to watch pre-recorded lectures and complete the reading as
 | Type     | Time              | Days | Where                         | Date Range                  | Schedule Type                | Instructors                 |
 |----------|-------------------|------|-------------------------------|-----------------------------|------------------------------|-----------------------------|
 | Arranged | TBA               |      | Online-Logan                  | Jan 10, 2022 - May 04, 2022 | Blended Face to Face Lecture | Joseph Michael Wheaton (P)# |
-| Class    | 1:30 pm - 3:30 pm | T    | Biology/Natural Resources 278 | Jan 11, 2022 - Jan 11, 2022 | Blended Face to Face Lecture | Joseph Michael Wheaton (P)# |
-| Class    | 1:30 pm - 3:30 pm | T    | Biology/Natural Resources 278 | Jan 18, 2022 - Jan 18, 2022 | Blended Face to Face Lecture | Joseph Michael Wheaton (P)# |
-| Class    | 1:30 pm - 3:30 pm | T    | Biology/Natural Resources 278 | Jan 25, 2022 - Jan 25, 2022 | Blended Face to Face Lecture | Joseph Michael Wheaton (P)# |
+| Class    | 1:30 pm - 3:30 pm | T    | Distance Education 204        | Jan 11, 2022 - Jan 11, 2022 | Blended Face to Face Lecture | Joseph Michael Wheaton (P)# |
+| Class    | 1:30 pm - 3:30 pm | T    | Distance Education 204        | Jan 18, 2022 - Jan 18, 2022 | Blended Face to Face Lecture | Joseph Michael Wheaton (P)# |
+| Class    | 1:30 pm - 3:30 pm | T    | Distance Education 204        | Jan 25, 2022 - Jan 25, 2022 | Blended Face to Face Lecture | Joseph Michael Wheaton (P)# |
 
 This class meets three times for these discussion sessions:
 
