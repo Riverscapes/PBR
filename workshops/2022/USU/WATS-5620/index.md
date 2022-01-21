@@ -105,7 +105,7 @@ By the end of this course, students will:
     <b>Instructor</b><br>
     <a href="https://qcnr.usu.edu/directory/wheaton_joseph"> Professor of Riverscapes</a>,<br> <a href="https://www.anabranchsolutions.com/joe-wheaton.html">Principal<sup>2</sup></a><br>
 
-   Office Hours: Wednesday, 12:00 to 13:00 - <a href="https://usu-edu.zoom.us/my/h20joe?pwd=eFNjSllqT3VDNTRoLzZ3Sk9IM1F6UT09">Zoom Drop-In</a> or By Appointment
+   Office Hours: Tuesday, 12:00 to 13:00 - in NR360 or by <a href="https://usu-edu.zoom.us/j/84820515528?pwd=WXg1NDhzMWFMSDNJYXVaem1kbllPdz09">Zoom Drop-In</a> or By Appointment
   </div>
 
 
