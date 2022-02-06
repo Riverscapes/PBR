@@ -48,9 +48,15 @@ Adapted from Appendix C (Table 4) in [Chapter 1 - Shahverdian et al. (2019)]({{ 
 | Grip-Hoisting                                             		    |  Micelston, E., 2014. [Rigging Handbook for Trail Work](https://www.nynjtc.org/sites/default/files/Rigging_Handbook_for_trail_work_2015.pdf), New York-New Jersey Trail Conference. New York - New Jersey Trail Conference, Mahwah, NJ, pp. 24.|
 | |[An Introduction to Rigging for Trail Work](https://www.iceagetrail.org/wp-content/uploads/Introduction-to-Rigging-for-Trails.pdf)
                                 |
+                                
+| Name                                                          | Helpful Reference(s)                              |
+|---------------------------------------------------------------|---------------------------------------------------|
 | **Structural Placement of Wood Accumulations**                    |                                                   |
 | Post-Assisted Log Structures                                  | [Chapter 5 (Shahverdian et al., 2019)](({{ site.baseurl }}/manual/chap01) )             |
 | Submerged Shelters                                  | [Page 34-35 of White and Bryndilson (1967)](https://dnr.wi.gov/files/PDF/pubs/ss/SS0039.pdf)             |
+
+| Name                                                          | Helpful Reference(s)                              |
+|---------------------------------------------------------------|---------------------------------------------------|
 | **Improving Supply of Woody Material**                            |                                                   |
 | Riparian Plantings                                            | (Hall et al., 2011)                               |
 | Practical Grazing Management for Riparian Areas                                           | (Swanson et al., [2015](https://naes.agnt.unr.edu/PMS/Pubs/61_2015_18.pdf))                            |
