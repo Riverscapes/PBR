@@ -8,9 +8,8 @@ weight: 2
 
 <div class="row small-up-2 medium-up-2 large-up-2">
   <div class="column column-block">
-	A number of recipes and conceptual diagrams for low tech process based restoration structures and principles. Of the recipes shown here, most are open source  so you can use them for your purposes in your own designs, permit applications and reports.  Like most recipes, local adaptations, substitutions and changes can be made to best suit your needs. However, when getting started, or for defining minimum standards of practice, the receipes are helpful. We license all these with a <a href="https://creativecommons.org/licenses/by/4.0/legalcode">creative commons <i class="fa fa-creative-commons" aria-hidden="true"></i> attribution license</a> so you can adapt for your own purposes and, distribute and share:
+Numerous recipes and conceptual diagrams exist for low tech process based restoration structures. Here we highlight some examples and references for you to follow and/or adapt. 
 
-	<a href="https://creativecommons.org/licenses/by/4.0/"><img src = "{{ site.baseurl }}/assets/images/logos/cc/CC_Watermarks_USU_Restoration_600_Blue_Vert.png"></a>
 	</div>
 	<div class="column column-block">
 		<a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Workshops/CheapCheerful/2018/NRCS/NRCS+Guidelines/Erosion-Control-Field-Guide.pdf"><img src ="{{ site.baseurl }}/assets/images/covers/quivaria-erosioncontrol_1.png"></a>
@@ -32,12 +31,9 @@ weight: 2
   </div>
 </div>
 
-<div align="center">
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Despite making all the recipes (<a href="https://t.co/YCF1oDjbGs">https://t.co/YCF1oDjbGs</a>) in the <a href="https://twitter.com/hashtag/lowtechPBR?src=hash&amp;ref_src=twsrc%5Etfw">#lowtechPBR</a> manual free for re-use with <a href="https://twitter.com/creativecommons?ref_src=twsrc%5Etfw">@creativecommons</a> licenses, people still are confused 🙄. Yes, its okay to use or adapt them! For example: <br>Typical Schematics of <a href="https://twitter.com/hashtag/BDAs?src=hash&amp;ref_src=twsrc%5Etfw">#BDAs</a> <a href="https://t.co/JHV8c2KoQQ">https://t.co/JHV8c2KoQQ</a> <a href="https://t.co/PXsMUQOZfy">pic.twitter.com/PXsMUQOZfy</a></p>&mdash; Joe Wheaton (@fluvialwheaton) <a href="https://twitter.com/fluvialwheaton/status/1383864864716705800?ref_src=twsrc%5Etfw">April 18, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-</div>
 
 ----
-## Other Related Low-Tech Techniques & Resources
+## Low-Tech Techniques & Resources Organized by Processes Promoted
 Adapted from Appendix C (Table 4) in [Chapter 1 - Shahverdian et al. (2019)]({{ site.baseurl }}/manual/chap01)
 
 
@@ -73,8 +69,8 @@ Adapted from Appendix C (Table 4) in [Chapter 1 - Shahverdian et al. (2019)]({{ 
 
 
 
-### Erosion Control 
-These are commonly used  in intermittent & ephemeral channels, but not exclusively. These are used frequently in channels that extend into  wet meadows and threaten the continued key process of root mat production in those meadows. See [Kraebel and Pillsbury](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Workshops/CheapCheerful/2018/NRCS/Resources/Handbook+of+erosion+control+in+mountain+meadows.pdf) for brush, wood and rock examples and  [here for some rock-based examples of erosion control]({{ site.baseurl }}/resources/recipes/Rock/erosionControl.html).
+### Promoting Root Mat Production in Wet Meadows with Erosion Control 
+Many of these structures are commonly used in "[erosion control](https://envirocert.org/cpesc/)" intermittent & ephemeral channels, but not exclusively. These are used frequently in channels that have headcut and extended into  wet meadows and threaten the continued key process of root mat production in those meadows. In such situations, these meadows may have naturally not had any channels, or less incised channels or even discontinous channels. See [Kraebel and Pillsbury](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Workshops/CheapCheerful/2018/NRCS/Resources/Handbook+of+erosion+control+in+mountain+meadows.pdf) for brush, wood and rock examples and  [here for some rock-based examples of erosion control]({{ site.baseurl }}/resources/recipes/Rock/erosionControl.html).
 
 
 | Name                                                          | Helpful Reference(s)                              |
@@ -131,7 +127,17 @@ These are commonly used  in intermittent & ephemeral channels, but not exclusive
 	</div>
 </div>
 
+## Ones You Can Use Legally
 
+Of the recipes we provided in the [Manual]({{ site.baseurl }}/Manual/), most are open source  so you can use them for your purposes in your own designs, permit applications and reports.  Like most recipes, local adaptations, substitutions and changes can be made to best suit your needs. However, when getting started, or for defining minimum standards of practice, the receipes are helpful. We license all these with a <a href="https://creativecommons.org/licenses/by/4.0/legalcode">creative commons <i class="fa fa-creative-commons" aria-hidden="true"></i> attribution license</a> so you can adapt for your own purposes and, distribute and share:
+
+	<a href="https://creativecommons.org/licenses/by/4.0/"><img src = "{{ site.baseurl }}/assets/images/logos/cc/CC_Watermarks_USU_Restoration_600_Blue_Vert.png"></a>
+	
+	<div align="center">
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Despite making all the recipes (<a href="https://t.co/YCF1oDjbGs">https://t.co/YCF1oDjbGs</a>) in the <a href="https://twitter.com/hashtag/lowtechPBR?src=hash&amp;ref_src=twsrc%5Etfw">#lowtechPBR</a> manual free for re-use with <a href="https://twitter.com/creativecommons?ref_src=twsrc%5Etfw">@creativecommons</a> licenses, people still are confused 🙄. Yes, its okay to use or adapt them! For example: <br>Typical Schematics of <a href="https://twitter.com/hashtag/BDAs?src=hash&amp;ref_src=twsrc%5Etfw">#BDAs</a> <a href="https://t.co/JHV8c2KoQQ">https://t.co/JHV8c2KoQQ</a> <a href="https://t.co/PXsMUQOZfy">pic.twitter.com/PXsMUQOZfy</a></p>&mdash; Joe Wheaton (@fluvialwheaton) <a href="https://twitter.com/fluvialwheaton/status/1383864864716705800?ref_src=twsrc%5Etfw">April 18, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div>
+
+	
 ------
 <div align="center">
 	<a class="hollow button" href="{{ site.baseurl }}/"><i class="fa fa-arrow-circle-left" aria-hidden="true"></i>  Back to Design Manual Home <i class="fa fa-book" aria-hidden="true"></i></a>
