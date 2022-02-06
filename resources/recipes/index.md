@@ -129,15 +129,15 @@ Many of these structures are commonly used in "[erosion control](https://enviroc
 
 ## Ones You Can Use Legally
 
+<a href="https://creativecommons.org/licenses/by/4.0/"><img class="float-right" width="200" src = "{{ site.baseurl }}/assets/images/logos/cc/CC_Watermarks_USU_Restoration_600_Blue_Vert.png"></a> 
 Of the recipes we provided in the [Manual]({{ site.baseurl }}/Manual/), most are open source  so you can use them for your purposes in your own designs, permit applications and reports.  Like most recipes, local adaptations, substitutions and changes can be made to best suit your needs. However, when getting started, or for defining minimum standards of practice, the receipes are helpful. We license all these with a <a href="https://creativecommons.org/licenses/by/4.0/legalcode">creative commons <i class="fa fa-creative-commons" aria-hidden="true"></i> attribution license</a> so you can adapt for your own purposes and, distribute and share:
 
-	<a href="https://creativecommons.org/licenses/by/4.0/"><img src = "{{ site.baseurl }}/assets/images/logos/cc/CC_Watermarks_USU_Restoration_600_Blue_Vert.png"></a>
 	
-	<div align="center">
+<div align="center">
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Despite making all the recipes (<a href="https://t.co/YCF1oDjbGs">https://t.co/YCF1oDjbGs</a>) in the <a href="https://twitter.com/hashtag/lowtechPBR?src=hash&amp;ref_src=twsrc%5Etfw">#lowtechPBR</a> manual free for re-use with <a href="https://twitter.com/creativecommons?ref_src=twsrc%5Etfw">@creativecommons</a> licenses, people still are confused 🙄. Yes, its okay to use or adapt them! For example: <br>Typical Schematics of <a href="https://twitter.com/hashtag/BDAs?src=hash&amp;ref_src=twsrc%5Etfw">#BDAs</a> <a href="https://t.co/JHV8c2KoQQ">https://t.co/JHV8c2KoQQ</a> <a href="https://t.co/PXsMUQOZfy">pic.twitter.com/PXsMUQOZfy</a></p>&mdash; Joe Wheaton (@fluvialwheaton) <a href="https://twitter.com/fluvialwheaton/status/1383864864716705800?ref_src=twsrc%5Etfw">April 18, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </div>
 
-	
+
 ------
 <div align="center">
 	<a class="hollow button" href="{{ site.baseurl }}/"><i class="fa fa-arrow-circle-left" aria-hidden="true"></i>  Back to Design Manual Home <i class="fa fa-book" aria-hidden="true"></i></a>
