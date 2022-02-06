@@ -27,6 +27,9 @@ weight: 2
  <div class="column column-block">
 	<a class="hollow button" href="{{ site.baseurl }}/resources/recipes/Wood/pals"><img src="{{ site.baseurl }}/assets/images/hdLWD_100_Orange.png">  <br> Post Assisted Log Structures</a>
   </div>
+   <div class="column column-block">
+	<a class="hollow button" href="{{ site.baseurl }}/resources/recipes/Rock/erosionControl.html"><i class="fa fa-hand-rock-o" aria-hidden="true"></i>  <br> Rock-Based Erosion Control Structures</a>
+  </div>
 </div>
 
 <div align="center">
@@ -71,7 +74,7 @@ Adapted from Appendix C (Table 4) in [Chapter 1 - Shahverdian et al. (2019)]({{ 
 
 
 ### Erosion Control 
-These are typically done in intermittent & ephemeral channels, but not exclusively.
+These are commonly used  in intermittent & ephemeral channels, but not exclusively. These are used frequently in channels that extend into  wet meadows and threaten the continued key process of root mat production in those meadows. See [Kraebel and Pillsbury](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Workshops/CheapCheerful/2018/NRCS/Resources/Handbook+of+erosion+control+in+mountain+meadows.pdf) for brush, wood and rock examples and  [here for some rock-based examples of erosion control]({{ site.baseurl }}/resources/recipes/Rock/erosionControl.html).
 
 
 | Name                                                          | Helpful Reference(s)                              |
