@@ -131,9 +131,11 @@ To sign up, please contact text <a href="mailto:email.com">(email@email.com)</a>
 #### 10:15-11:00 
 **Science behind Low-tech process-based restoration (MOD. 1) – Steve/Scott**
 <ul>
-<li>Case-studies of riparian and beaver management, and low-tech structure projects
-o	Where it works – Steve; Where it does not - Scott 
-</li>
+<li>Case-studies of riparian and beaver management, and low-tech structure projects</li>
+<ul>
+<li>Where it works – Steve</li>
+<li>Where it does not - Scott </li>
+</ul>
 <li>Questions/Discussions/Exercises 5-15 mins</li>
 </ul>
 
