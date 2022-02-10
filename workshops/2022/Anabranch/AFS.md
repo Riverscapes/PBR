@@ -96,8 +96,9 @@ Define process-based restoration (contrast with traditional)
 #### 8:30-9:00: 
 **Guiding Principles (PG p.1, DM Ch.2) – Steve/Scott**
 <ul>
-<li></li>
-<li></li>
+<li>Riverscape Principles - Steve</li>
+<li>Restoration Principles - Scott</li>
+<li>Questions/Discussions/Exercises 5-15 mins</li>
 </ul>
 
 ### 3. Assessment, Approachs and Implementation
@@ -122,7 +123,7 @@ Define process-based restoration (contrast with traditional)
 </ul>
 
 #### 10:00-10:15 
-BREAK
+--BREAK--
 
 ### 4. Science and Policy
 #### 10:15-11:00 
@@ -141,7 +142,7 @@ BREAK
 ### 5. Discussion and Questions
 
 #### 11:15-12:00
-**Participant Discussion Topics/Ask a Low-tech Practitioner a Question - A
+**Participant Discussion Topics/Ask a Low-tech Practitioner a Question - A**
 
 
 
