@@ -88,8 +88,8 @@ To sign up, please contact text <a href="mailto:email.com">(email@email.com)</a>
 <ul>
 <li>Scope of Problem<li>Scope of Problem
 <ul>
-<li>General degradation; loss and importance of structure (beavers and wood)<li>
-<li>Define process-based restoration (contrast with traditional) <li>
+<li>General degradation; loss and importance of structure (beavers and wood)</li>
+<li>Define process-based restoration (contrast with traditional) </lii>
 </ul>
 <li>Questions/Discussions/Exercises 5-15 mins</li>
 </ul>
