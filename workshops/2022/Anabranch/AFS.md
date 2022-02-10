@@ -7,11 +7,25 @@ weight:  2
 <div class="row small-up-2 medium-up-2 large-up-6" align="center">
 
   <div class="column column-block">
-    <a href="https://yakamafish-nsn.gov/"><img src="{{ site.baseurl }}/assets/images/sponsors/Yakama.png"></a>
+    <a href="https://yakamafish-nsn.gov/"><img src="{{ site.baseurl }}/assets/images/sponsors/USFWS.png"></a>
   </div>
 
+<div class="column column-block">
+	<a href="http://www.anabranchsolutions.com"><img src="{{ site.baseurl }}/assets/images/sponsors/FCCD.png"></a><br>
+  </div>
+  
+  <div class="column column-block">
+	<a href="http://www.anabranchsolutions.com"><img src="{{ site.baseurl }}/assets/images/sponsors/pf-logo_2.png"></a><br>
+  </div>
 
-
+  <div class="column column-block">
+	<a href="http://www.anabranchsolutions.com"><img src="{{ site.baseurl }}/assets/images/sponsors/conservation_NW.png"></a><br>
+  </div>
+  
+  <div class="column column-block">
+	<a href="http://www.anabranchsolutions.com"><img src="{{ site.baseurl }}/assets/images/sponsors/usda-nrcs-logo_1_orig.png"></a><br>
+  </div>
+  
   <div class="column column-block">
 	<a href="http://www.anabranchsolutions.com"><img src="{{ site.baseurl }}/assets/images/sponsors/anabranchsolutionslogo-square-450_10.png"></a><br>
   </div>
