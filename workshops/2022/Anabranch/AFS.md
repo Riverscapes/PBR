@@ -27,7 +27,7 @@ weight:  2
 This half-day virtual-based workshop will be presented as part of the American Fisheries Society Continuing Education Program at the Colorado/Wyoming annual meeting.  The workshop is intended to introduce resource managers, land-owners, and conservation groups to ‘low-tech’ process-based (LTPBR) approaches for restoring streams and their associated riparian areas (riverscapes) to benefit fish and wildlife. People that have some knowledge of LTPBR can also benefit as the instructors will be providing lessons learned from assessing, planning, and implementing dozens of LTPBR projects across a wide variety of geographic settings in multiple states. Participants will learn principles guiding low-tech process-based restoration, become familiar with basic beaver ecology, and different types of low-tech structures, including Beaver Dam Analogues (BDAs) and Post-Assisted Log Structures (PALS). The focus of the workshop will be on the guiding principles, the construction of different low-tech structures, and the impairments the structures can treat. Specific examples related to fish population responses will be presented. 
 A workshop website is provided which will include more in-depth information including links to digital copies of a low-tech process-based restoration manual and pocket guide, and an online lecture series which can be viewed either as videos or pdf documents. We encourage workshop participants to review Module 1 online or read Chapter 1 from the Low-tech Manual before the workshop (see link below). Hard copy manuals and pocket guides will also be available at the workshop free of charge. 
 
-Because the course will be online, it will be helpful to refer to digital copies of the [Design Manual]({{ site.baseurl }}/manual) and the [Pocket Guide]({{ site.baseurl }}/resources/pocket). We encourage workshop participants to review Module 1 of the [Design Manual]({{ site.baseurl }}/manual) [online lecture series]({{ site.baseurl }}/resources/Topics/)  can be viewed either as videos or pdf documents.  We encourage workshop participants to review some of the lecture material before the workshop. We will update the website with pictures and other information after the workshop. 
+Because the course will be online, it will be helpful to refer to digital copies of the [Design Manual]({{ site.baseurl }}/manual) and the [Pocket Guide]({{ site.baseurl }}/resources/pocket). We encourage workshop participants to review Module 1 of the [Design Manual]({{ site.baseurl }}/manual) [online lecture series]({{ site.baseurl }}/resources/Topics/)  can be viewed either as videos or pdf documents.  We encourage workshop participants to review some of the lecture material before the workshop. 
 
 
 
@@ -44,7 +44,7 @@ Because the course will be online, it will be helpful to refer to digital copies
 
 
 ### How to Sign Up
-To sign up, please contact Adrianne Grimm <a href="mailto:agrimm@ykfp.org">(agrimm@ykfp.org)</a> or Jeanette Burkhardt <a href="mailto:jeanette@ykfp.org">(jeanette@ykfp.org)</a>. 
+To sign up, please contact text <a href="mailto:email.com">(email@email.com)</a> . 
 
 
 
@@ -129,17 +129,17 @@ To sign up, please contact Adrianne Grimm <a href="mailto:agrimm@ykfp.org">(agri
     Principal Fish & Wildlife Biologist, Anabranch Solutions
 <p>Research Scientist, USU</p>
   </div>
-  
+
 <div class="column column-block">
     <a href="https://www.anabranchsolutions.com/scott-shahverdian.html"><img src="{{ site.baseurl }}/assets/images/people/Scott_Shahverdian.png"></a>
     <h4><a href="https://www.anabranchsolutions.com/scott-shahverdian.html">Scott Shahverdian</a></h4>
     Geomorphologist  & Designer, Anabranch Solutions
   </div>
-  
+
   <div class="column column-block">
     <a href="https://www.anabranchsolutions.com/brian-murphy.html"><img src="{{ site.baseurl }}/assets/images/people/Brian_Murphy.png"></a>
     <h4><a href="https://www.anabranchsolutions.com/brian-murphy.html">Brian Murphy</a></h4>
-    
+
 <p>Water Resources Engineer, Anabranch Solutions</p>
   </div>
 
