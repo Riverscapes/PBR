@@ -103,10 +103,12 @@ Define process-based restoration (contrast with traditional)
 
 ### 3. Assessment, Approachs and Implementation
 #### 9:00-9:45
-**Connecting Observations with Goals and Objectives (PG p.7, DM Ch.3) – Scott **
+**Connecting Observations with Goals and Objectives (PG p.7, DM Ch.3) – Scott**
 <ul>
-<li></li>
-<li></li>
+<li>Uncertainty - Adaptive Management and Expectation Management </li>
+<li>Think about hydrology, geology, sediment supply, confinement, riparian, other</li>
+<li>Reading riverscapes - Valley Bottom, Recovery Potential, Risk Assessment</li>
+<li>Questions/Discussions/Exercises 5-15 mins</li>
 </ul>
 #### 9:45-10:00
 **Low-tech Approaches & Implementation (PG p.23, DM Ch.4&6) - Steve**
