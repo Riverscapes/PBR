@@ -121,12 +121,6 @@ o	Where it works – Steve; Where it does not - Scott
 <li>Questions/Discussions/Exercises 5-15 mins</li>
 </ul>
 
-#### 8:15-9:00
-**Background and Purpose (PG p.5, DM Ch.1) - Steve**
-<ul>
-<li></li>
-<li></li>
-</ul>
 
 #### 10:00-10:15 
 --BREAK--
@@ -135,14 +129,20 @@ o	Where it works – Steve; Where it does not - Scott
 #### 10:15-11:00 
 **Science behind Low-tech process-based restoration (MOD. 1) – Steve/Scott**
 <ul>
+<li>Case-studies of riparian and beaver management, and low-tech structure projects
+o	Where it works – Steve; Where it does not - Scott 
+</li>
+<li>Questions/Discussions/Exercises 5-15 mins</li>
+</ul>
+<ul>
 <li></li>
 <li></li>
 </ul>
 #### 11:00-11:15 
 **CO/WY and Engineering Constraints aka FEMA (MOD. 5c) – Brian**
 <ul>
-<li></li>
-<li></li>
+<li>Social, permitting, and legal aspects of low-tech design and implementation in CO/WY</li>
+
 </ul>
 
 ### 5. Discussion and Questions
