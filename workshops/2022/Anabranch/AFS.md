@@ -7,7 +7,7 @@ weight:  2
 <div class="row small-up-2 medium-up-2 large-up-6" align="center">
 
   <div class="column column-block">
-    <a href="https://yakamafish-nsn.gov/"><img src="{{ site.baseurl }}/assets/images/sponsors/USFWS.png"></a>
+    <a href="https://yakamafish-nsn.gov/"><img src="{{ site.baseurl }}/assets/images/sponsors/USFWS.jpg"></a>
   </div>
 
 <div class="column column-block">
