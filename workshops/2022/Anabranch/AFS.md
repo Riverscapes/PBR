@@ -114,7 +114,8 @@ Define process-based restoration (contrast with traditional)
 <li></li>
 </ul>
 
-#### 8:15-9:00: Background and Purpose (PG p.5, DM Ch.1) - Steve
+#### 8:15-9:00
+**Background and Purpose (PG p.5, DM Ch.1) - Steve**
 <ul>
 <li></li>
 <li></li>
@@ -125,13 +126,13 @@ BREAK
 
 ### 4. Science and Policy
 #### 10:15-11:00 
-Science behind Low-tech process-based restoration (MOD. 1) – Steve/Scott
+**Science behind Low-tech process-based restoration (MOD. 1) – Steve/Scott**
 <ul>
 <li></li>
 <li></li>
 </ul>
 #### 11:00-11:15 
-CO/WY and Engineering Constraints aka FEMA (MOD. 5c) – Brian
+**CO/WY and Engineering Constraints aka FEMA (MOD. 5c) – Brian**
 <ul>
 <li></li>
 <li></li>
@@ -140,7 +141,7 @@ CO/WY and Engineering Constraints aka FEMA (MOD. 5c) – Brian
 ### 5. Discussion and Questions
 
 #### 11:15-12:00
-Participant Discussion Topics/Ask a Low-tech Practitioner a Question - All
+**Participant Discussion Topics/Ask a Low-tech Practitioner a Question - A
 
 
 
