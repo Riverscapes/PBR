@@ -1,0 +1,195 @@
+---
+title:  AFS Colorado & Wyoming Virtual Workshop
+weight:  2
+---
+# American Fisheries Society Virtual Workshop:   Low-Tech Process-Based Restoration of Riverscapes 
+
+<div class="row small-up-2 medium-up-2 large-up-6" align="center">
+
+  <div class="column column-block">
+    <a href="https://yakamafish-nsn.gov/"><img src="{{ site.baseurl }}/assets/images/sponsors/Yakama.png"></a>
+  </div>
+
+
+
+  <div class="column column-block">
+	<a href="http://www.anabranchsolutions.com"><img src="{{ site.baseurl }}/assets/images/sponsors/anabranchsolutionslogo-square-450_10.png"></a><br>
+  </div>
+
+
+</div>
+
+
+**March 2, 2022**
+
+-----
+## Description
+This half-day virtual-based workshop will be presented as part of the American Fisheries Society Continuing Education Program at the Colorado/Wyoming annual meeting.  The workshop is intended to introduce resource managers, land-owners, and conservation groups to ‘low-tech’ process-based (LTPBR) approaches for restoring streams and their associated riparian areas (riverscapes) to benefit fish and wildlife. People that have some knowledge of LTPBR can also benefit as the instructors will be providing lessons learned from assessing, planning, and implementing dozens of LTPBR projects across a wide variety of geographic settings in multiple states. Participants will learn principles guiding low-tech process-based restoration, become familiar with basic beaver ecology, and different types of low-tech structures, including Beaver Dam Analogues (BDAs) and Post-Assisted Log Structures (PALS). The focus of the workshop will be on the guiding principles, the construction of different low-tech structures, and the impairments the structures can treat. Specific examples related to fish population responses will be presented. 
+A workshop website is provided which will include more in-depth information including links to digital copies of a low-tech process-based restoration manual and pocket guide, and an online lecture series which can be viewed either as videos or pdf documents. We encourage workshop participants to review Module 1 online or read Chapter 1 from the Low-tech Manual before the workshop (see link below). Hard copy manuals and pocket guides will also be available at the workshop free of charge. 
+
+Because the course will be online, it will be helpful to refer to digital copies of the [Design Manual]({{ site.baseurl }}/manual) and the [Pocket Guide]({{ site.baseurl }}/resources/pocket). We encourage workshop participants to review Module 1 of the [Design Manual]({{ site.baseurl }}/manual) [online lecture series]({{ site.baseurl }}/resources/Topics/)  can be viewed either as videos or pdf documents.  We encourage workshop participants to review some of the lecture material before the workshop. We will update the website with pictures and other information after the workshop. 
+
+
+
+<div align="center">
+        <a class="hollow button" href="{{ site.baseurl }}/manual/">  Link to LTPBR Design Manual</a>  
+</div>
+<div align="center">
+        <a class="hollow button" href="{{ site.baseurl }}/resources/pocket">  Link to LTPBR Pocket Guide </a>  
+</div>
+<div align="center">
+        <a class="hollow button" href="{{ site.baseurl }}/resources/Topics/">  Link to Online Lecture Series </a>  
+</div>
+
+
+
+### How to Sign Up
+To sign up, please contact Adrianne Grimm <a href="mailto:agrimm@ykfp.org">(agrimm@ykfp.org)</a> or Jeanette Burkhardt <a href="mailto:jeanette@ykfp.org">(jeanette@ykfp.org)</a>. 
+
+
+
+
+
+
+
+
+
+-----
+## Agenda
+- <a href="><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a> ***Print Agenda***
+
+### 1. Introductuions & Agenda
+#### 800:00-8:15: Introductions, Agenda, & Goals of Workshop - Steve
+<ul>
+<li>Introductions, Goals, Agenda, and Logistics</li>
+<li>Who reviewed Module 1 or read Chapter 1 of manual?</li>
+</ul>
+
+
+### 2. Background and Principles
+#### 8:15-8:30: Background and Purpose (PG p.5, DM Ch.1) - Steve
+<ul>
+<li></li>
+<li></li>
+</ul>
+
+#### 8:30-9:00: Guiding Principles (PG p.1, DM Ch.2) – Steve/Scott
+<ul>
+<li></li>
+<li></li>
+</ul>
+
+### 3. Assessment, Approachs and Implementation
+#### 9:00-9:45:  Connecting Observations with Goals and Objectives (PG p.7, DM Ch.3) – Scott 
+<ul>
+<li></li>
+<li></li>
+</ul>
+#### 9:45-10:00: Low-tech Approaches & Implementation (PG p.23, DM Ch.4&6) - Steve
+<ul>
+<li></li>
+<li></li>
+</ul>
+
+#### 8:15-9:00: Background and Purpose (PG p.5, DM Ch.1) - Steve
+<ul>
+<li></li>
+<li></li>
+</ul>
+
+#### 10:00-10:15 - BREAK
+
+### 4. Science and Policy
+#### 10:15-11:00 Science behind Low-tech process-based restoration (MOD. 1) – Steve/Scott
+<ul>
+<li></li>
+<li></li>
+</ul>
+#### 11:00-11:15 CO/WY and Engineering Constraints aka FEMA (MOD. 5c) – Brian
+<ul>
+<li></li>
+<li></li>
+</u>
+
+### 5. Discussion and Questions
+
+#### 11:15-12:00. Participant Discussion Topics/Ask a Low-tech Practitioner a Question - All
+
+-----
+
+-----
+## Instruction Team
+
+<div class="row small-up-2 medium-up-2 large-up-3" align="left">
+
+
+<div class="column column-block">
+    <a href="https://www.anabranchsolutions.com/stephen-bennett.html"><img src="{{ site.baseurl }}/assets/images/people/Steve_Bennett_round.png"></a>
+    <h4><a href="https://www.anabranchsolutions.com/stephen-bennett.html">Stephen N. Bennett</a></h4>
+    Principal Fish & Wildlife Biologist, Anabranch Solutions
+<p>Research Scientist, USU</p>
+  </div>
+  
+<div class="column column-block">
+    <a href="https://www.anabranchsolutions.com/scott-shahverdian.html"><img src="{{ site.baseurl }}/assets/images/people/Scott_Shahverdian.png"></a>
+    <h4><a href="https://www.anabranchsolutions.com/scott-shahverdian.html">Scott Shahverdian</a></h4>
+    Geomorphologist  & Designer, Anabranch Solutions
+  </div>
+  
+  <div class="column column-block">
+    <a href="https://www.anabranchsolutions.com/brian-murphy.html"><img src="{{ site.baseurl }}/assets/images/people/Brian_Murphy.png"></a>
+    <h4><a href="https://www.anabranchsolutions.com/brian-murphy.html">Brian Murphy</a></h4>
+    
+<p>Water Resources Engineer, Anabranch Solutions</p>
+  </div>
+
+</div>
+
+----
+
+## Course Materials
+
+
+### Workshop Textbooks
+For the workshops, we will rely on the new [Design Manual]({{ site.baseurl }}/manual) and the [Pocket Guide]({{ site.baseurl }}/resources/pocket), which are both available free digitally.   A hard copy of both will be provided to you in person at the workshop.  
+
+
+### Workshop Lectures
+Thanks to the generous support of the Natural Resource Conservation Service’s Working Lands for Wildlife, and a grant through Pheasants Forever to Utah State University’s Restoration Consortium and Joe Wheaton’s ET-AL lab are able to deliver a free virtual workshops to NRCS conservationists and their partners. This series was envisioned by Jeremy Maestas (NRCS) and is possible thanks to partner matches by various local organizations in each state and matching funds from Utah State University. This grew out of the successful 2016 Enhancing Mesic Habitat Resilience in Sagebrush Ecosystems Workshop at Utah State University and the 2018 and 2019 workshop series.
+
+The latest iteration of these is a lecture series designed to be presented virtually over five days. The link below provides access to all the lectures on each aspect of low-tech PBR (e.g., planning and assessment, design, implementation)  in video and pdf format. These resources will provide more detailed information and links to scientific literature than can be delivered in field-based format.  
+
+
+<div align="left">
+        <a class="hollow button" href="{{ site.baseurl }}/resources/">  Link to LTPBR Resources </a>  
+</div>
+
+## Additional Resources
+
+
+
+## Instruction Team
+
+<div class="row small-up-2 medium-up-2 large-up-4" align="left">
+
+
+<div class="column column-block">
+    <a href="https://www.anabranchsolutions.com/stephen-bennett.html"><img src="{{ site.baseurl }}/assets/images/people/Steve_Bennett_round.png"></a>
+    <h4><a href="https://www.anabranchsolutions.com/stephen-bennett.html">Stephen N. Bennett</a></h4>
+    Principal Fish & Wildlife Biologist, Anabranch Solutions
+<p>Research Scientist, USU</p>
+  </div>
+<div class="column column-block">
+    <a href="https://www.anabranchsolutions.com/andy-hill.html"><img src="{{ site.baseurl }}/assets/images/people/AndyHill_round-02-01.png"></a>
+    <h4><a href="https://www.anabranchsolutions.com/andy-hill.html">Andrew Hill</a></h4>
+    Spatial Ecologist & Designer, Anabranch Solutions
+
+  </div>
+
+</div>
+
+
+
+
+
+-----
