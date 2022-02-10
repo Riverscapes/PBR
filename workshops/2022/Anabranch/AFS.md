@@ -86,10 +86,11 @@ To sign up, please contact text <a href="mailto:email.com">(email@email.com)</a>
 #### 8:15-8:30 
 **Background and Purpose (PG p.5, DM Ch.1) - Steve**
 <ul>
-<li>Scope of Problem
-General degradation; loss and importance of structure (beavers and wood)
-Define process-based restoration (contrast with traditional) 
-</li>
+<li>Scope of Problem<li>Scope of Problem
+<ul>
+<li>General degradation; loss and importance of structure (beavers and wood)<li>
+<li>Define process-based restoration (contrast with traditional) <li>
+</ul>
 <li>Questions/Discussions/Exercises 5-15 mins</li>
 </ul>
 
