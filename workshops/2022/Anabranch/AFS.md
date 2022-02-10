@@ -71,20 +71,19 @@ To sign up, please contact text <a href="mailto:email.com">(email@email.com)</a>
 
 -----
 ## Agenda
-- <a href="><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a> ***Print Agenda***
 
 ### 1. Introductuions & Agenda
 #### 800:00-8:15
 **Introductions, Agenda, & Goals of Workshop - Steve**
 <ul>
 <li>Introductions, Goals, Agenda, and Logistics</li>
-<li>Who reviewed Module 1 or read Chapter 1 of manual?</li>
+<li>Who reviewed Module 1 or read Chapter 1 of [Design Manual]({{ site.baseurl }}/manual)l?</li>
 </ul>
 
 
 ### 2. Background and Principles
 #### 8:15-8:30 
-**Background and Purpose (PG p.5, DM Ch.1) - Steve**
+**Background and Purpose (PG p.5, [Design Manual]({{ site.baseurl }}/manual) Ch.1) - Steve**
 <ul>
 <li>Scope of Problem</li>
 <ul>
@@ -95,7 +94,7 @@ To sign up, please contact text <a href="mailto:email.com">(email@email.com)</a>
 </ul>
 
 #### 8:30-9:00: 
-**Guiding Principles (PG p.1, DM Ch.2) – Steve/Scott**
+**Guiding Principles (PG p.1, [Design Manual]({{ site.baseurl }}/manual) Ch.2) – Steve/Scott**
 <ul>
 <li>Riverscape Principles - Steve</li>
 <li>Restoration Principles - Scott</li>
@@ -104,7 +103,7 @@ To sign up, please contact text <a href="mailto:email.com">(email@email.com)</a>
 
 ### 3. Assessment, Approachs and Implementation
 #### 9:00-9:45
-**Connecting Observations with Goals and Objectives (PG p.7, DM Ch.3) – Scott**
+**Connecting Observations with Goals and Objectives (PG p.7, [Design Manual]({{ site.baseurl }}/manual) Ch.3) – Scott**
 <ul>
 <li>Uncertainty - Adaptive Management and Expectation Management </li>
 <li>Think about hydrology, geology, sediment supply, confinement, riparian, other</li>
@@ -114,7 +113,7 @@ To sign up, please contact text <a href="mailto:email.com">(email@email.com)</a>
 
 #### 9:45-10:00
 
-**Low-tech Approaches & Implementation (PG p.23, DM Ch.4&6) - Steve**
+**Low-tech Approaches & Implementation (PG p.23, [Design Manual]({{ site.baseurl }}/manual) Ch.4&6) - Steve**
 <ul>
 <li>Low-tech toolbox (beaver mgt, riparian mgt, forestry mgt, structures) 
 </li>
