@@ -55,7 +55,7 @@ Because the course will be online, it will be helpful to refer to digital copies
         <a class="hollow button" href="{{ site.baseurl }}/resources/Topics/">  Link to Online Lecture Series </a>  
 </div>
 
-### How to Video Link
+### Join with the Video Link
 The Virtual Workshop can be accessed here:
 
 ### How to Sign Up
