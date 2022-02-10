@@ -110,11 +110,19 @@ Define process-based restoration (contrast with traditional)
 <li>Reading riverscapes - Valley Bottom, Recovery Potential, Risk Assessment</li>
 <li>Questions/Discussions/Exercises 5-15 mins</li>
 </ul>
+
 #### 9:45-10:00
-**Low-tech Approaches & Implementation (PG p.23, DM Ch.4&6) - Steve**
 <ul>
 <li></li>
 <li></li>
+</ul>
+
+**Low-tech Approaches & Implementation (PG p.23, DM Ch.4&6) - Steve**
+<ul>
+<li>Case-studies of riparian & beaver management, and low-tech structure projects
+o	Where it works – Steve; Where it does not - Scott 
+</li>
+<li>Questions/Discussions/Exercises 5-15 mins</li>
 </ul>
 
 #### 8:15-9:00
