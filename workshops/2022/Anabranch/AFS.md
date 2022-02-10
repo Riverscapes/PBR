@@ -112,14 +112,10 @@ Define process-based restoration (contrast with traditional)
 </ul>
 
 #### 9:45-10:00
-<ul>
-<li></li>
-<li></li>
-</ul>
 
 **Low-tech Approaches & Implementation (PG p.23, DM Ch.4&6) - Steve**
 <ul>
-<li>Case-studies of riparian & beaver management, and low-tech structure projects
+<li>Case-studies of riparian and beaver management, and low-tech structure projects
 o	Where it works – Steve; Where it does not - Scott 
 </li>
 <li>Questions/Discussions/Exercises 5-15 mins</li>
@@ -159,7 +155,7 @@ o	Where it works – Steve; Where it does not - Scott
 -----
 ## Instruction Team
 
-<div class="row small-up-2 medium-up-2 large-up-3" align="left">
+<div class="row small-up-2 medium-up-2 large-up-4" align="left">
 
 
 <div class="column column-block">
