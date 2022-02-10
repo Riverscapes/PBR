@@ -186,8 +186,7 @@ o	Where it works – Steve; Where it does not - Scott
 
 
 ### Workshop Textbooks
-For the workshops, we will rely on the new [Design Manual]({{ site.baseurl }}/manual) and the [Pocket Guide]({{ site.baseurl }}/resources/pocket), which are both available free digitally.   A hard copy of both will be provided to you in person at the workshop.  
-
+For the workshops, we will rely on the new [Design Manual]({{ site.baseurl }}/manual) and the [Pocket Guide]({{ site.baseurl }}/resources/pocket), which are both available free digitally.  
 
 ### Workshop Lectures
 Thanks to the generous support of the Natural Resource Conservation Service’s Working Lands for Wildlife, and a grant through Pheasants Forever to Utah State University’s Restoration Consortium and Joe Wheaton’s ET-AL lab are able to deliver a free virtual workshops to NRCS conservationists and their partners. This series was envisioned by Jeremy Maestas (NRCS) and is possible thanks to partner matches by various local organizations in each state and matching funds from Utah State University. This grew out of the successful 2016 Enhancing Mesic Habitat Resilience in Sagebrush Ecosystems Workshop at Utah State University and the 2018 and 2019 workshop series.
@@ -199,29 +198,6 @@ The latest iteration of these is a lecture series designed to be presented virtu
         <a class="hollow button" href="{{ site.baseurl }}/resources/">  Link to LTPBR Resources </a>  
 </div>
 
-## Additional Resources
-
-
-
-## Instruction Team
-
-<div class="row small-up-2 medium-up-2 large-up-4" align="left">
-
-
-<div class="column column-block">
-    <a href="https://www.anabranchsolutions.com/stephen-bennett.html"><img src="{{ site.baseurl }}/assets/images/people/Steve_Bennett_round.png"></a>
-    <h4><a href="https://www.anabranchsolutions.com/stephen-bennett.html">Stephen N. Bennett</a></h4>
-    Principal Fish & Wildlife Biologist, Anabranch Solutions
-<p>Research Scientist, USU</p>
-  </div>
-<div class="column column-block">
-    <a href="https://www.anabranchsolutions.com/andy-hill.html"><img src="{{ site.baseurl }}/assets/images/people/AndyHill_round-02-01.png"></a>
-    <h4><a href="https://www.anabranchsolutions.com/andy-hill.html">Andrew Hill</a></h4>
-    Spatial Ecologist & Designer, Anabranch Solutions
-
-  </div>
-
-</div>
 
 
 
