@@ -41,7 +41,7 @@ weight:  2
 This half-day virtual-based workshop will be presented as part of the American Fisheries Society Continuing Education Program at the Colorado/Wyoming annual meeting.  The workshop is intended to introduce resource managers, land-owners, and conservation groups to ‘low-tech’ process-based (LTPBR) approaches for restoring streams and their associated riparian areas (riverscapes) to benefit fish and wildlife. People that have some knowledge of LTPBR can also benefit as the instructors will be providing lessons learned from assessing, planning, and implementing dozens of LTPBR projects across a wide variety of geographic settings in multiple states. Participants will learn principles guiding low-tech process-based restoration, become familiar with basic beaver ecology, and different types of low-tech structures, including Beaver Dam Analogues (BDAs) and Post-Assisted Log Structures (PALS). The focus of the workshop will be on the guiding principles, the construction of different low-tech structures, and the impairments the structures can treat. Specific examples related to fish population responses will be presented. 
 A workshop website is provided which will include more in-depth information including links to digital copies of a low-tech process-based restoration manual and pocket guide, and an online lecture series which can be viewed either as videos or pdf documents. We encourage workshop participants to review Module 1 online or read Chapter 1 from the Low-tech Manual before the workshop (see link below). Hard copy manuals and pocket guides will also be available at the workshop free of charge. 
 
-Because the course will be online, it will be helpful to refer to digital copies of the [Design Manual]({{ site.baseurl }}/manual) and the [Pocket Guide]({{ site.baseurl }}/resources/pocket). We encourage workshop participants to review Module 1 of the [Design Manual]({{ site.baseurl }}/manual) [online lecture series]({{ site.baseurl }}/resources/Topics/)  can be viewed either as videos or pdf documents.  We encourage workshop participants to review some of the lecture material before the workshop. 
+Because the course will be online, it will be helpful to refer to digital copies of the [Design Manual]({{ site.baseurl }}/manual) and the [Pocket Guide]({{ site.baseurl }}/resources/pocket). We encourage workshop participants to review Module 1 of the [Design Manual]({{ site.baseurl }}/manual) can be viewed either as videos or pdf documents.  We encourage workshop participants to review some of the lecture material before the workshop. 
 
 
 
@@ -73,7 +73,8 @@ To sign up, please contact text <a href="mailto:email.com">(email@email.com)</a>
 - <a href="><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a> ***Print Agenda***
 
 ### 1. Introductuions & Agenda
-#### 800:00-8:15: Introductions, Agenda, & Goals of Workshop - Steve
+#### 800:00-8:15
+Introductions, Agenda, & Goals of Workshop - Steve
 <ul>
 <li>Introductions, Goals, Agenda, and Logistics</li>
 <li>Who reviewed Module 1 or read Chapter 1 of manual?</li>
@@ -81,25 +82,29 @@ To sign up, please contact text <a href="mailto:email.com">(email@email.com)</a>
 
 
 ### 2. Background and Principles
-#### 8:15-8:30: Background and Purpose (PG p.5, DM Ch.1) - Steve
+#### 8:15-8:30 
+Background and Purpose (PG p.5, DM Ch.1) - Steve
 <ul>
 <li></li>
 <li></li>
 </ul>
 
-#### 8:30-9:00: Guiding Principles (PG p.1, DM Ch.2) – Steve/Scott
+#### 8:30-9:00: 
+Guiding Principles (PG p.1, DM Ch.2) – Steve/Scott
 <ul>
 <li></li>
 <li></li>
 </ul>
 
 ### 3. Assessment, Approachs and Implementation
-#### 9:00-9:45:  Connecting Observations with Goals and Objectives (PG p.7, DM Ch.3) – Scott 
+#### 9:00-9:45
+Connecting Observations with Goals and Objectives (PG p.7, DM Ch.3) – Scott 
 <ul>
 <li></li>
 <li></li>
 </ul>
-#### 9:45-10:00: Low-tech Approaches & Implementation (PG p.23, DM Ch.4&6) - Steve
+#### 9:45-10:00
+Low-tech Approaches & Implementation (PG p.23, DM Ch.4&6) - Steve
 <ul>
 <li></li>
 <li></li>
@@ -111,25 +116,29 @@ To sign up, please contact text <a href="mailto:email.com">(email@email.com)</a>
 <li></li>
 </ul>
 
-#### 10:00-10:15 - BREAK
+#### 10:00-10:15 
+BREAK
 
 ### 4. Science and Policy
-#### 10:15-11:00 Science behind Low-tech process-based restoration (MOD. 1) – Steve/Scott
+#### 10:15-11:00 
+Science behind Low-tech process-based restoration (MOD. 1) – Steve/Scott
 <ul>
 <li></li>
 <li></li>
 </ul>
-#### 11:00-11:15 CO/WY and Engineering Constraints aka FEMA (MOD. 5c) – Brian
+#### 11:00-11:15 
+CO/WY and Engineering Constraints aka FEMA (MOD. 5c) – Brian
 <ul>
 <li></li>
 <li></li>
-</u>
+</ul>
 
 ### 5. Discussion and Questions
 
-#### 11:15-12:00. Participant Discussion Topics/Ask a Low-tech Practitioner a Question - All
+#### 11:15-12:00
+Participant Discussion Topics/Ask a Low-tech Practitioner a Question - All
 
------
+
 
 -----
 ## Instruction Team
