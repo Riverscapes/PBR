@@ -55,7 +55,8 @@ Because the course will be online, it will be helpful to refer to digital copies
         <a class="hollow button" href="{{ site.baseurl }}/resources/Topics/">  Link to Online Lecture Series </a>  
 </div>
 
-
+### How to Video Link
+The Virtual Workshop can be accessed here:
 
 ### How to Sign Up
 To sign up, please contact text <a href="mailto:email.com">(email@email.com)</a> . 
@@ -74,7 +75,7 @@ To sign up, please contact text <a href="mailto:email.com">(email@email.com)</a>
 
 ### 1. Introductuions & Agenda
 #### 800:00-8:15
-Introductions, Agenda, & Goals of Workshop - Steve
+**Introductions, Agenda, & Goals of Workshop - Steve**
 <ul>
 <li>Introductions, Goals, Agenda, and Logistics</li>
 <li>Who reviewed Module 1 or read Chapter 1 of manual?</li>
@@ -83,14 +84,17 @@ Introductions, Agenda, & Goals of Workshop - Steve
 
 ### 2. Background and Principles
 #### 8:15-8:30 
-Background and Purpose (PG p.5, DM Ch.1) - Steve
+**Background and Purpose (PG p.5, DM Ch.1) - Steve**
 <ul>
-<li></li>
-<li></li>
+<li>Scope of Problem
+General degradation; loss and importance of structure (beavers and wood)
+Define process-based restoration (contrast with traditional) 
+</li>
+<li>Questions/Discussions/Exercises 5-15 mins</li>
 </ul>
 
 #### 8:30-9:00: 
-Guiding Principles (PG p.1, DM Ch.2) – Steve/Scott
+**Guiding Principles (PG p.1, DM Ch.2) – Steve/Scott**
 <ul>
 <li></li>
 <li></li>
@@ -98,13 +102,13 @@ Guiding Principles (PG p.1, DM Ch.2) – Steve/Scott
 
 ### 3. Assessment, Approachs and Implementation
 #### 9:00-9:45
-Connecting Observations with Goals and Objectives (PG p.7, DM Ch.3) – Scott 
+**Connecting Observations with Goals and Objectives (PG p.7, DM Ch.3) – Scott **
 <ul>
 <li></li>
 <li></li>
 </ul>
 #### 9:45-10:00
-Low-tech Approaches & Implementation (PG p.23, DM Ch.4&6) - Steve
+**Low-tech Approaches & Implementation (PG p.23, DM Ch.4&6) - Steve**
 <ul>
 <li></li>
 <li></li>
