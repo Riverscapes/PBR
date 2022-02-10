@@ -115,10 +115,11 @@ Define process-based restoration (contrast with traditional)
 
 **Low-tech Approaches & Implementation (PG p.23, DM Ch.4&6) - Steve**
 <ul>
-<li>Case-studies of riparian and beaver management, and low-tech structure projects
-o	Where it works – Steve; Where it does not - Scott 
+<li>Low-tech toolbox (beaver mgt, riparian mgt, forestry mgt, structures) 
 </li>
-<li>Questions/Discussions/Exercises 5-15 mins</li>
+<li>Connect these back to degradation
+
+</li>
 </ul>
 
 
@@ -134,10 +135,7 @@ o	Where it works – Steve; Where it does not - Scott
 </li>
 <li>Questions/Discussions/Exercises 5-15 mins</li>
 </ul>
-<ul>
-<li></li>
-<li></li>
-</ul>
+
 #### 11:00-11:15 
 **CO/WY and Engineering Constraints aka FEMA (MOD. 5c) – Brian**
 <ul>
@@ -149,7 +147,11 @@ o	Where it works – Steve; Where it does not - Scott
 
 #### 11:15-12:00
 **Participant Discussion Topics/Ask a Low-tech Practitioner a Question - A**
-
+Class participation and discussion on material presented and other topics
+<ul>
+<li>Pre-submitted questions/discussion topics 20-30 mins</li>
+<li>Live questions/discussion topics 10-15 mins</li>
+</ul>
 
 
 -----
