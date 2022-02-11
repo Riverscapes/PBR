@@ -149,10 +149,11 @@ To sign up, please contact text <a href="mailto:email.com">(email@email.com)</a>
 
 #### 11:15-12:00
 **Participant Discussion Topics/Ask a Low-tech Practitioner a Question - A**
-Class participation and discussion on material presented and other topics
+<ul><li>Class participation and discussion on material presented and other topics</li>
 <ul>
 <li>Pre-submitted questions/discussion topics 20-30 mins</li>
 <li>Live questions/discussion topics 10-15 mins</li>
+</li>
 </ul>
 
 
