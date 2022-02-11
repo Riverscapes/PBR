@@ -128,7 +128,7 @@ To sign up, please contact text <a href="mailto:email.com">(email@email.com)</a>
 
 ### 4. Science and Policy
 #### 10:15-11:00 
-**Science behind Low-tech process-based restoration (MOD. 1) – Steve/Scott**
+**Science behind Low-tech process-based restoration ([Module 1]({{ site.baseurl }}/workshops/2020/SGI/Modules/module1)) – Steve/Scott**
 <ul>
 <li>Case-studies of riparian and beaver management, and low-tech structure projects</li>
 <ul>
@@ -139,7 +139,7 @@ To sign up, please contact text <a href="mailto:email.com">(email@email.com)</a>
 </ul>
 
 #### 11:00-11:15 
-**CO/WY and Engineering Constraints aka FEMA (MOD. 5c) – Brian**
+**CO/WY and Engineering Constraints aka FEMA ([Module 5C]({{ site.baseurl }}/workshops/2020/SGI/Modules/module5)) – Brian**
 <ul>
 <li>Social, permitting, and legal aspects of low-tech design and implementation in CO/WY</li>
 
