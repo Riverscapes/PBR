@@ -153,7 +153,7 @@ To sign up, please contact text <a href="mailto:email.com">(email@email.com)</a>
 <ul>
 <li>Pre-submitted questions/discussion topics 20-30 mins</li>
 <li>Live questions/discussion topics 10-15 mins</li>
-</li>
+</ul>
 </ul>
 
 
