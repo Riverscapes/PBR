@@ -14,13 +14,13 @@ weight: 12
 
 | Date | Title | Source| 
 | ------ | ------ | ------ | 
-| 2022, February 7 | [Beaver Dams Help Wildfire-Ravaged Ecosystems Recover Long after Flames Subside](https://www.scientificamerican.com/article/beaver-dams-help-wildfire-ravaged-ecosystems-recover-long-after-flames-subside/) | Scientific American           |
+| 2022, February 7 | [Beaver Dams Help Wildfire-Ravaged Ecosystems Recover Long after Flames Subside](https://www.scientificamerican.com/article/beaver-dams-help-wildfire-ravaged-ecosystems-recover-long-after-flames-subside/) | Isobel Whitcomb, Scientific American           |
 | 2022, January 24 | [Can beavers help build a better Chesapeake Bay?](https://www.bayjournal.com/news/pollution/can-beavers-help-build-a-better-chesapeake-bay/article_53f6f0e8-7afa-11ec-b0f0-333eff1a8ef0.html) | Karl Blankenship, Bay Journal  |          
 | 2021, December | [Would beavers make good firefighters?](https://www.sciencejournalforkids.org/articles/would-beavers-make-good-firefighters//) | Science Journal for Kids & Teens |
 | 2020, September 22| [How beavers became North America's best firefighter](https://www.nationalgeographic.com/animals/article/beavers-firefighters-wildfires-california-oregon/) | Ben Goldfarb, National Geographic  |  
-| 2022, February 7 | [Beaver Dams Help Wildfire-Ravaged Ecosystems Recover Long after Flames Subside](https://www.scientificamerican.com/article/beaver-dams-help-wildfire-ravaged-ecosystems-recover-long-after-flames-subside/) | Scientific American    |
+| 2021, March 23 | [Simple hand-built structures can help streams survive wildfires and drought](https://www.sciencenews.org/article/stream-survival-beaver-dam-simple-structures-wildfires-drought) | Brianna Randall, Science News    |
 | 2018, December| [Partners Pioneering on Post-Fire Project in the Pioneer Mountains](https://swc.idaho.gov/wp-content/uploads/sites/78/2019/08/final-2018_12-december-2018-newsletter.pdf) | Idaho Soil & Water Conservation Commission |
-| 2018, October 30| [Beavers, Water, and Fire—A New Formula for Success](https://blog.nwf.org/2018/10/beavers-water-and-fire-a-new-formula-for-success/) | National Wildlife Federation |
+| 2018, October 30| [Beavers, Water, and Fire—A New Formula for Success](https://blog.nwf.org/2018/10/beavers-water-and-fire-a-new-formula-for-success/) | Brianna Randall, National Wildlife Federation |
 | 2017, September 22 | [Local Partners Mimic Beavers To Restore Streams In Wyoming](https://www.sagegrouseinitiative.com/teaching-local-partners-mimic-beavers-restore-streams/) | Sage Grouse Initiative           |
 | 2017, April 5 | [Water is Life: SGI's Mesic Habitat Conservation Strategy](https://www.sagegrouseinitiative.com/water-is-life/) | Sage Grouse Initiative           |
 | 2013, October 25  | [Beaver Resotration Would Reduce Wildfires](http://www.thewildlifenews.com/2013/10/25/beaver-restoration-would-reduce-wildfires/) | Ralph Maughan, The Wildlife News    |
