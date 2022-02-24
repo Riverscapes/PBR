@@ -20,7 +20,7 @@ weight: 12
 | 2021, December | [Would beavers make good firefighters?](https://www.sciencejournalforkids.org/articles/would-beavers-make-good-firefighters//) | Science Journal for Kids & Teens |
 | 2022, February 7 | [Beaver Dams Help Wildfire-Ravaged Ecosystems Recover Long after Flames Subside](https://www.scientificamerican.com/article/beaver-dams-help-wildfire-ravaged-ecosystems-recover-long-after-flames-subside/) | Scientific American           |
 | 2022, January 24 | [Can beavers help build a better Chesapeake Bay?](https://www.bayjournal.com/news/pollution/can-beavers-help-build-a-better-chesapeake-bay/article_53f6f0e8-7afa-11ec-b0f0-333eff1a8ef0.html) | Karl Blankenship, Bay Journal  |          |
-| 2022, February 7 | [Beaver Dams Help Wildfire-Ravaged Ecosystems Recover Long after Flames Subside](https://www.scientificamerican.com/article/beaver-dams-help-wildfire-ravaged-ecosystems-recover-long-after-flames-subside/) | Scientific American           |
+| 2020, September 22| [How beavers became North America's best firefighter](https://www.nationalgeographic.com/animals/article/beavers-firefighters-wildfires-california-oregon/) | National Geographic          |
 
 ------
 <div align="center">
