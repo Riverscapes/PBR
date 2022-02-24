@@ -117,9 +117,10 @@ To sign up, please contact Dan Kowalski, Aquatic Resource Specialist at   <a hre
 </li>
 <ul>
 <li>Connect these back to degradation
-</li>
-</ul>
-<li> Questions/Discussions 5 mins</li><ul>
+</li></ul>
+<li> Questions/Discussions 5 mins</li></ul>
+
+
 
 
 #### 10:00-10:15 
