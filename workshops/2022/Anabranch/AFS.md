@@ -70,6 +70,7 @@ To sign up, please contact Dan Kowalski, Aquatic Resource Specialist at   <a hre
 
 -----
 ## Agenda
+<a href="https://s3.us-west-2.amazonaws.com/etalweb.joewheaton.org/Workshops/LTPBR/2022/AFS_LTPBR_Workshop_WY_CO_flyer.pdf"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a> ***Print Agenda***
 
 ### 1. Introductuions & Agenda
 #### 800:00-8:15
