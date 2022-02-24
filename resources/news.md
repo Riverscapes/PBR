@@ -16,7 +16,7 @@ weight: 12
 | Date | Title | Source| 
 | ------ | ------ | ------ | 
 | 2017, April 5 | [Water is Life: SGI's Mesic Habitat Conservation Strategy](https://www.sagegrouseinitiative.com/water-is-life/) | Sage Grouse Initiative           |
-| 2017, April 5 | [Beaver Dams Help Wildfire-Ravaged Ecosystems Recover Long after Flames Subside](https://www.scientificamerican.com/article/beaver-dams-help-wildfire-ravaged-ecosystems-recover-long-after-flames-subside/) | Scientific American           |
+| 2022, February 7 | [Beaver Dams Help Wildfire-Ravaged Ecosystems Recover Long after Flames Subside](https://www.scientificamerican.com/article/beaver-dams-help-wildfire-ravaged-ecosystems-recover-long-after-flames-subside/) | Scientific American           |
 
 ------
 <div align="center">
