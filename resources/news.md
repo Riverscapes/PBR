@@ -17,6 +17,10 @@ weight: 12
 | ------ | ------ | ------ | 
 | 2017, April 5 | [Water is Life: SGI's Mesic Habitat Conservation Strategy](https://www.sagegrouseinitiative.com/water-is-life/) | Sage Grouse Initiative           |
 | 2022, February 7 | [Beaver Dams Help Wildfire-Ravaged Ecosystems Recover Long after Flames Subside](https://www.scientificamerican.com/article/beaver-dams-help-wildfire-ravaged-ecosystems-recover-long-after-flames-subside/) | Scientific American           |
+| 2021, December | [Would beavers make good firefighters?](https://www.sciencejournalforkids.org/articles/would-beavers-make-good-firefighters//) | Science Journal for Kids & Teens |
+| 2022, February 7 | [Beaver Dams Help Wildfire-Ravaged Ecosystems Recover Long after Flames Subside](https://www.scientificamerican.com/article/beaver-dams-help-wildfire-ravaged-ecosystems-recover-long-after-flames-subside/) | Scientific American           |
+| 2022, January 24 | [Can beavers help build a better Chesapeake Bay?](https://www.bayjournal.com/news/pollution/can-beavers-help-build-a-better-chesapeake-bay/article_53f6f0e8-7afa-11ec-b0f0-333eff1a8ef0.html) | Karl Blankenship, Bay Journal  |          |
+| 2022, February 7 | [Beaver Dams Help Wildfire-Ravaged Ecosystems Recover Long after Flames Subside](https://www.scientificamerican.com/article/beaver-dams-help-wildfire-ravaged-ecosystems-recover-long-after-flames-subside/) | Scientific American           |
 
 ------
 <div align="center">
