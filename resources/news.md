@@ -13,9 +13,9 @@ Here is some news coverage on LT-PBR:
 | ------ | ------ | ------ | ------ |
 | 2022,   March 2 | [American Fisheries Society Virtual Workshop: Low-Tech Process-Based Restoration of Riverscapes]({{ site.baseurl }}/workshops/2022/Anabranch/AFS/) | virtual           | [American Fisheries Society](https:/fisheries.org/), [USFWS Partners for Fish & Wildlife](https://www.fws.gov/partners/), [Pheasants Forever](https://pheasantsforever.org/Hunt/pheasant-hunting.aspx), [Conservation Northwest](https://www.conservationnw.org/),[USDA](https://www.nrcs.usda.gov/wps/portal/nrcs/site/national/home/), [Anabranch Solutions](https://www.anabranchsolutions.com/) |
 
-| Year  | Workshop | Location(s) | Sponsor(s) |
-| ------ | ------ | ------ | ------ |
-| 2022,   March 2 | [American Fisheries Society Virtual Workshop: Low-Tech Process-Based Restoration of Riverscapes]({{ site.baseurl }}/workshops/2022/Anabranch/AFS/) | virtual           | [American Fisheries Society](https:/fisheries.org/), [USFWS Partners for Fish & Wildlife](https://www.fws.gov/partners/), [Pheasants Forever](https://pheasantsforever.org/Hunt/pheasant-hunting.aspx), [Conservation Northwest](https://www.conservationnw.org/),[USDA](https://www.nrcs.usda.gov/wps/portal/nrcs/site/national/home/), [Anabranch Solutions](https://www.anabranchsolutions.com/) |
+| Date | Title | Topic(s)| 
+| ------ | ------ | ------ | 
+| 2022,   March 2 | [American Fisheries Society Virtual Workshop: Low-Tech Process-Based Restoration of Riverscapes]({{ site.baseurl }}/workshops/2022/Anabranch/AFS/) | virtual           |
 
 ------
 <div align="center">
