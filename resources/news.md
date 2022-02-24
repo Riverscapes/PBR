@@ -15,7 +15,7 @@ Here is some news coverage on LT-PBR:
 
 | Date | Title | Topic(s)| 
 | ------ | ------ | ------ | 
-| 2022,   March 2 | [American Fisheries Society Virtual Workshop: Low-Tech Process-Based Restoration of Riverscapes]({{ site.baseurl }}/workshops/2022/Anabranch/AFS/) | virtual           |
+| 2022,   March 2 | [Water is Life: SGI's Mesic Habitat Conservation Strategy](https://www.sagegrouseinitiative.com/water-is-life/) | virtual           |
 
 ------
 <div align="center">
