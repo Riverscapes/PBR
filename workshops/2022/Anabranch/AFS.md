@@ -135,14 +135,14 @@ To sign up, please contact Dan Kowalski, Aquatic Resource Specialist at   <a hre
 <li>Where it works – Steve</li>
 <li>Where it does not - Scott </li>
 </ul>
-<li>Questions/Discussions/Exercises 5-15 mins</li>
+<li>Questions/Discussions/Exercises 5-10 mins</li>
 </ul>
 
 #### 11:00-11:15 
 **CO/WY and Engineering Constraints aka FEMA ([Module 5C]({{ site.baseurl }}/workshops/2020/SGI/Modules/module5)) – Brian**
 <ul>
 <li>Social, permitting, and legal aspects of low-tech design and implementation in CO/WY</li>
-
+<li> Quetions/Discussions/Excercises 5-10 mins</li>
 </ul>
 
 ### 5. Discussion and Questions
@@ -151,8 +151,8 @@ To sign up, please contact Dan Kowalski, Aquatic Resource Specialist at   <a hre
 **Participant Discussion Topics/Ask a Low-tech Practitioner a Question - A**
 <ul><li>Class participation and discussion on material presented and other topics</li>
 <ul>
-<li>Pre-submitted questions/discussion topics 20-30 mins</li>
-<li>Live questions/discussion topics 10-15 mins</li>
+<li>Pre-submitted questions/discussion topics 15-25 mins</li>
+<li>Live questions/discussion topics 15-25 mins</li>
 </ul>
 </ul>
 
