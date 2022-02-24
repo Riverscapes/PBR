@@ -3,19 +3,20 @@ title:  LT-PBR in News
 weight: 12
 ---
 
-Here is some news coverage on LT-PBR:
+## Latest News Coverage for LTPBR ##
+
+
 
 
 - [Water is Life: SGI's Mesic Habitat Conservation Strategy](https://www.sagegrouseinitiative.com/water-is-life/)
 - [BDAs in Wyoming Story](https://www.sagegrouseinitiative.com/teaching-local-partners-mimic-beavers-restore-streams/) 
 
-| Year  | Workshop | Location(s) | Sponsor(s) |
-| ------ | ------ | ------ | ------ |
-| 2022,   March 2 | [American Fisheries Society Virtual Workshop: Low-Tech Process-Based Restoration of Riverscapes]({{ site.baseurl }}/workshops/2022/Anabranch/AFS/) | virtual           | [American Fisheries Society](https:/fisheries.org/), [USFWS Partners for Fish & Wildlife](https://www.fws.gov/partners/), [Pheasants Forever](https://pheasantsforever.org/Hunt/pheasant-hunting.aspx), [Conservation Northwest](https://www.conservationnw.org/),[USDA](https://www.nrcs.usda.gov/wps/portal/nrcs/site/national/home/), [Anabranch Solutions](https://www.anabranchsolutions.com/) |
 
-| Date | Title | Topic(s)| 
+
+| Date | Title | Source| 
 | ------ | ------ | ------ | 
-| 2022,   March 2 | [Water is Life: SGI's Mesic Habitat Conservation Strategy](https://www.sagegrouseinitiative.com/water-is-life/) | virtual           |
+| 2017, April 5 | [Water is Life: SGI's Mesic Habitat Conservation Strategy](https://www.sagegrouseinitiative.com/water-is-life/) | Sage Grouse Initiative           |
+| 2017, April 5 | [Water is Life: SGI's Mesic Habitat Conservation Strategy](https://www.sagegrouseinitiative.com/water-is-life/) | Sage Grouse Initiative           |
 
 ------
 <div align="center">
