@@ -13,7 +13,7 @@ weight:  2
 <div class="column column-block">
 	<a href="https://www.fostercreekcd.org/"><img src="{{ site.baseurl }}/assets/images/sponsors/FCCD.png"></a><br>
   </div>
-  
+
   <div class="column column-block">
 	<a href="https://www.pheasantsforever.org/default.aspx"><img src="{{ site.baseurl }}/assets/images/sponsors/pf-logo_2.png"></a><br>
   </div>
@@ -21,11 +21,11 @@ weight:  2
   <div class="column column-block">
 	<a href="https://www.conservationnw.org/"><img src="{{ site.baseurl }}/assets/images/sponsors/conservation_NW.png"></a><br>
   </div>
-  
+
   <div class="column column-block">
 	<a href="https://www.nrcs.usda.gov/wps/portal/nrcs/site/national/home/"><img src="{{ site.baseurl }}/assets/images/sponsors/usda-nrcs-logo_1_orig.png"></a><br>
   </div>
-  
+
   <div class="column column-block">
 	<a href="http://www.anabranchsolutions.com"><img src="{{ site.baseurl }}/assets/images/sponsors/anabranchsolutionslogo-square-450_10.png"></a><br>
   </div>
@@ -87,9 +87,8 @@ To sign up, please contact Dan Kowalski, Aquatic Resource Specialist at   <a hre
 <li>Scope of Problem</li>
 <ul>
 <li>General degradation; loss and importance of structure (beavers and wood)</li>
-<li>Define process-based restoration (contrast with traditional) </li>
 </ul>
-<li>Questions/Discussions/Exercises 5-15 mins</li>
+<li>Questions/Discussions/Exercises 5-10 mins</li>
 </ul>
 
 #### 8:30-9:00: 
@@ -107,7 +106,7 @@ To sign up, please contact Dan Kowalski, Aquatic Resource Specialist at   <a hre
 <li>Uncertainty - Adaptive Management and Expectation Management </li>
 <li>Think about hydrology, geology, sediment supply, confinement, riparian, other</li>
 <li>Reading riverscapes - Valley Bottom, Recovery Potential, Risk Assessment</li>
-<li>Questions/Discussions/Exercises 5-15 mins</li>
+<li>Questions/Discussions/Exercises 10-15 mins</li>
 </ul>
 
 #### 9:45-10:00
@@ -116,10 +115,11 @@ To sign up, please contact Dan Kowalski, Aquatic Resource Specialist at   <a hre
 <ul>
 <li>Low-tech toolbox (beaver mgt, riparian mgt, forestry mgt, structures) 
 </li>
+<ul>
 <li>Connect these back to degradation
-
 </li>
 </ul>
+<li> Questions/Discussions 5 mins</li><ul>
 
 
 #### 10:00-10:15 
