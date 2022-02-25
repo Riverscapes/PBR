@@ -21,6 +21,7 @@ weight: 12
 | 2021, March 23 | [Simple hand-built structures can help streams survive wildfires and drought](https://www.sciencenews.org/article/stream-survival-beaver-dam-simple-structures-wildfires-drought) | Brianna Randall, Science News    |
 | 2021, Spring | [Return of Nature's Hydro Engineers](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/WATS5350/RANGE+Magazine+-+Wilde+Feature+-+Spring+2021.pdf) | Brianna Randall, Range    |
 | 2018, December| [Partners Pioneering on Post-Fire Project in the Pioneer Mountains](https://swc.idaho.gov/wp-content/uploads/sites/78/2019/08/final-2018_12-december-2018-newsletter.pdf) | Idaho Soil & Water Conservation Commission |
+| 2018, December| [Partners Pioneering on Post-Fire Project in the Pioneer Mountains](https://swc.idaho.gov/wp-content/uploads/sites/78/2019/08/final-2018_12-december-2018-newsletter.pdf) | Idaho Soil & Water Conservation Commission |
 | 2018, October 30| [Beavers, Water, and Fire—A New Formula for Success](https://blog.nwf.org/2018/10/beavers-water-and-fire-a-new-formula-for-success/) | Brianna Randall, National Wildlife Federation |
 | 2017, September 22 | [Local Partners Mimic Beavers To Restore Streams In Wyoming](https://www.sagegrouseinitiative.com/teaching-local-partners-mimic-beavers-restore-streams/) | Sage Grouse Initiative           |
 | 2017, April 5 | [Water is Life: SGI's Mesic Habitat Conservation Strategy](https://www.sagegrouseinitiative.com/water-is-life/) | Sage Grouse Initiative           |
