@@ -229,7 +229,7 @@ For the workshops, we will rely on the new [Design Manual]({{ site.baseurl }}/ma
 
 
       <div class="card-section">
-        <h4>Building BDAs</h4>
+        <h4>Building BDAs in E. Foster Creek, WA</h4>
         <div class="responsive-embed"> 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zJq3tLmKLK8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -243,19 +243,54 @@ For the workshops, we will rely on the new [Design Manual]({{ site.baseurl }}/ma
     <div class="card">
 
 
-      <div class="card-section">
-        <h4>Slides</h4>
-    <div align="center">
-        	<a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2020/SGI/Materials/Moudle1/01_B_LowTech_Background%26Purpose.pdf" target="_blank"><img src="{{ site.baseurl }}/assets/images/workshops/2020/modules/01_B.png"></a>
-        	</div>
-        
-         <i class="fa fa-file-pdf-o" aria-hidden="true"></i> <a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2020/SGI/Materials/Moudle1/01_B_LowTech_Background%26Purpose.pdf" target="_blank">Background & Why We’re Here  - Slides</a>
-        
+      
+   <div class="card-section">
+        <h4>Building BDAs Pataha Creek, WA</h4>
+        <div class="responsive-embed"> 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MNqBc--WCFI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
       </div>
-    </div>
 
   </div>
 </div>
+
+<div class="row small-up-2 medium-up-2">
+
+
+  <div class="column">
+    <div class="card">
+
+
+      <div class="card-section">
+        <h4>Building BDAs in E. Foster Creek, WA</h4>
+        <div class="responsive-embed"> 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zJq3tLmKLK8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+      </div>
+    </div>
+  </div>
+
+  <div class="column">
+    <div class="card">
+
+
+      
+   <div class="card-section">
+        <h4>Building BDAs Pataha Creek, WA</h4>
+        <div class="responsive-embed"> 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MNqBc--WCFI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+      </div>
+
+  </div>
+</div>
+
 
 <div align="left">
         <a class="hollow button" href="{{ site.baseurl }}/resources/">  Link to LTPBR Resources </a>  
