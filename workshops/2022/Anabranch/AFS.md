@@ -192,6 +192,9 @@ To sign up, please contact Dan Kowalski, Aquatic Resource Specialist at   <a hre
 
 ### Workshop Textbooks
 For the workshops, we will rely on the new [Design Manual]({{ site.baseurl }}/manual) and the [Pocket Guide]({{ site.baseurl }}/resources/pocket), which are both available free digitally.  
+<div align="left">
+        <a class="hollow button" href="{{ site.baseurl }}/resources/">  Link to LTPBR Resources </a>  
+</div>
 
 ###  Videos
 
@@ -271,10 +274,10 @@ For the workshops, we will rely on the new [Design Manual]({{ site.baseurl }}/ma
 
 
       <div class="card-section">
-        <h4>Building PALS Pataha Creek, WA</h4>
+        <h4>Building PALS Charley Creek,, WA</h4>
         <div class="responsive-embed"> 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kER7VlZG25w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/klLswOXJJv8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </div>
       </div>
@@ -287,7 +290,7 @@ For the workshops, we will rely on the new [Design Manual]({{ site.baseurl }}/ma
 
       
    <div class="card-section">
-        <h4>Building PALS Asotin, WA</h4>
+        <h4>Building mid-channel PALS Asotin, WA</h4>
         <div class="responsive-embed"> 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GfkfEQ7nELc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -296,16 +299,14 @@ For the workshops, we will rely on the new [Design Manual]({{ site.baseurl }}/ma
       </div>
 
   </div>
-
-
-
-<div align="left">
-        <a class="hollow button" href="{{ site.baseurl }}/resources/">  Link to LTPBR Resources </a>  
-</div>
+  </div>
 
 
 
 
 
 
------
+
+
+
+
