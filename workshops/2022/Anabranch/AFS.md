@@ -256,7 +256,6 @@ For the workshops, we will rely on the new [Design Manual]({{ site.baseurl }}/ma
   </div>
 </div>
 
-<div class="row small-up-2 medium-up-2">
 
 
   <div class="column">
