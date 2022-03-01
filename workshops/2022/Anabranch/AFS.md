@@ -193,7 +193,7 @@ To sign up, please contact Dan Kowalski, Aquatic Resource Specialist at   <a hre
 ### Workshop Textbooks
 For the workshops, we will rely on the new [Design Manual]({{ site.baseurl }}/manual) and the [Pocket Guide]({{ site.baseurl }}/resources/pocket), which are both available free digitally.  
 
-### Related Videos
+###  Videos
 
 <div class="row small-up-2 medium-up-2">
 
@@ -229,7 +229,7 @@ For the workshops, we will rely on the new [Design Manual]({{ site.baseurl }}/ma
 
 
       <div class="card-section">
-        <h4>Video</h4>
+        <h4>Building BDAs</h4>
         <div class="responsive-embed"> 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zJq3tLmKLK8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
