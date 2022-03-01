@@ -54,8 +54,7 @@ Because the course will be online, it will be helpful to refer to digital copies
         <a class="hollow button" href="{{ site.baseurl }}/resources/Topics/">  Link to Online Lecture Series </a>  
 </div>
 
-### Join with the Video Link
-The Virtual Workshop can be accessed here:
+
 
 ### How to Sign Up
 To sign up, please contact Dan Kowalski, Aquatic Resource Specialist at   <a href="mailto:dan.kowalski@state.co.us">dan.kowalski@state.co.us</a>; tel. (970) 252-6008 
@@ -195,9 +194,7 @@ To sign up, please contact Dan Kowalski, Aquatic Resource Specialist at   <a hre
 For the workshops, we will rely on the new [Design Manual]({{ site.baseurl }}/manual) and the [Pocket Guide]({{ site.baseurl }}/resources/pocket), which are both available free digitally.  
 
 ### Workshop Lectures
-Thanks to the generous support of the Natural Resource Conservation Service’s Working Lands for Wildlife, and a grant through Pheasants Forever to Utah State University’s Restoration Consortium and Joe Wheaton’s ET-AL lab are able to deliver a free virtual workshops to NRCS conservationists and their partners. This series was envisioned by Jeremy Maestas (NRCS) and is possible thanks to partner matches by various local organizations in each state and matching funds from Utah State University. This grew out of the successful 2016 Enhancing Mesic Habitat Resilience in Sagebrush Ecosystems Workshop at Utah State University and the 2018 and 2019 workshop series.
 
-The latest iteration of these is a lecture series designed to be presented virtually over five days. The link below provides access to all the lectures on each aspect of low-tech PBR (e.g., planning and assessment, design, implementation)  in video and pdf format. These resources will provide more detailed information and links to scientific literature than can be delivered in field-based format.  
 
 
 <div align="left">
