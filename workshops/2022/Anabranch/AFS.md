@@ -195,31 +195,7 @@ For the workshops, we will rely on the new [Design Manual]({{ site.baseurl }}/ma
 
 ###  Videos
 
-<div class="row small-up-2 medium-up-2">
 
-
-  <div class="column">
-    <div class="card">
-
-
-      <div class="card-section">
-        <h4>Slides</h4>
-    <div align="center">
-        	<a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2020/SGI/Materials/Moudle1/01_A_Logistics.pdf" target="_blank"><img src="{{ site.baseurl }}/assets/images/workshops/2020/modules/01_A.png"></a>
-        	</div>
-        
-         <i class="fa fa-file-pdf-o" aria-hidden="true"></i> <a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2020/SGI/Materials/Moudle1/01_A_Logistics.pdf" target="_blank">Virtual Workshop Logistics - Slides</a>
-
-
-      </div>
-    </div>
-  </div>
-
-  <div class="column">
-  
-
-  </div>
-</div>
 
 <div class="row small-up-2 medium-up-2">
 
@@ -288,6 +264,7 @@ For the workshops, we will rely on the new [Design Manual]({{ site.baseurl }}/ma
       </div>
 
   </div>
+  </div>
   
   <div class="column">
     <div class="card">
@@ -319,7 +296,7 @@ For the workshops, we will rely on the new [Design Manual]({{ site.baseurl }}/ma
       </div>
 
   </div>
-</div>
+
 
 
 <div align="left">
