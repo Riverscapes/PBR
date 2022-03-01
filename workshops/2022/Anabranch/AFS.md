@@ -263,7 +263,7 @@ For the workshops, we will rely on the new [Design Manual]({{ site.baseurl }}/ma
 
 
       <div class="card-section">
-        <h4>Building BDAs in E. Foster Creek, WA</h4>
+        <h4>Building PALS Pataha Creek, WA</h4>
         <div class="responsive-embed"> 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kER7VlZG25w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -279,10 +279,10 @@ For the workshops, we will rely on the new [Design Manual]({{ site.baseurl }}/ma
 
       
    <div class="card-section">
-        <h4>Building BDAs Pataha Creek, WA</h4>
+        <h4>Building PALS Asotin, WA</h4>
         <div class="responsive-embed"> 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MNqBc--WCFI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GfkfEQ7nELc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </div>
       </div>
