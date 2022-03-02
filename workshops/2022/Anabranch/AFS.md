@@ -34,13 +34,13 @@ Because the course will be online, it will be helpful to refer to digital copies
 
 
 
-<div align="center">
+<div align="left">
         <a class="hollow button" href="{{ site.baseurl }}/manual/">  Link to LTPBR Design Manual</a>  
 </div>
-<div align="center">
+<div align="left">
         <a class="hollow button" href="{{ site.baseurl }}/resources/pocket">  Link to LTPBR Pocket Guide </a>  
 </div>
-<div align="center">
+<div align="left">
         <a class="hollow button" href="{{ site.baseurl }}/resources/Topics/">  Link to Online Lecture Series </a>  
 </div>
 
@@ -54,6 +54,9 @@ Because the course will be online, it will be helpful to refer to digital copies
     </div>
   </div>
   </div>
+
+
+-----
 
 ### How to Sign Up
 To sign up, please contact Dan Kowalski, Aquatic Resource Specialist at   <a href="mailto:dan.kowalski@state.co.us">dan.kowalski@state.co.us</a>; tel. (970) 252-6008 
