@@ -63,6 +63,33 @@ To sign up, please contact Dan Kowalski, Aquatic Resource Specialist at   <a hre
 
 
 
+-----
+## Instruction Team
+
+<div class="row small-up-2 medium-up-2 large-up-4" align="left">
+
+
+<div class="column column-block">
+    <a href="https://www.anabranchsolutions.com/stephen-bennett.html"><img src="{{ site.baseurl }}/assets/images/people/Steve_Bennett_round.png"></a>
+    <h4><a href="https://www.anabranchsolutions.com/stephen-bennett.html">Stephen N. Bennett</a></h4>
+    Principal Fish & Wildlife Biologist, Anabranch Solutions
+<p>Research Scientist, USU</p>
+  </div>
+
+<div class="column column-block">
+    <a href="https://www.anabranchsolutions.com/scott-shahverdian.html"><img src="{{ site.baseurl }}/assets/images/people/Scott_Shahverdian.png"></a>
+    <h4><a href="https://www.anabranchsolutions.com/scott-shahverdian.html">Scott Shahverdian</a></h4>
+    Geomorphologist  & Designer, Anabranch Solutions
+  </div>
+
+  <div class="column column-block">
+    <a href="https://www.anabranchsolutions.com/brian-murphy.html"><img src="{{ site.baseurl }}/assets/images/people/Brian_Murphy.png"></a>
+    <h4><a href="https://www.anabranchsolutions.com/brian-murphy.html">Brian Murphy</a></h4>
+
+<p>Water Resources Engineer, Anabranch Solutions</p>
+  </div>
+
+</div>
 
 
 
@@ -73,11 +100,11 @@ To sign up, please contact Dan Kowalski, Aquatic Resource Specialist at   <a hre
 ## Agenda
 <a href="https://s3.us-west-2.amazonaws.com/etalweb.joewheaton.org/Workshops/LTPBR/2022/AFS_LTPBR_Workshop_WY_CO_flyer.pdf"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>  <a href="https://s3.us-west-2.amazonaws.com/etalweb.joewheaton.org/Workshops/LTPBR/2022/AFS_LTPBR_Workshop_WY_CO_flyer.pdf">PDF of Agenda</a>
 
-### 1. Introductuions & Agenda
+### 1. Introductions & Agenda
 #### 800:00-8:15
 **Introductions, Agenda, & Goals of Workshop - Steve**
 <br>
-<a href="https://s3.us-west-2.amazonaws.com/etalweb.joewheaton.org/Workshops/LTPBR/2022/Section+1.+Introduction%26Goals_SB.pdf"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>  <a href="https://s3.us-west-2.amazonaws.com/etalweb.joewheaton.org/Workshops/LTPBR/2022/Section+1.+Introduction%26Goals_SB.pdf>Slides: INtroductions & Goals</a>
+<a href="https://s3.us-west-2.amazonaws.com/etalweb.joewheaton.org/Workshops/LTPBR/2022/Section+1.+Introduction%26Goals_SB.pdf"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>  <a href="https://s3.us-west-2.amazonaws.com/etalweb.joewheaton.org/Workshops/LTPBR/2022/Section+1.+Introduction%26Goals_SB.pdf">Slides: Introductions & Goals</a>
 <ul>
 <li>Introductions, Goals, Agenda, and Logistics</li>
 <li>Who reviewed Module 1 or read Chapter 1 of the Design Manual?</li>
