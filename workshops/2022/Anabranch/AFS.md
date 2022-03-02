@@ -195,6 +195,9 @@ To sign up, please contact Dan Kowalski, Aquatic Resource Specialist at   <a hre
 </ul>
 </ul>
 
+<br>
+<a href="https://s3.us-west-2.amazonaws.com/etalweb.joewheaton.org/Workshops/LTPBR/2022/AFS+Low-tech_LiteratureCited.pdf"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>  <a href="https://s3.us-west-2.amazonaws.com/etalweb.joewheaton.org/Workshops/LTPBR/2022/AFS+Low-tech_LiteratureCited.pdf">PDF: Literature Cited</a>
+
 
 -----
 
