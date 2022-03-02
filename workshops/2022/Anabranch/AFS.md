@@ -30,7 +30,9 @@ weight:  2
 ## Description
 This half-day virtual-based workshop will be presented as part of the American Fisheries Society Continuing Education Program at the Colorado/Wyoming annual meeting.  The workshop is intended to introduce resource managers, land-owners, and conservation groups to ‘low-tech’ process-based (LTPBR) approaches for restoring streams and their associated riparian areas (riverscapes) to benefit fish and wildlife. People that have some knowledge of LTPBR can also benefit as the instructors will be providing lessons learned from assessing, planning, and implementing dozens of LTPBR projects across a wide variety of geographic settings in multiple states. Participants will learn principles guiding low-tech process-based restoration, become familiar with basic beaver ecology, and different types of low-tech structures, including Beaver Dam Analogues (BDAs) and Post-Assisted Log Structures (PALS). The focus of the workshop will be on the guiding principles, the construction of different low-tech structures, and the impairments the structures can treat. Specific examples related to fish population responses will be presented. 
 
- <a class="float-right" href="https://www.researchgate.net/publication/323884935_The_Beaver_Restoration_Guidebook_Working_with_Beaver_to_Restore_Streams_Wetlands_and_Floodplains_Prepared_by_US_Fish_and_Wildlife_Service_North_Pacific_Landscape_Conservation_Cooperative_Recommended_c#fullTextFileContent"><img alt="Beaver Restoration Guidebook" src="{{ site.baseurl }}/assets/images/covers/BeaverRestorationGuidebook_200.png"></a> Because the course will be online, it will be helpful to refer to digital copies of the [Design Manual]({{ site.baseurl }}/manual) and the [Pocket Guide]({{ site.baseurl }}/resources/pocket). We encourage workshop participants to review [Module 1]({{ site.baseurl }}/workshops/2020/SGI/Modules/module1) of the online resources or Chapter 1 of the [Design Manual]({{ site.baseurl }}/manual) can be viewed either as videos or pdf documents.  We encourage workshop participants to review some of the lecture material before the workshop. 
+### Resources & Course Materials
+
+<a class="float-right" href="https://www.researchgate.net/publication/323884935_The_Beaver_Restoration_Guidebook_Working_with_Beaver_to_Restore_Streams_Wetlands_and_Floodplains_Prepared_by_US_Fish_and_Wildlife_Service_North_Pacific_Landscape_Conservation_Cooperative_Recommended_c#fullTextFileContent"><img alt="Beaver Restoration Guidebook" src="{{ site.baseurl }}/assets/images/covers/BeaverRestorationGuidebook_200.png"></a> Because the course will be online, it will be helpful to refer to digital copies of the [Design Manual]({{ site.baseurl }}/manual) and the [Pocket Guide]({{ site.baseurl }}/resources/pocket). We encourage workshop participants to review [Module 1]({{ site.baseurl }}/workshops/2020/SGI/Modules/module1) of the online resources or Chapter 1 of the [Design Manual]({{ site.baseurl }}/manual) can be viewed either as videos or pdf documents.  We encourage workshop participants to review some of the lecture material before the workshop. 
 
 
 
@@ -39,16 +41,7 @@ This half-day virtual-based workshop will be presented as part of the American F
 <a class="hollow button" href="{{ site.baseurl }}/resources/">  Link to LTPBR Resources </a>  
 </div>
 
-<div class="row small-up-2 medium-up-4">
-  <div class="column">
-    <div class="card">
-      <a href="https://www.researchgate.net/publication/323884935_The_Beaver_Restoration_Guidebook_Working_with_Beaver_to_Restore_Streams_Wetlands_and_Floodplains_Prepared_by_US_Fish_and_Wildlife_Service_North_Pacific_Landscape_Conservation_Cooperative_Recommended_c#fullTextFileContent"><img src="{{ site.baseurl }}/assets/images/covers/BeaverRestorationGuidebook.png"></a>
-      <div class="card-section">
-        <p>The Beaver Restoration Guidebook</p>
-      </div>
-    </div>
-  </div>
-  </div>
+
 
 
 -----
@@ -206,16 +199,10 @@ To sign up, please contact Dan Kowalski, Aquatic Resource Specialist at   <a hre
 -----
 
 
-## Course Materials
 
 
-### Workshop Textbooks
-For the workshops, we will rely on the new [Design Manual]({{ site.baseurl }}/manual) and the [Pocket Guide]({{ site.baseurl }}/resources/pocket), which are both available free digitally.  
-<div align="left">
-        <a class="hollow button" href="{{ site.baseurl }}/resources/">  Link to LTPBR Resources </a>  
-</div>
 
-----
+
 
 ###  Videos
 
