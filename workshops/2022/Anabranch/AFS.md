@@ -9,7 +9,7 @@ weight:  2
   
 
   <div class="column column-block">
-<a href="https://qcnr.usu.edu/wats/"><img src="{{ site.baseurl }}/assets/images/sponsors/USU.png"></a><br>
+<a href="https://qcnr.usu.edu/wats/"><img src="{{ site.baseurl }}/assets/images/sponsors/WATSLogo_Blue_Large.png"></a><br>
   </div>
 
   <div class="column column-block">
