@@ -6,24 +6,14 @@ weight:  2
 
 <div class="row small-up-2 medium-up-2 large-up-6" align="center">
 
-  <div class="column column-block">
-    <a href="https://www.fws.gov/partners/"><img src="{{ site.baseurl }}/assets/images/sponsors/USFWS.jpg"></a>
-  </div>
-
-<div class="column column-block">
-	<a href="https://www.fostercreekcd.org/"><img src="{{ site.baseurl }}/assets/images/sponsors/FCCD.png"></a><br>
-  </div>
+  
 
   <div class="column column-block">
-	<a href="https://www.pheasantsforever.org/default.aspx"><img src="{{ site.baseurl }}/assets/images/sponsors/pf-logo_2.png"></a><br>
+	<a href="https://qcnr.usu.edu/wats/"><img src="{{ site.baseurl }}/assets/images/sponsors/usu.png"></a><br>
   </div>
 
   <div class="column column-block">
-	<a href="https://www.conservationnw.org/"><img src="{{ site.baseurl }}/assets/images/sponsors/conservation_NW.png"></a><br>
-  </div>
-
-  <div class="column column-block">
-	<a href="https://www.nrcs.usda.gov/wps/portal/nrcs/site/national/home/"><img src="{{ site.baseurl }}/assets/images/sponsors/usda-nrcs-logo_1_orig.png"></a><br>
+	<a href="https://units.fisheries.org/cowyafs/"><img src="{{ site.baseurl }}/assets/images/sponsors/AFS_CO_WY.jpg"></a><br>
   </div>
 
   <div class="column column-block">
