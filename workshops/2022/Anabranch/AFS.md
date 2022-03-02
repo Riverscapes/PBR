@@ -49,8 +49,7 @@ Because the course will be online, it will be helpful to refer to digital copies
     <div class="card">
       <a href="https://www.researchgate.net/publication/323884935_The_Beaver_Restoration_Guidebook_Working_with_Beaver_to_Restore_Streams_Wetlands_and_Floodplains_Prepared_by_US_Fish_and_Wildlife_Service_North_Pacific_Landscape_Conservation_Cooperative_Recommended_c#fullTextFileContent"><img src="{{ site.baseurl }}/assets/images/covers/BeaverRestorationGuidebook.png"></a>
       <div class="card-section">
-        <h4>This is a row of cards.</h4>
-        <p>This row of cards is embedded in an Flex Block Grid.</p>
+        <p>The Beaver Restoration Guidebook</p>
       </div>
     </div>
   </div>
