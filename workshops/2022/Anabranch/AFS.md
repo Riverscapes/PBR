@@ -196,6 +196,8 @@ For the workshops, we will rely on the new [Design Manual]({{ site.baseurl }}/ma
         <a class="hollow button" href="{{ site.baseurl }}/resources/">  Link to LTPBR Resources </a>  
 </div>
 
+----
+
 ###  Videos
 
 
