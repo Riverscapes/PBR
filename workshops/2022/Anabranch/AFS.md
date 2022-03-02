@@ -44,7 +44,17 @@ Because the course will be online, it will be helpful to refer to digital copies
         <a class="hollow button" href="{{ site.baseurl }}/resources/Topics/">  Link to Online Lecture Series </a>  
 </div>
 
-
+<div class="row small-up-2 medium-up-3">
+  <div class="column">
+    <div class="card">
+      <a href="https://www.researchgate.net/publication/323884935_The_Beaver_Restoration_Guidebook_Working_with_Beaver_to_Restore_Streams_Wetlands_and_Floodplains_Prepared_by_US_Fish_and_Wildlife_Service_North_Pacific_Landscape_Conservation_Cooperative_Recommended_c#fullTextFileContent"><img src="{{ site.baseurl }}/assets/images/covers/BeaverRestorationGuidebook.png"></a>
+      <div class="card-section">
+        <h4>This is a row of cards.</h4>
+        <p>This row of cards is embedded in an Flex Block Grid.</p>
+      </div>
+    </div>
+  </div>
+  </div>
 
 ### How to Sign Up
 To sign up, please contact Dan Kowalski, Aquatic Resource Specialist at   <a href="mailto:dan.kowalski@state.co.us">dan.kowalski@state.co.us</a>; tel. (970) 252-6008 
