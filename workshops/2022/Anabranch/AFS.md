@@ -76,6 +76,8 @@ To sign up, please contact Dan Kowalski, Aquatic Resource Specialist at   <a hre
 ### 1. Introductuions & Agenda
 #### 800:00-8:15
 **Introductions, Agenda, & Goals of Workshop - Steve**
+<br>
+<a href="https://s3.us-west-2.amazonaws.com/etalweb.joewheaton.org/Workshops/LTPBR/2022/Section+1.+Introduction%26Goals_SB.pdf"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>  <a href="https://s3.us-west-2.amazonaws.com/etalweb.joewheaton.org/Workshops/LTPBR/2022/Section+1.+Introduction%26Goals_SB.pdf>Slides: INtroductions & Goals</a>
 <ul>
 <li>Introductions, Goals, Agenda, and Logistics</li>
 <li>Who reviewed Module 1 or read Chapter 1 of the Design Manual?</li>
@@ -112,7 +114,7 @@ To sign up, please contact Dan Kowalski, Aquatic Resource Specialist at   <a hre
 #### 9:00-9:45
 **Connecting Observations with Goals and Objectives ( [Pocket Guide]({{ site.baseurl }}/resources/pocket) p.7, [Design Manual]({{ site.baseurl }}/manual) Ch.3) – Scott**
 <br>
-<a href="https://s3.us-west-2.amazonaws.com/etalweb.joewheaton.org/Workshops/LTPBR/2022/AFS_LTPBR_Workshop_WY_CO_flyer.pdf"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>  <a href="https://s3.us-west-2.amazonaws.com/etalweb.joewheaton.org/Workshops/LTPBR/2022/AFS_LTPBR_Workshop_WY_CO_flyer.pdf">SLIDES</a>
+<a href="https://s3.us-west-2.amazonaws.com/etalweb.joewheaton.org/Workshops/LTPBR/2022/Section+3a.+Planning_Assessment_SS.pdf"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>  <a href="https://s3.us-west-2.amazonaws.com/etalweb.joewheaton.org/Workshops/LTPBR/2022/Section+3a.+Planning_Assessment_SS.pdf">Slides: Planning, Uncertainty and Adaptive Management</a>
 <ul>
 <li>Uncertainty - Adaptive Management and Expectation Management </li>
 <li>Think about hydrology, geology, sediment supply, confinement, riparian, other</li>
@@ -158,7 +160,7 @@ To sign up, please contact Dan Kowalski, Aquatic Resource Specialist at   <a hre
 #### 11:00-11:15 
 **CO/WY and Engineering Constraints aka FEMA ([Module 5C]({{ site.baseurl }}/workshops/2020/SGI/Modules/module5)) – Brian**
 <br>
-<a href="https://s3.us-west-2.amazonaws.com/etalweb.joewheaton.org/Workshops/LTPBR/2022/AFS_LTPBR_Workshop_WY_CO_flyer.pdf"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>  <a href="https://s3.us-west-2.amazonaws.com/etalweb.joewheaton.org/Workshops/LTPBR/2022/AFS_LTPBR_Workshop_WY_CO_flyer.pdf">SLIDES</a>
+<a href="https://s3.us-west-2.amazonaws.com/etalweb.joewheaton.org/Workshops/LTPBR/2022/Section4.c+Engineering%26Permitting_BM.pdf"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>  <a href="https://s3.us-west-2.amazonaws.com/etalweb.joewheaton.org/Workshops/LTPBR/2022/Section4.c+Engineering%26Permitting_BM.pdf">Slides: CO/WY and Engineering Constraints</a>
 <ul>
 <li>Social, permitting, and legal aspects of low-tech design and implementation in CO/WY</li>
 <li> Quetions/Discussions/Excercises 5-10 mins</li>
@@ -168,8 +170,7 @@ To sign up, please contact Dan Kowalski, Aquatic Resource Specialist at   <a hre
 
 #### 11:15-12:00
 **Participant Discussion Topics/Ask a Low-tech Practitioner a Question - A**
-<br>
-<a href="https://s3.us-west-2.amazonaws.com/etalweb.joewheaton.org/Workshops/LTPBR/2022/AFS_LTPBR_Workshop_WY_CO_flyer.pdf"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>  <a href="https://s3.us-west-2.amazonaws.com/etalweb.joewheaton.org/Workshops/LTPBR/2022/AFS_LTPBR_Workshop_WY_CO_flyer.pdf">SLIDES</a>
+
 <ul><li>Class participation and discussion on material presented and other topics</li>
 <ul>
 <li>Pre-submitted questions/discussion topics 15-25 mins</li>
