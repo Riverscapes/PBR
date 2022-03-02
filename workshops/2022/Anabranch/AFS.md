@@ -99,7 +99,9 @@ To sign up, please contact Dan Kowalski, Aquatic Resource Specialist at   <a hre
 #### 8:30-9:00: 
 **Guiding Principles ( [Pocket Guide]({{ site.baseurl }}/resources/pocket) p.1, [Design Manual]({{ site.baseurl }}/manual) Ch.2) – Steve/Scott**
 <br>
-<a href="https://s3.us-west-2.amazonaws.com/etalweb.joewheaton.org/Workshops/LTPBR/2022/AFS_LTPBR_Workshop_WY_CO_flyer.pdf"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>  <a href="https://s3.us-west-2.amazonaws.com/etalweb.joewheaton.org/Workshops/LTPBR/2022/AFS_LTPBR_Workshop_WY_CO_flyer.pdf">SLIDES</a>
+<a href="https://s3.us-west-2.amazonaws.com/etalweb.joewheaton.org/Workshops/LTPBR/2022/CO_AFS_Restoration_principles_SS.pdf"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>  <a href="https://s3.us-west-2.amazonaws.com/etalweb.joewheaton.org/Workshops/LTPBR/2022/CO_AFS_Restoration_principles_SS.pdf">SLIDES LTPBR Riversape Principles</a>
+<br>
+<a href="https://s3.us-west-2.amazonaws.com/etalweb.joewheaton.org/Workshops/LTPBR/2022/CO_AFS_Restoration_principles_SS.pdf"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>  <a href="https://s3.us-west-2.amazonaws.com/etalweb.joewheaton.org/Workshops/LTPBR/2022/CO_AFS_Restoration_principles_SS.pdf">Slides: LTPBR Restoration Principles</a>
 <ul>
 <li>Riverscape Principles - Steve</li>
 <li>Restoration Principles - Scott</li>
@@ -143,7 +145,7 @@ To sign up, please contact Dan Kowalski, Aquatic Resource Specialist at   <a hre
 #### 10:15-11:00 
 **Science behind Low-tech process-based restoration ([Module 1]({{ site.baseurl }}/workshops/2020/SGI/Modules/module1)) – Steve/Scott**
 <br>
-<a href="https://s3.us-west-2.amazonaws.com/etalweb.joewheaton.org/Workshops/LTPBR/2022/AFS_LTPBR_Workshop_WY_CO_flyer.pdf"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>  <a href="https://s3.us-west-2.amazonaws.com/etalweb.joewheaton.org/Workshops/LTPBR/2022/AFS_LTPBR_Workshop_WY_CO_flyer.pdf">SLIDES</a>
+<a href="https://s3.us-west-2.amazonaws.com/etalweb.joewheaton.org/Workshops/LTPBR/2022/Section+4b.Challenges_SS.pdf"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>  <a href="https://s3.us-west-2.amazonaws.com/etalweb.joewheaton.org/Workshops/LTPBR/2022/Section+4b.Challenges_SS.pdf">Slides: Where LTPBR Doesn't Work*</a>
 <ul>
 <li>Case-studies of riparian and beaver management, and low-tech structure projects</li>
 <ul>
