@@ -26,13 +26,18 @@ In recent years, there has been some media attention focused on the role that be
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IAM94B73bzE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
+## TV
+### PBS Special
+
+[Want to Solve Wildfires and Drought? Leave it to BEAVERS!](https://www.pbs.org/video/want-to-solve-wildfires-and-drought-leave-it-to-beavers-t8gtpt/) - November 2021
+
 ## News Articles
 
 
 
 <a target="blank" href="https://swc.idaho.gov/wp-content/uploads/sites/78/2019/08/final-2018_12-december-2018-newsletter.pdf"><img class="float-right" src="{{ site.baseurl }}/assets/images/covers/ISWCC_Pioneer.png"></a>
 - Maughan R.  2013. [Beaver restoration would reduce wildfires](http://www.thewildlifenews.com/2013/10/25/beaver-restoration-would-reduce-wildfires/). The Wildlife News. 
-- Stuebner S. 2018. [Idaho Soil & Water Conservaton Commission - "Partners Pioneering on Post-Fire Project in the the Pioneer Mountains"](https://swc.idaho.gov/wp-content/uploads/sites/78/2019/08/final-2018_12-december-2018-newsletter.pdf) Conservation the Idaho Way. Idaho Soil & Water Conservation Commission.
+- Stuebner S. 2018. [Idaho Soil & Water Conservation Commission - "Partners Pioneering on Post-Fire Project in the the Pioneer Mountains"](https://swc.idaho.gov/wp-content/uploads/sites/78/2019/08/final-2018_12-december-2018-newsletter.pdf) Conservation the Idaho Way. Idaho Soil & Water Conservation Commission.
 
 - Randall, B. 2018. [Beavers, Water, and Fire—A New Formula for Success
 Low-tech stream restoration works wonders for people and wildlife](https://blog.nwf.org/2018/10/beavers-water-and-fire-a-new-formula-for-success/). [National Wildlife Federation Blog](https://blog.nwf.org/). 
