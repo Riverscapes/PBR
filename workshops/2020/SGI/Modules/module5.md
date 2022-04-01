@@ -4,7 +4,7 @@ weight: 5
 ---
 
 
-Below you can find PDFs and video recordings of the slides we cover in the intro to low-tech process-based restoration virtual workshop. Each is licensed with a [Creative Commons licence](https://creativecommons.org/), so you are free to re-use subject to the terms of the license. 
+Below you can find PDFs and video recordings of the slides we cover in the intro to low-tech process-based restoration virtual workshop. Each is licensed with a [Creative Commons license](https://creativecommons.org/), so you are free to re-use subject to the terms of the license. 
 
 <div align="center">
 <a class=" button hollow" href="{{ site.baseurl }}/resources/Topics/"> <i class="fa fa-chevron-circle-left" aria-hidden="true"></i> <b> Back to all Modules</b>    </a>
@@ -173,7 +173,7 @@ Watch entire <i class="fa fa-youtube-play" aria-hidden="true"></i> <a href="http
 
 ### D. Logistics, Equipment, & Safety
 <a href="{{ site.baseurl }}/workshops/2020/SGI/#instruction-team"><img width="80"  class="float-left" src="{{ site.baseurl }}/assets/images/people/shahverdian-round_1.png"></a>
-[Scott Shahverdian]({{ site.baseurl }}/workshops/2020/SGI/#instruction-team) details the logistics of what it takes to get a low-tech restoration project on the ground.  He covers logistics, equipment and safety considerations of implemening a low-tech project.
+[Scott Shahverdian]({{ site.baseurl }}/workshops/2020/SGI/#instruction-team) details the logistics of what it takes to get a low-tech restoration project on the ground.  He covers logistics, equipment and safety considerations of implementing a low-tech project.
 
 <br>
 **Background :** This talk is based on [Chapter 6]({{ site.baseurl}}/manual/chap06)  of the design manual.  
@@ -280,7 +280,7 @@ Watch entire <i class="fa fa-youtube-play" aria-hidden="true"></i> <a href="http
 
 ### F. Adaptive Management
 <a href="{{ site.baseurl }}/workshops/2020/SGI/#instruction-team"><img width="80"  class="float-left" src="{{ site.baseurl }}/assets/images/people/bouwes-round_1_orig.png"></a>
-[Nick Bouwes]({{ site.baseurl }}/workshops/2020/SGI/#instruction-team) discusses the importance of adaptive managment with Low-Tech Process-Based Restoration. 
+[Nick Bouwes]({{ site.baseurl }}/workshops/2020/SGI/#instruction-team) discusses the importance of adaptive management with Low-Tech Process-Based Restoration. 
 
 <br>
 
@@ -379,5 +379,4 @@ Watch entire <i class="fa fa-youtube-play" aria-hidden="true"></i> <a href="http
 <a class=" button hollow" href="{{ site.baseurl }}/workshops/uni"><img width="100" src="{{ site.baseurl }}/assets/images/sponsors/USU.png">  <b> Take this Module</b>  for University Credit or Professional CEU  <i class="fa fa-graduation-cap"></i> 
   </a>
 </div>
-
 

@@ -1,6 +1,8 @@
 ---
-Meets 3 times (Hybrid F2F)title: USU LTPBR Courses
+title: Utah State Univrsity Courses
+weight: 2
 ---
+
 
 
 # Utah State University Administered Courses
