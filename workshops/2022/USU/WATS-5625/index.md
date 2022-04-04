@@ -42,7 +42,7 @@ Outline dates and assignments are all available on Canvas:
 <div align="center">
 <a class="hollow button" href="https://usu.instructure.com/courses/700765"><img src="{{ site.baseurl }}/assets/images/canvas_logo.png">  <b>Spring 2022 Canvas</b><br> WATS 5625 - Adaptive Management of  LTPBR Course Assignments</a></div>
 
-Students are expected to watch live or pre-recorded lectures and complete the reading assignments prior to our class meeting, where those topics will be discussed and exercises completed as a group. Each person will develop an adaptive management framework for Birch Creek. 
+Students are expected to watch live or pre-recorded lectures and complete the reading assignments prior to our class meeting, where those topics will be discussed. Each person will develop an adaptive management framework for Birch Creek. 
 
 This class meets three times for a discussion session (remotely) :
 
