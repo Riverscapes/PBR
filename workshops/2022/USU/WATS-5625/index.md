@@ -44,7 +44,7 @@ Outline dates and assignments are all available on Canvas:
 
 Students are expected to watch live or pre-recorded lectures and complete the reading assignments prior to our class meeting, where those topics will be discussed. Each person will develop an adaptive management framework for Birch Creek. 
 
-This class meets three times for a discussion session (remotely) :
+This class meets three times for a discussion session (live or remotely) :
 
 | Meeting Date | Modules     | Topics                                                       |
 | ------------ | ----------- | ------------------------------------------------------------ |
