@@ -26,14 +26,14 @@ This course introduces Low-Tech Process-Based Restoration of Riverscapes impleme
 
 ## Schedule
 ### Spring 2022 - Adaptive Management of LTPBR
-- Matriculated Students: ADAPT MGT LOWTEC PRCBAS REST - XXXX - WATS 5625 - 00X
-- Non-Matriculated Students: [XXXX - CEWA 5625 - LB5]()
+- Matriculated Students: ADAPT MGT LOWTEC PRCBAS REST - WATS 5625 - 001 XL
+- Non-Matriculated Students: [CEWA 5625 - LB5]()
 
 
 
 | Class                                                        | Time              | Days     | Where                                                        | Dates        | Instructors                                                  |
 | ------------------------------------------------------------ | ----------------- | -------- | ------------------------------------------------------------ | ------------ | ------------------------------------------------------------ |
-| [Adaptive Mgt LTPBR]({{ site.baseurl }}/workshops/2022/USU/WATS-5625/) | 1:30 pm - 3:30 pm | Tuesdays | [Zoom](https://usu-edu.zoom.us/j/88041118826?pwd=d2JqUE1NQWlrWnk0YVExVTgxdHN3dz09) & TBD | Apr 5, 12 and 26, 2022 | [Nicolaas Bouwes]({{ site.baseurl }}//workshops/2020/SGI/#instruction-team) |
+| [Adaptive Mgt LTPBR]({{ site.baseurl }}/workshops/2022/USU/WATS-5625/) | 1:30 pm - 3:30 pm | Tuesdays | [Zoom](https://usu-edu.zoom.us/j/88041118826?pwd=d2JqUE1NQWlrWnk0YVExVTgxdHN3dz09) & DE 204 | Apr 5, 12 and 26, 2022 | [Nicolaas Bouwes]({{ site.baseurl }}//workshops/2020/SGI/#instruction-team) |
 |                                                              |                   |          |                                                              |              |                                                              |
 
 ### Course Schedule/Outline
@@ -42,19 +42,18 @@ Outline dates and assignments are all available on Canvas:
 <div align="center">
 <a class="hollow button" href="https://usu.instructure.com/courses/700765"><img src="{{ site.baseurl }}/assets/images/canvas_logo.png">  <b>Spring 2022 Canvas</b><br> WATS 5625 - Adaptive Management of  LTPBR Course Assignments</a></div>
 
-Students are expected to watch pre-recorded lectures and complete the reading assignments prior to our class meeting, where those topics will be discussed and exercises completed as a group. Both that session and the Saturday field trip are mandatory attendance. 
+Students are expected to watch live or pre-recorded lectures and complete the reading assignments prior to our class meeting, where those topics will be discussed and exercises completed as a group. Each person will develop an adaptive management framework for Birch Creek. 
 
 This class meets three times for a discussion session (remotely) :
 
 | Meeting Date | Modules     | Topics                                                       |
 | ------------ | ----------- | ------------------------------------------------------------ |
-| 4/5/2022    | Module 1 | |
-| 4/12/2022    | TBD          |                   |
-| 4/26/2022    | TBD | |
+| 4/5/2022    | Module 1 | Introduction and background of Adaptive Management |
+| 4/12/2022   | Module 2 | Adapative Management for Low-Tech Process-Based Restoration     |
+| 4/26/2022   | Module 3 | Developing an Adaptive Management Framework for Birch Creek|
 
 <!--- NICK TO POPULATE
-This course is based on [Module 5]({{ site.baseurl }}/workshops/2020/SGI/Modules/module5.html) of the self-paced materials. 
-<div align="center">
+This course will introduce traditional adaptive management.  We discuss the need, background, and what is adaptive management.  We will then discuss how we might simplfy adaptive management as it applys to low-tech process-based restoration.  Finally each student will create their own adpative management plan for the Birch Creek restoration efforts.  
 <a class="hollow button" href="{{ site.baseurl }}/workshops/2020/SGI/Modules/module5"><img src="{{ site.baseurl }}/assets/images/diagrams/presentation.png"> <b>Module 5 - Implementation</b> <br> Slides  <i class="fa fa-file-pdf-o" aria-hidden="true"></i>, Recorded Lectures <i class="fa fa-youtube-play" aria-hidden="true"></i> and Exercises </a></div>
 --->
 
@@ -75,13 +74,13 @@ $260.00  [Register Here](https://www.usu.edu/ais/ceu/register/)
 <!----- NICK TO POPULATE
 ## Course Objectives
 
-This introductory course is focused on remembering and understanding, and is a pre-requisite to more [in depth courses]({{ site.baseurl }}/workshops/uni) on [LTPBR]({{ site.baseurl }}) .
+This introductory course is focused on remembering, understanding, using adaptive management in LT-PBR projects. ({{ site.baseurl }}/workshops/uni) on [LTPBR]({{ site.baseurl }}) .
 By the end of this course, students will:
 
-1. *Understand* aspects of the consultation and permitting process. 
-2. *Use* low-tech construction techniques safely
-3. *Create* an adaptive management plan to include mainteance, and intiation of potential subsequent phases of design and construction. 
-4. *Document* as-built conditions. 
+1. *Understand* why adaptive management can increase our ability to both learn and achieve restoration goals. 
+2. *Use* adaptive management for low-tech process-based restoration
+3. *Create* an adaptive management plan to articulate objectives, expected responses, monitoring plan, when to do mainteance, and intiation of potential subsequent phases of design and construction. 
+
 
 --->
 
@@ -107,7 +106,7 @@ By the end of this course, students will:
 
 To get in touch with instructor(s), please use [Canvas](https://usu.instructure.com/courses/618129) for communication. 
 
-**Group Office Hours** (Wednesday 12:00 - 13:00 via [Zoom](https://usu-edu.zoom.us/my/h20joe?pwd=eFNjSllqT3VDNTRoLzZ3Sk9IM1F6UT09) <i class="fa fa-search" aria-hidden="true"></i>
+**Group Office Hours** (upon appointment via [Zoom](https://usu-edu.zoom.us/my/h20joe?pwd=eFNjSllqT3VDNTRoLzZ3Sk9IM1F6UT09) <i class="fa fa-search" aria-hidden="true"></i>
 
 
 ### Instructor Affiliations
@@ -139,7 +138,7 @@ The course is organized into a series of modules or topics. Slides (as PDFs), re
 All of course lecture slides and materials are linked from the Canvas page by module and assignment.
 
 <div align="center">
-<a class="hollow button" href="https://usu.instructure.com/"><img src="{{ site.baseurl }}/assets/images/canvas_logo.png">  <b>Spring 2021 Canvas</b><br> WATS 5625 - Implementation of LTPBR Course Assignments</a>
+<a class="hollow button" href="https://usu.instructure.com/"><img src="{{ site.baseurl }}/assets/images/canvas_logo.png">  <b>Spring 2021 Canvas</b><br> WATS 5625 - Adaptive Management of LTPBR Course Assignments</a>
 
 
 <a class="hollow button" href="{{ site.baseurl }}/workshops/2020/SGI/Modules/module5"><img src="{{ site.baseurl }}/assets/images/diagrams/presentation.png"> <b>Module 6 - Implementation</b> <br> Slides  <i class="fa fa-file-pdf-o" aria-hidden="true"></i>, Recorded Lectures <i class="fa fa-youtube-play" aria-hidden="true"></i> and Exercises </a>
