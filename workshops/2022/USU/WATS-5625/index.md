@@ -10,7 +10,7 @@ weight: 6
 
 ## Catalog Description
 
-This course introduces Low-Tech Process-Based Restoration of Riverscapes implementation. Students construct low-tech structures like PALS (post-assisted log structures) and BDAs (beaver dam analogues) on student-designed restoration projects. Students explore consultation and permitting, and become proficient in construction safety and logistics.
+This course introduces Adaptive Management and how it can be applied to Low-Tech Process-Based Restoration of Riverscapes projects. Students will ask questions and engage in discussions about adaptive management lectures and readings. Students will develop an adaptive management plan for the Birch Creek restoration project. 
 
 |**Title**| Adaptive Management of Low-Tech Process-Based Restoration of Riverscapes|
 |**Semester(s) Traditionally Offered**| Spring|
@@ -33,7 +33,7 @@ This course introduces Low-Tech Process-Based Restoration of Riverscapes impleme
 
 | Class                                                        | Time              | Days     | Where                                                        | Dates        | Instructors                                                  |
 | ------------------------------------------------------------ | ----------------- | -------- | ------------------------------------------------------------ | ------------ | ------------------------------------------------------------ |
-| [Adaptive Mgt LTPBR]({{ site.baseurl }}/workshops/2022/USU/WATS-5625/) | 1:30 pm - 3:30 pm | Tuesdays | [Zoom](https://usu-edu.zoom.us/j/88041118826?pwd=d2JqUE1NQWlrWnk0YVExVTgxdHN3dz09) & DE 204 | Apr 5, 12 and 26, 2022 | [Nicolaas Bouwes]({{ site.baseurl }}//workshops/2020/SGI/#instruction-team) |
+| [Adaptive Mgt LTPBR]({{ site.baseurl }}/workshops/2022/USU/WATS-5625/) | 1:30 pm - 3:30 pm | Tuesdays | [Zoom](https://usu-edu.zoom.us/j/88041118826?pwd=d2JqUE1NQWlrWnk0YVExVTgxdHN3dz09) & DE204 | Apr 5, 12 and 26, 2022 | [Nicolaas Bouwes]({{ site.baseurl }}//workshops/2020/SGI/#instruction-team) |
 |                                                              |                   |          |                                                              |              |                                                              |
 
 ### Course Schedule/Outline
