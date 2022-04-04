@@ -48,7 +48,7 @@ This class meets three times for a discussion session (remotely) :
 
 | Meeting Date | Modules     | Topics                                                       |
 | ------------ | ----------- | ------------------------------------------------------------ |
-| 4/5/2022    | TBD | |
+| 4/5/2022    | Module 1 | |
 | 4/12/2022    | TBD          |                   |
 | 4/26/2022    | TBD | |
 
