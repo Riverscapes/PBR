@@ -5,7 +5,7 @@ weight: 6
 
 # WATS 5625 - Syllabus
 
-![header]({{ site.baseurl }}/assets/images/courses/WATS-5624_header_C.png)
+![header]({{ site.baseurl }}/assets/images/courses/WATS-5625_header_C.png)
 
 
 ## Catalog Description
