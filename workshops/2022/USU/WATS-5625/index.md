@@ -35,6 +35,9 @@ This course introduces Adaptive Management and how it can be applied to Low-Tech
 | ------------------------------------------------------------ | ----------------- | -------- | ------------------------------------------------------------ | ------------ | ------------------------------------------------------------ |
 | [Adaptive Mgt LTPBR]({{ site.baseurl }}/workshops/2022/USU/WATS-5625/) | 1:30 pm - 3:30 pm | Tuesdays | [Zoom](https://usu-edu.zoom.us/j/88041118826?pwd=d2JqUE1NQWlrWnk0YVExVTgxdHN3dz09) & DE204 | Apr 5, 12 and 26, 2022 | [Nicolaas Bouwes]({{ site.baseurl }}//workshops/2020/SGI/#instruction-team) |
 |                                                              |                   |          |                                                              |              |                                                              |
+This course is based on [Module 5]({{ site.baseurl }}/workshops/2020/SGI/Modules/module5.html) of the self-paced materials. 
+<div align="center">
+<a class="hollow button" href="{{ site.baseurl }}/workshops/2020/SGI/Modules/module5"><img src="{{ site.baseurl }}/assets/images/diagrams/presentation.png"> <b>Module 5 - Implementation</b> <br> Slides  <i class="fa fa-file-pdf-o" aria-hidden="true"></i>, Recorded Lectures <i class="fa fa-youtube-play" aria-hidden="true"></i> and Exercises </a></div>
 
 ### Course Schedule/Outline
 
