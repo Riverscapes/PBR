@@ -57,7 +57,7 @@ Or take these modules as actual university courses and be paced and assessed:
 - [PALS Contruction]({{ site.baseurl }}/resources/Topics/05_Implementation/PALS.html)
 - [BDA Contruction]({{ site.baseurl }}/resources/Topics/05_Implementation/BDAs.html)
 
-#### [Module 6 - Ddaptive Management *Additional Resources*]({{ site.baseurl }}/resources/Topics/06_AdaptiveMgt/)
+#### [Module 6 - Adaptive Management *Additional Resources*]({{ site.baseurl }}/resources/Topics/06_AdaptiveMgt/)
 - [Adaptive Management Examples]({{ site.baseurl }}/resources/Topics/06_AdaptiveMgt/adaptivemgt.html)
 
 ### Free Resources Made Possible By
