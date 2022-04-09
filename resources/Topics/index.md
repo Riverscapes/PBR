@@ -22,11 +22,13 @@ weight: 1
 
 <a class="hollow button" href="{{ site.baseurl }}/workshops/2020/SGI/Modules/module5"><img src="{{ site.baseurl }}/assets/images/diagrams/presentation.png"> <b>Module 5 - Implementation</b> <br> Slides  <i class="fa fa-file-pdf-o" aria-hidden="true"></i>, Recorded Lectures <i class="fa fa-youtube-play" aria-hidden="true"></i> and Exercises </a>
 
+<a class="hollow button" href="{{ site.baseurl }}/workshops/2020/SGI/Modules/module6"><img src="{{ site.baseurl }}/assets/images/diagrams/presentation.png"> <b>Module 6 - Adaptive Management</b> <br> Slides  <i class="fa fa-file-pdf-o" aria-hidden="true"></i>, Recorded Lectures <i class="fa fa-youtube-play" aria-hidden="true"></i> and Exercises </a>
+
 </div>
 
-Or take these modules as actual university coureses and be paced and assessed:
+Or take these modules as actual university courses and be paced and assessed:
 <div align="center">
-<a class=" button hollow" href="{{ site.baseurl }}/workshops/2021/USU"><img width="100" src="{{ site.baseurl }}/assets/images/sponsors/USU.png">  Spring 2021- <b> Register Now for  LTPBR Courses</b>  University Credit or Professional CEU  <i class="fa fa-graduation-cap"></i>  </a>
+<a class=" button hollow" href="{{ site.baseurl }}/workshops/2022/USU"><img width="100" src="{{ site.baseurl }}/assets/images/sponsors/USU.png">  Spring 2022- <b> Register Now for  LTPBR Courses</b>  University Credit or Professional CEU  <i class="fa fa-graduation-cap"></i>  </a>
 </div>
 
 ### Bonus Resources & Exercises by Module Topic
@@ -55,6 +57,9 @@ Or take these modules as actual university coureses and be paced and assessed:
 - [PALS Contruction]({{ site.baseurl }}/resources/Topics/05_Implementation/PALS.html)
 - [BDA Contruction]({{ site.baseurl }}/resources/Topics/05_Implementation/BDAs.html)
 
+#### [Module 6 - Ddaptive Management *Additional Resources*]({{ site.baseurl }}/resources/Topics/06_AdaptiveMgt/)
+- [Adaptive Management Examples]({{ site.baseurl }}/resources/Topics/06_AdaptiveMgt/adaptivemgt.html)
+
 ### Free Resources Made Possible By
 <div class="row small-up-2 medium-up-2 large-up-6" >
   <div class="column column-block">
@@ -72,7 +77,7 @@ Or take these modules as actual university coureses and be paced and assessed:
   </div>
 </div>
 
-Thanks to the generous support of the [Natural Resource Conservation Service's](https://www.nrcs.usda.gov/wps/portal/nrcs/detailfull/national/programs/initiatives/?cid=steldevb1027671) [Working Lands for Wildlife](https://www.nrcs.usda.gov/wps/portal/nrcs/detail/national/plantsanimals/fishwildlife/?cid=stelprdb1046975), and a grant through [Pheasants Forever](https://www.pheasantsforever.org/) to [Utah State University's Restoration Consortium](http://restoration.usu.edu/) and [Joe Wheaton's](http://joewheaton.org/) [ET-AL lab](http://etal.joewheaton.org/) the above self-paced modules are avaiable for free. This grew out of the successful 2016 Enhancing Mesic Habitat Resilience in Sagebrush Ecosystems Workshop at Utah State University and the 2018 and [2019]({{ site.baseurl }}/workshops/2019/SGI/) workshop series, which in [2020]({{ site.baseurl }}/workshops/2020/SGI/) was switched to a virtual devliery thanks to COVID. 
+Thanks to the generous support of the [Natural Resource Conservation Service's](https://www.nrcs.usda.gov/wps/portal/nrcs/detailfull/national/programs/initiatives/?cid=steldevb1027671) [Working Lands for Wildlife](https://www.nrcs.usda.gov/wps/portal/nrcs/detail/national/plantsanimals/fishwildlife/?cid=stelprdb1046975), and a grant through [Pheasants Forever](https://www.pheasantsforever.org/) to [Utah State University's Restoration Consortium](http://restoration.usu.edu/) and [Joe Wheaton's](http://joewheaton.org/) [ET-AL lab](http://etal.joewheaton.org/) the above self-paced modules are available for free. This grew out of the successful 2016 Enhancing Mesic Habitat Resilience in Sagebrush Ecosystems Workshop at Utah State University and the 2018 and [2019]({{ site.baseurl }}/workshops/2019/SGI/) workshop series, which in [2020]({{ site.baseurl }}/workshops/2020/SGI/) was switched to a virtual delivery thanks to COVID. 
 
 -----------
 
