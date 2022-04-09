@@ -37,7 +37,7 @@ Related to the LTPBR workshop [Module 5 - Implementation]({{ site.baseurl }}/wor
   </div>
 
   <div class="column column-block">
-	<a class="hollow button" href="{{ site.baseurl }}/resources/adaptivemgt"><img src="{{ site.baseurl }}/assets/images/AM_Loop_40_Orange.png"> <br> Low-Tech Adaptive Management Examples<br></a>
+	<a class="hollow button" href="{{ site.baseurl }}/resources/Topics/06_AdaptiveMgt/adaptivemgt"><img src="{{ site.baseurl }}/assets/images/AM_Loop_40_Orange.png"> <br> Low-Tech Adaptive Management Examples<br></a>
   </div>
 
   <div class="column column-block">
