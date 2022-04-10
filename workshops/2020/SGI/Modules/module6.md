@@ -26,51 +26,7 @@ Watch entire <i class="fa fa-youtube-play" aria-hidden="true"></i> <a href="http
 
 ## Slides & Videos by Topic
 
---------
-### A. Introduction to WATS 5625  on Adaptive Management
-<a href="{{ site.baseurl }}/workshops/2020/SGI/#instruction-team"><img width="80"  class="float-left" src="{{ site.baseurl }}/assets/images/people/bouwes-round_1_orig.png"></a>
-[Nick Bouwes]({{ site.baseurl }}/workshops/2020/SGI/#instruction-team) introduces the class  importance of adaptive management with Low-Tech Process-Based Restoration. 
-
-<div class="row small-up-2 medium-up-2">
-
-
-  <div class="column">
-    <div class="card">
-
-
-      <div class="card-section">
-        <h4>Video</h4>
-        <div class="responsive-embed"> 
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cRKA1V4KNGY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
-
-</div>
-<i class="fa fa-clock-o" aria-hidden="true"></i> 10 minutes <i class="fa fa-youtube-play" aria-hidden="true"></i>
-      </div>
-    </div>
-  </div>
-
-  <div class="column">
-    <div class="card">
-
-
-      <div class="card-section">
-        <h4>Slides</h4>
-    <div align="center">
-        	<a href="https://s3.us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/WATS5625/Adaptive+management+introduction.pdf" target="_blank"><img src="{{ site.baseurl }}/assets/images/workshops/2020/modules/06_A.png"></a>
-        	</div>
-        
-         <i class="fa fa-file-pdf-o" aria-hidden="true"></i> <a href="https://s3.us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/WATS5625/Adaptive+management+introduction.pdf" target="_blank">Adaptive Management Intro - Slides</a>
-        
-      </div>
-    </div>
-
-  </div>
-</div>
-
-----------------
-
-### B. Distinctions between Management & Adaptive Management
+### A. Examples of Common & Adaptive Management approaches
 <a href="{{ site.baseurl }}/workshops/2020/SGI/#instruction-team"><img width="80"  class="float-left" src="{{ site.baseurl }}/assets/images/people/bouwes-round_1_orig.png"></a>
 [Nick Bouwes]({{ site.baseurl }}/workshops/2020/SGI/#instruction-team) uses the example of management of anadromous salmon populations in the Columbia River Basin as a way of introducing the distinction between traditional management and adaptive management. 
 
@@ -104,6 +60,49 @@ Watch entire <i class="fa fa-youtube-play" aria-hidden="true"></i> <a href="http
         	</div>
         
          <i class="fa fa-file-pdf-o" aria-hidden="true"></i> <a href="https://s3.us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/WATS5625/CRB.pdf" target="_blank">Management Examples - Slides</a>
+        
+      </div>
+    </div>
+
+  </div>
+</div>
+
+----------------
+--------
+### B. Introduction to LTPBR and the need for Adaptive Management
+<a href="{{ site.baseurl }}/workshops/2020/SGI/#instruction-team"><img width="80"  class="float-left" src="{{ site.baseurl }}/assets/images/people/bouwes-round_1_orig.png"></a>
+[Nick Bouwes]({{ site.baseurl }}/workshops/2020/SGI/#instruction-team) introduces the class importance Low-Tech Process-Based Restoration and the need for Adaptive Management for all types of restoration. 
+
+<div class="row small-up-2 medium-up-2">
+
+
+  <div class="column">
+    <div class="card">
+
+
+      <div class="card-section">
+        <h4>Video</h4>
+        <div class="responsive-embed"> 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cRKA1V4KNGY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
+
+</div>
+<i class="fa fa-clock-o" aria-hidden="true"></i> 10 minutes <i class="fa fa-youtube-play" aria-hidden="true"></i>
+      </div>
+    </div>
+  </div>
+
+  <div class="column">
+    <div class="card">
+
+
+      <div class="card-section">
+        <h4>Slides</h4>
+    <div align="center">
+        	<a href="https://s3.us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/WATS5625/Adaptive+management+introduction.pdf" target="_blank"><img src="{{ site.baseurl }}/assets/images/workshops/2020/modules/06_A.png"></a>
+        	</div>
+        
+         <i class="fa fa-file-pdf-o" aria-hidden="true"></i> <a href="https://s3.us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/WATS5625/Adaptive+management+introduction.pdf" target="_blank">Adaptive Management Intro - Slides</a>
         
       </div>
     </div>
@@ -154,11 +153,52 @@ Watch entire <i class="fa fa-youtube-play" aria-hidden="true"></i> <a href="http
   </div>
 </div>
 
-<!---  NICK I didn't know if you wanted this video in here still delete this commented out section down to line 202 if not.
+----------------
+
+### D. Introduction of Adaptive Management process 
+<a href="{{ site.baseurl }}/workshops/2020/SGI/#instruction-team"><img width="80"  class="float-left" src="{{ site.baseurl }}/assets/images/people/bouwes-round_1_orig.png"></a>
+[Nick Bouwes]({{ site.baseurl }}/workshops/2020/SGI/#instruction-team) Descibes the situations when adaptive management is approriate the steps of the process. 
+
+<div class="row small-up-2 medium-up-2">
+
+
+  <div class="column">
+    <div class="card">
+
+
+      <div class="card-section">
+        <h4>Video</h4>
+        <div class="responsive-embed"> 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Ts04pe1jfO8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
+
+</div>
+<i class="fa fa-clock-o" aria-hidden="true"></i> 55 minutes <i class="fa fa-youtube-play" aria-hidden="true"></i>
+      </div>
+    </div>
+  </div>
+
+  <div class="column">
+    <div class="card">
+
+
+      <div class="card-section">
+        <h4>Slides</h4>
+    <div align="center">
+        	<a href="" target="_blank"><img src="{{ site.baseurl }}/assets/images/workshops/2020/modules/06_C.png"></a>
+        	</div>
+        
+         <i class="fa fa-file-pdf-o" aria-hidden="true"></i> <a href="" target="_blank">Management Examples - Slides</a>
+        
+      </div>
+    </div>
+
+  </div>
+</div>
 
 ----------------
 
-### Adaptive Management Overview from Implementation 
+### E. Adaptive Management Overview from Implementation 
 <a href="{{ site.baseurl }}/workshops/2020/SGI/#instruction-team"><img width="80"  class="float-left" src="{{ site.baseurl }}/assets/images/people/bouwes-round_1_orig.png"></a>
 [Nick Bouwes]({{ site.baseurl }}/workshops/2020/SGI/#instruction-team) discusses the importance of adaptive management with Low-Tech Process-Based Restoration. 
 
