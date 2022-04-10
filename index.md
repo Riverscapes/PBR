@@ -2,10 +2,7 @@
 title: Riverscapes Restoration Design Manual - Home
 weight: 1
 ---
-[![]({{ site.baseurl }}/assets/images/courses/Spring2022.png)]({{ site.baseurl }}/workshops/2022/USU)
-<div align="center">
-<a class=" button hollow" href="{{ site.baseurl }}/workshops/2022/USU"><img width="100" src="{{ site.baseurl }}/assets/images/sponsors/USU.png">   <b>Register for Spring 2022 LTPBR Courses</b><br>  for University Credit or Professional CEU  <i class="fa fa-graduation-cap"></i>  </a>
-</div>
+
 
 ## Manual
 
@@ -24,44 +21,37 @@ Check out the condensed, Cliff-Notes version of the manual in our new [Pocket Gu
 
 #### Free Resources!
 
-The [design manual]({{ site.baseurl }}/manual) and  [Pocket Guide]({{ site.baseurl }}/resources/pocket) are available digitally for free thanks to the generous investments and support from our [sponsors]({{ site.baseurl }}/manual/support). Moreover, after the [virtual training in August 2020]({{ site.baseurl }}/workshops/2020/SGI/#course-materials), all the [introductory workshop modules]({{ site.baseurl }}/workshops/2020/SGI/#course-materials) are now available free [here]({{ site.baseurl }}/workshops/2020/SGI/#course-materials) for self-paced learning. 
-
+<a href="https://www.nrcs.usda.gov/wps/portal/nrcs/detail/national/plantsanimals/fishwildlife/?cid=stelprdb1046975"><img class="float-left" src="{{ site.baseurl }}/assets/images/sponsors/WLFW_100.png"> </a> The [design manual]({{ site.baseurl }}/manual) and  [Pocket Guide]({{ site.baseurl }}/resources/pocket) are available digitally for free thanks to the generous investments and support from our [sponsors]({{ site.baseurl }}/manual/support). Moreover, after the [virtual training in August 2020]({{ site.baseurl }}/workshops/2020/SGI/#course-materials), all the [introductory workshop modules]({{ site.baseurl }}/workshops/2020/SGI/#course-materials) are now available free [here]({{ site.baseurl }}/workshops/2020/SGI/#course-materials) for self-paced learning. 
+<div align="center">
+<a class="hollow button" href="{{ site.baseurl }}/resources"><img src="{{ site.baseurl }}/assets/images/PBR-LT_round_30.png"> LT-PBR Resources</a>
+<a class=" button" href="{{ site.baseurl }}/resources/Topics/"><img src="{{ site.baseurl }}/assets/images/PBR-LT_round_30.png"> <b>FREE!  LTPBR Learning  Modules</b><br> See here for Self-Paced Resources  </a>
+<a class="hollow button" href="{{ site.baseurl }}/resources/Topics/03_Planning/sturcturalForcing.html"><i class="fa fa-blind" aria-hidden="true"></i>  Take a Virtual<br> <b>Reading Riverscapes Field Trip</b> </a> 
+</div>
 -------
 ## Training
 
 <div align="center">
-<a class=" button hollow" href="{{ site.baseurl }}/workshops/uni"><img width="100" src="{{ site.baseurl }}/assets/images/sponsors/USU.png">   <b>Register for LTPBR Courses</b><br>  for University Credit or Professional CEU  <i class="fa fa-graduation-cap"></i>  </a>
+<a class=" hollow button" href="{{ site.baseurl }}/workshops/2020/SGI/#course-materials"><img src="{{ site.baseurl }}/assets/images/PBR-LT_round_30.png"> <b>Workshop and Short Courses</b><br> See all past and scheduled trainings  </a>
+<a class=" button hollow" href="{{ site.baseurl }}/workshops/"><img width="100" src="{{ site.baseurl }}/assets/images/sponsors/USU.png">   <b>Register for LTPBR Courses</b><br>  for University Credit or Professional CEU  <i class="fa fa-graduation-cap"></i>  </a>
 </div>
-The next publicly oferred classes will be in [Spring 2022]({{ site.baseurl }}/workshops/2022/USU). 
+The next publicly offered classes will be in Spring 2023. 
 
-<a href="https://www.nrcs.usda.gov/wps/portal/nrcs/detail/national/plantsanimals/fishwildlife/?cid=stelprdb1046975"><img class="float-left" src="{{ site.baseurl }}/assets/images/sponsors/WLFW_100.png"> </a>Due to the pandemic, the 2020 NRCS, [Working Lands for Wildlife](https://www.nrcs.usda.gov/wps/portal/nrcs/detail/national/plantsanimals/fishwildlife/?cid=stelprdb1046975) Low-Tech PBR Field Workshop Series was switched to a [virtual webinar format]({{ site.baseurl }}/workshops/2020/SGI/). The 2020 in-person trainings would have reached 100 invited participants in two events. The equivalent publicly offered workshops are normally $900 to $1100 per person.  Thanks to the [NRCS Working Lands for Wildlife](https://www.nrcs.usda.gov/wps/portal/nrcs/detail/national/plantsanimals/fishwildlife/?cid=stelprdb1046975) partnership, this [virtual workshop]({{ site.baseurl }}/workshops/2020/SGI/) was made available for anyone interested on August 11-14, 2020. We had to close registration at 1000, and 767 participants ended up participating in the live modules. 
+<!---- 
 
-
-Those that did not make the live virtual workshop can take advantage of [self-paced recordings, exercises and content](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/#slides--handouts) at any time. Thank you NRCS, Sage Grouse Initiative and Working Lands for Wildlife!
-
-
-
+TO UPDATE FOR SPRING 2023 WHEN READY
 <div align="center">
-<a class=" button" href="{{ site.baseurl }}/workshops/2020/SGI/#course-materials"><img src="{{ site.baseurl }}/assets/images/PBR-LT_round_30.png"> <b>FREE!  LTPBR Workshop Modules</b><br> See here for Self-Paced Resources  </a>
-<a class="hollow button" href="{{ site.baseurl }}/resources/Topics/03_Planning/sturcturalForcing.html"><i class="fa fa-blind" aria-hidden="true"></i>  Take a Virtual<br> <b>Reading Riverscapes Field Trip</b> </a> 
+<a class=" button hollow" href="{{ site.baseurl }}/workshops/2023/USU"><img width="100" src="{{ site.baseurl }}/assets/images/sponsors/USU.png">   <b>Register for Spring 2023 LTPBR Courses</b><br>  for University Credit or Professional CEU  <i class="fa fa-graduation-cap"></i>  </a>
 </div>
+-->
+
+[![]({{ site.baseurl }}/assets/images/courses/Spring2022.png)]({{ site.baseurl }}/workshops/2022/USU)
+
+
+
 
 ---------
 ## Search this Site
 <div align="center">
 <script async src="https://cse.google.com/cse.js?cx=f424951c78d0b3cdd"></script>
 <div class="gcse-search"></div>
-</div>
-
---------
-
-
--------
-
-
-<div align="center">
-<a class="hollow button" href="{{ site.baseurl }}/resources"><img src="{{ site.baseurl }}/assets/images/PBR-LT_round_30.png"> LT-PBR Resources</a>
-<a class="hollow button" href="https://twitter.com/intent/tweet?button_hashtag=lowtechPBR&ref_src=twsrc%5Etfw" class="twitter-hashtag-button" data-show-count="false">Tweet #lowtechPBR</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-<a class="hollow button" href="{{ site.baseurl }}/workshops"><i class="fa fa-graduation-cap" aria-hidden="true"></i> LT-PBR Workshops</a>
-
 </div>
