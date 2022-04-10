@@ -57,10 +57,10 @@ Watch entire <i class="fa fa-youtube-play" aria-hidden="true"></i> <a href="http
       <div class="card-section">
         <h4>Slides</h4>
     <div align="center">
-        	<a href="" target="_blank"><img src="{{ site.baseurl }}/assets/images/workshops/2020/modules/06_A.PNG"></a>
+        	<a href="https://s3.us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/WATS5625/Adaptive+management+introduction.pdf" target="_blank"><img src="{{ site.baseurl }}/assets/images/workshops/2020/modules/06_A.PNG"></a>
         	</div>
         
-         <i class="fa fa-file-pdf-o" aria-hidden="true"></i> <a href="" target="_blank">Adaptive Management Intro - Slides</a>
+         <i class="fa fa-file-pdf-o" aria-hidden="true"></i> <a href="https://s3.us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/WATS5625/Adaptive+management+introduction.pdf" target="_blank">Adaptive Management Intro - Slides</a>
         
       </div>
     </div>
@@ -100,10 +100,10 @@ Watch entire <i class="fa fa-youtube-play" aria-hidden="true"></i> <a href="http
       <div class="card-section">
         <h4>Slides</h4>
     <div align="center">
-        	<a href="" target="_blank"><img src="{{ site.baseurl }}/assets/images/workshops/2020/modules/06_B.PNG"></a>
+        	<a href="https://s3.us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/WATS5625/CRB.pdf" target="_blank"><img src="{{ site.baseurl }}/assets/images/workshops/2020/modules/06_B.PNG"></a>
         	</div>
         
-         <i class="fa fa-file-pdf-o" aria-hidden="true"></i> <a href="" target="_blank">Management Examples - Slides</a>
+         <i class="fa fa-file-pdf-o" aria-hidden="true"></i> <a href="https://s3.us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/WATS5625/CRB.pdf" target="_blank">Management Examples - Slides</a>
         
       </div>
     </div>
