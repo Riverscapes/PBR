@@ -27,15 +27,55 @@ Watch entire <i class="fa fa-youtube-play" aria-hidden="true"></i> <a href="http
 ## Slides & Videos by Topic
 
 --------
-
-
-
-### F. Adaptive Management
+### A. Introduction to WATS 5625  on Adaptive Management
 <a href="{{ site.baseurl }}/workshops/2020/SGI/#instruction-team"><img width="80"  class="float-left" src="{{ site.baseurl }}/assets/images/people/bouwes-round_1_orig.png"></a>
-[Nick Bouwes]({{ site.baseurl }}/workshops/2020/SGI/#instruction-team) discusses the importance of adaptive management with Low-Tech Process-Based Restoration. 
+[Nick Bouwes]({{ site.baseurl }}/workshops/2020/SGI/#instruction-team) introduces the class  importance of adaptive management with Low-Tech Process-Based Restoration. 
 
-<br>
 <div class="row small-up-2 medium-up-2">
+
+
+  <div class="column">
+    <div class="card">
+
+
+      <div class="card-section">
+        <h4>Video</h4>
+        <div class="responsive-embed"> 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cRKA1V4KNGY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
+
+</div>
+<i class="fa fa-clock-o" aria-hidden="true"></i> 10 minutes <i class="fa fa-youtube-play" aria-hidden="true"></i>
+      </div>
+    </div>
+  </div>
+
+  <div class="column">
+    <div class="card">
+
+
+      <div class="card-section">
+        <h4>Slides</h4>
+    <div align="center">
+        	<a href="" target="_blank"><img src="{{ site.baseurl }}/assets/images/workshops/2020/modules/06_A.PNG"></a>
+        	</div>
+        
+         <i class="fa fa-file-pdf-o" aria-hidden="true"></i> <a href="" target="_blank">Adaptive Management Intro - Slides</a>
+        
+      </div>
+    </div>
+
+  </div>
+</div>
+
+----------------
+
+### B. Distinctions between Management & Adaptive Management
+<a href="{{ site.baseurl }}/workshops/2020/SGI/#instruction-team"><img width="80"  class="float-left" src="{{ site.baseurl }}/assets/images/people/bouwes-round_1_orig.png"></a>
+[Nick Bouwes]({{ site.baseurl }}/workshops/2020/SGI/#instruction-team) uses the example of management of anadromous salmon populations in the Columbia River Basin as a way of introducing the distinction between traditional management and adaptive management. 
+
+<div class="row small-up-2 medium-up-2">
+
 
   <div class="column">
     <div class="card">
@@ -48,24 +88,37 @@ Watch entire <i class="fa fa-youtube-play" aria-hidden="true"></i> <a href="http
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2wgdMTS55cM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
 
 </div>
+<i class="fa fa-clock-o" aria-hidden="true"></i> 30 minutes <i class="fa fa-youtube-play" aria-hidden="true"></i>
       </div>
     </div>
   </div>
-	
+
   <div class="column">
     <div class="card">
 
 
       <div class="card-section">
-        <h4>Video</h4>
-        <div class="responsive-embed"> 
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cRKA1V4KNGY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
-
-</div>
+        <h4>Slides</h4>
+    <div align="center">
+        	<a href="" target="_blank"><img src="{{ site.baseurl }}/assets/images/workshops/2020/modules/06_B.PNG"></a>
+        	</div>
+        
+         <i class="fa fa-file-pdf-o" aria-hidden="true"></i> <a href="" target="_blank">Management Examples - Slides</a>
+        
       </div>
     </div>
+
   </div>
+</div>
+
+----------------
+
+### C. History of Adaptive Management
+<a href="{{ site.baseurl }}/workshops/2020/SGI/#instruction-team"><img width="80"  class="float-left" src="{{ site.baseurl }}/assets/images/people/bouwes-round_1_orig.png"></a>
+[Nick Bouwes]({{ site.baseurl }}/workshops/2020/SGI/#instruction-team) reviews the history of adaptive management. 
+
+<div class="row small-up-2 medium-up-2">
+
 
   <div class="column">
     <div class="card">
@@ -78,10 +131,11 @@ Watch entire <i class="fa fa-youtube-play" aria-hidden="true"></i> <a href="http
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PA_eAdRbF44" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
 
 </div>
+<i class="fa fa-clock-o" aria-hidden="true"></i> 55 minutes <i class="fa fa-youtube-play" aria-hidden="true"></i>
       </div>
     </div>
   </div>
-	
+
   <div class="column">
     <div class="card">
 
@@ -89,16 +143,26 @@ Watch entire <i class="fa fa-youtube-play" aria-hidden="true"></i> <a href="http
       <div class="card-section">
         <h4>Slides</h4>
     <div align="center">
-        	<a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2020/SGI/Materials/Module5/05_F_Adaptive+Management.pdf" target="_blank"><img src="{{ site.baseurl }}/assets/images/workshops/2020/modules/05_F.PNG"></a>
+        	<a href="" target="_blank"><img src="{{ site.baseurl }}/assets/images/workshops/2020/modules/06_C.PNG"></a>
         	</div>
         
-         <i class="fa fa-file-pdf-o" aria-hidden="true"></i> <a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2020/SGI/Materials/Module5/05_F_Adaptive+Management.pdf" target="_blank">Adaptive Management - Slides</a>
+         <i class="fa fa-file-pdf-o" aria-hidden="true"></i> <a href="" target="_blank">Management Examples - Slides</a>
         
       </div>
     </div>
 
   </div>
 </div>
+
+<!---  NICK I didn't know if you wanted this video in here still delete this commented out section down to line 202 if not.
+
+----------------
+
+### Adaptive Management Overview from Implementation 
+<a href="{{ site.baseurl }}/workshops/2020/SGI/#instruction-team"><img width="80"  class="float-left" src="{{ site.baseurl }}/assets/images/people/bouwes-round_1_orig.png"></a>
+[Nick Bouwes]({{ site.baseurl }}/workshops/2020/SGI/#instruction-team) discusses the importance of adaptive management with Low-Tech Process-Based Restoration. 
+
+
 
 <div class="row small-up-2 medium-up-2">
 
@@ -135,6 +199,9 @@ Watch entire <i class="fa fa-youtube-play" aria-hidden="true"></i> <a href="http
 
   </div>
 </div>
+--->
+
+------
 
 <div align="center">
 	<a class="hollow button" href="{{ site.baseurl }}/resources/adaptivemgt"><img src="{{ site.baseurl }}/assets/images/AM_Loop_40_Orange.png"> <br> Low-Tech Adaptive Management Examples<br></a>

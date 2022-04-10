@@ -282,71 +282,7 @@ Watch entire <i class="fa fa-youtube-play" aria-hidden="true"></i> <a href="http
 <a href="{{ site.baseurl }}/workshops/2020/SGI/#instruction-team"><img width="80"  class="float-left" src="{{ site.baseurl }}/assets/images/people/bouwes-round_1_orig.png"></a>
 [Nick Bouwes]({{ site.baseurl }}/workshops/2020/SGI/#instruction-team) discusses the importance of adaptive management with Low-Tech Process-Based Restoration. 
 
-<br>
-<div class="row small-up-2 medium-up-2">
 
-  <div class="column">
-    <div class="card">
-
-
-      <div class="card-section">
-        <h4>Video</h4>
-        <div class="responsive-embed"> 
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2wgdMTS55cM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
-
-</div>
-      </div>
-    </div>
-  </div>
-	
-  <div class="column">
-    <div class="card">
-
-
-      <div class="card-section">
-        <h4>Video</h4>
-        <div class="responsive-embed"> 
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cRKA1V4KNGY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
-
-</div>
-      </div>
-    </div>
-  </div>
-
-  <div class="column">
-    <div class="card">
-
-
-      <div class="card-section">
-        <h4>Video</h4>
-        <div class="responsive-embed"> 
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PA_eAdRbF44" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
-
-</div>
-      </div>
-    </div>
-  </div>
-	
-  <div class="column">
-    <div class="card">
-
-
-      <div class="card-section">
-        <h4>Slides</h4>
-    <div align="center">
-        	<a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2020/SGI/Materials/Module5/05_F_Adaptive+Management.pdf" target="_blank"><img src="{{ site.baseurl }}/assets/images/workshops/2020/modules/05_F.PNG"></a>
-        	</div>
-        
-         <i class="fa fa-file-pdf-o" aria-hidden="true"></i> <a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2020/SGI/Materials/Module5/05_F_Adaptive+Management.pdf" target="_blank">Adaptive Management - Slides</a>
-        
-      </div>
-    </div>
-
-  </div>
-</div>
 
 <div class="row small-up-2 medium-up-2">
 
@@ -385,7 +321,8 @@ Watch entire <i class="fa fa-youtube-play" aria-hidden="true"></i> <a href="http
 </div>
 
 <div align="center">
-	<a class="hollow button" href="{{ site.baseurl }}/resources/adaptivemgt"><img src="{{ site.baseurl }}/assets/images/AM_Loop_40_Orange.png"> <br> Low-Tech Adaptive Management Examples<br></a>
+	<a class="hollow button" href="{{ site.baseurl }}/resources/Topics/06_AdaptiveMgt/adaptivemgt"><img src="{{ site.baseurl }}/assets/images/AM_Loop_40_Orange.png"> <br> Low-Tech Adaptive Management Examples<br></a>
+	<a class="hollow button" href="{{ site.baseurl }}/workshops/2020/SGI/Modules/module6"><img src="{{ site.baseurl }}/assets/images/diagrams/presentation.png"> <b>Module 6 - Adaptive Management </b> <br> Slides  <i class="fa fa-file-pdf-o" aria-hidden="true"></i>, Recorded Lectures <i class="fa fa-youtube-play" aria-hidden="true"></i> and Exercises </a>
 	</div>
 
 --------
@@ -440,7 +377,7 @@ Watch entire <i class="fa fa-youtube-play" aria-hidden="true"></i> <a href="http
 <div align="center">
         <a class="hollow button" href="{{ site.baseurl }}/workshops/2020/SGI/"><img width="60" src="{{ site.baseurl }}/assets/images/sponsors/WLFW_100.png">  Back to Virtual Workshop <i class="fa fa-graduation-cap"></i></a>  
 
-<a class=" button hollow" href="{{ site.baseurl }}/workshops/uni"><img width="100" src="{{ site.baseurl }}/assets/images/sponsors/USU.png">  <b> Take this Module</b>  for University Credit or Professional CEU  <i class="fa fa-graduation-cap"></i> 
+<a class=" button hollow" href="{{ site.baseurl }}/workshops/uni"><img width="100" src="{{ site.baseurl }}/assets/images/sponsors/USU.png">  <b> Take this Module</b>  for University Credit or Professional CEU  <i class="fa fa-graduation-cap"></i> <br> WATS / CEWA 5624
   </a>
 </div>
 

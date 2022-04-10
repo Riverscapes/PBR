@@ -14,8 +14,6 @@ weight: 1
 
 ## Overview
 
-
-
 <div class="row small-up-2 medium-up-2 large-up-6" >
   <div class="column column-block">
     <a href="https://www.nrcs.usda.gov/wps/portal/nrcs/detail/national/plantsanimals/fishwildlife/?cid=stelprdb1046975"><img src="{{ site.baseurl }}/assets/images/sponsors/WLFW.png"></a>
@@ -232,4 +230,3 @@ Participation in the workshops is free. However, participants can earn Universit
 <div align="center">
         <a class="hollow button" href="{{ site.baseurl }}/workshops/"><i class="fa fa-graduation-cap"></i>  Back to Workshops </a>  
 </div>
-
