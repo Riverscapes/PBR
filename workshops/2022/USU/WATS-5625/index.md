@@ -33,11 +33,11 @@ This course introduces Adaptive Management and how it can be applied to Low-Tech
 
 | Class                                                        | Time              | Days     | Where      | Dates        | Instructors                                                  |
 | ------------------------------------------------------------ | ----------------- | -------- | ---------- | ------------ | ------------------------------------------------------------ |
-| [Adaptive Management of LTPBR]({{ site.baseurl }}/workshops/2022/USU/WATS-5624/) | 1:30 pm - 3:30 pm | Tuesday  | DE 204    | Apr 5, 12, 26 2022 | [Nick Bouwes]({{ site.baseurl }}//workshops/2020/SGI/#instruction-team) |
+| [Adaptive Management of LTPBR]({{ site.baseurl }}/workshops/2022/USU/WATS-5625/) | 1:30 pm - 3:30 pm | Tuesday  | DE 204    | Apr 5, 12, 26 2022 | [Nick Bouwes]({{ site.baseurl }}//workshops/2020/SGI/#instruction-team) |
 
-This course is based on [Module 5F]({{ site.baseurl }}/workshops/2020/SGI/Modules/module5.html) of the self-paced materials. 
+This course is based on [Module 6]({{ site.baseurl }}/workshops/2020/SGI/Modules/module6.html) of the self-paced materials. 
 <div align="center">
-<a class="hollow button" href="{{ site.baseurl }}/workshops/2020/SGI/Modules/module5"><img src="{{ site.baseurl }}/assets/images/diagrams/presentation.png"> <b>Module 5F - Adaptive Management</b> <br> Slides  <i class="fa fa-file-pdf-o" aria-hidden="true"></i>, Recorded Lectures <i class="fa fa-youtube-play" aria-hidden="true"></i> and Exercises </a></div>
+<a class="hollow button" href="{{ site.baseurl }}/workshops/2020/SGI/Modules/module6"><img src="{{ site.baseurl }}/assets/images/diagrams/presentation.png"> <b>Module 6 - Adaptive Management</b> <br> Slides  <i class="fa fa-file-pdf-o" aria-hidden="true"></i>, Recorded Lectures <i class="fa fa-youtube-play" aria-hidden="true"></i> and Exercises </a></div>
 
 ### Course Schedule/Outline
 
@@ -51,9 +51,9 @@ This class meets three times for a discussion session (live or remotely) :
 
 | Meeting Date | Modules     | Topics                                                       |
 | ------------ | ----------- | ------------------------------------------------------------ |
-| 4/5/2022    | Module 1 | Introduction and background of Adaptive Management |
-| 4/12/2022   | Module 2 | Adapative Management for Low-Tech Process-Based Restoration     |
-| 4/26/2022   | Module 3 | Developing an Adaptive Management Framework for Birch Creek|
+| 4/5/2022    | Module 6A-C | Introduction and background of Adaptive Management |
+| 4/12/2022   | Module 6D-? | Adapative Management for Low-Tech Process-Based Restoration     |
+| 4/26/2022   | Module 6? | Developing an Adaptive Management Framework for Birch Creek|
 
 <!--- NICK TO POPULATE
 This course will introduce traditional adaptive management.  We discuss the need, background, and what is adaptive management.  We will then discuss how we might simplfy adaptive management as it applys to low-tech process-based restoration.  Finally each student will create their own adpative management plan for the Birch Creek restoration efforts.  
