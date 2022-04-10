@@ -71,7 +71,7 @@ Watch entire <i class="fa fa-youtube-play" aria-hidden="true"></i> <a href="http
 --------
 ### B. Introduction to LTPBR and the need for Adaptive Management
 <a href="{{ site.baseurl }}/workshops/2020/SGI/#instruction-team"><img width="80"  class="float-left" src="{{ site.baseurl }}/assets/images/people/bouwes-round_1_orig.png"></a>
-[Nick Bouwes]({{ site.baseurl }}/workshops/2020/SGI/#instruction-team) introduces the class importance Low-Tech Process-Based Restoration and the need for Adaptive Management for all types of restoration. 
+[Nick Bouwes]({{ site.baseurl }}/workshops/2020/SGI/#instruction-team) introduces the importance of Low-Tech Process-Based Restoration, and the need for Adaptive Management for all types of restoration. 
 
 <div class="row small-up-2 medium-up-2">
 
@@ -102,7 +102,7 @@ Watch entire <i class="fa fa-youtube-play" aria-hidden="true"></i> <a href="http
         	<a href="https://s3.us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/WATS5625/Adaptive+management+introduction.pdf" target="_blank"><img src="{{ site.baseurl }}/assets/images/workshops/2020/modules/06_A.png"></a>
         	</div>
         
-         <i class="fa fa-file-pdf-o" aria-hidden="true"></i> <a href="https://s3.us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/WATS5625/Adaptive+management+introduction.pdf" target="_blank">Adaptive Management Intro - Slides</a>
+         <i class="fa fa-file-pdf-o" aria-hidden="true"></i> <a href="https://s3.us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/WATS5625/Adaptive+management+introduction.pdf" target="_blank">Adaptive Management Intro - Slides(for B, C, D)</a>
         
       </div>
     </div>
@@ -135,29 +135,12 @@ Watch entire <i class="fa fa-youtube-play" aria-hidden="true"></i> <a href="http
     </div>
   </div>
 
-  <div class="column">
-    <div class="card">
-
-
-      <div class="card-section">
-        <h4>Slides</h4>
-    <div align="center">
-        	<a href="" target="_blank"><img src="{{ site.baseurl }}/assets/images/workshops/2020/modules/06_C.png"></a>
-        	</div>
-        
-         <i class="fa fa-file-pdf-o" aria-hidden="true"></i> <a href="" target="_blank">Management Examples - Slides</a>
-        
-      </div>
-    </div>
-
-  </div>
-</div>
-
+ 
 ----------------
 
 ### D. Introduction of Adaptive Management process 
 <a href="{{ site.baseurl }}/workshops/2020/SGI/#instruction-team"><img width="80"  class="float-left" src="{{ site.baseurl }}/assets/images/people/bouwes-round_1_orig.png"></a>
-[Nick Bouwes]({{ site.baseurl }}/workshops/2020/SGI/#instruction-team) Descibes the situations when adaptive management is approriate the steps of the process. 
+[Nick Bouwes]({{ site.baseurl }}/workshops/2020/SGI/#instruction-team) Descibes the situations when adaptive management is approriate and the steps of the process. 
 
 <div class="row small-up-2 medium-up-2">
 
@@ -178,23 +161,7 @@ Watch entire <i class="fa fa-youtube-play" aria-hidden="true"></i> <a href="http
     </div>
   </div>
 
-  <div class="column">
-    <div class="card">
-
-
-      <div class="card-section">
-        <h4>Slides</h4>
-    <div align="center">
-        	<a href="" target="_blank"><img src="{{ site.baseurl }}/assets/images/workshops/2020/modules/06_C.png"></a>
-        	</div>
-        
-         <i class="fa fa-file-pdf-o" aria-hidden="true"></i> <a href="" target="_blank">Management Examples - Slides</a>
-        
-      </div>
-    </div>
-
-  </div>
-</div>
+  
 
 ----------------
 
