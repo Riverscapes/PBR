@@ -51,9 +51,9 @@ This class meets three times for a discussion session (live or remotely) :
 
 | Meeting Date | Modules     | Topics                                                       |
 | ------------ | ----------- | ------------------------------------------------------------ |
-| 4/5/2022    | Module 6A-C | Introduction and background of Adaptive Management |
-| 4/12/2022   | Module 6D-? | Adapative Management for Low-Tech Process-Based Restoration     |
-| 4/26/2022   | Module 6? | Developing an Adaptive Management Framework for Birch Creek|
+| 4/5/2022    | Module 6A-D | Introduction and background of Adaptive Management |
+| 4/12/2022   | Module 6E | Adapative Management for Low-Tech Process-Based Restoration     |
+| 4/26/2022   | Module 6F | Developing an Adaptive Management Framework for Birch Creek|
 
 <!--- NICK TO POPULATE
 This course will introduce traditional adaptive management.  We discuss the need, background, and what is adaptive management.  We will then discuss how we might simplfy adaptive management as it applys to low-tech process-based restoration.  Finally each student will create their own adpative management plan for the Birch Creek restoration efforts.  
