@@ -87,7 +87,8 @@ By the end of this course, students will:
 
 --->
 
-------
+
+
 ## Instructors
 
 
@@ -107,9 +108,9 @@ By the end of this course, students will:
 
 </div>
 
-To get in touch with instructor(s), please use [Canvas](https://usu.instructure.com/courses/618129) for communication. 
+To get in touch with instructor(s), please use [Canvas](https://usu.instructure.com/courses/700765) for communication. 
 
-**Group Office Hours** (upon appointment via [Zoom](https://usu-edu.zoom.us/my/h20joe?pwd=eFNjSllqT3VDNTRoLzZ3Sk9IM1F6UT09) <i class="fa fa-search" aria-hidden="true"></i>
+
 
 
 ### Instructor Affiliations
@@ -141,10 +142,10 @@ The course is organized into a series of modules or topics. Slides (as PDFs), re
 All of course lecture slides and materials are linked from the Canvas page by module and assignment.
 
 <div align="center">
-<a class="hollow button" href="https://usu.instructure.com/"><img src="{{ site.baseurl }}/assets/images/canvas_logo.png">  <b>Spring 2021 Canvas</b><br> WATS 5625 - Adaptive Management of LTPBR Course Assignments</a>
+<a class="hollow button" href="https://usu.instructure.com/700765"><img src="{{ site.baseurl }}/assets/images/canvas_logo.png">  <b>Spring 2021 Canvas</b><br> WATS 5625 - Adaptive Management of LTPBR Course Assignments</a>
 
 
-<a class="hollow button" href="{{ site.baseurl }}/workshops/2020/SGI/Modules/module5"><img src="{{ site.baseurl }}/assets/images/diagrams/presentation.png"> <b>Module 6 - Implementation</b> <br> Slides  <i class="fa fa-file-pdf-o" aria-hidden="true"></i>, Recorded Lectures <i class="fa fa-youtube-play" aria-hidden="true"></i> and Exercises </a>
+<a class="hollow button" href="{{ site.baseurl }}/workshops/2020/SGI/Modules/module6"><img src="{{ site.baseurl }}/assets/images/diagrams/presentation.png"> <b>Module 6 - Implementation</b> <br> Slides  <i class="fa fa-file-pdf-o" aria-hidden="true"></i>, Recorded Lectures <i class="fa fa-youtube-play" aria-hidden="true"></i> and Exercises </a>
 
 </div>
 
