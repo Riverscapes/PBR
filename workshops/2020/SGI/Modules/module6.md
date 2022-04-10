@@ -145,7 +145,7 @@ Watch entire <i class="fa fa-youtube-play" aria-hidden="true"></i> <a href="http
         	<a href="" target="_blank"><img src="{{ site.baseurl }}/assets/images/workshops/2020/modules/06_C.png"></a>
         	</div>
 
-         <i class="fa fa-file-pdf-o" aria-hidden="true"></i> <a href="" target="_blank">Management Examples - Slides</a>
+         <i class="fa fa-file-pdf-o" aria-hidden="true"></i> <a href="" target="_blank">Slides part of B. Slides</a>
 
       </div>
     </div>
@@ -188,7 +188,7 @@ Watch entire <i class="fa fa-youtube-play" aria-hidden="true"></i> <a href="http
         	<a href="" target="_blank"><img src="{{ site.baseurl }}/assets/images/workshops/2020/modules/06_C.png"></a>
         	</div>
 
-         <i class="fa fa-file-pdf-o" aria-hidden="true"></i> <a href="" target="_blank">Management Examples - Slides</a>
+         <i class="fa fa-file-pdf-o" aria-hidden="true"></i> <a href="" target="_blank">Slides part of B slides</a>
 
       </div>
     </div>
