@@ -1,5 +1,5 @@
 ---
-title: Utah State Univrsity Courses
+title: Utah State University Courses
 weight: 2
 ---
 
