@@ -1,20 +1,15 @@
 ---
-title:  2021 BLM Low-Tech Riverscape Restoration Workshop 
+title:  2022 BLM Low-Tech Riverscape Restoration Workshop 
 weight: 1
 ---
-# 2021 Montana-Dakotas Bureau of Land Management - LTPBR or Riverscapes Workshop
+# 2022 Montana-Dakotas Bureau of Land Management - LTPBR of Riverscapes Workshop
 
 **Sponsored by:**<br>
 <a href="https://www.blm.gov/montana-dakotas"><img class="float-left" src="{{ site.baseurl }}/assets/images/sponsors/blm.png"></a> 
-This workshop series will be a mix of self-paced virtual sessions, some optional virtual discussion sections, and an an all day field workshop. Participants can mix and match what they participate in to fit their schedule. Details are [below](#Agenda), but crucial dates are:
-- **September 7, 2021**  (9 AM to Noon MST) - Virtual Discussion on Modules 1 & 5
-- **September 21, 2021** (9 AM to 2 PM MST) - Virtual Discussion on Modules 2, 3 & 4
-- **October 5, 2021** (All Day with Evening Event) - Field Construction Workshop in Miles City, MT
+This workshop sill be **August 9-11, 2022**. Save the Date! It will be a mix of field and classroom instruction. The BLM Miles City Field Office will host the event.
 
-The virtrual modules can be completed at any time (prior to corresponding discussion session)
-<div align="center">
-<a class=" hollow button" href="#course-materials"><img src="{{ site.baseurl }}/assets/images/diagrams/presentation.png"> Jump to → <br> <b>Virtual Module Materials</b>. </a>
-</div>
+
+
 
 
 ## Overview
