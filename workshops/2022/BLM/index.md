@@ -2,11 +2,14 @@
 title:  2022 BLM Low-Tech Riverscape Restoration Workshop 
 weight: 1
 ---
-# 2022 Montana-Dakotas Bureau of Land Management - LTPBR of Riverscapes Workshop
+![image]({{ site.baseurl }}/assets/images/workshops/2022/BLM_LTPBR_Workshop_Aug2022_SocialMedia_Tiny.png)
+
 
 **Sponsored by:**<br>
 <a href="https://www.blm.gov/montana-dakotas"><img class="float-left" src="{{ site.baseurl }}/assets/images/sponsors/blm.png"></a> 
 This workshop sill be **August 9-11, 2022**. Save the Date! It will be a mix of field and classroom instruction. The BLM Miles City Field Office will host the event.
+
+<a target="_blank" href="https://calendar.google.com/event?action=TEMPLATE&amp;tmeid=MGI3Z2Q5NW12cXJmbWl1bzQyYW9xYmh1cGQgam9lLm0ud2hlYXRvbkBt&amp;tmsrc=joe.m.wheaton%40gmail.com"><img border="0" src="https://www.google.com/calendar/images/ext/gc_button1_en.gif"></a>
 
 
 
@@ -14,39 +17,33 @@ This workshop sill be **August 9-11, 2022**. Save the Date! It will be a mix of 
 
 ## Overview
 
-This workshop was solicited by BLM's Alden Shallcross, the State Lead - Montana/Dakotas Aquatic Habitat Management Program. The workshop was made possible thanks to the generous support of the [BLM Monata/Dakotas](https://www.blm.gov/montana-dakotas), and a grant  to [Utah State University's Restoration Consortium](http://restoration.usu.edu/) and [Joe Wheaton's](http://joewheaton.org/) [ET-AL lab](http://etal.joewheaton.org/).  The workshop content grew out of over 20 [LTPBR workshops]({{ site.baseurl }}/workshops/) taught by  Utah State University and the online modules were developed in  [2020]({{ site.baseurl }}/workshops/2020/SGI/) for an NRCS Working Lands for Wildlife workshop series. 
+This workshop was solicited by BLM's Alden Shallcross, the State Lead - Montana/Dakotas Aquatic Habitat Management Program. The workshop was made possible thanks to the generous support of the [BLM Montana/Dakotas](https://www.blm.gov/montana-dakotas), and a grant  to [Utah State University's Restoration Consortium](http://restoration.usu.edu/) and [Joe Wheaton's](http://joewheaton.org/) [ET-AL lab](http://etal.joewheaton.org/).  The workshop content grew out of over 20 [LTPBR workshops]({{ site.baseurl }}/workshops/) taught by  Utah State University and the online modules were developed in  [2020]({{ site.baseurl }}/workshops/2020/SGI/) for an NRCS Working Lands for Wildlife workshop series. 
 
 
-## Virtual Workshop Description
-The virtual portions of this workshop will introduce BLM staff and partners to ‘low-tech’ process-based approaches for restoring streams and their associated riparian areas (riverscapes) to benefit fish, wildlife, and working lands. Participants will learn principles guiding low-tech process-based restoration and become familiar with simple, hand-built tools, including Beaver Dam Analogues (BDAs) and Post-Assisted Log Structures (PALS), intended to mimic and promote specific ecosystem processes. Participants will gain basic skills in the planning, design, and implementation phases of project development. Course content is supported by a published [Design Manual]({{ site.baseurl }}/manual/).
+## Workshop Description
+This workshop will introduce BLM staff and partners to ‘low-tech’ process-based approaches for restoring streams and their associated riparian areas (riverscapes) to benefit fish, wildlife, and working lands. Participants will learn principles guiding low-tech process-based restoration and become familiar with simple, hand-built tools, including Beaver Dam Analogues (BDAs) and Post-Assisted Log Structures (PALS), intended to mimic and promote specific ecosystem processes. Participants will gain basic skills in the planning, design, and implementation phases of project development. Course content is supported by a published [Design Manual]({{ site.baseurl }}/manual/).  Instruction will be a mix of lectures, discussions, hands-on exercises at the desktop and in the field. Learning will culminate on Day 3 in construction of LTPBR structures on Pumpkin Creek.
 
-#### Overview - Pick and Choose
-<a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2020/SGI/SGI-NRCS_LTR_Workshop-Virtual_2020_Flyer.pdf"><img class="float-right" src="{{ site.baseurl }}/assets/images/workshops/2020/VirtualFlyer.png"></a> To make participating remotely and/or from home more manageable, we have spread our curriculum out over four days with lots of time for breaks and self-paced exercises. There is no substitute for the field experience, but we will try our best to simulate some of that virtually.
 
-Everyone participating in the Field Workshop must complete Modules 1 (Intro) and 5 (implementation). Beyond that, Modules 2 (science), 3 (planning), and 4 (design) are targeted at participants wishing to work as LTPBR practitioners. You can take all the modules, or just the ones relevant to you. All workshop materials, exercises and presentations are available online for a self-paced delivery by module at any time.
-but the virtual workshop gathering will provide pacing, panel discussions and engagement with other professionals and participants. 
 
 
 
 ### Agenda
 
-- Module 1: **Introduction to Low-Tech Process-Based Restoration** - Day 1 - August 11 (3/4-day)
-- Module 2: **Underlying Science & Case Studies for Low-Tech** -  Day 2 - August 12 (half-day morning)
-- Module 3: **Planning Low-Tech Process-Based Restoration** -  Day 2 - August 12 (half-day afternoon)
-- Module 4: **Designing Low-Tech Process-Based Restoration** - Day 3 - August 13 (3/4 day)
-- Module 5: **Implementing Low-Tech Process-Based Restoration** - Day 4 - August 14 (half-day morning) 
-
+Venue Forthcoming
+- Day 1: **Introduction to Low-Tech Process-Based Restoration** and **Underlying Science & Case Studies for Low-Tech** - (local field trip; mostly class-room in Miles City)  - 9 AM to 5 PM with evening social
+- Day 2 - **Planning Low-Tech Process-Based Restoration** and **Designing Low-Tech Process-Based Restoration**  (all class-room in Miles City) - 9 AM to 5 PM
+- Day 3 -  **Implementing Low-Tech Process-Based Restoration** on Pumpkin Creek (field all-day)  - 8 AM to 3 PM
 
 
 ### Registration
-Registration was free, but is now **closed**.  Participation was limited to 1000 participants.
+Registration is free, but is by invitation only. Between late May and early June, Alden Shalcross will send out invitations to BLM staff and partners and a registration sign up link.  Contact Alden Shalcross for more information.
 
 
 ------
 ## Course Materials
-<i class="fa fa-twitter" aria-hidden="true"></i> <a href="https://twitter.com/intent/tweet?text=https%3A//lowtechpbr.restoration.usu.edu/workshops/2020/SGI/%23course-material">Share on Twitter</a>
 
-### Slides & Handouts
+
+### Slides, Videos & Handouts
 
 <div align="center">
 
@@ -87,7 +84,7 @@ For the workshop, we rely on the a [Design Manual]({{ site.baseurl }}/manual) an
 
 ### Instruction Team
 
-#### Field Workshop - October 5
+####  Workshop
 <div class="row small-up-2 medium-up-2 large-up-4" align="center">
 
   <div class="column column-block">
@@ -105,7 +102,7 @@ For the workshop, we rely on the a [Design Manual]({{ site.baseurl }}/manual) an
 
 </div>
 
-#### Virtual Instruciton Team
+#### Virtual Instruction Team (virtual resources)
 <div class="row small-up-2 medium-up-2 large-up-4" align="center">
 
   <div class="column column-block">
@@ -199,7 +196,7 @@ For the workshop, we rely on the a [Design Manual]({{ site.baseurl }}/manual) an
 The target audience for the virtual field workshop is Montana-Dakota BLM Field Staff and their conservation partners  interested in improving the health of riverscapes BLM manages with low-tech PBR. 
 
 #### When it is taught as a field workshop.
-The target audience for the field workshop series was primarily NRCS staff, and key partners. NRCS SGI states will select key representatives involved in mesic restoration to participate. Anticipated NRCS participants include state/area/local specialists (biologists/engineers) and select field staff. States may also opt to invite key partners who are invested locally in helping get mesic conservation on the ground. The overall goal is to build a cadre of staff in each State to evaluate the technique and serve as local sources of expertise across the range. To keep the hands-on exercises effective, we  limited invitation only enrolment to roughly 45 participants per workshop.
+The target audience for the field workshop series was primarily BLM staff, and key partners. BLM will select key representatives involved in LTPBR of riverscapes to participate. Anticipated participants include state/area/local specialists (biologists/engineers) and select field staff.  The overall goal is to build a cadre of staff in each State to evaluate the technique and serve as local sources of expertise across the range. To keep the hands-on exercises effective, we  limited invitation only enrolment to roughly 45 participants per workshop.
 
 
 
