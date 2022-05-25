@@ -78,8 +78,8 @@ During the workshop, please follow state, local, and employer guidelines for soc
 ### Day 1: Tuesday, June 7
 #### Meeting Location: Yakima Nation Closed Area: Tepee Creek LTPBR Project Staging Site (46.139110, -121.070430)
 
-9:00-9:50: Introductions, Agenda, & Goals of Workshop 
-	Introductions, Goals, Agenda, and Logistics
+**9:00-9:50: Introductions, Agenda, & Goals of Workshop **
+	<ul><li>Introductions, Goals, Agenda, and Logistics</li>
 o	Introductions
 o	Goals/Agenda/Logistics 
 
