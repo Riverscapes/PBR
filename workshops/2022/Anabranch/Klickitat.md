@@ -48,7 +48,7 @@ Because the course will be taught in the field, it will be helpful to refer to s
 See the agenda for specific locations of where we will be meeting and stopping each day. The following links provide workshop meeting and stopping locations in .kmz and google map formats. 
 
 <iframe src="https://www.google.com/maps/d/embed?mid=1osO0nGH5b8UVsUqsC4jaKB60fCYUbFzZ&ehbc=2E312F" width="640" height="480"></iframe>
-**embed map**
+
 
 ### How to Sign Up
 To sign up, please contact Adrianne Grimm <a href="mailto:agrimm@ykfp.org">(agrimm@ykfp.org)</a> or Jeanette Burkhardt <a href="mailto:jeanette@ykfp.org">(jeanette@ykfp.org)</a>. 
@@ -79,28 +79,33 @@ During the workshop, please follow state, local, and employer guidelines for soc
 #### Meeting Location: Yakima Nation Closed Area: Tepee Creek LTPBR Project Staging Site (46.139110, -121.070430)
 
 ***9:00-9:50: Introductions, Agenda, & Goals of Workshop***
+
 Introductions, Goals, Agenda, and Logistics
 -Introductions
 Goals/Agenda/Logistics 
 
 ***9:50-1020: Background and Purpose (Pocket Guide p. 5-6, Design Manual Ch.1)***
+
 Scope of Problem 
 -General degradation
 -Loss and importance of structure (beavers and wood)
 -What was lost?
 -Define process-based restoration (contrast with traditional) 
 
-***10:20-10:30: Break ***
+***10:20-10:30: Break***
 
 ***10:30-11:00: Guiding Principles (Pocket Guide p. 1-4, Design Manual Ch.2)***
-	Riverscape Principles 
-	Restoration Principles 
 
-11:00-12:00: Context and Conditions (Pocket Guide p. 7-22, Design Manual Ch. 3)
-	Connecting Observations with goals and objectives
-o	What’s possible – identify valley bottom features, recovery potential, risk 
-o	Condition assessment - flow regime, geomorphic, riparian, beaver, Uncertainty - adaptive management and expectation management 
-12:00-1:00: Lunch
+-Riverscape Principles 
+-Restoration Principles 
+
+***11:00-12:00: Context and Conditions (Pocket Guide p. 7-22, Design Manual Ch. 3)***
+
+Connecting Observations with goals and objectives
+-What’s possible – identify valley bottom features, recovery potential, risk 
+-Condition assessment - flow regime, geomorphic, riparian, beaver, Uncertainty - adaptive management and expectation management 
+
+**12:00-1:00: Lunch**
 
 1:00-1:30:  Low-tech Approaches and Structures
 	Beaver ecology and management 
