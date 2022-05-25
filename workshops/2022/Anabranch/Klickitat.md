@@ -20,7 +20,7 @@ weight:  2
 </div>
 
 
-**October 12 & 13,  2021 in Tepee Creek, WA**
+**June 7 & 8 in Tepee Creek, WA**
 
 -----
 ## Description
@@ -41,13 +41,14 @@ Because the course will be taught in the field, it will be helpful to refer to s
 </div>
 
 ### Where to Meet
-**Tuesday (10/12):**  9:00 AM Yakama Nation: Tepee Creek IXL <a href="https://goo.gl/maps/X1hWkn2dFD48jWqi8"> (46.1841640, -121.0260258) </a>
+**Tuesday June 07:**  9:00 AM @ Yakama Nation Closed Area: Tepee Creek LTPBR Staging Site <a href="https://goo.gl/maps/CmMJnzA51FPdyUnPA"> (46.139110, -121.070430) </a>
 
-**Wednesday (10/13):**  8:30 AM @ Tepee LTPBR Meadow Site <a href="https://goo.gl/maps/49mSiryXWB4TQdjC7">(46.1384681, -121.0696050)</a>
+**Wednesday June 08:**  8:30 AM @ Yakama Nation Closed Area: Tepee Creek LTPBR Staging Site <a href="https://goo.gl/maps/CmMJnzA51FPdyUnPA"> (46.139110, -121.070430)</a>
 
 See the agenda for specific locations of where we will be meeting and stopping each day. The following links provide workshop meeting and stopping locations in .kmz and google map formats. 
 
-**embed map**
+<iframe src="https://www.google.com/maps/d/embed?mid=1osO0nGH5b8UVsUqsC4jaKB60fCYUbFzZ&ehbc=2E312F" width="640" height="480"></iframe>
+
 
 ### How to Sign Up
 To sign up, please contact Adrianne Grimm <a href="mailto:agrimm@ykfp.org">(agrimm@ykfp.org)</a> or Jeanette Burkhardt <a href="mailto:jeanette@ykfp.org">(jeanette@ykfp.org)</a>. 
@@ -74,20 +75,67 @@ During the workshop, please follow state, local, and employer guidelines for soc
 ## Agenda
 - <a href="><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a> ***Print Agenda***
 
-### Day 1: Tuesday, October 12
-#### Meeting Location
+### Day 1: Tuesday, June 7
+#### Meeting Location: Yakima Nation Closed Area: Tepee Creek LTPBR Project Staging Site (46.139110, -121.070430)
 
-#### Stop 1
-TBD
+**9:00-9:50: Introductions, Agenda, & Goals of Workshop**
+
+Introductions, Goals, Agenda, and Logistics
+-Introductions
+Goals/Agenda/Logistics 
+
+**9:50-1020: Background and Purpose (Pocket Guide p. 5-6, Design Manual Ch.1)**
+
+Scope of Problem 
+- General degradation
+- Loss and importance of structure (beavers and wood)
+- What was lost?
+- Define process-based restoration (contrast with traditional) 
+
+**10:20-10:30: Break**
+
+**10:30-11:00: Guiding Principles (Pocket Guide p. 1-4, Design Manual Ch.2)**
+
+- Riverscape Principles 
+- Restoration Principles 
+
+**11:00-12:00: Context and Conditions (Pocket Guide p. 7-22, Design Manual Ch. 3)**
+
+Connecting Observations with goals and objectives
+- What’s possible – identify valley bottom features, recovery potential, risk 
+- Condition assessment - flow regime, geomorphic, riparian, beaver, Uncertainty - adaptive management and expectation management 
+
+**12:00-1:00: Lunch**
+
+**1:00-1:30:  Low-tech Approaches and Structures**
+- Beaver ecology and management 
+- Low-tech toolbox – introduction to methods & structures
+
+**1:30-3:00: Designing Low-tech Restoration Structures**
+- Assessment of site/goals
+- Review existing design
+
+**3:00-4:30: Building Low-tech Restoration Structures**
+- Safety demonstration
+- Hands on building various structures 
+
+**4:30-5:00: Wrap up**
+- Case studies – success and challenges
+- Wrap up discussion and questions 
 
 
-#### Stop 2– 
 
 
-### Day 2: Wednesday, October 13
-#### Meeting Location:
+### Day 2: Wednesday, June 8
+#### Meeting Location: Yakima Nation Closed Area: Tepee Creek LTPBR Project Staging Site (46.139110, -121.070430)
 
-TBD
+**8:30-3:30: Building Low-tech Restoration Structures**
+- Hands-on construction of various structures
+
+**3:30-5:00: Review of workshop and construction**
+- AS-BUILT review
+- Workshop synthesis (review principles) & where to turn for help
+
 
 -----
 ## Course Materials
@@ -136,6 +184,12 @@ BRAT was ran for all the perennial rivers and streams within the Yakama Nation R
     <h4><a href="https://www.anabranchsolutions.com/stephen-bennett.html">Stephen N. Bennett</a></h4>
     Principal Fish & Wildlife Biologist, Anabranch Solutions
 <p>Research Scientist, USU</p>
+  </div>
+  <div class="column column-block">
+    <a href="https://www.anabranchsolutions.com/joe-wheaton.html"><img src="{{ site.baseurl }}/assets/images/people/Wheaton_round.png"></a>
+    <h4><a href="https://www.anabranchsolutions.com/joe-wheaton.html">Joe Wheaton</a></h4>
+    Principal Geomorphologist, Anabranch Solutions
+    <p>Professor of Riverscapes, USU</p>
   </div>
 <div class="column column-block">
     <a href="https://www.anabranchsolutions.com/andy-hill.html"><img src="{{ site.baseurl }}/assets/images/people/AndyHill_round-02-01.png"></a>
