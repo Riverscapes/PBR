@@ -127,7 +127,7 @@ Connecting Observations with goals and objectives
 
 
 ### Day 2: Wednesday, June 8
-#### Meeting Location:
+#### Meeting Location: Yakima Nation Closed Area: Tepee Creek LTPBR Project Staging Site (46.139110, -121.070430)
 
 **8:30-3:30: Building Low-tech Restoration Structures**
 - Hands-on construction of various structures
@@ -184,6 +184,12 @@ BRAT was ran for all the perennial rivers and streams within the Yakama Nation R
     <h4><a href="https://www.anabranchsolutions.com/stephen-bennett.html">Stephen N. Bennett</a></h4>
     Principal Fish & Wildlife Biologist, Anabranch Solutions
 <p>Research Scientist, USU</p>
+  </div>
+  <div class="column column-block">
+    <a href="https://www.anabranchsolutions.com/joe-wheaton.html"><img src="{{ site.baseurl }}/assets/images/people/Wheaton_round.png"></a>
+    <h4><a href="https://www.anabranchsolutions.com/joe-wheaton.html">Joe Wheaton</a></h4>
+    Principal Geomorphologist, Anabranch Solutions
+    <p>Professor of Riverscapes, USU</p>
   </div>
 <div class="column column-block">
     <a href="https://www.anabranchsolutions.com/andy-hill.html"><img src="{{ site.baseurl }}/assets/images/people/AndyHill_round-02-01.png"></a>
