@@ -121,10 +121,16 @@ o	Condition assessment - flow regime, geomorphic, riparian, beaver, Uncertainty 
 
 
 
-### Day 2: Wednesday, October 13
+### Day 2: Wednesday, June 8
 #### Meeting Location:
 
-TBD
+8:30-3:30: Building Low-tech Restoration Structures
+	Hands-on construction of various structures
+
+3:30-5:00: Review of workshop and construction
+	AS-BUILT review
+	Workshop synthesis (review principles) & where to turn for help
+
 
 -----
 ## Course Materials
