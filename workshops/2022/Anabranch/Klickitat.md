@@ -20,7 +20,7 @@ weight:  2
 </div>
 
 
-**October 12 & 13,  2021 in Tepee Creek, WA**
+**June 7 & 8 in Tepee Creek, WA**
 
 -----
 ## Description
@@ -41,12 +41,13 @@ Because the course will be taught in the field, it will be helpful to refer to s
 </div>
 
 ### Where to Meet
-**Tuesday (10/12):**  9:00 AM Yakama Nation: Tepee Creek IXL <a href="https://goo.gl/maps/X1hWkn2dFD48jWqi8"> (46.1841640, -121.0260258) </a>
+**Tuesday June 07:**  9:00 AM @ Yakama Nation Closed Area: Tepee Creek LTPBR Staging Site <a href="https://goo.gl/maps/CmMJnzA51FPdyUnPA"> (46.139110, -121.070430) </a>
 
-**Wednesday (10/13):**  8:30 AM @ Tepee LTPBR Meadow Site <a href="https://goo.gl/maps/49mSiryXWB4TQdjC7">(46.1384681, -121.0696050)</a>
+**Wednesday June 08:**  8:30 AM @ Yakama Nation Closed Area: Tepee Creek LTPBR Staging Site <a href="https://goo.gl/maps/CmMJnzA51FPdyUnPA"> (46.139110, -121.070430)</a>
 
 See the agenda for specific locations of where we will be meeting and stopping each day. The following links provide workshop meeting and stopping locations in .kmz and google map formats. 
 
+<iframe src="https://www.google.com/maps/d/embed?mid=1osO0nGH5b8UVsUqsC4jaKB60fCYUbFzZ&ehbc=2E312F" width="640" height="480"></iframe>
 **embed map**
 
 ### How to Sign Up
