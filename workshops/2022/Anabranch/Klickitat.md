@@ -78,21 +78,21 @@ During the workshop, please follow state, local, and employer guidelines for soc
 ### Day 1: Tuesday, June 7
 #### Meeting Location: Yakima Nation Closed Area: Tepee Creek LTPBR Project Staging Site (46.139110, -121.070430)
 
-**9:00-9:50: Introductions, Agenda, & Goals of Workshop **
-	<ul><li>Introductions, Goals, Agenda, and Logistics</li>
-o	Introductions
-o	Goals/Agenda/Logistics 
+***9:00-9:50: Introductions, Agenda, & Goals of Workshop***
+Introductions, Goals, Agenda, and Logistics
+-Introductions
+Goals/Agenda/Logistics 
 
-9:50-1020: Background and Purpose (Pocket Guide p. 5-6, Design Manual Ch.1)
-	Scope of Problem 
-o	General degradation
-o	Loss and importance of structure (beavers and wood)
-o	What was lost?
-	Define process-based restoration (contrast with traditional) 
+***9:50-1020: Background and Purpose (Pocket Guide p. 5-6, Design Manual Ch.1)***
+Scope of Problem 
+-General degradation
+-Loss and importance of structure (beavers and wood)
+-What was lost?
+-Define process-based restoration (contrast with traditional) 
 
-10:20-10:30: Break 
+***10:20-10:30: Break ***
 
-10:30-11:00: Guiding Principles (Pocket Guide p. 1-4, Design Manual Ch.2)
+***10:30-11:00: Guiding Principles (Pocket Guide p. 1-4, Design Manual Ch.2)***
 	Riverscape Principles 
 	Restoration Principles 
 
