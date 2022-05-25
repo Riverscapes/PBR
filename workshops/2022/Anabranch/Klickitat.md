@@ -87,17 +87,17 @@ Goals/Agenda/Logistics
 ***9:50-1020: Background and Purpose (Pocket Guide p. 5-6, Design Manual Ch.1)***
 
 Scope of Problem 
--General degradation
--Loss and importance of structure (beavers and wood)
--What was lost?
--Define process-based restoration (contrast with traditional) 
+- General degradation
+- Loss and importance of structure (beavers and wood)
+- What was lost?
+- Define process-based restoration (contrast with traditional) 
 
 ***10:20-10:30: Break***
 
 ***10:30-11:00: Guiding Principles (Pocket Guide p. 1-4, Design Manual Ch.2)***
 
--Riverscape Principles 
--Restoration Principles 
+- Riverscape Principles 
+- Restoration Principles 
 
 ***11:00-12:00: Context and Conditions (Pocket Guide p. 7-22, Design Manual Ch. 3)***
 
@@ -108,20 +108,20 @@ Connecting Observations with goals and objectives
 **12:00-1:00: Lunch**
 
 1:00-1:30:  Low-tech Approaches and Structures
-	Beaver ecology and management 
-	Low-tech toolbox – introduction to methods & structures
+- Beaver ecology and management 
+- Low-tech toolbox – introduction to methods & structures
 
 1:30-3:00: Designing Low-tech Restoration Structures 
-	Assessment of site/goals
-	Review existing design
+- Assessment of site/goals
+- Review existing design
 
 3:00-4:30: Building Low-tech Restoration Structures 
-	Safety demonstration
-	Hands on building various structures 
+- Safety demonstration
+- Hands on building various structures 
 
 4:30-5:00: Wrap up
-	Case studies – success and challenges
-	Wrap up discussion and questions 
+- Case studies – success and challenges
+- Wrap up discussion and questions 
 
 
 
@@ -130,11 +130,11 @@ Connecting Observations with goals and objectives
 #### Meeting Location:
 
 8:30-3:30: Building Low-tech Restoration Structures
-	Hands-on construction of various structures
+- Hands-on construction of various structures
 
 3:30-5:00: Review of workshop and construction
-	AS-BUILT review
-	Workshop synthesis (review principles) & where to turn for help
+- AS-BUILT review
+- Workshop synthesis (review principles) & where to turn for help
 
 
 -----
