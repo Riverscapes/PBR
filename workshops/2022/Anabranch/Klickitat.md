@@ -2,7 +2,8 @@
 title:  Klickitat LTPBR Workshop
 weight:  2
 ---
-# Klickitat River Watershed 2021 Field-Based Workshop:  Intro to Low-Tech Process-Based Restoration of Riverscapes 
+# Klickitat River Watershed 2022 Field-Based Workshop: 
+## Intro to Low-Tech Process-Based Restoration of Riverscapes 
 
 <div class="row small-up-2 medium-up-2 large-up-6" align="center">
 
@@ -20,13 +21,13 @@ weight:  2
 </div>
 
 
-**June 7 & 8 in Tepee Creek, WA**
+### **June 7 & 8 in Tepee Creek, WA**
 
 -----
 ## Description
-This field-based workshop will take place on Tepee Creek in the Klickitat River watershed and is intended to introduce conservationists to ‘low-tech’ process-based (LTPBR) approaches for restoring streams and their associated riparian areas (riverscapes) to benefit fish, wildlife, and Tribal lands. Participants will learn principles guiding low-tech process-based restoration and become familiar with simple, hand-built tools, including Beaver Dam Analogues (BDAs) and Post-Assisted Log Structures (PALS), intended to mimic and promote specific ecosystem processes. Participants will gain basic skills in the planning, design, and implementation phases of project development. 
+This field-based workshop will take place on Tepee Creek in the Klickitat River watershed and is intended to introduce conservationists to ‘low-tech’ process-based (LTPBR) approaches for restoring streams and their associated riparian areas (riverscapes) to benefit fish, wildlife, and Tribal lands. Participants will learn principles guiding low-tech process-based restoration and become familiar with simple, hand-built structures, including Beaver Dam Analogues (BDAs) and Post-Assisted Log Structures (PALS), intended to mimic and promote specific ecosystem processes. The focus of the workshop will be on a set of guiding riverscape and restoration principles, design and construction of different low-tech structures, and the impairments the structures can treat. Planning, assessment, prioritization, and monitoring, though critical to restoration success, will not be covered in detail, but more in-depth information on all aspects of LTPBR restoration can be accessed throug the links below. 
 
-Because the course will be taught in the field, it will be helpful to refer to some documents. We will have hard copies of the [Design Manual]({{ site.baseurl }}/manual) and the [Pocket Guide]({{ site.baseurl }}/resources/pocket), available for workshop participants at no cost. An [online lecture series]({{ site.baseurl }}/resources/Topics/)  can be viewed either as videos or pdf documents.  We encourage workshop participants to review some of the lecture material before the workshop. We will update the website with pictures and other information after the workshop. 
+We encourage workshop participants to review the lecture material before the workshop (especially <a href="{{ site.baseurl }}/workshops/2020/SGI/Modules/module1">Module 1</a>). The [Design Manual]({{ site.baseurl }}/manual), the [Pocket Guide]({{ site.baseurl }}/resources/pocket), and [online lecture series]({{ site.baseurl }}/resources/Topics/) are all available online for review. If you only have an hour or so to review lecture materials, here are some recommendations: <a href="https://www.youtube.com/watch?v=GnM52tj1BbI&t=234s">Scope of the Problem</a>, <a href="https://www.youtube.com/watch?v=nMGmkIl6gVI">What Riverscapes Could Be</a>, <a href="https://www.youtube.com/watch?v=x4LogsoQEn0">Broad Umbrella of Low-Tech Restoration</a>,<a href="https://www.youtube.com/watch?v=v5gZQDEXlxQ&t=2s"> LTPBR Principles</a>, <a href="https://www.youtube.com/watch?v=M__bF3zJjmM"> Reading Riverscapes: Mapping Valley Bottoms</a>, <a href="https://youtu.be/Tpxj60utpfs">Reading Riverscapes: Structural Forcing</a>.
 
 
 
@@ -45,7 +46,7 @@ Because the course will be taught in the field, it will be helpful to refer to s
 
 **Wednesday June 08:**  8:30 AM @ Yakama Nation Closed Area: Tepee Creek LTPBR Staging Site <a href="https://goo.gl/maps/CmMJnzA51FPdyUnPA"> (46.139110, -121.070430)</a>
 
-See the agenda for specific locations of where we will be meeting and stopping each day. The following links provide workshop meeting and stopping locations in .kmz and google map formats. 
+Click on the map below for meeting and stop locations for the workshop.  
 
 <iframe src="https://www.google.com/maps/d/embed?mid=1osO0nGH5b8UVsUqsC4jaKB60fCYUbFzZ&ehbc=2E312F" width="640" height="480"></iframe>
 
@@ -76,15 +77,17 @@ During the workshop, please follow state, local, and employer guidelines for soc
 - <a href="><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a> ***Print Agenda***
 
 ### Day 1: Tuesday, June 7
-#### Meeting Location: Yakima Nation Closed Area: Tepee Creek LTPBR Project Staging Site (46.139110, -121.070430)
+#### Meeting Location: Yakima Nation Closed Area: Tepee Creek LTPBR Project Staging Site 
+<a href="https://goo.gl/maps/CmMJnzA51FPdyUnPA"> (46.139110, -121.070430) </a>
 
 **9:00-9:50: Introductions, Agenda, & Goals of Workshop**
 
 Introductions, Goals, Agenda, and Logistics
--Introductions
-Goals/Agenda/Logistics 
 
-**9:50-1020: Background and Purpose (Pocket Guide p. 5-6, Design Manual Ch.1)**
+- Introductions
+- Goals/Agenda/Logistics 
+
+**9:50-1020: Background and Purpose** ([Pocket Guide]({{ site.baseurl }}/resources/pocket) p. 5-6, [Design Manual Ch.1]({{ site.baseurl }}/manual/chap01))
 
 Scope of Problem 
 - General degradation
@@ -94,12 +97,12 @@ Scope of Problem
 
 **10:20-10:30: Break**
 
-**10:30-11:00: Guiding Principles (Pocket Guide p. 1-4, Design Manual Ch.2)**
+**10:30-11:00: Guiding Principles** ([Pocket Guide]({{ site.baseurl }}/resources/pocket) p. 1-4, [Design Manual Ch.2]({{ site.baseurl }}/manual/chap02))
 
 - Riverscape Principles 
 - Restoration Principles 
 
-**11:00-12:00: Context and Conditions (Pocket Guide p. 7-22, Design Manual Ch. 3)**
+**11:00-12:00: Context and Conditions**  ([Pocket Guide]({{ site.baseurl }}/resources/pocket) p. 7-22, [Design Manual Ch. 3]({{ site.baseurl }}/manual/chap03))
 
 Connecting Observations with goals and objectives
 - What’s possible – identify valley bottom features, recovery potential, risk 
@@ -127,7 +130,8 @@ Connecting Observations with goals and objectives
 
 
 ### Day 2: Wednesday, June 8
-#### Meeting Location: Yakima Nation Closed Area: Tepee Creek LTPBR Project Staging Site (46.139110, -121.070430)
+#### Meeting Location: Yakima Nation Closed Area: Tepee Creek LTPBR Project Staging Site 
+<a href="https://goo.gl/maps/CmMJnzA51FPdyUnPA"> (46.139110, -121.070430) </a>
 
 **8:30-3:30: Building Low-tech Restoration Structures**
 - Hands-on construction of various structures
@@ -160,7 +164,7 @@ The latest iteration of these is a lecture series designed to be presented virtu
 ### Tepee Creek LTPBR Design
 The following map outlines the locations of LTPBR structures on Tepee Creek. A full restoration design report can be found <a href="https://s3.us-west-2.amazonaws.com/etalweb.joewheaton.org/Workshops/LTPBR/2021/YakamaNation_TepeeCreek_80PercentDesignReport_Final.pdf"> here</a>. 
 
-<iframe src="https://www.google.com/maps/d/embed?mid=1vEn3tqIVrDqR7SWKXoXgrwT-pzuHaYK-" width="640" height="480"></iframe>
+<iframe src="https://www.google.com/maps/d/embed?mid=1Rd8iPyT1fQT-XaSkw43Yy18bfsJqckxq&ehbc=2E312F" width="640" height="480"></iframe>
 <div align="left">
         <a class="hollow button" href="https://s3.us-west-2.amazonaws.com/etalweb.joewheaton.org/Workshops/LTPBR/2021/YakamaNation_TepeeCreek_80PercentDesignReport_Final.pdf">  LTPBR Tepee Creek Report</a>  
 </div>
@@ -195,6 +199,12 @@ BRAT was ran for all the perennial rivers and streams within the Yakama Nation R
     <a href="https://www.anabranchsolutions.com/andy-hill.html"><img src="{{ site.baseurl }}/assets/images/people/AndyHill_round-02-01.png"></a>
     <h4><a href="https://www.anabranchsolutions.com/andy-hill.html">Andrew Hill</a></h4>
     Spatial Ecologist & Designer, Anabranch Solutions
+
+  </div>
+  <div class="column column-block">
+    <a href="https://www.anabranchsolutions.com/scott-nicolai.html"><img src="{{ site.baseurl }}/assets/images/people/nikolai-round.png"></a>
+    <h4><a href="https://www.anabranchsolutions.com/scott-nicolai.html">Scott Nicolail</a></h4>
+    Reverse Logging Expert
 
   </div>
 
