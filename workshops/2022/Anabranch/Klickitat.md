@@ -78,13 +78,13 @@ During the workshop, please follow state, local, and employer guidelines for soc
 ### Day 1: Tuesday, June 7
 #### Meeting Location: Yakima Nation Closed Area: Tepee Creek LTPBR Project Staging Site (46.139110, -121.070430)
 
-***9:00-9:50: Introductions, Agenda, & Goals of Workshop***
+**9:00-9:50: Introductions, Agenda, & Goals of Workshop**
 
 Introductions, Goals, Agenda, and Logistics
 -Introductions
 Goals/Agenda/Logistics 
 
-***9:50-1020: Background and Purpose (Pocket Guide p. 5-6, Design Manual Ch.1)***
+**9:50-1020: Background and Purpose (Pocket Guide p. 5-6, Design Manual Ch.1)**
 
 Scope of Problem 
 - General degradation
@@ -92,34 +92,34 @@ Scope of Problem
 - What was lost?
 - Define process-based restoration (contrast with traditional) 
 
-***10:20-10:30: Break***
+**10:20-10:30: Break**
 
-***10:30-11:00: Guiding Principles (Pocket Guide p. 1-4, Design Manual Ch.2)***
+**10:30-11:00: Guiding Principles (Pocket Guide p. 1-4, Design Manual Ch.2)**
 
 - Riverscape Principles 
 - Restoration Principles 
 
-***11:00-12:00: Context and Conditions (Pocket Guide p. 7-22, Design Manual Ch. 3)***
+**11:00-12:00: Context and Conditions (Pocket Guide p. 7-22, Design Manual Ch. 3)**
 
 Connecting Observations with goals and objectives
--What’s possible – identify valley bottom features, recovery potential, risk 
--Condition assessment - flow regime, geomorphic, riparian, beaver, Uncertainty - adaptive management and expectation management 
+- What’s possible – identify valley bottom features, recovery potential, risk 
+- Condition assessment - flow regime, geomorphic, riparian, beaver, Uncertainty - adaptive management and expectation management 
 
 **12:00-1:00: Lunch**
 
-1:00-1:30:  Low-tech Approaches and Structures
+**1:00-1:30:  Low-tech Approaches and Structures**
 - Beaver ecology and management 
 - Low-tech toolbox – introduction to methods & structures
 
-1:30-3:00: Designing Low-tech Restoration Structures 
+**1:30-3:00: Designing Low-tech Restoration Structures**
 - Assessment of site/goals
 - Review existing design
 
-3:00-4:30: Building Low-tech Restoration Structures 
+**3:00-4:30: Building Low-tech Restoration Structures**
 - Safety demonstration
 - Hands on building various structures 
 
-4:30-5:00: Wrap up
+**4:30-5:00: Wrap up**
 - Case studies – success and challenges
 - Wrap up discussion and questions 
 
@@ -129,10 +129,10 @@ Connecting Observations with goals and objectives
 ### Day 2: Wednesday, June 8
 #### Meeting Location:
 
-8:30-3:30: Building Low-tech Restoration Structures
+**8:30-3:30: Building Low-tech Restoration Structures**
 - Hands-on construction of various structures
 
-3:30-5:00: Review of workshop and construction
+**3:30-5:00: Review of workshop and construction**
 - AS-BUILT review
 - Workshop synthesis (review principles) & where to turn for help
 
