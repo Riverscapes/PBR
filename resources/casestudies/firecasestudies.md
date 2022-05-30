@@ -5,6 +5,17 @@ weight: 2
 
 # Examples of LTPBR for Post Fire Recovery
 
+## North Fork Sprague River, Oregon → Bootleg Fire 2021
+
+<a target="blank" href="https://indiancountrytoday.com/news/crews-work-to-mitigate-bootleg-fire-sediment-loading"><img class="float-left" src="{{ site.baseurl }}/assets/images/pics/SamBootleg.png"></a> 
+[Crews work to mitigate Bootleg Fire sediment loading](https://indiancountrytoday.com/news/crews-work-to-mitigate-bootleg-fire-sediment-loading) The Harmony Preserve project employs process-based restoration, a relatively low-tech approach that lets the Sprague — not construction equipment — do most of the work - (KLAMATH FALLS) HERALD AND NEWS DEC 1, 2021
+
+
+<div align="center">
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Great article by <a href="https://twitter.com/IsobelWhitcomb?ref_src=twsrc%5Etfw">@IsobelWhitcomb</a> highlighting work done by beaver and <a href="https://twitter.com/hashtag/lowtechPBR?src=hash&amp;ref_src=twsrc%5Etfw">#lowtechPBR</a> by <a href="https://twitter.com/TroutUnlimited?ref_src=twsrc%5Etfw">@TroutUnlimited</a>, <a href="https://twitter.com/USFWS?ref_src=twsrc%5Etfw">@USFWS</a>, local partners and <a href="https://twitter.com/AnabranchS?ref_src=twsrc%5Etfw">@AnabranchS</a> in Southern Oregon. Beaver Dams Help Wildfire-Ravaged Ecosystems Recover Long after Flames Subside <a href="https://t.co/qrP7Drudnz">https://t.co/qrP7Drudnz</a> via <a href="https://twitter.com/sciam?ref_src=twsrc%5Etfw">@sciam</a></p>&mdash; Joe Wheaton (@fluvialwheaton) <a href="https://twitter.com/fluvialwheaton/status/1491868640492208149?ref_src=twsrc%5Etfw">February 10, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div>
+
+
 ## Baugh Creek, Idaho → Sharps Fire 2018
 <a target="blank" href="https://photos.app.goo.gl/ABigjKsC6SyBaaC48"><img class="float-right" src="{{ site.baseurl }}/assets/images/covers/BaughCreekAlbum.png"></a>
 The [Sharps Fire, 2018](https://www.fireweatheravalanche.org/wildfire/incident/50947/idaho/sharps-fire) was where the fairly obvious tweet below came from (i.e. "turns out water does not burn" - see [related Tweets <i class="fa fa-twitter" aria-hidden="true"></i>
