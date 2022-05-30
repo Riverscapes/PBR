@@ -8,10 +8,19 @@ weight: 2
 ## North Fork Sprague River, Oregon → Bootleg Fire 2021
 
 <a target="blank" href="https://indiancountrytoday.com/news/crews-work-to-mitigate-bootleg-fire-sediment-loading"><img class="float-left" src="{{ site.baseurl }}/assets/images/pics/SamBootleg.png"></a> 
-[Crews work to mitigate Bootleg Fire sediment loading](https://indiancountrytoday.com/news/crews-work-to-mitigate-bootleg-fire-sediment-loading) The Harmony Preserve project employs process-based restoration, a relatively low-tech approach that lets the Sprague — not construction equipment — do most of the work - (KLAMATH FALLS) HERALD AND NEWS DEC 1, 2021
+[Crews work to mitigate Bootleg Fire sediment loading](https://indiancountrytoday.com/news/crews-work-to-mitigate-bootleg-fire-sediment-loading) The Harmony Preserve project employs process-based restoration, a relatively low-tech approach that lets the Sprague — not construction equipment — do most of the work 
 
 ### Project Information
-<a target="blank" href="https://www.anabranchsolutions.com/project-2021-46-bailey-flat.html"><img width="250" class="float-right" src="https://www.anabranchsolutions.com/uploads/5/2/5/1/52514327/asbuildcover_orig.png"></a> This was an emergency restoration project following the Bootleg Fire in July and August of 2021. The original meetings with land owners, USFWS and Trout Unlimmited staff were in late September. Planning, Design and Permits were in place by early November and [Anabranch Solutions](https://www.anabranchsolutions.com/project-2021-46-bailey-flat.html) and Swiftwater Design finished construction prior to Thanksgiving.
+<a target="blank" href="https://www.anabranchsolutions.com/project-2021-46-bailey-flat.html"><img width="200" class="float-right" src="https://www.anabranchsolutions.com/uploads/5/2/5/1/52514327/asbuildcover_orig.png"></a> This was an emergency restoration project following the Bootleg Fire in July and August of 2021. The original meetings with land owners, [USFWS](https://www.fws.gov/) and [Trout Unlimmited](https://www.tu.org/) staff were in late September of 2021. Planning, Design and Permits were in place by early November and [Anabranch Solutions](https://www.anabranchsolutions.com/project-2021-46-bailey-flat.html) and [Swift Water Design](http://www.swiftwaterdesign.com/) finished construction prior to Thanksgiving.
+
+
+
+### Media Coverage
+
+<a target="blank" href="https://www.scientificamerican.com/article/beaver-dams-help-wildfire-ravaged-ecosystems-recover-long-after-flames-subside/"><img class="float-right" src="{{ site.baseurl }}/assets/images/pics/NFK_Sprague.png"></a>
+- Whitcomb 2022. [Beaver Dams Help Wildfire-Ravaged Ecosystems Recover Long after Flames Subside - Dams mop up debris that would otherwise kill fish and other downstream wildlife, new observations suggest](https://www.scientificamerican.com/article/beaver-dams-help-wildfire-ravaged-ecosystems-recover-long-after-flames-subside/) Scientific American. February 7, 2022.
+- Schwartz 2021. [Crews work to mitigate Bootleg Fire sediment loading](https://indiancountrytoday.com/news/crews-work-to-mitigate-bootleg-fire-sediment-loading). Klamath Falls Herald & News Dec 1, 20221
+
 
 
 
@@ -22,6 +31,8 @@ weight: 2
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Great article by <a href="https://twitter.com/IsobelWhitcomb?ref_src=twsrc%5Etfw">@IsobelWhitcomb</a> highlighting work done by beaver and <a href="https://twitter.com/hashtag/lowtechPBR?src=hash&amp;ref_src=twsrc%5Etfw">#lowtechPBR</a> by <a href="https://twitter.com/TroutUnlimited?ref_src=twsrc%5Etfw">@TroutUnlimited</a>, <a href="https://twitter.com/USFWS?ref_src=twsrc%5Etfw">@USFWS</a>, local partners and <a href="https://twitter.com/AnabranchS?ref_src=twsrc%5Etfw">@AnabranchS</a> in Southern Oregon. Beaver Dams Help Wildfire-Ravaged Ecosystems Recover Long after Flames Subside <a href="https://t.co/qrP7Drudnz">https://t.co/qrP7Drudnz</a> via <a href="https://twitter.com/sciam?ref_src=twsrc%5Etfw">@sciam</a></p>&mdash; Joe Wheaton (@fluvialwheaton) <a href="https://twitter.com/fluvialwheaton/status/1491868640492208149?ref_src=twsrc%5Etfw">February 10, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </div>
 
+
+-----------
 
 ## Baugh Creek, Idaho → Sharps Fire 2018
 <a target="blank" href="https://photos.app.goo.gl/ABigjKsC6SyBaaC48"><img class="float-right" src="{{ site.baseurl }}/assets/images/covers/BaughCreekAlbum.png"></a>
