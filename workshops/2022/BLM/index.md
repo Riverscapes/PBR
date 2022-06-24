@@ -38,6 +38,20 @@ Venue Forthcoming
 ### Registration
 Registration is free, but is by invitation only. Between late May and early June, Alden Shalcross will send out invitations to BLM staff and partners and a registration sign up link.  Contact Alden Shalcross for more information.
 
+----
+## Logistics
+
+### Lodging
+**BOOK BEFORE July 1, 2022** to secure discount rate!
+
+For those travelling to Miles City from out of town, we have secured a group rate at the [Mile City Hotel & Suites](https://milescityhotels.com/) for a discounted room rate of $129 for a King or Double Queen Deluxe. There are a variety of [other lodging options in Miles City as well](https://www.google.com/travel/hotels/Miles%20City%2C%20MT?q=hotels%20in%20miles%20city&g2lb=2502548%2C2503771%2C2503781%2C4258168%2C4270442%2C4284970%2C4291517%2C4306835%2C4515404%2C4597339%2C4649665%2C4703207%2C4718358%2C4722900%2C4723331%2C4741665%2C4757164%2C4758493%2C4762561%2C4779784%2C4786958%2C4787395%2C4790928%2C4794648%2C4797296&hl=en-US&gl=us&ssta=1&ts=CAESCgoCCAMKAggDEAAaMgoUEhA6Dk1pbGVzIENpdHksIE1UGgASGhIUCgcI5g8QBhgaEgcI5g8QBhgbGAEyAhAAKgsKBygBOgNVU0QaAA&rp=OAFAAEgCogEOTWlsZXMgQ2l0eSwgTVQ&ap=SABoAQ&ictx=1&ved=0CAAQ5JsGahcKEwjAj73Cqcb4AhUAAAAAHQAAAAAQBA&utm_campaign=sharing&utm_medium=link&utm_source=htls). 
+
+**RATE**: Room rates are net NON commissionable, quoted exclusive of applicable taxes and fees and MUST BE BOOKED BY CALLING the property direct at, 406-234-1000. This is a Group Rate. In order to receive the Group Rate, a person reserving a room must specify the Group Name of "BLM Workshop", while making their reservation. Quoted rates are available through the Cutoff Date, and are still available for the public to book, so please have guests book rooms ASAP.
+
+**RESERVATIONS** (Individual call-in): Each guest must call to reserve and guarantee their own room reservations. Each guest will be responsible for the payment of his or her own room. The quoted rate will be honored, through 11:59 pm on 7/1/22, while availability lasts, AND the guest refers to the Group Name of "BLM Workshop".
+
+**CANCELLATION**: Rooms will be reserved with a 24 hour prior to arrival date cancellation. Neither party shall be responsible for failure to perform this contract if circumstances beyond their control, (including, but not limited to: acts of God, shortage of supplies furnished by the Hotel, governmental authority, or declared war in the US) make it illegal or impossible for the hotel to hold the event.
+
 
 ------
 ## Course Materials
