@@ -35,19 +35,18 @@ This workshop will introduce BLM staff and partners to ‘low-tech’ process-ba
 
 Days 1 & 2 will be held at the Eastern Montana Fairgrounds Event Center
 <div class="responsive-embed">
-	<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1Gm-WmDpubmBlbNSUqFFkQyNQ1pCgaQc&ehbc=2E312F" width="600" height="300" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
+	<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2751.5531832512497!2d-105.86268534862901!3d46.39808647902068!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x533a74406e4e6851%3A0x98e04bf3cc70fee4!2sEastern%20Montana%20Fairgrounds!5e0!3m2!1sen!2sus!4v1659479512800!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 Day 1 Evening - Riverside Park
 <div class="responsive-embed">
-	<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1uJ_z9i2QzjT2lR3tUjdE20iradyickc&ehbc=2E312F" width="600" height="300" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
+	<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5502.4507048263895!2d-105.8535909321097!3d46.404587297221084!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x533a7416f1faad0b%3A0x7c9d5805be0fcbd7!2sRiverside%20Park%2C%20Miles%20City%2C%20MT%2059301!5e0!3m2!1sen!2sus!4v1659479470354!5m2!1sen!2sus" width="600" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
 #### Construction - Day 3 - Pumpkin Creek 
 - Day 3 -  **Implementing Low-Tech Process-Based Restoration** on Pumpkin Creek (field all-day)  - 8 AM to 3 PM
 <div class="responsive-embed">
-	<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1hqbnh5u6feMfwb1g_d3UWv4f-TYujCI&ehbc=2E312F" width="600" height="300" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m26!1m12!1m3!1d148251.83648686708!2d-105.7937925080797!3d46.33200772602325!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m11!3e0!4m5!1s0x533a74406ac7caa9%3A0x4a90b94e8bbe51dc!2sBureau%20of%20Land%20Management%20Miles%20City%20Field%20Office%2C%20111%20Garryowen%20Rd%2C%20Miles%20City%2C%20MT%2059301!3m2!1d46.3979812!2d-105.86413859999999!4m3!3m2!1d46.2132751!2d-105.67494959999999!5e1!3m2!1sen!2sus!4v1659479357933!5m2!1sen!2sus" width="600" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
-
 
 ### Registration
 Registration is free, but is by invitation only. Contact Alden Shalcross for more information.
