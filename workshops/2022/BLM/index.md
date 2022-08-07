@@ -90,6 +90,16 @@ Meals are provided with your registration to help us run the workshop more effic
 
 We will make sure that for snacks and meals there are some gluten-free options, but those with other dietary restrictions should make other arrangements. 
 
+### Emergency Preparedness
+In the event of an emergency, most of our field visits and the classroom at the fairgrounds should all have cell reception of dialing 911. We will have some First Responder certified participants and instructors, and we will have first aid kits available. The closest Emergency Room  is:
+
+[Holy Rosary Healthcare](https://www.sclhealth.org/locations/holy-rosary-healthcare/)- Emergency Room
+[2600 Wilson St](https://goo.gl/maps/PH7LCVTC22MHWVWL7), Miles City, MT 59301
+406-233-2600
+<div class="responsive-embed">
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2026661.4630940452!2d-106.41963998415237!3d45.450519477206576!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x533a769cfc555555%3A0x7b92df8d87e36cab!2sHoly%20Rosary%20Healthcare-%20Emergency%20Room!5e0!3m2!1sen!2sus!4v1659896667349!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
 
 ## Course Materials
 
