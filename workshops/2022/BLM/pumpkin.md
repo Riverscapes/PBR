@@ -13,15 +13,11 @@ weight: 2
 
 
 
-### Permit Application
-
-### LTPBR Planning & Design Report
-
-### Albums
 
 
 
-## Part 1 - Why are we workin in Pumpkin Creek?
+
+## Part 1 - Why are we working in Pumpkin Creek?
 
 <a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/WATS5350/2020/Week8_BirchCreekIntro_1.pdf"><img class="float-right" src="{{ site.baseurl }}/assets/images/lectures/2020-WATS5340_Week8_Part1.png"></a>
 For WATS 5350, this video sets the stage for Birch Creek, the previous project with Jay Wilde upstream on USFS land, the motivation for that project, the results of that project and why there is trust to move down off the Forest and on to Jay's private, deeded property and continue with the project you will be planning, designing (and should be building if not for COVID-19, but can come and build in the summer if you want). 
@@ -38,19 +34,34 @@ For WATS 5350, this video sets the stage for Birch Creek, the previous project w
 -------
 ## Part 2 - Pumpkin  Creek Project Objectives & Conservation Planning Process
 
-<a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/WATS5350/2020/Week8_BirchCreekIntro_2.pdf"><img class="float-right" src="{{ site.baseurl }}/assets/images/lectures/2020-WATS5350_Week8_Part2.png"></a>
-This outlines the project reach, walks you through a fly through of the reach, lays out the restoration goals and objectives, and reminds you of the low-tech PBR [conservation planning process]({{ site.baseurl }}/Course_Topics/WATS_5350/Low-Tech/planning.html) you will follow to get the project done. 
+### LTPBR Planning & Design Report
 
-The video is about 35 minutes. Please post any questions you have to the [planning discussion board](https://usu.instructure.com/courses/567581/discussion_topics/1982817) in Canvas.
+Utah State University's [Jordan Gilbert](https://www.researchgate.net/profile/Jordan-Gilbert-3) worked with Miles City BLM Field Office Staff (Christina Morris and Chris Stuart) to coauthor a LTPBR Plan and Design Report for a first phase of implementation. This report will be modified to include an As-Built section following completion of Phase 1 of construction and at that time uploaded to Research Gate and a DOI will be minted so it has a stable, permeant URL, is citeable and trackable. 
 
-[<i class="fa fa-file-pdf-o" aria-hidden="true"></i> Lecture Slides](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/WATS5350/2020/Week8_BirchCreekIntro_2.pdf)
+The report lays out:
+
+<a href="https://s3.us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2022/BLM/Pumpkin_Creek_restoration_design.pdf"><img class="float-right" src="{{ site.baseurl }}/assets/images/workshops/2022/PumpkinDesign.png"></a>
 
 
-<div class="responsive-embed">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/krLJtipbt_8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<i class="fa fa-file-pdf-o" aria-hidden="true"></i> Gilbert, JT., Morris, CE , and Stuart, CM. [Low-Tech Process Based Restoration on Pumpkin Creek:  Planning and Design for Phase One](https://s3.us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2022/BLM/Pumpkin_Creek_restoration_design.pdf). Prepared for BLM Montana/Dakotas by Utah State Ecogeomorphic and Topographic Analysis Lab. Logan, UT. 53 Pages. 
+
+This work is licensed under a [<i class="fa fa-creative-commons" aria-hidden="true"></i> Creative Commons Attribution 4.0 ](https://creativecommons.org/)  Utah State University [Wheaton Ecogeomorphology & Topographic Analysis Lab](http://etal.joewheaton.org)International License. Specifically, that means you can copy it and use it as a template (with attribution citation) and modify it for your own purposes in preparing your own plans. A draft [Word version is here <i class="fa fa-file-word-o" aria-hidden="true"></i>](https://s3.us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2022/BLM/Pumpkin_Creek_restoration_design.docx)  for convenience.
+
+#### Other Report Resources
+
+<div align="center">
+
+<a class="hollow button" href="http://capstone.restoration.usu.edu/Course_Topics/WATS_5350/Low-Tech/Projects/birch/birchplanning.html#report-template"> <b>Google Doc LTPBR Report Template</b> <br> From WATS 5350 Capstone Class  <i class="fa fa-file-text" aria-hidden="true"></i> </a>
+
+<a class="hollow button" href="{{ site.baseurl }}/resources/casestudies"><i class="fa fa-weixin" aria-hidden="true"></i> <br> Low-Tech PBR<br> Case Studies & Example Reports<br></a>
+
+<a class="hollow button" href="{{ site.baseurl }}/resources/adaptivemgt"><img src="{{ site.baseurl }}/assets/images/AM_Loop_40_Orange.png"> <br> Low-Tech Adaptive Management Examples<br></a>
 </div>
 
-## Permitting
+### Albums
+
+-----------
+## Part 3 - Permitting
 
 We cover permitting and the consultation process generically in [Module 5](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module5#c-consultation--permitting), but it is helpful to see real examples.  Here we provide drafts of specifically how the consultation and permitting process went for Pumpkin Creek.
 
