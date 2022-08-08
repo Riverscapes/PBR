@@ -13,7 +13,7 @@ weight: 2
 
 
 
-## Part 1 - Why are we working in Pumpkin Creek?
+# Why are we working in Pumpkin Creek?
 
 The [Bureau of Land Management (BLM) Montana/Dakotas](https://www.blm.gov/montana-dakotas) is seeking to improve riverscape health across the lands it manages using low-tech, process-based restoration (LTPBR) methods. Eventually, each of the field offices will identify locations for, and implement LTPBR projects on riverscapes throughout the management area. As part of this effort, the Miles City field office is conducting a pilot project with assistance from [Utah State University](http://restoration.usu.edu) and the [Riverscapes Consortium](http://riverscapes.xyz) on a section of Pumpkin Creek.  
 
@@ -29,13 +29,13 @@ Pumpkin Creek is a first order tributary of the Tongue River located approximate
 
 
 -------
-## Part 2 - Pumpkin  Creek Project Objectives & Conservation Planning Process
+# Pumpkin  Creek Project Objectives & Conservation Planning Process
 
-### LTPBR Planning & Design Report
+## LTPBR Planning & Design Report
 
 Utah State University's [Jordan Gilbert](https://www.researchgate.net/profile/Jordan-Gilbert-3) worked with Miles City BLM Field Office Staff (Christina Morris and Chris Stuart) to coauthor a LTPBR Plan and Design Report for a first phase of implementation. This report will be modified to include an As-Built section following completion of Phase 1 of construction and at that time uploaded to Research Gate and a DOI will be minted so it has a stable, permeant URL, is citeable and trackable. 
 
-The report lays out:
+The report lays out a basic planning assessment, which is used to inform a simple LTPBR phase 1 design. 
 
 <a href="https://s3.us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2022/BLM/Pumpkin_Creek_restoration_design.pdf"><img class="float-right" src="{{ site.baseurl }}/assets/images/workshops/2022/PumpkinDesign.png"></a>
 
@@ -44,7 +44,7 @@ The report lays out:
 
 This work is licensed under a [<i class="fa fa-creative-commons" aria-hidden="true"></i> Creative Commons Attribution 4.0 ](https://creativecommons.org/)  Utah State University [Wheaton Ecogeomorphology & Topographic Analysis Lab](http://etal.joewheaton.org)International License. Specifically, that means you can copy it and use it as a template (with attribution citation) and modify it for your own purposes in preparing your own plans. A draft [Word version is here <i class="fa fa-file-word-o" aria-hidden="true"></i>](https://s3.us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2022/BLM/Pumpkin_Creek_restoration_design.docx)  for convenience.
 
-#### Other Report Resources
+### Other Report Resources
 
 <div align="center">
 
@@ -54,13 +54,54 @@ This work is licensed under a [<i class="fa fa-creative-commons" aria-hidden="tr
 
 <a class="hollow button" href="{{ site.baseurl }}/resources/adaptivemgt"><img src="{{ site.baseurl }}/assets/images/AM_Loop_40_Orange.png"> <br> Low-Tech Adaptive Management Examples<br></a>
 </div>
+------
 
-### Albums
+### Pumpkin Creek Photo Albums
+
+<div class="row small-up-2 medium-up-2 large-up-2" align="center">
+
+  <div class="column column-block">
+    <a href="https://photos.app.goo.gl/yyXSWavRwqdz4Ehq7"><img src="{{ site.baseurl }}/assets/images/workshops/2022/PumpkinCreek.png" width="200"></a> <br>See our<br>
+    <a href="https://photos.app.goo.gl/yyXSWavRwqdz4Ehq7">Pre Project 2021 Recon</a><br> Photo Ablum
+
+  </div>
+
+  <div class="column column-block">
+    <a href="https://photos.app.goo.gl/j3cjae4Qwk8jR6jh7"><img src="{{ site.baseurl }}/assets/images/workshops/2022/WorkshopAlbum.png"></a><br>
+    <a href="https://photos.app.goo.gl/j3cjae4Qwk8jR6jh7">Add your Workshop Photos </a><br> to our shared Google Album <i class="fa fa-google-plus" aria-hidden="true"></i> 
+
+  </div>
+
+
+</div>
+
+### Leveraging Riverscapes Tools to Support Planning
+
+Two webinars were sponsored by BLM Montana Dakotas, which covered some of the tools available an under development for Montana to support LTPBR. 
+
+The first covers how the [BRAT](http://tools.riverscapes.xyz/brat), and how it can be used to help understand whether beaver dam actiivty might be an appropriate key process in your riverscapes and if so where associated risks may exist.
+<div align ="center">
+<a href="https://riverscapes.xyz/About/Community/Events/2021/2021_BRAT_BLM.html"><img src="https://riverscapes.xyz/assets/images/events/BLM_BRAT_RiverscapesConsortium_Nov2021.png"></a>
+</div>
+
+The second webinar is about the broader suite of tools under development for helping you understand your riverscapes across multiple scales. 
+<div align ="center">
+<a href="https://riverscapes.xyz/About/Community/Events/2021/2021_Riverscapes_BLM.html"><img src="https://riverscapes.xyz/assets/images/events/BLM_RiverscapesConsortiumWebinar_Dec2021.png"></a>
+</div>
+
+-----------
+
+### Design in QRiS ( Riverscape Studio - QGIS Plugin -)
+
+If you are interested, [QRiS](https://riverscapes.github.io/QRiS/) (in developement) is a plugin available for QGIS to facilitate doing LTPBR Design (and eventually Planning and [Monitoring](https://riverscapes.xyz/About/Community/Events/2021/2021MonitoringSummit.html)). A full version of the QRiS design is available for download (unzip and open QRiS using toolbar):
+
+<a href="https://s3.us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2022/BLM/Pumpkin_Creek_Design.zip"><i class="fa fa-file-archive-o" aria-hidden="true"></i> Pumpkin Creek Phase 1 Design (QRiS project)</a>
+
 
 
 
 -----------
-## Part 3 - Permitting
+# Permitting
 
 We cover permitting and the consultation process generically in [Module 5](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module5#c-consultation--permitting), but it is helpful to see real examples.  Here we provide drafts of specifically how the consultation and permitting process went for Pumpkin Creek.
 
@@ -107,6 +148,28 @@ On Pumpkin Creek, we were fortunate to have the expertise of  [Amy Chadwick](htt
 
 <a href="https://s3.us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2022/BLM/AR+Delineation_PumpkinCk_5_12_22_Draft.pdf"><img  src="{{ site.baseurl }}/assets/images/workshops/2022/wetland.png"></a>
 <br>Example of wetland delineation maps required by Army Corps.
+
+-----
+
+## Fish Monitoring
+
+[Niall Clancy](https://niallclancy.org/) (PhD Candiate University of Wyoming) is studying the impacts of LTPBR restoration in Prarie streams on native fish. He will share a short presentation Wednesday afternoon with us and will be helping us build (brining his own post pounder) on Thursday!
+
+<div class="row small-up-2 medium-up-2 large-up-2" align="center">
+
+  <div class="column column-block">
+    <a href="https://s3.us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2022/BLM/PumpkinCr_Plan_NCfish.pdf"><img src="{{ site.baseurl }}/assets/images/workshops/2022/NiallFish.png"></a><br>
+    <a href="https://s3.us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2022/BLM/PumpkinCr_Plan_NCfish.pdf">Pumpkin Creek Aquatic Species Monitoring Plan</a><br> Prepared by Niall Clancy
+
+  </div>
+
+  <div class="column column-block">
+    <a href="https://s3.us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2022/BLM/Clancy_PumpkinCreek_081022.ppsx"><img src="{{ site.baseurl }}/assets/images/workshops/2022/NiallPresentatino.png"></a><br>
+    <a href="https://s3.us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2022/BLM/Clancy_PumpkinCreek_081022.ppsx">Fish Community Monitoring in Pumpkin Creek</a><br> PPSX Presentation 
+
+  </div>
+
+</div>
 
 
 -----
