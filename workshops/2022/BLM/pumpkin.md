@@ -1,32 +1,29 @@
 ---
-title: Pumpkin Creek Demonstration Site
+title: Pumpkin Creek LTPBR Demonstration Site
 weight: 2
 ---
 
+
 ----
-
 # Intro to Pumpkin Creek
-<a href="https://photos.app.goo.gl/XA7iTzxAKcE9Pf9MA"><img class="float-right" src="{{ site.baseurl }}/assets/images/""></a>
 
-
-
-
-
-
-
+<div class="float-right">
+<iframe src="https://www.google.com/maps/embed?pb=!1m26!1m12!1m3!1d148251.83648686708!2d-105.7937925080797!3d46.33200772602325!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m11!3e0!4m5!1s0x533a74406ac7caa9%3A0x4a90b94e8bbe51dc!2sBureau%20of%20Land%20Management%20Miles%20City%20Field%20Office%2C%20111%20Garryowen%20Rd%2C%20Miles%20City%2C%20MT%2059301!3m2!1d46.3979812!2d-105.86413859999999!4m3!3m2!1d46.2132751!2d-105.67494959999999!5e1!3m2!1sen!2sus!4v1659479357933!5m2!1sen!2sus" width="450" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div> Our Thursday (August 11, 2022) field trip and construction portion of the [workshop]({{ site.baserurl }}/workshops/2022/BLM/#agenda) will be on Pumpkin Creek.
 
 
 
 ## Part 1 - Why are we working in Pumpkin Creek?
 
-<a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/WATS5350/2020/Week8_BirchCreekIntro_1.pdf"><img class="float-right" src="{{ site.baseurl }}/assets/images/lectures/2020-WATS5340_Week8_Part1.png"></a>
-For WATS 5350, this video sets the stage for Birch Creek, the previous project with Jay Wilde upstream on USFS land, the motivation for that project, the results of that project and why there is trust to move down off the Forest and on to Jay's private, deeded property and continue with the project you will be planning, designing (and should be building if not for COVID-19, but can come and build in the summer if you want). 
-
-[<i class="fa fa-file-pdf-o" aria-hidden="true"></i> Lecture Slides](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/WATS5350/2020/Week8_BirchCreekIntro_1.pdf)
+The [Bureau of Land Management (BLM) Montana/Dakotas](https://www.blm.gov/montana-dakotas) is seeking to improve riverscape health across the lands it manages using low-tech, process-based restoration (LTPBR) methods. Eventually, each of the field offices will identify locations for, and implement LTPBR projects on riverscapes throughout the management area. As part of this effort, the Miles City field office is conducting a pilot project with assistance from [Utah State University](http://restoration.usu.edu) and the [Riverscapes Consortium](http://riverscapes.xyz) on a section of Pumpkin Creek.  
 
 <div class="responsive-embed">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/loNfTw7E-2U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lq3X_rOOpYQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
+
+Pumpkin Creek is a first order tributary of the Tongue River located approximately 11 miles south of Miles City, Montana. It is a perennial prairie stream, located entirely within the Northwestern Great Plains ecoregion (level 3 EPA Ecoregions). This region is characterized by erratic precipitation. Stream base flows are therefore relatively low, and peak flows are driven by spring rains and are highly variable. Like much of the region, the valley bottom of Pumpkin Creek was extensively grazed by cattle, resulting in a reduction in riparian vegetation cover. Due to this reduction, there is currently almost no large wood in the channel. Beaver dams are limited in the watershed as a result of historic extirpation and a lack of current resources to support them. Without these structural elements, the channel is greatly simplified, and in most locations consists of a deeply incised single-threaded channel lacking geomorphic diversity.  
+
+
 
 
 
@@ -59,6 +56,8 @@ This work is licensed under a [<i class="fa fa-creative-commons" aria-hidden="tr
 </div>
 
 ### Albums
+
+
 
 -----------
 ## Part 3 - Permitting
