@@ -151,7 +151,7 @@ On Pumpkin Creek, we were fortunate to have the expertise of  [Amy Chadwick](htt
 
 -----
 
-## Fish Monitoring
+# Fish Monitoring
 
 [Niall Clancy](https://niallclancy.org/) (PhD Candiate University of Wyoming) is studying the impacts of LTPBR restoration in Prarie streams on native fish. He will share a short presentation Wednesday afternoon with us and will be helping us build (brining his own post pounder) on Thursday!
 
