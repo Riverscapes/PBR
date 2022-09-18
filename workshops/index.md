@@ -11,7 +11,7 @@ weight: 4
 
 - **[University courses]({{ site.baseurl }}/workshops/uni)** through Utah State [University Department of Watershed Sciences](https://qcnr.usu.edu/wats/) for matriculated graudate students (e.g. WATS 5620, 5621, 5622, 5623, 5624, 6900, 6860) or professionals as continuing education units (CEUs; e.g. CEWA 5620, 5621, 5622, 5623, 5624, 6900 )  - *tuition fee charged per unit*  
 - **Short courses & workshops** open to public enrollment administered through Utah State University [Restoration Consortium](http://restoration.usu.edu) - *workshop fee charged* 
-- **Custom short course for private audience** - Virtual Workshops ([e.g. WLFW 2020]]({{ site.baseurl }}/workshops/2020/SGI)) and In-Person Workshops *(paid for by workshop sponsor(s))*
+- **Custom short course for private audience** - Virtual Workshops ([e.g. WLFW 2020]({{ site.baseurl }}/workshops/2020/SGI)) and In-Person Workshops *(paid for by workshop sponsor(s))*
 - **[Self-Paced Modules]({{ site.baseurl }}/resources/Topics/)** - *Free*
 
 
@@ -38,8 +38,8 @@ See our [University courses]({{ site.baseurl }}/workshops/uni) for a full listin
 
 | Year               | Workshop                                                     | Location           | Audience                                                     |
 | ------------------ | ------------------------------------------------------------ | ------------------ | ------------------------------------------------------------ |
-| 2020, August 11-14 | [Low-Tech Process-Based Restoration of Riverscapes - 2020 Virtual Workshop]({{ site.baseurl }}/workshops/2020/SGI/) | Online             | NRCS, [WLFW](https://www.nrcs.usda.gov/wps/portal/nrcs/detail/national/plantsanimals/fishwildlife/?cid=stelprdb1046975), [Pheasants Forever](https://pheasantsforever.org/Hunt/pheasant-hunting.aspx), [USU Restoration Consortium](http://restoration.usu.edu/), |
-
+| 2023, January 31, February 2, 14 & 16  | [Restoring Riverscapes Workshop - Advancing Process-Based Actions](https://www.restoringriverscapes.org/) | Online             | Managers and staff from federal and state agencies, tribal communities, watershed councils, and conservation organizations who oversee, fund, or regulate riverscape restoration|
+| 2020, August 11-14 | [Low-Tech Process-Based Restoration of Riverscapes - 2020 Virtual Workshop]({{ site.baseurl }}/workshops/2020/SGI/) | Online             | NRCS, [WLFW](https://www.nrcs.usda.gov/wps/portal/nrcs/detail/national/plantsanimals/fishwildlife/?cid=stelprdb1046975), [Pheasants Forever](https://pheasantsforever.org/Hunt/pheasant-hunting.aspx), [USU Restoration Consortium](http://restoration.usu.edu/) |
 | 2019, October      | [Stage Zero Restoration]({{ site.baseurl }}/workshops/2019/Stage0/materials.html) | Sisters, OR        | [River Restoration Northwest](http://restoration.usu.edu/) & [Portland State University](https://www.pdx.edu/environmental-professional-program/river-restoration-certificate) |
 | 2019, September    | [Introduction to Low-Tech Process-Based Restoration]({{ site.baseurl }}/workshops/2019/RC/) | Logan, UT          | [USU Restoration Consortium](http://restoration.usu.edu/)    |
 | 2016,  October     | Beaver Restoration Class                                     | Prineville, Oregon | [Portland State University](https://www.pdx.edu/environmental-professional-program/river-restoration-certificate) |
