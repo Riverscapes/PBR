@@ -4,7 +4,7 @@ weight: 4
 ---
 
 # WATS 6900 §5 - Syllabus
-
+**NOT YET UPDATED FOR 2023**
 ![header]({{ site.baseurl }}/assets/images/courses/WATS-5623_header_C.png)
 
 

@@ -2,9 +2,8 @@
 title: Adaptive Management of LTPBR - Syllabus
 weight: 6
 ---
-
 # WATS 5625 - Syllabus
-
+**NOT YET UPDATED FOR 2023**
 ![header]({{ site.baseurl }}/assets/images/courses/WATS-5625_header_C.png)
 
 

@@ -2,7 +2,7 @@
 title: Implementation of LTPBR - Syllabus
 weight: 5
 ---
-
+**NOT YET UPDATED FOR 2023**
 # WATS 5624 - Syllabus
 
 ![header]({{ site.baseurl }}/assets/images/courses/WATS-5624_header_C.png)

@@ -4,6 +4,7 @@ weight: 2
 ---
 
 # WATS 6900 §3 - Course Syllabus
+**NOT YET UPDATED FOR 2023**
 ![header]({{ site.baseurl }}/assets/images/courses/WATS-5621_header_C.png)
 
 ## [Catalog Description](https://ssb.banner.usu.edu/zprod/bwckctlg.p_display_courses?term_in=202120&one_subj=WATS&sel_crse_strt=5150&sel_crse_end=5150&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=)

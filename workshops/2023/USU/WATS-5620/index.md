@@ -4,7 +4,7 @@ weight: 1
 ---
 
 # WATS 5620  - Course Syllabus
-
+**NOT YET UPDATED FOR 2023**
 ![header]({{ site.baseurl }}/assets/images/courses/WATS-5620_header_C.png)
 
 ## [Catalog Description](https://catalog.usu.edu/content.php?filter%5B27%5D=WATS&filter%5B29%5D=5620&filter%5Bcourse_type%5D=-1&filter%5Bkeyword%5D=&filter%5B32%5D=1&filter%5Bcpage%5D=1&cur_cat_oid=12&expand=&navoid=3068&search_database=Filter#acalog_template_course_filter)
