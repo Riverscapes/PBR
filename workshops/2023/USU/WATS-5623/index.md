@@ -3,8 +3,7 @@ title: Design LTPBR - Syllabus
 weight: 4
 ---
 
-# WATS 6900 §5 - Syllabus
-**NOT YET UPDATED FOR 2023**
+# WATS 5623 - Course Syllabus
 ![header]({{ site.baseurl }}/assets/images/courses/WATS-5623_header_C.png)
 
 
@@ -12,6 +11,7 @@ weight: 4
 This course provides an introduction to designing Low-Tech Process-Based Restoration of Riverscapes. Students design their own LTPBR restoration projects at a site of their choosing.
 
 |**Title**| Design of Low-Tech Process-Based Restoration of Riverscapes|
+|**WATS 5620**| WATS 5620|
 |**Semester(s) Traditionally Offered**| Spring|
 |**Credits**: |1.0 Credit hours  (1.5 CEU)|
 |**Levels**: |Graduate/Undergraduate|
@@ -19,27 +19,27 @@ This course provides an introduction to designing Low-Tech Process-Based Restora
 |**Cross-Listed As**: |CEWA 5700 (will be WATS/CEWA 5623 in 2022) |
 
 <div align="center">
-<a class=" button hollow" href="{{ site.baseurl }}/workshops/2021/USU/"> <i class="fa fa-chevron-circle-left" aria-hidden="true"></i> <b> Back to  Spring 2021 LTPBR Courses</b>  for University Credit or Professional CEU  
+<a class=" button hollow" href="{{ site.baseurl }}/workshops/2023/USU/"> <i class="fa fa-chevron-circle-left" aria-hidden="true"></i> <b> Back to  Spring 2023 LTPBR Courses</b>  for University Credit or Professional CEU  
   </a>
 </div>
 
 ## Schedule
-### Spring 2021 - Design LTPBR
-- Matriculated Students: [ST:DES LOWTEC PRCBAS REST RIV - 12083 - WATS 6900 - 005](https://ssb.banner.usu.edu/zprod/bwckschd.p_disp_detail_sched?term_in=202120&crn_in=12083)
-- Non-Matriculated Students: 26397 - CEWA 5700 - LB4
+### Spring 2023 - Design LTPBR
+- Matriculated Students: WATS 5623 <!--[ST:DES LOWTEC PRCBAS REST RIV - 12083 - WATS 6900 - 005](https://ssb.banner.usu.edu/zprod/bwckschd.p_disp_detail_sched?term_in=202120&crn_in=12083)-->
+- Non-Matriculated Students: CEWA 5623 
 
 
 
 | Class                                                        | Time              | Days     | Where      | Dates                     | Instructors                                                  |
 | ------------------------------------------------------------ | ----------------- | -------- | ---------- | ------------------------- | ------------------------------------------------------------ |
-| [Desiging LTPBR]({{ site.baseurl }}/workshops/2021/USU/WATS-5623/) | 1:30 pm - 3:30 pm | Tuesdays | Zoom       | Mar 30, Apr 6, & 13, 2021 | [Joseph Michael Wheaton (P), Stephen Nicholas Bennett, Scott M Shahverdian]({{ site.baseurl }}//workshops/2020/SGI/#instruction-team) |
-| [Desiging LTPBR]({{ site.baseurl }}/workshops/2021/USU/WATS-5623/) | 8:30 am - 5:30 pm | Saturday | Field Trip | Apr 10, 2021              | [Joseph Michael Wheaton (P), Stephen Nicholas Bennett, Scott M Shahverdian]({{ site.baseurl }}//workshops/2020/SGI/#instruction-team) |
+| [Desiging LTPBR]({{ site.baseurl }}/workshops/2023/USU/WATS-5623/) | 1:30 pm - 3:30 pm | Tuesdays | Zoom       | Mar 21, 28 &^ Apr 4, 2023 | [Stephen Nicholas Bennett]({{ site.baseurl }}//workshops/2020/SGI/#instruction-team) |
+
 
 ### Course Schedule/Outline
 
-Outline dates and assignments are all available on Canvas:
-<div align="center">
-<a class="hollow button" href="https://usu.instructure.com/courses/618129"><img src="{{ site.baseurl }}/assets/images/canvas_logo.png">  <b>Spring 2021 Canvas</b><br> WATS 6900 §5 - Design LTPBR Course Assignments</a></div>
+Outline dates and assignments will be available on Canvas:
+<!--<div align="center">
+<a class="hollow button" href="https://usu.instructure.com/courses/618129"><img src="{{ site.baseurl }}/assets/images/canvas_logo.png">  <b>Spring 2021 Canvas</b><br> WATS 6900 §5 - Design LTPBR Course Assignments</a></div>-->
 
 Students are expected to watch pre-recorded lectures and complete the reading assignments prior to our class meetings, where those topics will be discussed and exercises completed as a group. 
 
@@ -47,13 +47,12 @@ This class meets three times for these discussion sessions:
 
 | Meeting Date | Modules | Topics                                                   |
 |--------------|---------|----------------------------------------------------------|
-|    3/30/2021 | [1](https://usu.instructure.com/courses/618194/modules/732304) & [2](https://usu.instructure.com/courses/618194/modules/732305)   | [Intro to Design Process](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module4#b-designing-low-tech-restoration-projects); [Leading Design with Recovery Potential](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module4#c-leading-design-with-recovery-potential) |
-|    4/6/2021 | [3](https://usu.instructure.com/courses/618194/modules/732306) & [4](https://usu.instructure.com/courses/618194/modules/732307)   | [Design Standards of Practice @ Complex-Scale](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module4#d-design-standards-of-practice--designing-at-complex-scale) ; [Learning How to Design @ Structure-Scale](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module4#e-learning-how-to-design-at-structure-scale)|
-|     4/10/2021 | Optional   | Design Field Trip                       |
-|     4/13/2021 | [5](https://usu.instructure.com/courses/618194/modules/732308) & [6](https://usu.instructure.com/courses/618194/modules/732309)   | [Field Design Documentation](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module4#f-putting-it-all-together-in-the-field) ; Designing at Your Own Riverscape                      |
+|    3/21/2023 | [1](https://usu.instructure.com/courses/618194/modules/732304) & [2](https://usu.instructure.com/courses/618194/modules/732305)   | [Intro to Design Process](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module4#b-designing-low-tech-restoration-projects); [Leading Design with Recovery Potential](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module4#c-leading-design-with-recovery-potential) |
+|    3/28/2023 | [3](https://usu.instructure.com/courses/618194/modules/732306) & [4](https://usu.instructure.com/courses/618194/modules/732307)   | [Design Standards of Practice @ Complex-Scale](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module4#d-design-standards-of-practice--designing-at-complex-scale) ; [Learning How to Design @ Structure-Scale](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module4#e-learning-how-to-design-at-structure-scale)|
+|     4/04/2023 | [5](https://usu.instructure.com/courses/618194/modules/732308) & [6](https://usu.instructure.com/courses/618194/modules/732309)   | [Field Design Documentation](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module4#f-putting-it-all-together-in-the-field) ; Designing at Your Own Riverscape                      |
 
 
-Students are also invited to an optional, Saturday field trip where they can execute the field-based design process for a real project that will be buillt in the [Implementaion course]({{ site.baseurl }}/workshops/2021/USU/WATS-5624/). Beyond that optional field trip, students will be expected to take their own field trip to a real riverscape of their choosing  and complete a design assignment. 
+Students will be expected to take their own field trip to a real riverscape of their choosing  and complete a design assignment. 
 
 This course is based on [Module 4]({{ site.baseurl }}/workshops/2020/SGI/Modules/module4.html) of the self-paced materials. 
 <div align="center">
@@ -64,12 +63,12 @@ This course is based on [Module 4]({{ site.baseurl }}/workshops/2020/SGI/Modules
 ### Matriculated Students
 Current USU [Tuition](https://www.usu.edu/registrar/registration/payment/) for 1 credit. 
 No additional Course Fee. 
-Please register on [Banner](http://banner.usu.edu). *Note, tuition  for 1 credit varies between $601.21 and $2482.92 per credit based on undergraduate vs. graduate, in-state vs. out-of-state, and total number of credits)*
+Please register on [Banner](http://banner.usu.edu). *Note, tuition  for 1 credit varies between $712 and $2716 per credit based on undergraduate vs. graduate, in-state vs. out-of-state, and total number of credits)*
 
 ### Continuing Education Students
-$265.79   [Register Here](https://www.usu.edu/ais/ceu/register/?term=202120&crns=26236,26394,26395,26397,26398)
+**$315** for 1.5 CEUs (*$270 Course Fee + $45 CEU processing fee*) Registration will open mid-October, 2023  <!--[Register Here](https://www.usu.edu/ais/ceu/register/?term=202120&crns=26236,26394,26395,26397,26398)-->
 
-<div align="center"><a class="button" href="https://www.usu.edu/ais/ceu/register/?term=202120&crns=26236,26394,26395,26397,26398"> <b>Module 4 - Design</b> <br> Register Now! <i class="fa fa-user-plus" aria-hidden="true"></i> </a></div>
+<!--<div align="center"><a class="button" href="https://www.usu.edu/ais/ceu/register/?term=202120&crns=26236,26394,26395,26397,26398"> <b>Module 4 - Design</b> <br> Register Now! <i class="fa fa-user-plus" aria-hidden="true"></i> </a></div>-->
 
 -----------------
 ## Course Objectives
@@ -88,16 +87,6 @@ By the end of this course, students will:
 ## Instructors
 
 
-
-<div class="row small-up-2 medium-up-2 large-up-4" align="center">
-
-   <div class="column column-block">
-    <a href="http://joewheaton.org"><img src="{{ site.baseurl }}/assets/images/people/Wheaton_round.png"></a>
-    <h4><a href="http://joewheaton.org">Joseph Wheaton<sup>1,2</sup></a></h4>
-    <b>Lead Instructor</b><br>
-    <a href="https://qcnr.usu.edu/directory/wheaton_joseph">Associate Professor of Riverscapes</a>,<br> <a href="https://www.anabranchsolutions.com/joe-wheaton.html">Principal<sup>2</sup></a><br>
-
-   Office Hours: Wednesday, 12:00 to 13:00 - <a href="https://usu-edu.zoom.us/my/h20joe?pwd=eFNjSllqT3VDNTRoLzZ3Sk9IM1F6UT09">Zoom Drop-In</a> or By Appointment
   </div>
   <div class="column column-block">
     <a href="https://www.researchgate.net/profile/Stephen_Bennett8"><img src="{{ site.baseurl }}/assets/images/people/bennett-round_orig.png"></a>
@@ -107,20 +96,6 @@ By the end of this course, students will:
     Office Hours:  By Appointment
   </div>
   
-
-
-
-
-<div class="column column-block">
-	<a href="https://www.researchgate.net/profile/Scott_Shahverdian"><img src="{{ site.baseurl }}/assets/images/people/shahverdian-round_1.png"></a>
-    <h4><a href="https://www.researchgate.net/profile/Scott_Shahverdian">Scott Shahveridan<sup>2,1</sup></a></h4>
-    <b>Co-Instructor</b><br>
-    Fluvial Geomorphologist, <a href="https://www.anabranchsolutions.com/scott-shahverdian.html">Associate Design Geomorphologist<sup>2</sup></a><br>
-      Office Hours:  By Appointment
-  </div>
-
-
-
 
 </div>
 
