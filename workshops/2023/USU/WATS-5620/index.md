@@ -22,20 +22,20 @@ This course provides an introduction to the practice of Low-Tech Process-Based R
 <a class=" button hollow" href="{{ site.baseurl }}/workshops/2023/USU/"> <i class="fa fa-chevron-circle-left" aria-hidden="true"></i> <b> Back to  Spring 2023 LTPBR Courses</b>  for University Credit or Professional CEU  
   </a>
 </div>
-https://www.eco-logical-research.com/team
+
 ## Schedule
 ### Spring 2023 - Intro to LTPBR
 ## Intro to LTPBR
-- Matriculated Students: [INTRO LOWTECH PROC REST RIV - 14339  - WATS 5620](https://ssb.banner.usu.edu/zprod/bwckschd.p_disp_detail_sched?term_in=202220&crn_in=14339)
-- Non-Matriculated Students: [CEWA 5620](https://ssb.banner.usu.edu/zprod/bwckctlg.p_display_courses?term_in=202220&one_subj=CEWA&sel_crse_strt=5620&sel_crse_end=5620&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=) 
+- Matriculated Students: [INTRO LOWTECH PROC REST RIV - WATS 5620]<!---(https://ssb.banner.usu.edu/zprod/bwckschd.p_disp_detail_sched?term_in=202220&crn_in=14339)--->
+- Non-Matriculated Students: [CEWA 5620]<!---(https://ssb.banner.usu.edu/zprod/bwckctlg.p_display_courses?term_in=202220&one_subj=CEWA&sel_crse_strt=5620&sel_crse_end=5620&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=)---> 
 
 | Class                                                        | Time              | Days     | Where                     | Dates                  | Instructor                 |
 | ------------------------------------------------------------ | ----------------- | -------- | ------------------------- | ---------------------- | -------------------------- |
-| [Intro to LTPBR]({{ site.baseurl }}/workshops/2023/USU/WATS-5620/) | 1:30 pm - 3:30 pm | Tuesdays | Hybrid F2F ([Zoom](https://usu-edu.zoom.us/j/88041118826?pwd=d2JqUE1NQWlrWnk0YVExVTgxdHN3dz09) and ([Distance Education](https://www.usu.edu/map/index.cfm?id=540)), room TBD) | Jan 10, 17 & 24,  2023 | Stephen Bennett (P) |
+| [Intro to LTPBR]({{ site.baseurl }}/workshops/2023/USU/WATS-5620/) | 1:30 pm - 3:30 pm | Tuesdays | Hybrid F2F ([Zoom]<!---(https://usu-edu.zoom.us/j/88041118826?pwd=d2JqUE1NQWlrWnk0YVExVTgxdHN3dz09)---> and ([Distance Education](https://www.usu.edu/map/index.cfm?id=540)), room TBD) | Jan 10, 17 & 24,  2023 | Stephen Bennett (P) |
 
-We will use the same recurring [Zoom Meeting Link](https://usu-edu.zoom.us/j/88041118826?pwd=d2JqUE1NQWlrWnk0YVExVTgxdHN3dz09):
+<!---We will use the same recurring [Zoom Meeting Link](https://usu-edu.zoom.us/j/88041118826?pwd=d2JqUE1NQWlrWnk0YVExVTgxdHN3dz09):
 <div align="center">
-<a class="hollow button" href="https://usu-edu.zoom.us/j/88041118826?pwd=d2JqUE1NQWlrWnk0YVExVTgxdHN3dz09"><img src="{{ site.baseurl }}/assets/images/zoom_icon_32.png">  <b>Zoom Meeting Link</b><br>Tuesdays</a>
+<a class="hollow button" href="https://usu-edu.zoom.us/j/88041118826?pwd=d2JqUE1NQWlrWnk0YVExVTgxdHN3dz09"><img src="{{ site.baseurl }}/assets/images/zoom_icon_32.png">  <b>Zoom Meeting Link</b><br>Tuesdays</a>--->
 
 </div>
 
@@ -77,9 +77,10 @@ Please register on [Banner](https://ssb.banner.usu.edu/zprod/twbkwbis.P_WWWLogin
 
 ### Continuing Education Students
 **$315** for 1.5 CEUs  (_$270 Course Fee + $45 CEU processing fee_) 
-[Register on CEU](https://www.usu.edu/ais/ceu/register/?term=202220&crns=18884) CEN CRN - TBD
+Registration will open mid-October, 2023
+<!---[Register on CEU](https://www.usu.edu/ais/ceu/register/?term=202220&crns=18884) CEN CRN - TBD
 
-<div align="center"><a class="button" href="https://www.usu.edu/ais/ceu/register/?term=202220&crns=18884"> <b>Module 1 - Intro</b> <br> Professionals Registraton open mid-October, 2023 <i class="fa fa-user-plus" aria-hidden="true"></i> </a></div>
+<div align="center"><a class="button" href="https://www.usu.edu/ais/ceu/register/?term=202220&crns=18884"> <b>Module 1 - Intro</b> <br> Professionals Registraton Now! <i class="fa fa-user-plus" aria-hidden="true"></i> </a></div>--->
 
 -----------------
 ## Course Objectives
