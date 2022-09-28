@@ -26,7 +26,7 @@ _Click on course titles for syllabi._
 
 ## For Professionals
 
-Non-matriculated students can take the classes for a direct fee through our Continuing Education Unit system. Registration opened October 19, 2021.
+Non-matriculated students can take the classes for a direct fee through our Continuing Education Unit system. Registration will open mid-October 2023.
 
 | Course # |  Course Title | Registration Cost & Link | CEU CRN |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------|---|---|---|
