@@ -19,19 +19,19 @@ This course provides an introduction to the practice of Low-Tech Process-Based R
 |**Cross-Listed As**: |CEWA 5620|
 
 <div align="center">
-<a class=" button hollow" href="{{ site.baseurl }}/workshops/2022/USU/"> <i class="fa fa-chevron-circle-left" aria-hidden="true"></i> <b> Back to  Spring 2022 LTPBR Courses</b>  for University Credit or Professional CEU  
+<a class=" button hollow" href="{{ site.baseurl }}/workshops/2023/USU/"> <i class="fa fa-chevron-circle-left" aria-hidden="true"></i> <b> Back to  Spring 2023 LTPBR Courses</b>  for University Credit or Professional CEU  
   </a>
 </div>
-
+https://www.eco-logical-research.com/team
 ## Schedule
-### Spring 2022 - Intro to LTPBR
+### Spring 2023 - Intro to LTPBR
 ## Intro to LTPBR
 - Matriculated Students: [INTRO LOWTECH PROC REST RIV - 14339  - WATS 5620](https://ssb.banner.usu.edu/zprod/bwckschd.p_disp_detail_sched?term_in=202220&crn_in=14339)
 - Non-Matriculated Students: [CEWA 5620](https://ssb.banner.usu.edu/zprod/bwckctlg.p_display_courses?term_in=202220&one_subj=CEWA&sel_crse_strt=5620&sel_crse_end=5620&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=) 
 
 | Class                                                        | Time              | Days     | Where                     | Dates                  | Instructor                 |
 | ------------------------------------------------------------ | ----------------- | -------- | ------------------------- | ---------------------- | -------------------------- |
-| [Intro to LTPBR]({{ site.baseurl }}/workshops/2022/USU/WATS-5620/) | 1:30 pm - 3:30 pm | Tuesdays | Hybrid F2F ([Zoom](https://usu-edu.zoom.us/j/88041118826?pwd=d2JqUE1NQWlrWnk0YVExVTgxdHN3dz09) and ([Distance Education](https://www.usu.edu/map/index.cfm?id=540)), room 204) | Jan 11, 18 & 25,  2022 | Joseph Michael Wheaton (P) |
+| [Intro to LTPBR]({{ site.baseurl }}/workshops/2023/USU/WATS-5620/) | 1:30 pm - 3:30 pm | Tuesdays | Hybrid F2F ([Zoom](https://usu-edu.zoom.us/j/88041118826?pwd=d2JqUE1NQWlrWnk0YVExVTgxdHN3dz09) and ([Distance Education](https://www.usu.edu/map/index.cfm?id=540)), room TBD) | Jan 10, 17 & 24,  2023 | Stephen Bennett (P) |
 
 We will use the same recurring [Zoom Meeting Link](https://usu-edu.zoom.us/j/88041118826?pwd=d2JqUE1NQWlrWnk0YVExVTgxdHN3dz09):
 <div align="center">
@@ -43,26 +43,26 @@ We will use the same recurring [Zoom Meeting Link](https://usu-edu.zoom.us/j/880
 
 ### Course Schedule/Outline
 
-Outline dates and assignments are all available on Canvas:
-<div align="center">
-<a class="hollow button" href="https://usu.instructure.com/courses/700764/assignments"><img src="{{ site.baseurl }}/assets/images/canvas_logo.png">  <b>Spring 2022 Canvas</b><br> WATS 5620 - Intro to LTPBR Course Assignments</a></div>
+Outline dates and assignments will be available on Canvas:
+<!---<div align="center">
+<a class="hollow button" href="https://usu.instructure.com/courses/700764/assignments"><img src="{{ site.baseurl }}/assets/images/canvas_logo.png">  <b>Spring 2023 Canvas</b><br> WATS 5620 - Intro to LTPBR Course Assignments</a></div>--->
 
 Students are expected to watch pre-recorded lectures and complete the reading assignments prior to our class meetings, where those topics will be discussed and exercises completed as a group. 
 
 | Type     | Time              | Days | Where                         | Date Range                  | Schedule Type                | Instructors                 |
 |----------|-------------------|------|-------------------------------|-----------------------------|------------------------------|-----------------------------|
-| Arranged | TBA               |      | Online-Logan                  | Jan 10, 2022 - May 04, 2022 | Blended Face to Face Lecture | Joseph Michael Wheaton (P)# |
-| Class    | 1:30 pm - 3:30 pm | T    | Distance Education 204        | Jan 11, 2022 - Jan 11, 2022 | Blended Face to Face Lecture | Joseph Michael Wheaton (P)# |
-| Class    | 1:30 pm - 3:30 pm | T    | Distance Education 204        | Jan 18, 2022 - Jan 18, 2022 | Blended Face to Face Lecture | Joseph Michael Wheaton (P)# |
-| Class    | 1:30 pm - 3:30 pm | T    | Distance Education 204        | Jan 25, 2022 - Jan 25, 2022 | Blended Face to Face Lecture | Joseph Michael Wheaton (P)# |
+| Arranged | TBA               |      | Online-Logan                  | Jan 09, 2023 - May 03, 2023 | Blended Face to Face Lecture | Stephen Bennett (P)# |
+| Class    | 1:30 pm - 3:30 pm | T    | Room TBD        | Jan 10, 2023 - Jan 11, 2023 | Blended Face to Face Lecture | Stephen Bennett (P)# |
+| Class    | 1:30 pm - 3:30 pm | T    | Room TBD        | Jan 17, 2023 - Jan 18, 2023 | Blended Face to Face Lecture | Stephen Bennett (P)# |
+| Class    | 1:30 pm - 3:30 pm | T    | Room TBD        | Jan 24, 2023 - Jan 25, 2023 | Blended Face to Face Lecture | Stephen Bennett (P)# |
 
 This class meets three times for these discussion sessions:
 
 | Meeting Date | Modules | Topics                                                   |
 |--------------|---------|----------------------------------------------------------|
-|    1/11/2022 | [1.1](https://usu.instructure.com/courses/700764/assignments/3579131?module_item_id=4785107)   | [Background & Scope of Degradation](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module1#b-background--why-were-here) / [Build your First BDA](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module1#f-what-you-came-for---your-first-bda) |
-|    1/18/2022 | [1.2](https://usu.instructure.com/courses/700764/assignments/3579132?module_item_id=4785117)   | [Intro to Low-Tech Tools](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module1#g-broad-umbrella-of-low-tech-restoration) & [Guiding Principles](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module1#j-principles)            |
-|     1/25/2022 | [1.3](https://usu.instructure.com/courses/700764/assignments/3579133?module_item_id=4785125)   | [Partnering with Beaver](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module1#k-beaver-history--biology) & [Synthesis](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module1#n-wrap-up-and-preview-of-remaining-modules)                       |
+|    1/10/2023 | [1.1](https://usu.instructure.com/courses/700764/assignments/3579131?module_item_id=4785107)   | [Background & Scope of Degradation](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module1#b-background--why-were-here) / [Build your First BDA](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module1#f-what-you-came-for---your-first-bda) |
+|    1/17/2023 | [1.2](https://usu.instructure.com/courses/700764/assignments/3579132?module_item_id=4785117)   | [Intro to Low-Tech Tools](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module1#g-broad-umbrella-of-low-tech-restoration) & [Guiding Principles](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module1#j-principles)            |
+|     1/24/2023 | [1.3](https://usu.instructure.com/courses/700764/assignments/3579133?module_item_id=4785125)   | [Partnering with Beaver](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module1#k-beaver-history--biology) & [Synthesis](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module1#n-wrap-up-and-preview-of-remaining-modules)                       |
 
 This course is based on [Module 1]({{ site.baseurl }}/workshops/2020/SGI/Modules/module1.html) of the self-paced materials. 
 <div align="center">
@@ -73,13 +73,13 @@ This course is based on [Module 1]({{ site.baseurl }}/workshops/2020/SGI/Modules
 ### Matriculated Students
 Current USU [Tuition](https://www.usu.edu/registrar/registration/payment/) for 1 credit. 
 No additional Course Fee. 
-Please register on [Banner](https://ssb.banner.usu.edu/zprod/twbkwbis.P_WWWLogin) for CRN: [14339](https://ssb.banner.usu.edu/zprod/bwckschd.p_disp_detail_sched?term_in=202220&crn_in=14339) . *Note, tuition  for 1 credit varies between $601.21 and $2482.92 per credit based on undergraduate vs. graduate, in-state vs. out-of-state, and total number of credits)*
+Please register on [Banner](https://ssb.banner.usu.edu/zprod/twbkwbis.P_WWWLogin) for CRN: [14339](https://ssb.banner.usu.edu/zprod/bwckschd.p_disp_detail_sched?term_in=202220&crn_in=14339) . *Note, tuition  for 1 credit varies between $712.0 and $2716.94 per credit based on undergraduate vs. graduate, in-state vs. out-of-state, and total number of credits)*
 
 ### Continuing Education Students
-**$305** for 1.5 CEUs  (_$270 Course Fee + $39 CEU processing fee_) 
-[Register on CEU](https://www.usu.edu/ais/ceu/register/?term=202220&crns=18884) CEN CRN - 18884
+**$315** for 1.5 CEUs  (_$270 Course Fee + $45 CEU processing fee_) 
+[Register on CEU](https://www.usu.edu/ais/ceu/register/?term=202220&crns=18884) CEN CRN - TBD
 
-<div align="center"><a class="button" href="https://www.usu.edu/ais/ceu/register/?term=202220&crns=18884"> <b>Module 1 - Intro</b> <br> Professionals Register Now! <i class="fa fa-user-plus" aria-hidden="true"></i> </a></div>
+<div align="center"><a class="button" href="https://www.usu.edu/ais/ceu/register/?term=202220&crns=18884"> <b>Module 1 - Intro</b> <br> Professionals Registraton open mid-October, 2023 <i class="fa fa-user-plus" aria-hidden="true"></i> </a></div>
 
 -----------------
 ## Course Objectives
@@ -100,12 +100,12 @@ By the end of this course, students will:
 <div class="row small-up-2 medium-up-2 large-up-4" align="center">
 
    <div class="column column-block">
-    <a href="http://joewheaton.org"><img src="{{ site.baseurl }}/assets/images/people/Wheaton_round.png"></a>
-    <h4><a href="http://joewheaton.org">Joseph Wheaton<sup>1,2</sup></a></h4>
+    <a href="https://www.anabranchsolutions.com/stephen-bennett.html"><img src="{{ site.baseurl }}/assets/images/people/bennett-round.png"></a>
+    <h4><a href="http://joewheaton.org">Stephen Bennett<sup>1,2,3</sup></a></h4>
     <b>Instructor</b><br>
-    <a href="https://qcnr.usu.edu/directory/wheaton_joseph"> Professor of Riverscapes</a>,<br> <a href="https://www.anabranchsolutions.com/joe-wheaton.html">Principal<sup>2</sup></a><br>
+    <a href="https://qcnr.usu.edu/directory/wats/adjunct/index"> Adjunct Assisstant Professor</a>,<br> <a href="https://www.anabranchsolutions.com/stephen-bennett.html">Principal<sup>2</sup></a><br> 
 
-   Office Hours: Tuesday, 12:00 to 13:00 - in NR360 or by <a href="https://usu-edu.zoom.us/j/84820515528?pwd=WXg1NDhzMWFMSDNJYXVaem1kbllPdz09">Zoom Drop-In</a> or By Appointment
+   
   </div>
 
 
