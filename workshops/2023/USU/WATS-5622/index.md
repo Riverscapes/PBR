@@ -1,7 +1,8 @@
 ---
-title: WATS 5622 - Course Syllabus
-weight: 3
+title: Planning LTPBR
+weight: 4
 ---
+# WATS 5622 - Course Syllabus
 ![header]({{ site.baseurl }}/assets/images/courses/WATS-5622_header_C.png)
 
 
