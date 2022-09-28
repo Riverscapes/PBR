@@ -1,11 +1,10 @@
 ---
-title: Planning LTPBR - Syllabus
+title: WATS 5622 - Course Syllabus
 weight: 3
 ---
-**NOT YET UPDATED FOR 2023**
 ![header]({{ site.baseurl }}/assets/images/courses/WATS-5622_header_C.png)
 
-# WATS 6900 §4 - Syllabus
+
 
 
 
@@ -14,20 +13,21 @@ This course provides an introduction to the planning process of Low-Tech Process
 
 |**Title**| Planning to Low-Tech Process-Based Restoration of Riverscapes|
 |**Semester(s) Traditionally Offered**| Spring|
+|**Course Number**| WATS 5622|
 |**Credits**: |1.0 Credit hours  (1.5 CEU)|
 |**Levels**: |Graduate/Undergraduate|
 |**Schedule Types**: |Hybrid Face to Face Lecture |
 |**Cross-Listed As**: |CEWA 5700 (will be WATS/CEWA 5622 in 2022)|
 
 <div align="center">
-<a class=" button hollow" href="{{ site.baseurl }}/workshops/2021/USU/"> <i class="fa fa-chevron-circle-left" aria-hidden="true"></i> <b> Back to  Spring 2021 LTPBR Courses</b>  for University Credit or Professional CEU  
+<a class=" button hollow" href="{{ site.baseurl }}/workshops/2023/USU/"> <i class="fa fa-chevron-circle-left" aria-hidden="true"></i> <b> Back to  Spring 2023 LTPBR Courses</b>  for University Credit or Professional CEU  
   </a>
 </div>
 
 ## Schedule
-### Spring 2021 - Planning LTPBR
-- Matriculated Students: [ST:PLANLOWTEC PRCBASED REST RI - 12075 - WATS 6900 - 004](https://ssb.banner.usu.edu/zprod/bwckschd.p_disp_detail_sched?term_in=202120&crn_in=12075)
-- Non-Matriculated Students: 26395 - CEWA 5700 - LB3
+### Spring 2023 - Planning LTPBR
+- Matriculated Students: WATS 5623 <!--[ST:PLANLOWTEC PRCBASED REST RI - 12075 - WATS 6900 - 004](https://ssb.banner.usu.edu/zprod/bwckschd.p_disp_detail_sched?term_in=202120&crn_in=12075)-->
+- Non-Matriculated Students: CEWA 5623
 
 
 
@@ -35,13 +35,13 @@ This course provides an introduction to the planning process of Low-Tech Process
 
 | Class                                                        | Time              | Days     | Where | Dates                  | Instructors                                                  |
 | ------------------------------------------------------------ | ----------------- | -------- | ----- | ---------------------- | ------------------------------------------------------------ |
-| [Planning LTPBR]({{ site.baseurl }}/workshops/2021/USU/WATS-5622/) | 1:30 pm - 3:30 pm | Tuesdays | Zoom  | Mar 09, 16, & 23, 2021 | [Joseph Michael Wheaton (P), Stephen Nicholas Bennett]({{ site.baseurl }}//workshops/2020/SGI/#instruction-team) |
+| [Planning LTPBR]({{ site.baseurl }}/workshops/2021/USU/WATS-5622/) | 1:30 pm - 3:30 pm | Tuesdays | Hybrid F2F (Zoom and Distance Education (room TBD) | Jan 31 & Feb 07, 14, 2023| [Stephen Nicholas Bennett]({{ site.baseurl }}//workshops/2020/SGI/#instruction-team) |
 
 ### Course Schedule/Outline
 
-Outline dates and assignments are all available on Canvas:
-<div align="center">
-<a class="hollow button" href="https://usu.instructure.com/courses/618192"><img src="{{ site.baseurl }}/assets/images/canvas_logo.png">  <b>Spring 2021 Canvas</b><br> WATS 6900  §4 - Planning LTPBR Course Assignments</a></div>
+Outline dates and assignments will be available on Canvas:
+<!--<div align="center">
+<a class="hollow button" href="https://usu.instructure.com/courses/618192"><img src="{{ site.baseurl }}/assets/images/canvas_logo.png">  <b>Spring 2021 Canvas</b><br> WATS 6900  §4 - Planning LTPBR Course Assignments</a></div>-->
 
 Students are expected to watch pre-recorded lectures and complete the reading assignments prior to our class meetings, where those topics will be discussed and exercises completed as a group. 
 
@@ -49,9 +49,9 @@ This class meets three times for these discussion sessions. Students will take o
 
 | Meeting Date | Modules | Topics                                                   |
 |--------------|---------|----------------------------------------------------------|
-|    3/9/2021 | [3.1](https://usu.instructure.com/courses/618192/modules/732290) & [3.2](https://usu.instructure.com/courses/618192/modules/732291)   | [Intro to Planning Process](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module3#b-overview-of-planning--nrcs-conservation-planning-process) ; [Reading Riverscapes](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module3#c-valley-bottom-mapping--virtual-field-trip) |
-|    3/16/2021 | [3.3](https://usu.instructure.com/courses/618192/modules/732292)   | [Planning Phase](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module3#e-risk-assessment-condition-assessment--recovery-potential)           |
-|     3/23/2021 | [3.4](https://usu.instructure.com/courses/618192/modules/732293)   | Planning Applied to your own Riverscape                       |
+|    1/31/2023 | [3.1](https://usu.instructure.com/courses/618192/modules/732290) & [3.2](https://usu.instructure.com/courses/618192/modules/732291)   | [Intro to Planning Process](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module3#b-overview-of-planning--nrcs-conservation-planning-process) ; [Reading Riverscapes](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module3#c-valley-bottom-mapping--virtual-field-trip) |
+|    2/02/2023 | [3.3](https://usu.instructure.com/courses/618192/modules/732292)   | [Planning Phase](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module3#e-risk-assessment-condition-assessment--recovery-potential)           |
+|     2/14/2023 | [3.4](https://usu.instructure.com/courses/618192/modules/732293)   | Planning Applied to your own Riverscape                       |
 
 This course is based on [Module 3]({{ site.baseurl }}/workshops/2020/SGI/Modules/module3.html) of the self-paced materials. 
 <div align="center">
@@ -62,12 +62,12 @@ This course is based on [Module 3]({{ site.baseurl }}/workshops/2020/SGI/Modules
 ### Matriculated Students
 Current USU [Tuition](https://www.usu.edu/registrar/registration/payment/) for 1 credit. 
 No additional Course Fee. 
-Please register on [Banner](http://banner.usu.edu). *Note, tuition  for 1 credit varies between $601.21 and $2482.92 per credit based on undergraduate vs. graduate, in-state vs. out-of-state, and total number of credits)*
+Please register on [Banner](http://banner.usu.edu). *Note, tuition  for 1 credit varies between $721 and $2716 per credit based on undergraduate vs. graduate, in-state vs. out-of-state, and total number of credits)*
 
 ### Continuing Education Students
-$265.79   [Register Here](https://www.usu.edu/ais/ceu/register/?term=202120&crns=26395,26397,26398)
+**$315** for 1.5 CEUs (*$270 Course Fee + $45 CEU processing fee*) Registration will open mid-October, 2023  <!--[Register Here](https://www.usu.edu/ais/ceu/register/?term=202120&crns=26395,26397,26398)-->
 
-<div align="center"><a class="button" href="https://www.usu.edu/ais/ceu/register/?term=202120&crns=26395,26397,26398"> <b>Module 3 - Planning</b> <br> Register Now! <i class="fa fa-user-plus" aria-hidden="true"></i> </a></div>
+<!--<div align="center"><a class="button" href="https://www.usu.edu/ais/ceu/register/?term=202120&crns=26395,26397,26398"> <b>Module 3 - Planning</b> <br> Register Now! <i class="fa fa-user-plus" aria-hidden="true"></i> </a></div>-->
 
 -----------------
 ## Course Objectives
@@ -86,16 +86,6 @@ By the end of this course, students will:
 
 
 
-<div class="row small-up-2 medium-up-2 large-up-4" align="center">
-
-   <div class="column column-block">
-    <a href="http://joewheaton.org"><img src="{{ site.baseurl }}/assets/images/people/Wheaton_round.png"></a>
-    <h4><a href="http://joewheaton.org">Joseph Wheaton<sup>1,2</sup></a></h4>
-    <b>Lead Instructor</b><br>
-    <a href="https://qcnr.usu.edu/directory/wheaton_joseph">Associate Professor of Riverscapes</a>,<br> <a href="https://www.anabranchsolutions.com/joe-wheaton.html">Principal<sup>2</sup></a><br>
-
-   Office Hours: Wednesday, 12:00 to 13:00 - <a href="https://usu-edu.zoom.us/my/h20joe?pwd=eFNjSllqT3VDNTRoLzZ3Sk9IM1F6UT09">Zoom Drop-In</a> or By Appointment
-  </div>
   <div class="column column-block">
     <a href="https://www.researchgate.net/profile/Stephen_Bennett8"><img src="{{ site.baseurl }}/assets/images/people/bennett-round_orig.png"></a>
     <h4><a href="https://www.researchgate.net/profile/Stephen_Bennett8">Stephen N. Bennett<sup>1,2,3</sup></a></h4>
