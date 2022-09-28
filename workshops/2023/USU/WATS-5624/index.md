@@ -2,7 +2,6 @@
 title: Implementation of LTPBR - Syllabus
 weight: 5
 ---
-**NOT YET UPDATED FOR 2023**
 # WATS 5624 - Syllabus
 
 ![header]({{ site.baseurl }}/assets/images/courses/WATS-5624_header_C.png)
@@ -14,6 +13,7 @@ This course introduces Low-Tech Process-Based Restoration of Riverscapes impleme
 
 
 |**Title**| Implementation of Low-Tech Process-Based Restoration of Riverscapes|
+|**Course Number:**| WATS 5624|
 |**Semester(s) Traditionally Offered**| Spring|
 |**Credits**: |1.0 Credit hours  (1.5 CEU)|
 |**Levels**: |Graduate/Undergraduate|
@@ -21,27 +21,27 @@ This course introduces Low-Tech Process-Based Restoration of Riverscapes impleme
 |**Cross-Listed As**: |CEWA 5624|
 
 <div align="center">
-<a class=" button hollow" href="{{ site.baseurl }}/workshops/2022/USU/"> <i class="fa fa-chevron-circle-left" aria-hidden="true"></i> <b> Back to  Spring 2022 LTPBR Courses</b>  for University Credit or Professional CEU  
+<a class=" button hollow" href="{{ site.baseurl }}/workshops/2023/USU/"> <i class="fa fa-chevron-circle-left" aria-hidden="true"></i> <b> Back to  Spring 2023 LTPBR Courses</b>  for University Credit or Professional CEU  
   </a>
 </div>
 
 ## Schedule
 ### Spring 2021 - Implementation of LTPBR
-- Matriculated Students: WATS 5624 - [CNR 14340](https://ssb.banner.usu.edu/zprod/bwckschd.p_disp_detail_sched?term_in=202220&crn_in=14340)
-- Non-Matriculated Students: CEWA 5624 - CRN 18885. [Register Here](https://www.usu.edu/ais/ceu/register/?term=202220&crns=18885)
+- Matriculated Students: WATS 5624 <!-- - [CNR 14340](https://ssb.banner.usu.edu/zprod/bwckschd.p_disp_detail_sched?term_in=202220&crn_in=14340)-->
+- Non-Matriculated Students: CEWA 5624 <!--CRN 18885. [Register Here](https://www.usu.edu/ais/ceu/register/?term=202220&crns=18885)-->
 
 
 
 | Class                                                        | Time              | Days     | Where      | Dates        | Instructors                                                  |
 | ------------------------------------------------------------ | ----------------- | -------- | ---------- | ------------ | ------------------------------------------------------------ |
-| [Implementing LTPBR]({{ site.baseurl }}/workshops/2022/USU/WATS-5624/) | 1:30 pm - 3:30 pm | Tuesday  | [Zoom](https://usu-edu.zoom.us/j/88041118826?pwd=d2JqUE1NQWlrWnk0YVExVTgxdHN3dz09)       | Apr 19, 2022 | [Stephen Nicholas Bennett]({{ site.baseurl }}//workshops/2020/SGI/#instruction-team) |
-| [Implementing LTPBR]({{ site.baseurl }}/workshops/2022/USU/WATS-5624/) | 7:30 am - 5:30 pm | Saturday | Field Trip | Apr 23, 2022 | [Stephen Nicholas Bennett]({{ site.baseurl }}//workshops/2020/SGI/#instruction-team) |
+| [Implementing LTPBR]({{ site.baseurl }}/workshops/2022/USU/WATS-5624/) | 1:30 pm - 3:30 pm | Tuesday  | Hybrid F2F (Zoom and Distance Education, room TBD) | Apr 11, 2023 | [Stephen Nicholas Bennett]({{ site.baseurl }}//workshops/2020/SGI/#instruction-team) |
+| [Implementing LTPBR]({{ site.baseurl }}/workshops/2022/USU/WATS-5624/) | 7:30 am - 5:30 pm | Saturday | Field Trip | Apr 15, 2023 | [Stephen Nicholas Bennett]({{ site.baseurl }}//workshops/2020/SGI/#instruction-team) |
 
 ### Course Schedule/Outline
 
-Outline dates and assignments are all available on Canvas:
-<div align="center">
-<a class="hollow button" href="https://usu.instructure.com/courses/618129"><img src="{{ site.baseurl }}/assets/images/canvas_logo.png">  <b>Spring 2021 Canvas</b><br> WATS 5624 - Implementation Course Assignments</a></div>
+Outline dates and assignments will be available on Canvas:
+<!--<div align="center">
+<a class="hollow button" href="https://usu.instructure.com/courses/618129"><img src="{{ site.baseurl }}/assets/images/canvas_logo.png">  <b>Spring 2021 Canvas</b><br> WATS 5624 - Implementation Course Assignments</a></div>-->
 
 Students are expected to watch pre-recorded lectures and complete the reading assignments prior to our class meeting, where those topics will be discussed and exercises completed as a group. Both that session and the Saturday field trip are mandatory attendance. 
 
@@ -49,8 +49,8 @@ This class meets once for a discussion session (remotely) and once in person for
 
 | Meeting Date | Modules     | Topics                                                       |
 | ------------ | ----------- | ------------------------------------------------------------ |
-| 4/19/2022    | [5.2](), [5.3](), [5.4]() & [5.5]() | [Overview](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module5#b-low-tech-implementation-overview); [Consultation & Permitting](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module5#c-consultation--permitting); [Logistics, Equipment & Safety](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module5#d-logistics-equipment--safety), [Construction of PALS & BDAs](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module5#e-construction-of-pals--bdas) |
-| 4/23/2022    | 5.6           | Field Day (Saturday) - Constructing an LTPBR Project                    |
+| 4/11/2023    | [5.2](), [5.3](), [5.4]() & [5.5]() | [Overview](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module5#b-low-tech-implementation-overview); [Consultation & Permitting](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module5#c-consultation--permitting); [Logistics, Equipment & Safety](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module5#d-logistics-equipment--safety), [Construction of PALS & BDAs](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module5#e-construction-of-pals--bdas) |
+| 4/15/2023    | 5.6           | Field Day (Saturday) - Constructing an LTPBR Project                    |
 
 
 This course is based on [Module 5]({{ site.baseurl }}/workshops/2020/SGI/Modules/module5.html) of the self-paced materials. 
@@ -63,15 +63,15 @@ This course is based on [Module 5]({{ site.baseurl }}/workshops/2020/SGI/Modules
 ### Matriculated Students
 Current USU [Tuition](https://www.usu.edu/registrar/registration/payment/) for 1 credit. 
 $100 Course Fee for field trip (construction supplies, equipment, travel, safety equipment, etc.). 
-Please register on Banner using  [CNR 14340](https://ssb.banner.usu.edu/zprod/bwckschd.p_disp_detail_sched?term_in=202220&crn_in=14340). *Note, tuition  for 1 credit varies between $601.21 and $2482.92 per credit based on undergraduate vs. graduate, in-state vs. out-of-state, and total number of credits)*
+Please register on Banner using  [CNR 14340](https://ssb.banner.usu.edu/zprod/bwckschd.p_disp_detail_sched?term_in=202220&crn_in=14340). *Note, tuition  for 1 credit varies between $712 and $2716 per credit based on undergraduate vs. graduate, in-state vs. out-of-state, and total number of credits)*
 
 ### Continuing Education Students
-**$405** for 1.5 CEUs  (_$370 Course Fee + $39 CEU processing fee_) 
+**$405** for 1.5 CEUs  (_$370 Course Fee + $45 CEU processing fee_) Registration will open mid-October, 2023
 
-[Register for CEU Credit](https://www.usu.edu/ais/ceu/register/?term=202220&crns=18885) using CEN CRN - 18885
+<!--[Register for CEU Credit](https://www.usu.edu/ais/ceu/register/?term=202220&crns=18885) using CEN CRN - 18885-->
 
 
-<div align="center"><a class="button" href="https://www.usu.edu/ais/ceu/register/"> <b>Module 5 - Implementation</b> <br> Professionals Register Now! <i class="fa fa-user-plus" aria-hidden="true"></i> </a></div>
+<!--<div align="center"><a class="button" href="https://www.usu.edu/ais/ceu/register/"> <b>Module 5 - Implementation</b> <br> Professionals Register Now! <i class="fa fa-user-plus" aria-hidden="true"></i> </a></div>-->
 
 
 -----------------
@@ -99,15 +99,7 @@ By the end of this course, students will:
     <b>Lead Instructor</b><br>
     Ecologist, <a href="https://qcnr.usu.edu/directory/bennett_stephen">Adjunct Professor</a>, <a href="https://www.anabranchsolutions.com/stephen-bennett.html">Principal<sup>2</sup></a><br>
     Office Hours:  By Appointment
-  </div>
-   <div class="column column-block">
-    <a href="http://joewheaton.org"><img src="{{ site.baseurl }}/assets/images/people/Wheaton_round.png"></a>
-    <h4><a href="http://joewheaton.org">Joseph Wheaton<sup>1,2</sup></a></h4>
-    <b>Co-Instructor</b><br>
-    <a href="https://qcnr.usu.edu/directory/wheaton_joseph">Professor of Riverscapes</a>,<br> <a href="https://www.anabranchsolutions.com/joe-wheaton.html">Principal<sup>2</sup></a>
-  </div>
-
-
+  
 
 </div>
 
