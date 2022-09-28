@@ -3,8 +3,7 @@ title: Science of LTPBR - Syllabus
 weight: 2
 ---
 
-# WATS 6900 §3 - Course Syllabus
-**NOT YET UPDATED FOR 2023**
+# WATS 5620 - Course Syllabus
 ![header]({{ site.baseurl }}/assets/images/courses/WATS-5621_header_C.png)
 
 ## [Catalog Description](https://ssb.banner.usu.edu/zprod/bwckctlg.p_display_courses?term_in=202120&one_subj=WATS&sel_crse_strt=5150&sel_crse_end=5150&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=)
@@ -14,33 +13,34 @@ Students explore the science and case studies that encouraged Low-Tech Process-B
 
 |**Title**| Science & Case Studies of Low-Tech Process-Based Restoration of Riverscapes|
 |**Semester(s) Traditionally Offered**| Spring|
+|**Course Number**| WATS 5621|
 |**Credits**: |1.0 Credit hours  (1.5 CEU)|
 |**Levels**: |Graduate/Undergraduate|
 |**Schedule Types**: |Hybrid Face to Face Lecture |
 |**Cross-Listed As**: |CEWA 5700 (Will become WATS/CEWA 5621 in Spring 2022) |
 
 <div align="center">
-<a class=" button hollow" href="{{ site.baseurl }}/workshops/2021/USU/"> <i class="fa fa-chevron-circle-left" aria-hidden="true"></i> <b> Back to  Spring 2021 LTPBR Courses</b>  for University Credit or Professional CEU  
+<a class=" button hollow" href="{{ site.baseurl }}/workshops/2023/USU/"> <i class="fa fa-chevron-circle-left" aria-hidden="true"></i> <b> Back to  Spring 2023 LTPBR Courses</b>  for University Credit or Professional CEU  
   </a>
 </div>
 
 ## Schedule
-### Spring 2021 - Science of LTPBR
-- Matriculated Students: [ST:SCI&CASE STUD LOWTECH RIV - 12054 - WATS 6900 - 003](https://ssb.banner.usu.edu/zprod/bwckschd.p_disp_detail_sched?term_in=202120&crn_in=12054)
-- Non-Matriculated Students: CEWA 5700 - 26394 - LB2 
+### Spring 2023 - Science of LTPBR
+- Matriculated Students: WATS 5621 <!--[ST:SCI&CASE STUD LOWTECH RIV - 12054 - WATS 6900 - 003](https://ssb.banner.usu.edu/zprod/bwckschd.p_disp_detail_sched?term_in=202120&crn_in=12054)-->
+- Non-Matriculated Students: CEWA 5621
 
 
 
 
 | Class                                                        | Time              | Days     | Where | Dates                    | Instructors                                                  |
 | ------------------------------------------------------------ | ----------------- | -------- | ----- | ------------------------ | ------------------------------------------------------------ |
-| [LTPBR Science & Case Studies]({{ site.baseurl }}/workshops/2021/USU/WATS-5621/) | 1:30 pm - 3:30 pm | Tuesdays | Zoom  | Feb 09, 23 & Mar 2, 2021 | [Nicolaas W Bouwes (P), Stephen Nicholas Bennett, Joseph Michael Wheaton]({{ site.baseurl }}//workshops/2020/SGI/#instruction-team) |
+| [LTPBR Science & Case Studies]({{ site.baseurl }}/workshops/2021/USU/WATS-5621/) | 1:30 pm - 3:30 pm | Tuesdays | Zoom  | Feb 21, 28 & Mar 14, 2023 | [Nicolaas W Bouwes (P), Stephen Nicholas Bennett]({{ site.baseurl }}//workshops/2020/SGI/#instruction-team) |
 
 ### Course Schedule/Outline
 
-Outline dates and assignments are all available on Canvas:
-<div align="center">
-<a class="hollow button" href="https://usu.instructure.com/courses/639115"><img src="{{ site.baseurl }}/assets/images/canvas_logo.png">  <b>Spring 2021 Canvas</b><br> WATS 6900 - §3 - Science & Case Studies of LTPBR Course Assignments</a></div>
+Outline dates and assignments will be available on Canvas:
+<!---<div align="center">
+<a class="hollow button" href="https://usu.instructure.com/courses/639115"><img src="{{ site.baseurl }}/assets/images/canvas_logo.png">  <b>Spring 2021 Canvas</b><br> WATS 6900 - §3 - Science & Case Studies of LTPBR Course Assignments</a></div>--->
 
 Students are expected to watch pre-recorded lectures and complete the reading assignments prior to our class meetings, where those topics will be discussed and exercises completed as a group. 
 
@@ -48,9 +48,9 @@ This class meets three times for these discussion sessions:
 
 | Meeting Date | Modules                                                      | Topics                                                       |
 | ------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| 2/9/2021     | [2.1](https://usu.instructure.com/courses/618152/modules#module_731682) & [2.2](https://usu.instructure.com/courses/618152/modules#module_731683) | [Review & Intro](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module2.html#b-mimicking--promoting-wood-accumulation--beaver-dam-activity) + Case Studies ([Resilience](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module2.html#e-building-resilience-with-low-tech))           |
-| 2/23/2021    | [2.2](https://usu.instructure.com/courses/618152/modules#module_731683) | Case Studies that Build Confidence in LTPBR ([Bridge Creek](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module2.html#c-beaver-dam-analogues-bridge-creek--birch-creek) & [Asotin Creek](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module2.html#d-post-assisted-log-structures-case-study-asotin-creek)) |
-| 3/2/2021     | [2.3](https://usu.instructure.com/courses/618152/modules#module_731684) | [State of Supporting Science](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module2.html#f-where-science-is-at-ongoing--outstanding-science)                              |
+| 2/21/2023     | [2.1](https://usu.instructure.com/courses/618152/modules#module_731682) & [2.2](https://usu.instructure.com/courses/618152/modules#module_731683) | [Review & Intro](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module2.html#b-mimicking--promoting-wood-accumulation--beaver-dam-activity) + Case Studies ([Resilience](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module2.html#e-building-resilience-with-low-tech))           |
+| 2/28/2023    | [2.2](https://usu.instructure.com/courses/618152/modules#module_731683) | Case Studies that Build Confidence in LTPBR ([Bridge Creek](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module2.html#c-beaver-dam-analogues-bridge-creek--birch-creek) & [Asotin Creek](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module2.html#d-post-assisted-log-structures-case-study-asotin-creek)) |
+| 3/14/2023     | [2.3](https://usu.instructure.com/courses/618152/modules#module_731684) | [State of Supporting Science](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module2.html#f-where-science-is-at-ongoing--outstanding-science)                              |
 
 
 This course is based on [Module 2]({{ site.baseurl }}/workshops/2020/SGI/Modules/module2.html) of the self-paced materials. 
@@ -63,17 +63,18 @@ This course is based on [Module 2]({{ site.baseurl }}/workshops/2020/SGI/Modules
 ### Matriculated Students
 Current USU [Tuition](https://www.usu.edu/registrar/registration/payment/) for 1 credit. 
 No additional Course Fee. 
-Please register on [Banner](http://banner.usu.edu). *Note, tuition  for 1 credit varies between $601.21 and $2482.92 per credit based on undergraduate vs. graduate, in-state vs. out-of-state, and total number of credits)*
+Please register on [Banner](http://banner.usu.edu). *Note, tuition  for 1 credit varies between $712 and $2716 per credit based on undergraduate vs. graduate, in-state vs. out-of-state, and total number of credits)*
 
 ### Continuing Education Students
-$265.79   [Register Here](https://www.usu.edu/ais/ceu/register/?term=202120&crns=26394,26395,26397,26398)
+**$315** for 1.5 CEUs (*$270 Cource Fee + $45 CEU processing fee*) Registration will open mid-October 2023
+<!--[Register Here](https://www.usu.edu/ais/ceu/register/?term=202120&crns=26394,26395,26397,26398)-->
 
-<div align="center"><a class="button" href="https://www.usu.edu/ais/ceu/register/?term=202120&crns=26236,26394,26395,26397,26398"> <b>Module 2 - Science & Case Studies</b> <br> Register Now! <i class="fa fa-user-plus" aria-hidden="true"></i> </a></div>
+<!--<div align="center"><a class="button" href="https://www.usu.edu/ais/ceu/register/?term=202120&crns=26236,26394,26395,26397,26398"> <b>Module 2 - Science & Case Studies</b> <br> Register Now! <i class="fa fa-user-plus" aria-hidden="true"></i> </a></div>-->
 
 -----------------
 ## Course Objectives
 
-This introductory course is focused on remembering and understanding, and is intended as a follow-up to the [Introduction to LTPBR Course]({{ site.baseurl }}/workshops/2020/USU/WATS-5620/), offering students an overview of some of the underlying science and case studies that have helped build confidence in [LTPBR practice]({{ site.baseurl }}).By the end of this course, students will:
+This introductory course is focused on remembering and understanding, and is intended as a follow-up to the [Introduction to LTPBR Course]({{ site.baseurl }}/workshops/2023/USU/WATS-5620/), offering students an overview of some of the underlying science and case studies that have helped build confidence in [LTPBR practice]({{ site.baseurl }}).By the end of this course, students will:
 
 
 1. Be able to *indicate* what scholarly literature and science have been used as the conceptual foundations for low-tech process-based restoration.
@@ -104,15 +105,6 @@ Recognize what outstanding knowledge gaps exist within the science.
   </div>
 
 
-
-   <div class="column column-block">
-    <a href="http://joewheaton.org"><img src="{{ site.baseurl }}/assets/images/people/Wheaton_round.png"></a>
-    <h4><a href="http://joewheaton.org">Joseph Wheaton<sup>1,2</sup></a></h4>
-    <b>Co-Instructor</b><br>
-    <a href="https://qcnr.usu.edu/directory/wheaton_joseph">Associate Professor of Riverscapes</a>,<br> <a href="https://www.anabranchsolutions.com/joe-wheaton.html">Principal<sup>2</sup></a><br>
-
-   Office Hours: Wednesday, 12:00 to 13:00 - <a href="https://usu-edu.zoom.us/my/h20joe?pwd=eFNjSllqT3VDNTRoLzZ3Sk9IM1F6UT09">Zoom Drop-In</a> or By Appointment
-  </div>
 
 
 
