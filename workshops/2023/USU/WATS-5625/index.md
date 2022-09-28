@@ -3,7 +3,6 @@ title: Adaptive Management of LTPBR - Syllabus
 weight: 6
 ---
 # WATS 5625 - Syllabus
-**NOT YET UPDATED FOR 2023**
 ![header]({{ site.baseurl }}/assets/images/courses/WATS-5625_header_C.png)
 
 
@@ -11,7 +10,8 @@ weight: 6
 
 This course introduces Adaptive Management and how it can be applied to Low-Tech Process-Based Restoration of Riverscapes projects. Students will ask questions and engage in discussions about adaptive management lectures and readings. Students will develop an adaptive management plan for the Birch Creek restoration project. 
 
-|**Title**| Adaptive Management of Low-Tech Process-Based Restoration of Riverscapes|
+|**Title**| Adaptive Management of Low-Tech Process-Based Restoration of Riverscapes|\
+|**Course Number:**| WATS 5625|
 |**Semester(s) Traditionally Offered**| Spring|
 |**Credits**: |1.0 Credit hours  (1.5 CEU)|
 |**Levels**: |Graduate/Undergraduate|
@@ -19,20 +19,20 @@ This course introduces Adaptive Management and how it can be applied to Low-Tech
 |**Cross-Listed As**: |CEWA 5625|
 
 <div align="center">
-<a class=" button hollow" href="{{ site.baseurl }}/workshops/2022/USU/"> <i class="fa fa-chevron-circle-left" aria-hidden="true"></i> <b> Back to  Spring 2022 LTPBR Courses</b>  for University Credit or Professional CEU  
+<a class=" button hollow" href="{{ site.baseurl }}/workshops/2023/USU/"> <i class="fa fa-chevron-circle-left" aria-hidden="true"></i> <b> Back to  Spring 2023 LTPBR Courses</b>  for University Credit or Professional CEU  
   </a>
 </div>
 
 ## Schedule
-### Spring 2022 - Adaptive Management of LTPBR
-- Matriculated Students: ADAPT MGT LOWTEC PRCBAS REST - WATS 5625 - 001 XL
-- Non-Matriculated Students: [CEWA 5625 - LB5]()
+### Spring 2023 - Adaptive Management of LTPBR
+- Matriculated Students: WATS 5625
+- Non-Matriculated Students: CEWA 5625 - LB5
 
 
 
 | Class                                                        | Time              | Days     | Where      | Dates        | Instructors                                                  |
 | ------------------------------------------------------------ | ----------------- | -------- | ---------- | ------------ | ------------------------------------------------------------ |
-| [Adaptive Management of LTPBR]({{ site.baseurl }}/workshops/2022/USU/WATS-5625/) | 1:30 pm - 3:30 pm | Tuesday  | DE 204    | Apr 5, 12, 26 2022 | [Nick Bouwes]({{ site.baseurl }}//workshops/2020/SGI/#instruction-team) |
+| [Adaptive Management of LTPBR]({{ site.baseurl }}/workshops/2022/USU/WATS-5625/) | 1:30 pm - 4:15 pm | Tuesday | Hybrid F2F (Zoom and Distance Education, room TBD) | Apr 18, 25 2023 | [Nick Bouwes]({{ site.baseurl }}//workshops/2020/SGI/#instruction-team) |
 
 This course is based on [Module 6]({{ site.baseurl }}/workshops/2020/SGI/Modules/module6.html) of the self-paced materials. 
 <div align="center">
@@ -40,9 +40,9 @@ This course is based on [Module 6]({{ site.baseurl }}/workshops/2020/SGI/Modules
 
 ### Course Schedule/Outline
 
-Outline dates and assignments are all available on Canvas:
-<div align="center">
-<a class="hollow button" href="https://usu.instructure.com/courses/700765"><img src="{{ site.baseurl }}/assets/images/canvas_logo.png">  <b>Spring 2022 Canvas</b><br> WATS 5625 - Adaptive Management of  LTPBR Course Assignments</a></div>
+Outline dates and assignments will be available on Canvas:
+<!---<div align="center">
+<a class="hollow button" href="https://usu.instructure.com/courses/700765"><img src="{{ site.baseurl }}/assets/images/canvas_logo.png">  <b>Spring 2022 Canvas</b><br> WATS 5625 - Adaptive Management of  LTPBR Course Assignments</a></div>--->
 
 Students are expected to watch live or pre-recorded lectures and complete the reading assignments prior to our class meeting, where those topics will be discussed. Each person will develop an adaptive management framework for Birch Creek. 
 
@@ -50,9 +50,8 @@ This class meets three times for a discussion session (live or remotely) :
 
 | Meeting Date | Modules     | Topics                                                       |
 | ------------ | ----------- | ------------------------------------------------------------ |
-| 4/5/2022    | Module 6A-D | Introduction and background of Adaptive Management |
-| 4/12/2022   | Module 6E | Adapative Management for Low-Tech Process-Based Restoration     |
-| 4/26/2022   | Module 6F | Developing an Adaptive Management Framework for Birch Creek|
+| 4/18/2023    | Module 6A-D | Introduction and background of Adaptive Management |
+| 4/25/2023   | Module 6E&F | Adapative Management for Low-Tech Process-Based Restoration     |
 
 <!--- NICK TO POPULATE
 This course will introduce traditional adaptive management.  We discuss the need, background, and what is adaptive management.  We will then discuss how we might simplfy adaptive management as it applys to low-tech process-based restoration.  Finally each student will create their own adpative management plan for the Birch Creek restoration efforts.  
@@ -64,12 +63,14 @@ This course will introduce traditional adaptive management.  We discuss the need
 ### Matriculated Students
 Current USU [Tuition](https://www.usu.edu/registrar/registration/payment/) for 1 credit. No course fee.
 
-Please register on [Banner](http://banner.usu.edu). *Note, tuition  for 1 credit varies between $601.21 and $2482.92 per credit based on undergraduate vs. graduate, in-state vs. out-of-state, and total number of credits)*
+Please register on [Banner](http://banner.usu.edu). *Note, tuition  for 1 credit varies between $721 and $2716 per credit based on undergraduate vs. graduate, in-state vs. out-of-state, and total number of credits)*
 
 ### Continuing Education Students
-$260.00  [Register Here](https://www.usu.edu/ais/ceu/register/)
+**$315** for 1.5 CEUs (*$270 Course Fee + $45 CEU processing fee*) Registration will open mid-October, 2023
 
-<div align="center"><a class="button" href="https://www.usu.edu/ais/ceu/register/"> <b>Module 6 - Adaptive Management</b> <br> Register Now! <i class="fa fa-user-plus" aria-hidden="true"></i> </a></div>
+<!--- [Register Here](https://www.usu.edu/ais/ceu/register/)
+
+<div align="center"><a class="button" href="https://www.usu.edu/ais/ceu/register/"> <b>Module 6 - Adaptive Management</b> <br> Register Now! <i class="fa fa-user-plus" aria-hidden="true"></i> </a></div> --->
 
 
 -----------------
