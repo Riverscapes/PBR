@@ -4,7 +4,6 @@ weight: 1
 ---
 
 # WATS 5620  - Course Syllabus
-**NOT YET UPDATED FOR 2023**
 ![header]({{ site.baseurl }}/assets/images/courses/WATS-5620_header_C.png)
 
 ## [Catalog Description](https://catalog.usu.edu/content.php?filter%5B27%5D=WATS&filter%5B29%5D=5620&filter%5Bcourse_type%5D=-1&filter%5Bkeyword%5D=&filter%5B32%5D=1&filter%5Bcpage%5D=1&cur_cat_oid=12&expand=&navoid=3068&search_database=Filter#acalog_template_course_filter)
@@ -35,9 +34,9 @@ This course provides an introduction to the practice of Low-Tech Process-Based R
 
 <!---We will use the same recurring [Zoom Meeting Link](https://usu-edu.zoom.us/j/88041118826?pwd=d2JqUE1NQWlrWnk0YVExVTgxdHN3dz09):
 <div align="center">
-<a class="hollow button" href="https://usu-edu.zoom.us/j/88041118826?pwd=d2JqUE1NQWlrWnk0YVExVTgxdHN3dz09"><img src="{{ site.baseurl }}/assets/images/zoom_icon_32.png">  <b>Zoom Meeting Link</b><br>Tuesdays</a>--->
+<a class="hollow button" href="https://usu-edu.zoom.us/j/88041118826?pwd=d2JqUE1NQWlrWnk0YVExVTgxdHN3dz09"><img src="{{ site.baseurl }}/assets/images/zoom_icon_32.png">  <b>Zoom Meeting Link</b><br>Tuesdays</a></div>--->
 
-</div>
+
 
 
 
@@ -78,9 +77,9 @@ Please register on [Banner](https://ssb.banner.usu.edu/zprod/twbkwbis.P_WWWLogin
 ### Continuing Education Students
 **$315** for 1.5 CEUs  (_$270 Course Fee + $45 CEU processing fee_) 
 Registration will open mid-October, 2023
-<!---[Register on CEU](https://www.usu.edu/ais/ceu/register/?term=202220&crns=18884) CEN CRN - TBD
+<!---[Register on CEU](https://www.usu.edu/ais/ceu/register/?term=202220&crns=18884) CEN CRN - TBD--->
 
-<div align="center"><a class="button" href="https://www.usu.edu/ais/ceu/register/?term=202220&crns=18884"> <b>Module 1 - Intro</b> <br> Professionals Registraton Now! <i class="fa fa-user-plus" aria-hidden="true"></i> </a></div>--->
+<!---<div align="center"><a class="button" href="https://www.usu.edu/ais/ceu/register/?term=202220&crns=18884"> <b>Module 1 - Intro</b> <br> Professionals Registraton Now! <i class="fa fa-user-plus" aria-hidden="true"></i> </a></div>--->
 
 -----------------
 ## Course Objectives
