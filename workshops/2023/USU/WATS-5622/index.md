@@ -1,5 +1,5 @@
 ---
-title: Planning LTPBR
+title: Planning LTPBR - Syllabus
 weight: 4
 ---
 # WATS 5622 - Course Syllabus
