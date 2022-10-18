@@ -28,7 +28,7 @@ weight: 1
 
 Or take these modules as actual university courses and be paced and assessed:
 <div align="center">
-<a class=" button hollow" href="{{ site.baseurl }}/workshops/2022/USU"><img width="100" src="{{ site.baseurl }}/assets/images/sponsors/USU.png">  Spring 2022- <b> Register Now for  LTPBR Courses</b>  University Credit or Professional CEU  <i class="fa fa-graduation-cap"></i>  </a>
+<a class=" button hollow" href="{{ site.baseurl }}/workshops/2023/USU"><img width="100" src="{{ site.baseurl }}/assets/images/sponsors/USU.png">  Spring 2023 - <b> Register Now for  LTPBR Courses</b>  University Credit or Professional CEU  <i class="fa fa-graduation-cap"></i>  </a>
 </div>
 
 ### Bonus Resources & Exercises by Module Topic
