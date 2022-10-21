@@ -47,11 +47,3 @@ TO UPDATE FOR SPRING 2023 WHEN READY
 [![]({{ site.baseurl }}/assets/images/courses/Spring.png)]({{ site.baseurl }}/workshops/2023/USU)
 
 
-
-
----------
-## Search this Site
-<div align="center">
-<script async src="https://cse.google.com/cse.js?cx=f424951c78d0b3cdd"></script>
-<div class="gcse-search"></div>
-</div>
