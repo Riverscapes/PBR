@@ -34,7 +34,7 @@ This course introduces Low-Tech Process-Based Restoration of Riverscapes impleme
 
 | Class                                                        | Time              | Days     | Where      | Dates        | Instructors                                                  |
 | ------------------------------------------------------------ | ----------------- | -------- | ---------- | ------------ | ------------------------------------------------------------ |
-| [Implementing LTPBR]({{ site.baseurl }}/workshops/2022/USU/WATS-5624/) | 1:30 pm - 3:30 pm | Tuesday  | Hybrid F2F (Zoom and Distance Education, room TBD) | Apr 11, 2023 | [Stephen Nicholas Bennett]({{ site.baseurl }}//workshops/2020/SGI/#instruction-team) |
+| [Implementing LTPBR]({{ site.baseurl }}/workshops/2022/USU/WATS-5624/) | 1:30 pm - 3:30 pm | Tuesday  | via Zoom | Apr 11, 2023 | [Stephen Nicholas Bennett]({{ site.baseurl }}//workshops/2020/SGI/#instruction-team) |
 | [Implementing LTPBR]({{ site.baseurl }}/workshops/2022/USU/WATS-5624/) | 7:30 am - 5:30 pm | Saturday | Field Trip | Apr 15, 2023 | [Stephen Nicholas Bennett]({{ site.baseurl }}//workshops/2020/SGI/#instruction-team) |
 
 ### Course Schedule/Outline
@@ -66,12 +66,12 @@ $100 Course Fee for field trip (construction supplies, equipment, travel, safety
 Please register on Banner using  [CNR 14340](https://ssb.banner.usu.edu/zprod/bwckschd.p_disp_detail_sched?term_in=202220&crn_in=14340). *Note, tuition  for 1 credit varies between $712 and $2716 per credit based on undergraduate vs. graduate, in-state vs. out-of-state, and total number of credits)*
 
 ### Continuing Education Students
-**$405** for 1.5 CEUs  (_$370 Course Fee + $45 CEU processing fee_) Registration will open mid-October, 2023
+**$415** for 1.5 CEUs  (_$370 Course Fee + $45 CEU processing fee_) Registration will open mid-October, 2023
 
-<!--[Register for CEU Credit](https://www.usu.edu/ais/ceu/register/?term=202220&crns=18885) using CEN CRN - 18885-->
+[Register for CEU Credit](https://cpe.usu.edu/search/publicCourseSearchDetails.do?method=load&courseId=1015428) using CEN CRN - 16734
 
 
-<!--<div align="center"><a class="button" href="https://www.usu.edu/ais/ceu/register/"> <b>Module 5 - Implementation</b> <br> Professionals Register Now! <i class="fa fa-user-plus" aria-hidden="true"></i> </a></div>-->
+<div align="center"><a class="button" href="https://www.usu.edu/ais/ceu/register/"> <b>Module 5 - Implementation</b> <br> Professionals Register Now! <i class="fa fa-user-plus" aria-hidden="true"></i> </a></div>
 
 
 -----------------
@@ -128,6 +128,7 @@ To get in touch with instructor(s), please use [Canvas](https://usu.instructure.
 </div>
 
 --------
+	
 # Course Resources
 
 The course is organized into a series of modules or topics. Slides (as PDFs), recordings (as YouTube videos), and readings (from textbook or provided PDFs) are the main course materials.  Within each module, formative assignments (unassessed) and graded assignments are assigned in Canvas. Assignment weightings, assessment criteria, rubrics (if appropriate) are provided by assignment and in the grade book.
