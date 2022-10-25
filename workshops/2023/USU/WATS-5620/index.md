@@ -26,7 +26,7 @@ This course provides an introduction to the practice of Low-Tech Process-Based R
 ### Spring 2023 - Intro to LTPBR
 ## Intro to LTPBR
 - Matriculated Students: [INTRO LOWTECH PROC REST RIV - WATS 5620]<!---(https://ssb.banner.usu.edu/zprod/bwckschd.p_disp_detail_sched?term_in=202220&crn_in=14339)--->
-- Non-Matriculated Students: [CEWA 5620]<!---(https://ssb.banner.usu.edu/zprod/bwckctlg.p_display_courses?term_in=202220&one_subj=CEWA&sel_crse_strt=5620&sel_crse_end=5620&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=)---> 
+- Non-Matriculated Students: [CEWA 5620](https://cpe.usu.edu/search/publicCourseSearchDetails.do?method=load&courseId=1015426)
 
 | Class                                                        | Time              | Days     | Where                     | Dates                  | Instructor                 |
 | ------------------------------------------------------------ | ----------------- | -------- | ------------------------- | ---------------------- | -------------------------- |
@@ -76,10 +76,10 @@ Please register on [Banner](https://ssb.banner.usu.edu/zprod/twbkwbis.P_WWWLogin
 
 ### Continuing Education Students
 **$315** for 1.5 CEUs  (_$270 Course Fee + $45 CEU processing fee_) 
-Registration will open mid-October, 2023
-<!---[Register on CEU](https://www.usu.edu/ais/ceu/register/?term=202220&crns=18884) CEN CRN - TBD--->
+Registration will open November 9, 2023
+[Register for CEU Credit](https://cpe.usu.edu/search/publicCourseSearchDetails.do?method=load&courseId=1015426) CEU CRN - 16733
 
-<!---<div align="center"><a class="button" href="https://www.usu.edu/ais/ceu/register/?term=202220&crns=18884"> <b>Module 1 - Intro</b> <br> Professionals Registraton Now! <i class="fa fa-user-plus" aria-hidden="true"></i> </a></div>--->
+<div align="center"><a class="button" href="https://cpe.usu.edu/search/publicCourseAdvancedSearch.do?method=doPaginatedFilter&type=subject&objectId=1018628"> <b>Module 1 - Intro</b> <br> Professionals Registraton Now! <i class="fa fa-user-plus" aria-hidden="true"></i> </a></div>
 
 -----------------
 ## Course Objectives
