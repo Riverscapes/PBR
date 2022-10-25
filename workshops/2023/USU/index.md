@@ -15,12 +15,12 @@ All of our six popular LTPBR courses  are being offered as 1 credit (1.5 CEU) co
 
 | Course # |  Course Title | CRN     |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------|---|---|
-| WATS 5620 |  **[Introduction]({{ site.baseurl }}/workshops/2023/USU/WATS-5620/)** to Low-Tech Process-Based Restoration of Riverscapes | [TBD](https://ssb.banner.usu.edu/)  |
-| WATS 5621 |  **[Science & Case Studies]({{ site.baseurl }}/workshops/2023/USU/WATS-5621/)** of Low-Tech Process-Based Restoration of Riverscapes | [TBD](https://ssb.banner.usu.edu/)   |
-| WATS 5622 |  **[Planning]({{ site.baseurl }}/workshops/2023/USU/WATS-5622/)** to Low-Tech Process-Based Restoration of Riverscapes | [TBD](https://ssb.banner.usu.edu/)  |
-| WATS 5623 |  **[Design]({{ site.baseurl }}/workshops/2023/USU/WATS-5623/)** to Low-Tech Process-Based Restoration of Riverscapes | [TBD](https://ssb.banner.usu.edu/)  |
-| WATS 5624 | **[Implementing]({{ site.baseurl }}/workshops/2023/USU/WATS-5624/)** Low-Tech Process-Based Restoration of Riverscapes | [TBD](https://ssb.banner.usu.edu/)  |
-| WATS 5625 | **[Adaptive Management]({{ site.baseurl }}/workshops/2023/USU/WATS-5625/)** of Low-Tech Process-Based Restoration of Riverscapes | [TBD](https://ssb.banner.usu.edu/) |
+| WATS 5620 |  **[Introduction]({{ site.baseurl }}/workshops/2023/USU/WATS-5620/)** to Low-Tech Process-Based Restoration of Riverscapes | [16908](https://ssb.banner.usu.edu/)  |
+| WATS 5621 |  **[Science & Case Studies]({{ site.baseurl }}/workshops/2023/USU/WATS-5621/)** of Low-Tech Process-Based Restoration of Riverscapes | [16918](https://ssb.banner.usu.edu/)   |
+| WATS 5622 |  **[Planning]({{ site.baseurl }}/workshops/2023/USU/WATS-5622/)** to Low-Tech Process-Based Restoration of Riverscapes | [16925](https://ssb.banner.usu.edu/)  |
+| WATS 5623 |  **[Design]({{ site.baseurl }}/workshops/2023/USU/WATS-5623/)** to Low-Tech Process-Based Restoration of Riverscapes | [16937](https://ssb.banner.usu.edu/)  |
+| WATS 5624 | **[Implementing]({{ site.baseurl }}/workshops/2023/USU/WATS-5624/)** Low-Tech Process-Based Restoration of Riverscapes | [13260](https://ssb.banner.usu.edu/)  |
+| WATS 5625 | **[Adaptive Management]({{ site.baseurl }}/workshops/2023/USU/WATS-5625/)** of Low-Tech Process-Based Restoration of Riverscapes | [13261](https://ssb.banner.usu.edu/) |
 
 _Click on course titles for syllabi._
 
