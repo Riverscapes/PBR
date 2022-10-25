@@ -27,8 +27,8 @@ This course introduces Low-Tech Process-Based Restoration of Riverscapes impleme
 
 ## Schedule
 ### Spring 2021 - Implementation of LTPBR
-- Matriculated Students: WATS 5624 <!-- - [CNR 14340](https://ssb.banner.usu.edu/zprod/bwckschd.p_disp_detail_sched?term_in=202220&crn_in=14340)-->
-- Non-Matriculated Students: CEWA 5624 <!--CRN 18885. [Register Here](https://www.usu.edu/ais/ceu/register/?term=202220&crns=18885)-->
+- Matriculated Students: WATS 5624
+- Professional Students: CEWA 5624  [Register Here](https://cpe.usu.edu/search/publicCourseSearchDetails.do?method=load&courseId=1015428)
 
 
 
@@ -66,7 +66,7 @@ $100 Course Fee for field trip (construction supplies, equipment, travel, safety
 Please register on Banner using  [CNR 14340](https://ssb.banner.usu.edu/zprod/bwckschd.p_disp_detail_sched?term_in=202220&crn_in=14340). *Note, tuition  for 1 credit varies between $712 and $2716 per credit based on undergraduate vs. graduate, in-state vs. out-of-state, and total number of credits)*
 
 ### Continuing Education Students
-**$415** for 1.5 CEUs  (_$370 Course Fee + $45 CEU processing fee_) Registration will open mid-October, 2023
+**$415** for 1.5 CEUs  (_$370 Course Fee + $45 CEU processing fee_) Registration will open November 9, 2022
 
 [Register for CEU Credit](https://cpe.usu.edu/search/publicCourseSearchDetails.do?method=load&courseId=1015428) using CEN CRN - 16734
 
@@ -99,7 +99,7 @@ By the end of this course, students will:
     <b>Lead Instructor</b><br>
     Ecologist, <a href="https://qcnr.usu.edu/directory/bennett_stephen">Adjunct Professor</a>, <a href="https://www.anabranchsolutions.com/stephen-bennett.html">Principal<sup>2</sup></a><br>
     Office Hours:  By Appointment
-  
+</div> 
 
 </div>
 
