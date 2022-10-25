@@ -11,12 +11,12 @@ weight: 4
 This course provides an introduction to designing Low-Tech Process-Based Restoration of Riverscapes. Students design their own LTPBR restoration projects at a site of their choosing.
 
 |**Title**| Design of Low-Tech Process-Based Restoration of Riverscapes|
-|**WATS 5620**| WATS 5620|
+|**Course Number**| WATS 5623|
 |**Semester(s) Traditionally Offered**| Spring|
 |**Credits**: |1.0 Credit hours  (1.5 CEU)|
 |**Levels**: |Graduate/Undergraduate|
 |**Schedule Types**: |Hybrid Face to Face Lecture |
-|**Cross-Listed As**: |CEWA 5700 (will be WATS/CEWA 5623 in 2022) |
+|**Cross-Listed As**: |CEWA 5623 |
 
 <div align="center">
 <a class=" button hollow" href="{{ site.baseurl }}/workshops/2023/USU/"> <i class="fa fa-chevron-circle-left" aria-hidden="true"></i> <b> Back to  Spring 2023 LTPBR Courses</b>  for University Credit or Professional CEU  
@@ -32,7 +32,7 @@ This course provides an introduction to designing Low-Tech Process-Based Restora
 
 | Class                                                        | Time              | Days     | Where      | Dates                     | Instructors                                                  |
 | ------------------------------------------------------------ | ----------------- | -------- | ---------- | ------------------------- | ------------------------------------------------------------ |
-| [Desiging LTPBR]({{ site.baseurl }}/workshops/2023/USU/WATS-5623/) | 1:30 pm - 3:30 pm | Tuesdays | Zoom       | Mar 21, 28 &^ Apr 4, 2023 | [Stephen Nicholas Bennett]({{ site.baseurl }}//workshops/2020/SGI/#instruction-team) |
+| [Desiging LTPBR]({{ site.baseurl }}/workshops/2023/USU/WATS-5623/) | 1:30 pm - 3:30 pm | Tuesdays | Zoom       | Mar 21, 28 & Apr 4, 2023 | [Stephen Nicholas Bennett]({{ site.baseurl }}//workshops/2020/SGI/#instruction-team) |
 
 
 ### Course Schedule/Outline
@@ -70,7 +70,7 @@ Please register on [Banner](http://banner.usu.edu). *Note, tuition  for 1 credit
 
 [Register Here](https://cpe.usu.edu/search/publicCourseSearchDetails.do?method=load&courseId=1073964) using CEU CRN - 16794
 
-<<div align="center"><a class="button" href="https://cpe.usu.edu/search/publicCourseAdvancedSearch.do?method=doPaginatedFilter&type=subject&objectId=1018628"> <b>Module 4 - Design</b> <br> Register Now! <i class="fa fa-user-plus" aria-hidden="true"></i> </a></div>
+<div align="center"><a class="button" href="https://cpe.usu.edu/search/publicCourseAdvancedSearch.do?method=doPaginatedFilter&type=subject&objectId=1018628"> <b>Module 4 - Design</b> <br> Register Now! <i class="fa fa-user-plus" aria-hidden="true"></i> </a></div>
 
 -----------------
 ## Course Objectives
@@ -89,7 +89,7 @@ By the end of this course, students will:
 ## Instructors
 
 
-  </div>
+ 
   <div class="column column-block">
     <a href="https://www.researchgate.net/profile/Stephen_Bennett8"><img src="{{ site.baseurl }}/assets/images/people/bennett-round_orig.png"></a>
     <h4><a href="https://www.researchgate.net/profile/Stephen_Bennett8">Stephen N. Bennett<sup>1,2,3</sup></a></h4>
@@ -99,7 +99,7 @@ By the end of this course, students will:
   </div>
   
 
-</div>
+
 
 To get in touch with instructor(s), please use [Canvas](https://usu.instructure.com/courses/618129) for communication. 
 
