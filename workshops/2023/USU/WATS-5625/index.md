@@ -32,7 +32,7 @@ This course introduces Adaptive Management and how it can be applied to Low-Tech
 
 | Class                                                        | Time              | Days     | Where      | Dates        | Instructors                                                  |
 | ------------------------------------------------------------ | ----------------- | -------- | ---------- | ------------ | ------------------------------------------------------------ |
-| [Adaptive Management of LTPBR]({{ site.baseurl }}/workshops/2022/USU/WATS-5625/) | 1:30 pm - 4:15 pm | Tuesday | Hybrid F2F (Zoom and Distance Education, room TBD) | Apr 18, 25 2023 | [Nick Bouwes]({{ site.baseurl }}//workshops/2020/SGI/#instruction-team) |
+| [Adaptive Management of LTPBR]({{ site.baseurl }}/workshops/2022/USU/WATS-5625/) | 1:30 pm - 4:15 pm | Tuesday | Online via Zoom | Apr 18, 25 2023 | [Nick Bouwes]({{ site.baseurl }}//workshops/2020/SGI/#instruction-team) |
 
 This course is based on [Module 6]({{ site.baseurl }}/workshops/2020/SGI/Modules/module6.html) of the self-paced materials. 
 <div align="center">
@@ -66,9 +66,9 @@ Current USU [Tuition](https://www.usu.edu/registrar/registration/payment/) for 1
 Please register on [Banner](http://banner.usu.edu). *Note, tuition  for 1 credit varies between $721 and $2716 per credit based on undergraduate vs. graduate, in-state vs. out-of-state, and total number of credits)*
 
 ### Continuing Education Students
-**$315** for 1.5 CEUs (*$270 Course Fee + $45 CEU processing fee*) Registration will open mid-October, 2023
+**$315** for 1.5 CEUs (*$270 Course Fee + $45 CEU processing fee*) Registration opens November 9, 2023
 
-<!--- [Register Here](https://www.usu.edu/ais/ceu/register/)
+[Register Here]([https://www.usu.edu/ais/ceu/register/](https://cpe.usu.edu/search/publicCourseSearchDetails.do?method=load&courseId=1015430)) using CEU CRN - 16735
 
 <div align="center"><a class="button" href="https://www.usu.edu/ais/ceu/register/"> <b>Module 6 - Adaptive Management</b> <br> Register Now! <i class="fa fa-user-plus" aria-hidden="true"></i> </a></div> --->
 
