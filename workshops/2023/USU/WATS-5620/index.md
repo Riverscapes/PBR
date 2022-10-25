@@ -75,8 +75,8 @@ No additional Course Fee.
 Please register on [Banner](https://ssb.banner.usu.edu/zprod/twbkwbis.P_WWWLogin) for CRN: [14339](https://ssb.banner.usu.edu/zprod/bwckschd.p_disp_detail_sched?term_in=202220&crn_in=14339) . *Note, tuition  for 1 credit varies between $712.0 and $2716.94 per credit based on undergraduate vs. graduate, in-state vs. out-of-state, and total number of credits)*
 
 ### Continuing Education Students
-**$315** for 1.5 CEUs  (_$270 Course Fee + $45 CEU processing fee_) 
-Registration will open November 9, 2023
+**$315** for 1.5 CEUs  (_$270 Course Fee + $45 CEU processing fee_)  Registration will open November 9, 2022
+
 [Register for CEU Credit](https://cpe.usu.edu/search/publicCourseSearchDetails.do?method=load&courseId=1015426) CEU CRN - 16733
 
 <div align="center"><a class="button" href="https://cpe.usu.edu/search/publicCourseAdvancedSearch.do?method=doPaginatedFilter&type=subject&objectId=1018628"> <b>Module 1 - Intro</b> <br> Professionals Registraton Now! <i class="fa fa-user-plus" aria-hidden="true"></i> </a></div>
