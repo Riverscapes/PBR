@@ -25,8 +25,8 @@ This course provides an introduction to designing Low-Tech Process-Based Restora
 
 ## Schedule
 ### Spring 2023 - Design LTPBR
-- Matriculated Students: WATS 5623 <!--[ST:DES LOWTEC PRCBAS REST RIV - 12083 - WATS 6900 - 005](https://ssb.banner.usu.edu/zprod/bwckschd.p_disp_detail_sched?term_in=202120&crn_in=12083)-->
-- Non-Matriculated Students: CEWA 5623 
+- Matriculated Students: WATS 5623 
+- Professional Students: [CEWA 5623](https://cpe.usu.edu/search/publicCourseSearchDetails.do?method=load&courseId=1073964) 
 
 
 
@@ -66,7 +66,7 @@ No additional Course Fee.
 Please register on [Banner](http://banner.usu.edu). *Note, tuition  for 1 credit varies between $712 and $2716 per credit based on undergraduate vs. graduate, in-state vs. out-of-state, and total number of credits)*
 
 ### Continuing Education Students
-**$315** for 1.5 CEUs (*$270 Course Fee + $45 CEU processing fee*) Registration will open mid-October, 2023 
+**$315** for 1.5 CEUs (*$270 Course Fee + $45 CEU processing fee*) Registration will open November 9, 2022
 
 [Register Here](https://cpe.usu.edu/search/publicCourseSearchDetails.do?method=load&courseId=1073964) using CEU CRN - 16794
 
