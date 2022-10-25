@@ -66,10 +66,11 @@ No additional Course Fee.
 Please register on [Banner](http://banner.usu.edu). *Note, tuition  for 1 credit varies between $712 and $2716 per credit based on undergraduate vs. graduate, in-state vs. out-of-state, and total number of credits)*
 
 ### Continuing Education Students
-**$315** for 1.5 CEUs (*$270 Cource Fee + $45 CEU processing fee*) Registration will open mid-October 2023
-<!--[Register Here](https://www.usu.edu/ais/ceu/register/?term=202120&crns=26394,26395,26397,26398)-->
+**$315** for 1.5 CEUs (*$270 Cource Fee + $45 CEU processing fee*) Registration opens November 9, 2022
+[Register Here](https://cpe.usu.edu/search/publicCourseSearchDetails.do?method=load&courseId=1073960)
 
-<!--<div align="center"><a class="button" href="https://www.usu.edu/ais/ceu/register/?term=202120&crns=26236,26394,26395,26397,26398"> <b>Module 2 - Science & Case Studies</b> <br> Register Now! <i class="fa fa-user-plus" aria-hidden="true"></i> </a></div>-->
+<div align="center"><a class="button" href="https://cpe.usu.edu/search/publicCourseAdvancedSearch.do?method=doPaginatedFilter&type=subject&objectId=1018628
+"> <b>Module 2 - Science & Case Studies</b> <br> Register Now! <i class="fa fa-user-plus" aria-hidden="true"></i> </a></div>
 
 -----------------
 ## Course Objectives
