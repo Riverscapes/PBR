@@ -18,7 +18,7 @@ This course provides an introduction to the planning process of Low-Tech Process
 |**Credits**: |1.0 Credit hours  (1.5 CEU)|
 |**Levels**: |Graduate/Undergraduate|
 |**Schedule Types**: |Hybrid Face to Face Lecture |
-|**Cross-Listed As**: |CEWA 5700 (will be WATS/CEWA 5622 in 2022)|
+|**Cross-Listed As**: |CEWA 5622|
 
 <div align="center">
 <a class=" button hollow" href="{{ site.baseurl }}/workshops/2023/USU/"> <i class="fa fa-chevron-circle-left" aria-hidden="true"></i> <b> Back to  Spring 2023 LTPBR Courses</b>  for University Credit or Professional CEU  
@@ -27,8 +27,8 @@ This course provides an introduction to the planning process of Low-Tech Process
 
 ## Schedule
 ### Spring 2023 - Planning LTPBR
-- Matriculated Students: WATS 5623 <!--[ST:PLANLOWTEC PRCBASED REST RI - 12075 - WATS 6900 - 004](https://ssb.banner.usu.edu/zprod/bwckschd.p_disp_detail_sched?term_in=202120&crn_in=12075)-->
-- Non-Matriculated Students: CEWA 5623
+- Matriculated Students: WATS 5622 
+- Professional Students: CEWA 5622 [Register Here](https://cpe.usu.edu/search/publicCourseSearchDetails.do?method=load&courseId=1073962)
 
 
 
@@ -36,7 +36,7 @@ This course provides an introduction to the planning process of Low-Tech Process
 
 | Class                                                        | Time              | Days     | Where | Dates                  | Instructors                                                  |
 | ------------------------------------------------------------ | ----------------- | -------- | ----- | ---------------------- | ------------------------------------------------------------ |
-| [Planning LTPBR]({{ site.baseurl }}/workshops/2021/USU/WATS-5622/) | 1:30 pm - 3:30 pm | Tuesdays | Hybrid F2F (Zoom and Distance Education (room TBD) | Jan 31 & Feb 07, 14, 2023| [Stephen Nicholas Bennett]({{ site.baseurl }}//workshops/2020/SGI/#instruction-team) |
+| [Planning LTPBR]({{ site.baseurl }}/workshops/2021/USU/WATS-5622/) | 1:30 pm - 3:30 pm | Tuesdays | Online via Zoom | Jan 31 & Feb 07, 14, 2023| [Stephen Nicholas Bennett]({{ site.baseurl }}//workshops/2020/SGI/#instruction-team) |
 
 ### Course Schedule/Outline
 
@@ -66,7 +66,7 @@ No additional Course Fee.
 Please register on [Banner](http://banner.usu.edu). *Note, tuition  for 1 credit varies between $721 and $2716 per credit based on undergraduate vs. graduate, in-state vs. out-of-state, and total number of credits)*
 
 ### Continuing Education Students
-**$315** for 1.5 CEUs (*$270 Course Fee + $45 CEU processing fee*) Registration opens November 9, 2023  
+**$315** for 1.5 CEUs (*$270 Course Fee + $45 CEU processing fee*) Registration opens November 9, 2022  
 
 [Register Here](https://cpe.usu.edu/search/publicCourseSearchDetails.do?method=load&courseId=1073962) using CEU CRN - 16792
 
@@ -101,7 +101,7 @@ By the end of this course, students will:
 
 
 
-</div>
+
 
 To get in touch with instructor(s), please use [Canvas](https://usu.instructure.com/courses/618192) for communication. 
 
