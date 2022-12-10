@@ -4,10 +4,9 @@ weight: 1
 ---
 ![image]({{ site.baseurl }}/assets/images/workshops/2022/BLM_LTPBR_Workshop_Aug2022_SocialMedia_Tiny.png)
 
-
 **Sponsored by:**<br>
 <a href="https://www.blm.gov/montana-dakotas"><img class="float-left" src="{{ site.baseurl }}/assets/images/sponsors/blm.png"></a> 
-This workshop will be **August 9-11, 2022**. It will be a mix of field and classroom instruction. The BLM Miles City Field Office will host the event.
+This workshop was held **August 9-11, 2022**. It was a mix of field and classroom instruction. The BLM Miles City Field Office hosted the event.
 
 <a target="_blank" href="https://calendar.google.com/event?action=TEMPLATE&amp;tmeid=MGI3Z2Q5NW12cXJmbWl1bzQyYW9xYmh1cGQgam9lLm0ud2hlYXRvbkBt&amp;tmsrc=joe.m.wheaton%40gmail.com"><img border="0" src="https://www.google.com/calendar/images/ext/gc_button1_en.gif"></a>
 
@@ -17,7 +16,9 @@ This workshop will be **August 9-11, 2022**. It will be a mix of field and class
 
 # Overview
 
-This workshop was solicited by BLM's Alden Shallcross, the State Lead - Montana/Dakotas Aquatic Habitat Management Program. The workshop was made possible thanks to the generous support of the [BLM Montana/Dakotas](https://www.blm.gov/montana-dakotas), and a grant  to [Utah State University's Restoration Consortium](http://restoration.usu.edu/) and [Joe Wheaton's](http://joewheaton.org/) [ET-AL lab](http://etal.joewheaton.org/).  The workshop content grew out of over 20 [LTPBR workshops]({{ site.baseurl }}/workshops/) taught by  Utah State University and the online modules were developed in  [2020]({{ site.baseurl }}/workshops/2020/SGI/) for an NRCS Working Lands for Wildlife workshop series. 
+<a href="https://s3.us-west-2.amazonaws.com/etalweb.joewheaton.org/Workshops/LTPBR/2022/BLM_Story_0f_The_Week_LTPBR_Workshop_Oct2022.pdf"><img  class="float-right" src="{{ site.baseurl }}/assets/images/workshops/2022/BLM_Story.png"></a> This workshop was solicited by BLM's Alden Shallcross, the State Lead - Montana/Dakotas Aquatic Habitat Management Program. The workshop was made possible thanks to the generous support of the [BLM Montana/Dakotas](https://www.blm.gov/montana-dakotas), and a grant  to [Utah State University's Restoration Consortium](http://restoration.usu.edu/) and [Joe Wheaton's](http://joewheaton.org/) [ET-AL lab](http://etal.joewheaton.org/).  The workshop content grew out of over 20 [LTPBR workshops]({{ site.baseurl }}/workshops/) taught by  Utah State University and the online modules were developed in  [2020]({{ site.baseurl }}/workshops/2020/SGI/) for an NRCS Working Lands for Wildlife workshop series. 
+
+See the ["Teaching While Doing" summary](https://s3.us-west-2.amazonaws.com/etalweb.joewheaton.org/Workshops/LTPBR/2022/BLM_Story_0f_The_Week_LTPBR_Workshop_Oct2022.pdf) put together by our amazing local Miles City Field Office  workshop hosts, including Christina Stuart, Christopher Morris and Dan Fox, as well as State Aquatics Lead, Alden Shallcross. [**→**](https://s3.us-west-2.amazonaws.com/etalweb.joewheaton.org/Workshops/LTPBR/2022/BLM_Story_0f_The_Week_LTPBR_Workshop_Oct2022.pdf)
 
 
 ## Workshop Description
