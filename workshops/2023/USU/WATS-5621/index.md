@@ -26,7 +26,7 @@ Students explore the science and case studies that encouraged Low-Tech Process-B
 
 ## Schedule
 ### Spring 2023 - Science of LTPBR
-- Matriculated Students: WATS 5621 <!--[ST:SCI&CASE STUD LOWTECH RIV - 12054 - WATS 6900 - 003](https://ssb.banner.usu.edu/zprod/bwckschd.p_disp_detail_sched?term_in=202120&crn_in=12054)-->
+- Matriculated Students: SCI&CASE STUD LOWTECH RIV - 16918 - WATS 6621
 - Non-Matriculated Students: CEWA 5621
 
 
@@ -34,13 +34,13 @@ Students explore the science and case studies that encouraged Low-Tech Process-B
 
 | Class                                                        | Time              | Days     | Where | Dates                    | Instructors                                                  |
 | ------------------------------------------------------------ | ----------------- | -------- | ----- | ------------------------ | ------------------------------------------------------------ |
-| [LTPBR Science & Case Studies]({{ site.baseurl }}/workshops/2021/USU/WATS-5621/) | 1:30 pm - 3:30 pm | Tuesdays | Zoom  | Feb 21, 28 & Mar 14, 2023 | [Nicolaas W Bouwes (P), Stephen Nicholas Bennett]({{ site.baseurl }}//workshops/2020/SGI/#instruction-team) |
+| [LTPBR Science & Case Studies]({{ site.baseurl }}/workshops/2021/USU/WATS-5621/) | 1:30 pm - 3:30 pm | Tuesdays | Zoom ([link in Canvas](https://usu.instructure.com/courses/727630)  | Feb 21, 28 & Mar 14, 2023 | [Nicolaas W Bouwes (P), Stephen Nicholas Bennett]({{ site.baseurl }}//workshops/2020/SGI/#instruction-team) |
 
 ### Course Schedule/Outline
 
 Outline dates and assignments will be available on Canvas:
-<!---<div align="center">
-<a class="hollow button" href="https://usu.instructure.com/courses/639115"><img src="{{ site.baseurl }}/assets/images/canvas_logo.png">  <b>Spring 2021 Canvas</b><br> WATS 6900 - §3 - Science & Case Studies of LTPBR Course Assignments</a></div>--->
+<div align="center">
+<a class="hollow button" href="https://usu.instructure.com/courses/727630"><img src="{{ site.baseurl }}/assets/images/canvas_logo.png">  <b>Spring 2021 Canvas</b><br> WATS 6900 - §3 - Science & Case Studies of LTPBR Course Assignments</a></div>
 
 Students are expected to watch pre-recorded lectures and complete the reading assignments prior to our class meetings, where those topics will be discussed and exercises completed as a group. 
 
@@ -114,9 +114,7 @@ Recognize what outstanding knowledge gaps exist within the science.
 
 </div>
 
-To get in touch with instructor(s), please use [Canvas](https://usu.instructure.com/courses/618129) for communication. 
-
-**Group Office Hours** (Wednesday 12:00 - 13:00 via [Zoom](https://usu-edu.zoom.us/my/h20joe?pwd=eFNjSllqT3VDNTRoLzZ3Sk9IM1F6UT09) <i class="fa fa-search" aria-hidden="true"></i>
+**Group Office Hours** By Appointment
 
 
 ### Instructor Affiliations
@@ -148,7 +146,7 @@ The course is organized into a series of modules or topics. Slides (as PDFs), re
 All of course lecture slides and materials are linked from the Canvas page by module and assignment.
 
 <div align="center">
-<a class="hollow button" href="https://usu.instructure.com/courses/618129"><img src="{{ site.baseurl }}/assets/images/canvas_logo.png">  <b>Spring 2021 Canvas</b><br> WATS 6900 - Intro to LTPBR Course Assignments</a>
+<a class="hollow button" href="https://usu.instructure.com/courses/727630"><img src="{{ site.baseurl }}/assets/images/canvas_logo.png">  <b>Spring 2021 Canvas</b><br> WATS 6900 - Intro to LTPBR Course Assignments</a>
 
 
 
