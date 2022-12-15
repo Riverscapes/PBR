@@ -30,7 +30,7 @@ This course provides an introduction to the practice of Low-Tech Process-Based R
 
 | Class                                                        | Time              | Days     | Where                     | Dates                  | Instructor                 |
 | ------------------------------------------------------------ | ----------------- | -------- | ------------------------- | ---------------------- | -------------------------- |
-| [Intro to LTPBR]({{ site.baseurl }}/workshops/2023/USU/WATS-5620/) | 1:30 pm - 3:30 pm | Tuesdays | Hybrid F2F ([Zoom]<!---(https://usu-edu.zoom.us/j/88041118826?pwd=d2JqUE1NQWlrWnk0YVExVTgxdHN3dz09)---> and ([Distance Education](https://www.usu.edu/map/index.cfm?id=540)), room TBD) | Jan 10, 17 & 24,  2023 | Stephen Bennett (P) |
+| [Intro to LTPBR]({{ site.baseurl }}/workshops/2023/USU/WATS-5620/) | 1:30 pm - 3:30 pm | Tuesdays | Zoom ([link through canvas](https://usu.instructure.com/courses/727011)) | Jan 10, 17 & 24,  2023 | Stephen Bennett (P) |
 
 <!---We will use the same recurring [Zoom Meeting Link](https://usu-edu.zoom.us/j/88041118826?pwd=d2JqUE1NQWlrWnk0YVExVTgxdHN3dz09):
 <div align="center">
@@ -42,18 +42,11 @@ This course provides an introduction to the practice of Low-Tech Process-Based R
 
 ### Course Schedule/Outline
 
-Outline dates and assignments will be available on Canvas:
-<!---<div align="center">
-<a class="hollow button" href="https://usu.instructure.com/courses/700764/assignments"><img src="{{ site.baseurl }}/assets/images/canvas_logo.png">  <b>Spring 2023 Canvas</b><br> WATS 5620 - Intro to LTPBR Course Assignments</a></div>--->
+Outline dates, assignments, and course zoom links are available on Canvas:
+<div align="center">
+<a class="hollow button" href="https://usu.instructure.com/courses/727011"><img src="{{ site.baseurl }}/assets/images/canvas_logo.png">  <b>Spring 2023 Canvas</b><br> WATS 5620 - Intro to LTPBR Course Assignments</a></div>
 
 Students are expected to watch pre-recorded lectures and complete the reading assignments prior to our class meetings, where those topics will be discussed and exercises completed as a group. 
-
-| Type     | Time              | Days | Where                         | Date Range                  | Schedule Type                | Instructors                 |
-|----------|-------------------|------|-------------------------------|-----------------------------|------------------------------|-----------------------------|
-| Arranged | TBA               |      | Online-Logan                  | Jan 09, 2023 - May 03, 2023 | Blended Face to Face Lecture | Stephen Bennett (P)# |
-| Class    | 1:30 pm - 3:30 pm | T    | Room TBD        | Jan 10, 2023 - Jan 11, 2023 | Blended Face to Face Lecture | Stephen Bennett (P)# |
-| Class    | 1:30 pm - 3:30 pm | T    | Room TBD        | Jan 17, 2023 - Jan 18, 2023 | Blended Face to Face Lecture | Stephen Bennett (P)# |
-| Class    | 1:30 pm - 3:30 pm | T    | Room TBD        | Jan 24, 2023 - Jan 25, 2023 | Blended Face to Face Lecture | Stephen Bennett (P)# |
 
 This class meets three times for these discussion sessions:
 
