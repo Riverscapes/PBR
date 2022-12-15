@@ -25,7 +25,7 @@ This course provides an introduction to the practice of Low-Tech Process-Based R
 ## Schedule
 ### Spring 2023 - Intro to LTPBR
 ## Intro to LTPBR
-- Matriculated Students: [INTRO LOWTECH PROC REST RIV - WATS 5620]<!---(https://ssb.banner.usu.edu/zprod/bwckschd.p_disp_detail_sched?term_in=202220&crn_in=14339)--->
+- Matriculated Students: [INTRO LOWTECH PROC REST RIV - WATS 5620](https://ss.banner.usu.edu/StudentRegistrationSsb/ssb/classSearch/classSearch)
 - Non-Matriculated Students: [CEWA 5620](https://cpe.usu.edu/search/publicCourseSearchDetails.do?method=load&courseId=1015426)
 
 | Class                                                        | Time              | Days     | Where                     | Dates                  | Instructor                 |
