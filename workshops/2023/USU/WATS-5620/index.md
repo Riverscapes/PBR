@@ -30,11 +30,11 @@ This course provides an introduction to the practice of Low-Tech Process-Based R
 
 | Class                                                        | Time              | Days     | Where                     | Dates                  | Instructor                 |
 | ------------------------------------------------------------ | ----------------- | -------- | ------------------------- | ---------------------- | -------------------------- |
-| [Intro to LTPBR]({{ site.baseurl }}/workshops/2023/USU/WATS-5620/) | 1:30 pm - 3:30 pm | Tuesdays | Zoom ([link through canvas](https://usu.instructure.com/courses/727011)) | Jan 10, 17 & 24,  2023 | Stephen Bennett (P) |
+| [Intro to LTPBR]({{ site.baseurl }}/workshops/2023/USU/WATS-5620/) | 1:30 pm - 3:30 pm | Tuesdays | Zoom | Jan 10, 17 & 24,  2023 | Stephen Bennett (P) |
 
-<!---We will use the same recurring [Zoom Meeting Link](https://usu-edu.zoom.us/j/88041118826?pwd=d2JqUE1NQWlrWnk0YVExVTgxdHN3dz09):
+We will use the same recurring [Zoom Meeting Link](https://usu-edu.zoom.us/j/88147342464?pwd=ZVpMdVNYS2U2L2U5QnZBQ1NJSElhUT09):
 <div align="center">
-<a class="hollow button" href="https://usu-edu.zoom.us/j/88041118826?pwd=d2JqUE1NQWlrWnk0YVExVTgxdHN3dz09"><img src="{{ site.baseurl }}/assets/images/zoom_icon_32.png">  <b>Zoom Meeting Link</b><br>Tuesdays</a></div>--->
+<a class="hollow button" href="https://usu-edu.zoom.us/j/88147342464?pwd=ZVpMdVNYS2U2L2U5QnZBQ1NJSElhUT09"><img src="{{ site.baseurl }}/assets/images/zoom_icon_32.png">  <b>Zoom Meeting Link</b><br>Tuesdays</a></div>
 
 
 
@@ -52,9 +52,9 @@ This class meets three times for these discussion sessions:
 
 | Meeting Date | Modules | Topics                                                   |
 |--------------|---------|----------------------------------------------------------|
-|    1/10/2023 | [1.1](https://usu.instructure.com/courses/700764/assignments/3579131?module_item_id=4785107)   | [Background & Scope of Degradation](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module1#b-background--why-were-here) / [Build your First BDA](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module1#f-what-you-came-for---your-first-bda) |
-|    1/17/2023 | [1.2](https://usu.instructure.com/courses/700764/assignments/3579132?module_item_id=4785117)   | [Intro to Low-Tech Tools](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module1#g-broad-umbrella-of-low-tech-restoration) & [Guiding Principles](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module1#j-principles)            |
-|     1/24/2023 | [1.3](https://usu.instructure.com/courses/700764/assignments/3579133?module_item_id=4785125)   | [Partnering with Beaver](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module1#k-beaver-history--biology) & [Synthesis](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module1#n-wrap-up-and-preview-of-remaining-modules)                       |
+|    1/10/2023 | 1.1  | [Background & Scope of Degradation](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module1#b-background--why-were-here) / [Build your First BDA](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module1#f-what-you-came-for---your-first-bda) |
+|    1/17/2023 | 1.2  | [Intro to Low-Tech Tools](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module1#g-broad-umbrella-of-low-tech-restoration) & [Guiding Principles](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module1#j-principles)            |
+|     1/24/2023 | 1.3  | [Partnering with Beaver](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module1#k-beaver-history--biology) & [Synthesis](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module1#n-wrap-up-and-preview-of-remaining-modules)                       |
 
 This course is based on [Module 1]({{ site.baseurl }}/workshops/2020/SGI/Modules/module1.html) of the self-paced materials. 
 <div align="center">
@@ -68,11 +68,11 @@ No additional Course Fee.
 Please register on [Banner](https://ssb.banner.usu.edu/zprod/twbkwbis.P_WWWLogin) for CRN: [14339](https://ssb.banner.usu.edu/zprod/bwckschd.p_disp_detail_sched?term_in=202220&crn_in=14339) . *Note, tuition  for 1 credit varies between $712.0 and $2716.94 per credit based on undergraduate vs. graduate, in-state vs. out-of-state, and total number of credits)*
 
 ### Continuing Education Students
-**$315** for 1.5 CEUs  (_$270 Course Fee + $45 CEU processing fee_)  Registration will open November 9, 2022
+**$315** for 1.5 CEUs  (_$270 Course Fee + $45 CEU processing fee_)  Registration is now closed for the 2023 course
 
-[Register for CEU Credit](https://cpe.usu.edu/search/publicCourseSearchDetails.do?method=load&courseId=1015426) CEU CRN - 16733
+<!---[Register for CEU Credit](https://cpe.usu.edu/search/publicCourseSearchDetails.do?method=load&courseId=1015426) CEU CRN - 16733
 
-<div align="center"><a class="button" href="https://cpe.usu.edu/search/publicCourseAdvancedSearch.do?method=doPaginatedFilter&type=subject&objectId=1018628"> <b>Module 1 - Intro</b> <br> Professionals Registraton Now! <i class="fa fa-user-plus" aria-hidden="true"></i> </a></div>
+<div align="center"><a class="button" href="https://cpe.usu.edu/search/publicCourseAdvancedSearch.do?method=doPaginatedFilter&type=subject&objectId=1018628"> <b>Module 1 - Intro</b> <br> Professionals Registraton Now! <i class="fa fa-user-plus" aria-hidden="true"></i> </a></div>--->
 
 -----------------
 ## Course Objectives
@@ -112,7 +112,7 @@ By the end of this course, students will:
 
 To get in touch with instructor(s), please use [Canvas](https://usu.instructure.com/courses/700764) for communication. 
 
-**Group Office Hours** Wednesday 12:00 - 1:00 via [Zoom](https://usu-edu.zoom.us/my/h20joe?pwd=eFNjSllqT3VDNTRoLzZ3Sk9IM1F6UT09) 
+<!---**Group Office Hours** Wednesday 12:00 - 1:00 via [Zoom](https://usu-edu.zoom.us/my/h20joe?pwd=eFNjSllqT3VDNTRoLzZ3Sk9IM1F6UT09)---> 
 
 
 ### Instructor Affiliations
@@ -144,7 +144,7 @@ The course is organized into a series of modules or topics. Slides (as PDFs), re
 All of course lecture slides and materials are linked from the Canvas page by module and assignment.
 
 <div align="center">
-<a class="hollow button" href="https://usu.instructure.com/courses/700764"><img src="{{ site.baseurl }}/assets/images/canvas_logo.png">  <b>Spring 2021 Canvas</b><br> WATS 5620 - Intro to LTPBR Course Assignments</a>
+<a class="hollow button" href="https://usu.instructure.com/courses/727011"><img src="{{ site.baseurl }}/assets/images/canvas_logo.png">  <b>Spring 2023 Canvas</b><br> WATS 5620 - Intro to LTPBR Course Assignments</a>
 
 <a class="hollow button" href="{{ site.baseurl }}/workshops/2020/SGI/Modules/module1"><img src="{{ site.baseurl }}/assets/images/diagrams/presentation.png"> <b>Module  - Intro Resources</b> <br> Slides  <i class="fa fa-file-pdf-o" aria-hidden="true"></i>, Recorded Lectures <i class="fa fa-youtube-play" aria-hidden="true"></i> and Exercises </a>
 
