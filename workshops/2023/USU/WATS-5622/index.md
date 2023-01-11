@@ -27,8 +27,8 @@ This course provides an introduction to the planning process of Low-Tech Process
 
 ## Schedule
 ### Spring 2023 - Planning LTPBR
-- Matriculated Students: WATS 5622 
-- Professional Students: CEWA 5622 [Register Here](https://cpe.usu.edu/search/publicCourseSearchDetails.do?method=load&courseId=1073962)
+- Matriculated Students: Planning LTPBR - 16925 - WATS 5622 
+- Professional Students: CEWA 5622 
 
 
 
@@ -36,13 +36,13 @@ This course provides an introduction to the planning process of Low-Tech Process
 
 | Class                                                        | Time              | Days     | Where | Dates                  | Instructors                                                  |
 | ------------------------------------------------------------ | ----------------- | -------- | ----- | ---------------------- | ------------------------------------------------------------ |
-| [Planning LTPBR]({{ site.baseurl }}/workshops/2021/USU/WATS-5622/) | 1:30 pm - 3:30 pm | Tuesdays | Online via Zoom | Jan 31 & Feb 07, 14, 2023| [Stephen Nicholas Bennett]({{ site.baseurl }}//workshops/2020/SGI/#instruction-team) |
+| [Planning LTPBR]({{ site.baseurl }}/workshops/2021/USU/WATS-5622/) | 1:30 pm - 3:30 pm | Tuesdays | [Online via Zoom](https://usu-edu.zoom.us/s/85735561749) | Jan 31 & Feb 07, 14, 2023| [Stephen Nicholas Bennett]({{ site.baseurl }}//workshops/2020/SGI/#instruction-team) |
 
 ### Course Schedule/Outline
 
 Outline dates and assignments will be available on Canvas:
-<!--<div align="center">
-<a class="hollow button" href="https://usu.instructure.com/courses/618192"><img src="{{ site.baseurl }}/assets/images/canvas_logo.png">  <b>Spring 2021 Canvas</b><br> WATS 6900  §4 - Planning LTPBR Course Assignments</a></div>-->
+<div align="center">
+<a class="hollow button" href="https://usu.instructure.com/courses/727631"><img src="{{ site.baseurl }}/assets/images/canvas_logo.png">  <b>Spring 2023 Canvas</b><br> WATS 5622 - Planning LTPBR Course Assignments</a></div>
 
 Students are expected to watch pre-recorded lectures and complete the reading assignments prior to our class meetings, where those topics will be discussed and exercises completed as a group. 
 
@@ -50,9 +50,9 @@ This class meets three times for these discussion sessions. Students will take o
 
 | Meeting Date | Modules | Topics                                                   |
 |--------------|---------|----------------------------------------------------------|
-|    1/31/2023 | [3.1](https://usu.instructure.com/courses/618192/modules/732290) & [3.2](https://usu.instructure.com/courses/618192/modules/732291)   | [Intro to Planning Process](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module3#b-overview-of-planning--nrcs-conservation-planning-process) ; [Reading Riverscapes](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module3#c-valley-bottom-mapping--virtual-field-trip) |
-|    2/02/2023 | [3.3](https://usu.instructure.com/courses/618192/modules/732292)   | [Planning Phase](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module3#e-risk-assessment-condition-assessment--recovery-potential)           |
-|     2/14/2023 | [3.4](https://usu.instructure.com/courses/618192/modules/732293)   | Planning Applied to your own Riverscape                       |
+|    1/31/2023 | 3.1 & 3.2   | [Intro to Planning Process](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module3#b-overview-of-planning--nrcs-conservation-planning-process) ; [Reading Riverscapes](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module3#c-valley-bottom-mapping--virtual-field-trip) |
+|    2/02/2023 | 3.3  | [Planning Phase](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module3#e-risk-assessment-condition-assessment--recovery-potential)           |
+|     2/14/2023 | 3.4  | Planning Applied to your own Riverscape                       |
 
 This course is based on [Module 3]({{ site.baseurl }}/workshops/2020/SGI/Modules/module3.html) of the self-paced materials. 
 <div align="center">
@@ -66,11 +66,9 @@ No additional Course Fee.
 Please register on [Banner](http://banner.usu.edu). *Note, tuition  for 1 credit varies between $721 and $2716 per credit based on undergraduate vs. graduate, in-state vs. out-of-state, and total number of credits)*
 
 ### Continuing Education Students
-**$315** for 1.5 CEUs (*$270 Course Fee + $45 CEU processing fee*) Registration opens November 9, 2022  
+**$315** for 1.5 CEUs (*$270 Course Fee + $45 CEU processing fee*) Registration is now closed for 2023
 
-[Register Here](https://cpe.usu.edu/search/publicCourseSearchDetails.do?method=load&courseId=1073962) using CEU CRN - 16792
-
-<div align="center"><a class="button" href="https://cpe.usu.edu/search/publicCourseAdvancedSearch.do?method=doPaginatedFilter&type=subject&objectId=1018628"> <b>Module 3 - Planning</b> <br> Register Now! <i class="fa fa-user-plus" aria-hidden="true"></i> </a></div>
+<!---<div align="center"><a class="button" href="https://cpe.usu.edu/search/publicCourseAdvancedSearch.do?method=doPaginatedFilter&type=subject&objectId=1018628"> <b>Module 3 - Planning</b> <br> Register Now! <i class="fa fa-user-plus" aria-hidden="true"></i> </a></div>--->
 
 -----------------
 ## Course Objectives
@@ -103,9 +101,9 @@ By the end of this course, students will:
 
 
 
-To get in touch with instructor(s), please use [Canvas](https://usu.instructure.com/courses/618192) for communication. 
+<!---To get in touch with instructor(s), please use [Canvas](https://usu.instructure.com/courses/618192) for communication. --->
 
-**Group Office Hours** (Wednesday 12:00 - 13:00 via [Zoom](https://usu-edu.zoom.us/my/h20joe?pwd=eFNjSllqT3VDNTRoLzZ3Sk9IM1F6UT09) <i class="fa fa-search" aria-hidden="true"></i>
+**Group Office Hours**: By appointment <!--- (Wednesday 12:00 - 13:00 via [Zoom](https://usu-edu.zoom.us/my/h20joe?pwd=eFNjSllqT3VDNTRoLzZ3Sk9IM1F6UT09) <i class="fa fa-search" aria-hidden="true"></i>--->
 
 
 ### Instructor Affiliations
@@ -137,7 +135,7 @@ The course is organized into a series of modules or topics. Slides (as PDFs), re
 All of course lecture slides and materials are linked from the Canvas page by module and assignment.
 
 <div align="center">
-<a class="hollow button" href="https://usu.instructure.com/courses/618192"><img src="{{ site.baseurl }}/assets/images/canvas_logo.png">  <b>Spring 2021 Canvas</b><br> WATS 6900 - Intro to LTPBR Course Assignments</a>
+<a class="hollow button" href="https://usu.instructure.com/courses/727631"><img src="{{ site.baseurl }}/assets/images/canvas_logo.png">  <b>Spring 2023 Canvas</b><br> WATS 5622 - Planning of LTPBR Course Modules</a>
 
 <a class="hollow button" href="{{ site.baseurl }}/workshops/2020/SGI/Modules/module3"><img src="{{ site.baseurl }}/assets/images/diagrams/presentation.png"> <b>Module 3 - Planning</b> <br> Slides  <i class="fa fa-file-pdf-o" aria-hidden="true"></i>, Recorded Lectures <i class="fa fa-youtube-play" aria-hidden="true"></i> and Exercises </a>
 
