@@ -25,8 +25,8 @@ This course introduces Adaptive Management and how it can be applied to Low-Tech
 
 ## Schedule
 ### Spring 2023 - Adaptive Management of LTPBR
-- Matriculated Students: WATS 5625
-- Non-Matriculated Students: CEWA 5625 [Register Here](https://cpe.usu.edu/search/publicCourseSearchDetails.do?method=load&courseId=1015430)
+<!--- - Matriculated Students: WATS 5625
+- Non-Matriculated Students: CEWA 5625 [Register Here](https://cpe.usu.edu/search/publicCourseSearchDetails.do?method=load&courseId=1015430) --->
 
 
 
@@ -66,11 +66,11 @@ Current USU Tuition for 1 credit. No course fee.
 Please register on [Banner](http://banner.usu.edu). *Note, tuition  for 1 credit varies between $721 and $2716 per credit based on undergraduate vs. graduate, in-state vs. out-of-state, and total number of credits)*
 
 ### Continuing Education Students
-**$315** for 1.5 CEUs (*$270 Course Fee + $45 CEU processing fee*) Registration opens November 9, 2022
+**$315** for 1.5 CEUs (*$270 Course Fee + $45 CEU processing fee*) Registration is closed for 2023
 
-[Register Here]([https://www.usu.edu/ais/ceu/register/](https://cpe.usu.edu/search/publicCourseSearchDetails.do?method=load&courseId=1015430)) using CEU CRN - 16735
+<!--- [Register Here]([https://www.usu.edu/ais/ceu/register/](https://cpe.usu.edu/search/publicCourseSearchDetails.do?method=load&courseId=1015430)) using CEU CRN - 16735
 
-<div align="center"><a class="button" href="https://www.usu.edu/ais/ceu/register/"> <b>Module 6 - Adaptive Management</b> <br> Register Now! <i class="fa fa-user-plus" aria-hidden="true"></i> </a></div> 
+<div align="center"><a class="button" href="https://www.usu.edu/ais/ceu/register/"> <b>Module 6 - Adaptive Management</b> <br> Register Now! <i class="fa fa-user-plus" aria-hidden="true"></i> </a></div> --->
 
 
 -----------------
@@ -141,8 +141,9 @@ The course is organized into a series of modules or topics. Slides (as PDFs), re
 
 All of course lecture slides and materials are linked from the Canvas page by module and assignment.
 
-<div align="center">
-<a class="hollow button" href="https://usu.instructure.com/700765"><img src="{{ site.baseurl }}/assets/images/canvas_logo.png">  <b>Spring 2022 Canvas</b><br> WATS 5625 - Adaptive Management of LTPBR Course Assignments</a>
+<!--- NEED CANVAS LINK FROM NICK --->
+<!--- <div align="center">
+<a class="hollow button" href="https://usu.instructure.com/700765"><img src="{{ site.baseurl }}/assets/images/canvas_logo.png">  <b>Spring 2023 Canvas</b><br> WATS 5625 - Adaptive Management of LTPBR Course Assignments</a> --->
 
 
 <a class="hollow button" href="{{ site.baseurl }}/workshops/2020/SGI/Modules/module6"><img src="{{ site.baseurl }}/assets/images/diagrams/presentation.png"> <b>Module 6 - Implementation</b> <br> Slides  <i class="fa fa-file-pdf-o" aria-hidden="true"></i>, Recorded Lectures <i class="fa fa-youtube-play" aria-hidden="true"></i> and Exercises </a>
