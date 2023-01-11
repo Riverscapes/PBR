@@ -27,21 +27,21 @@ This course introduces Low-Tech Process-Based Restoration of Riverscapes impleme
 
 ## Schedule
 ### Spring 2021 - Implementation of LTPBR
-- Matriculated Students: WATS 5624
-- Professional Students: CEWA 5624  [Register Here](https://cpe.usu.edu/search/publicCourseSearchDetails.do?method=load&courseId=1015428)
+<!--- - Matriculated Students: WATS 5624
+- Professional Students: CEWA 5624  [Register Here](https://cpe.usu.edu/search/publicCourseSearchDetails.do?method=load&courseId=1015428) --->
 
 
 
 | Class                                                        | Time              | Days     | Where      | Dates        | Instructors                                                  |
 | ------------------------------------------------------------ | ----------------- | -------- | ---------- | ------------ | ------------------------------------------------------------ |
-| [Implementing LTPBR]({{ site.baseurl }}/workshops/2022/USU/WATS-5624/) | 1:30 pm - 3:30 pm | Tuesday  | via Zoom | Apr 11, 2023 | [Stephen Nicholas Bennett]({{ site.baseurl }}//workshops/2020/SGI/#instruction-team) |
+| [Implementing LTPBR]({{ site.baseurl }}/workshops/2022/USU/WATS-5624/) | 1:30 pm - 3:30 pm | Tuesday  | [via Zoom](https://usu-edu.zoom.us/s/85735561749) | Apr 11, 2023 | [Stephen Nicholas Bennett]({{ site.baseurl }}//workshops/2020/SGI/#instruction-team) |
 | [Implementing LTPBR]({{ site.baseurl }}/workshops/2022/USU/WATS-5624/) | 7:30 am - 5:30 pm | Saturday | Field Trip | Apr 15, 2023 | [Stephen Nicholas Bennett]({{ site.baseurl }}//workshops/2020/SGI/#instruction-team) |
 
 ### Course Schedule/Outline
 
 Outline dates and assignments will be available on Canvas:
-<!--<div align="center">
-<a class="hollow button" href="https://usu.instructure.com/courses/618129"><img src="{{ site.baseurl }}/assets/images/canvas_logo.png">  <b>Spring 2021 Canvas</b><br> WATS 5624 - Implementation Course Assignments</a></div>-->
+<div align="center">
+<a class="hollow button" href="https://usu.instructure.com/courses/727012"><img src="{{ site.baseurl }}/assets/images/canvas_logo.png">  <b>Spring 2023 Canvas</b><br> WATS 5624 - Implementation Course Assignments</a></div>
 
 Students are expected to watch pre-recorded lectures and complete the reading assignments prior to our class meeting, where those topics will be discussed and exercises completed as a group. Both that session and the Saturday field trip are mandatory attendance. 
 
@@ -49,7 +49,7 @@ This class meets once for a discussion session (remotely) and once in person for
 
 | Meeting Date | Modules     | Topics                                                       |
 | ------------ | ----------- | ------------------------------------------------------------ |
-| 4/11/2023    | [5.2](), [5.3](), [5.4]() & [5.5]() | [Overview](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module5#b-low-tech-implementation-overview); [Consultation & Permitting](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module5#c-consultation--permitting); [Logistics, Equipment & Safety](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module5#d-logistics-equipment--safety), [Construction of PALS & BDAs](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module5#e-construction-of-pals--bdas) |
+| 4/11/2023    | 5.2, 5.3, 5.4 & 5.5 | [Overview](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module5#b-low-tech-implementation-overview); [Consultation & Permitting](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module5#c-consultation--permitting); [Logistics, Equipment & Safety](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module5#d-logistics-equipment--safety), [Construction of PALS & BDAs](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module5#e-construction-of-pals--bdas) |
 | 4/15/2023    | 5.6           | Field Day (Saturday) - Constructing an LTPBR Project                    |
 
 
@@ -63,15 +63,15 @@ This course is based on [Module 5]({{ site.baseurl }}/workshops/2020/SGI/Modules
 ### Matriculated Students
 Current USU [Tuition](https://www.usu.edu/registrar/registration/payment/) for 1 credit. 
 $100 Course Fee for field trip (construction supplies, equipment, travel, safety equipment, etc.). 
-Please register on Banner using  [CNR 14340](https://ssb.banner.usu.edu/zprod/bwckschd.p_disp_detail_sched?term_in=202220&crn_in=14340). *Note, tuition  for 1 credit varies between $712 and $2716 per credit based on undergraduate vs. graduate, in-state vs. out-of-state, and total number of credits)*
+*Note, tuition  for 1 credit varies between $712 and $2716 per credit based on undergraduate vs. graduate, in-state vs. out-of-state, and total number of credits)*
 
 ### Continuing Education Students
-**$415** for 1.5 CEUs  (_$370 Course Fee + $45 CEU processing fee_) Registration will open November 9, 2022
+**$415** for 1.5 CEUs  (_$370 Course Fee + $45 CEU processing fee_) Registration is close for 2023
 
-[Register for CEU Credit](https://cpe.usu.edu/search/publicCourseSearchDetails.do?method=load&courseId=1015428) using CEN CRN - 16734
+<!---[Register for CEU Credit](https://cpe.usu.edu/search/publicCourseSearchDetails.do?method=load&courseId=1015428) using CEN CRN - 16734
 
 
-<div align="center"><a class="button" href="https://www.usu.edu/ais/ceu/register/"> <b>Module 5 - Implementation</b> <br> Professionals Register Now! <i class="fa fa-user-plus" aria-hidden="true"></i> </a></div>
+<div align="center"><a class="button" href="https://www.usu.edu/ais/ceu/register/"> <b>Module 5 - Implementation</b> <br> Professionals Register Now! <i class="fa fa-user-plus" aria-hidden="true"></i> </a></div>--->
 
 
 -----------------
@@ -105,7 +105,7 @@ By the end of this course, students will:
 
 To get in touch with instructor(s), please use [Canvas](https://usu.instructure.com/courses/618129) for communication. 
 
-**Group Office Hours** (Wednesday 12:00 - 13:00 via [Zoom](https://usu-edu.zoom.us/my/h20joe?pwd=eFNjSllqT3VDNTRoLzZ3Sk9IM1F6UT09) <i class="fa fa-search" aria-hidden="true"></i>
+<!---**Group Office Hours** (Wednesday 12:00 - 13:00 via [Zoom](https://usu-edu.zoom.us/my/h20joe?pwd=eFNjSllqT3VDNTRoLzZ3Sk9IM1F6UT09) <i class="fa fa-search" aria-hidden="true"></i>--->
 
 
 ### Instructor Affiliations
@@ -138,7 +138,7 @@ The course is organized into a series of modules or topics. Slides (as PDFs), re
 All of course lecture slides and materials are linked from the Canvas page by module and assignment.
 
 <div align="center">
-<a class="hollow button" href="https://usu.instructure.com/"><img src="{{ site.baseurl }}/assets/images/canvas_logo.png">  <b>Spring 2021 Canvas</b><br> WATS 5624 - Implementation of LTPBR Course Assignments</a>
+<a class="hollow button" href="https://usu.instructure.com/courses/727012"><img src="{{ site.baseurl }}/assets/images/canvas_logo.png">  <b>Spring 2023 Canvas</b><br> WATS 5624 - Implementation of LTPBR Course Assignments</a>
 
 
 <a class="hollow button" href="{{ site.baseurl }}/workshops/2020/SGI/Modules/module5"><img src="{{ site.baseurl }}/assets/images/diagrams/presentation.png"> <b>Module 5 - Implementation</b> <br> Slides  <i class="fa fa-file-pdf-o" aria-hidden="true"></i>, Recorded Lectures <i class="fa fa-youtube-play" aria-hidden="true"></i> and Exercises </a>
