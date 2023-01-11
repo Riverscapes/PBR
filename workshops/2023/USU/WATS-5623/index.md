@@ -25,21 +25,21 @@ This course provides an introduction to designing Low-Tech Process-Based Restora
 
 ## Schedule
 ### Spring 2023 - Design LTPBR
-- Matriculated Students: WATS 5623 
-- Professional Students: [CEWA 5623](https://cpe.usu.edu/search/publicCourseSearchDetails.do?method=load&courseId=1073964) 
+<!--- - Matriculated Students: WATS 5623 
+- Professional Students: [CEWA 5623](https://cpe.usu.edu/search/publicCourseSearchDetails.do?method=load&courseId=1073964) --->
 
 
 
 | Class                                                        | Time              | Days     | Where      | Dates                     | Instructors                                                  |
 | ------------------------------------------------------------ | ----------------- | -------- | ---------- | ------------------------- | ------------------------------------------------------------ |
-| [Desiging LTPBR]({{ site.baseurl }}/workshops/2023/USU/WATS-5623/) | 1:30 pm - 3:30 pm | Tuesdays | Zoom       | Mar 21, 28 & Apr 4, 2023 | [Stephen Nicholas Bennett]({{ site.baseurl }}//workshops/2020/SGI/#instruction-team) |
+| [Desiging LTPBR]({{ site.baseurl }}/workshops/2023/USU/WATS-5623/) | 1:30 pm - 3:30 pm | Tuesdays | [Zoom](https://usu-edu.zoom.us/s/85735561749)| Mar 21, 28 & Apr 4, 2023 | [Stephen Nicholas Bennett]({{ site.baseurl }}//workshops/2020/SGI/#instruction-team) |
 
 
 ### Course Schedule/Outline
 
 Outline dates and assignments will be available on Canvas:
-<!--<div align="center">
-<a class="hollow button" href="https://usu.instructure.com/courses/618129"><img src="{{ site.baseurl }}/assets/images/canvas_logo.png">  <b>Spring 2021 Canvas</b><br> WATS 6900 §5 - Design LTPBR Course Assignments</a></div>-->
+<div align="center">
+<a class="hollow button" href="https://usu.instructure.com/courses/727632"><img src="{{ site.baseurl }}/assets/images/canvas_logo.png">  <b>Spring 2023 Canvas</b><br> WATS 5623 - Design LTPBR Course Assignments</a></div>
 
 Students are expected to watch pre-recorded lectures and complete the reading assignments prior to our class meetings, where those topics will be discussed and exercises completed as a group. 
 
@@ -47,9 +47,9 @@ This class meets three times for these discussion sessions:
 
 | Meeting Date | Modules | Topics                                                   |
 |--------------|---------|----------------------------------------------------------|
-|    3/21/2023 | [1](https://usu.instructure.com/courses/618194/modules/732304) & [2](https://usu.instructure.com/courses/618194/modules/732305)   | [Intro to Design Process](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module4#b-designing-low-tech-restoration-projects); [Leading Design with Recovery Potential](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module4#c-leading-design-with-recovery-potential) |
-|    3/28/2023 | [3](https://usu.instructure.com/courses/618194/modules/732306) & [4](https://usu.instructure.com/courses/618194/modules/732307)   | [Design Standards of Practice @ Complex-Scale](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module4#d-design-standards-of-practice--designing-at-complex-scale) ; [Learning How to Design @ Structure-Scale](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module4#e-learning-how-to-design-at-structure-scale)|
-|     4/04/2023 | [5](https://usu.instructure.com/courses/618194/modules/732308) & [6](https://usu.instructure.com/courses/618194/modules/732309)   | [Field Design Documentation](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module4#f-putting-it-all-together-in-the-field) ; Designing at Your Own Riverscape                      |
+|    3/21/2023 | 4.1 | [Intro to Design Process](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module4#b-designing-low-tech-restoration-projects); [Leading Design with Recovery Potential](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module4#c-leading-design-with-recovery-potential) |
+|    3/28/2023 | 4.2 |[Design Standards of Practice @ Complex-Scale](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module4#d-design-standards-of-practice--designing-at-complex-scale) ; [Learning How to Design @ Structure-Scale](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module4#e-learning-how-to-design-at-structure-scale)|
+|     4/04/2023 | 4.3 | [Field Design Documentation](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module4#f-putting-it-all-together-in-the-field) ; Designing at Your Own Riverscape                      |
 
 
 Students will be expected to take their own field trip to a real riverscape of their choosing  and complete a design assignment. 
@@ -66,11 +66,11 @@ No additional Course Fee.
 Please register on [Banner](http://banner.usu.edu). *Note, tuition  for 1 credit varies between $712 and $2716 per credit based on undergraduate vs. graduate, in-state vs. out-of-state, and total number of credits)*
 
 ### Continuing Education Students
-**$315** for 1.5 CEUs (*$270 Course Fee + $45 CEU processing fee*) Registration will open November 9, 2022
+**$315** for 1.5 CEUs (*$270 Course Fee + $45 CEU processing fee*) Registration is now close for 2023
 
-[Register Here](https://cpe.usu.edu/search/publicCourseSearchDetails.do?method=load&courseId=1073964) using CEU CRN - 16794
+<!---- [Register Here](https://cpe.usu.edu/search/publicCourseSearchDetails.do?method=load&courseId=1073964) using CEU CRN - 16794
 
-<div align="center"><a class="button" href="https://cpe.usu.edu/search/publicCourseAdvancedSearch.do?method=doPaginatedFilter&type=subject&objectId=1018628"> <b>Module 4 - Design</b> <br> Register Now! <i class="fa fa-user-plus" aria-hidden="true"></i> </a></div>
+<div align="center"><a class="button" href="https://cpe.usu.edu/search/publicCourseAdvancedSearch.do?method=doPaginatedFilter&type=subject&objectId=1018628"> <b>Module 4 - Design</b> <br> Register Now! <i class="fa fa-user-plus" aria-hidden="true"></i> </a></div> --->
 
 -----------------
 ## Course Objectives
@@ -101,9 +101,9 @@ By the end of this course, students will:
 
 
 
-To get in touch with instructor(s), please use [Canvas](https://usu.instructure.com/courses/618129) for communication. 
+<!--- To get in touch with instructor(s), please use [Canvas](https://usu.instructure.com/courses/618129) for communication. --->
 
-**Group Office Hours** (Wednesday 12:00 - 13:00 via [Zoom](https://usu-edu.zoom.us/my/h20joe?pwd=eFNjSllqT3VDNTRoLzZ3Sk9IM1F6UT09) <i class="fa fa-search" aria-hidden="true"></i>
+<!--- **Group Office Hours**: By appointment (Wednesday 12:00 - 13:00 via [Zoom](https://usu-edu.zoom.us/my/h20joe?pwd=eFNjSllqT3VDNTRoLzZ3Sk9IM1F6UT09) <i class="fa fa-search" aria-hidden="true"></i> --->
 
 
 ### Instructor Affiliations
@@ -135,7 +135,7 @@ The course is organized into a series of modules or topics. Slides (as PDFs), re
 All of course lecture slides and materials are linked from the Canvas page by module and assignment.
 
 <div align="center">
-<a class="hollow button" href="https://usu.instructure.com/courses/618129"><img src="{{ site.baseurl }}/assets/images/canvas_logo.png">  <b>Spring 2021 Canvas</b><br> WATS 6900 - Intro to LTPBR Course Assignments</a>
+<a class="hollow button" href="https://usu.instructure.com/courses/727632"><img src="{{ site.baseurl }}/assets/images/canvas_logo.png">  <b>Spring 2023 Canvas</b><br> WATS 5623 - Design of LTPBR</a>
 
 
 
