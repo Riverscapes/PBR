@@ -40,7 +40,7 @@ Students explore the science and case studies that encouraged Low-Tech Process-B
 
 Outline dates and assignments will be available on Canvas:
 <div align="center">
-<a class="hollow button" href="https://usu.instructure.com/courses/727630"><img src="{{ site.baseurl }}/assets/images/canvas_logo.png">  <b>Spring 2021 Canvas</b><br> WATS 6900 - §3 - Science & Case Studies of LTPBR Course Assignments</a></div>
+<a class="hollow button" href="https://usu.instructure.com/courses/727630"><img src="{{ site.baseurl }}/assets/images/canvas_logo.png">  <b>Spring 2023 Canvas</b><br> WATS 5621 - Science & Case Studies of LTPBR Course Modules</a></div>
 
 Students are expected to watch pre-recorded lectures and complete the reading assignments prior to our class meetings, where those topics will be discussed and exercises completed as a group. 
 
@@ -48,9 +48,9 @@ This class meets three times for these discussion sessions:
 
 | Meeting Date | Modules                                                      | Topics                                                       |
 | ------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| 2/21/2023     | [2.1](https://usu.instructure.com/courses/618152/modules#module_731682) & [2.2](https://usu.instructure.com/courses/618152/modules#module_731683) | [Review & Intro](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module2.html#b-mimicking--promoting-wood-accumulation--beaver-dam-activity) + Case Studies ([Resilience](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module2.html#e-building-resilience-with-low-tech))           |
-| 2/28/2023    | [2.2](https://usu.instructure.com/courses/618152/modules#module_731683) | Case Studies that Build Confidence in LTPBR ([Bridge Creek](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module2.html#c-beaver-dam-analogues-bridge-creek--birch-creek) & [Asotin Creek](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module2.html#d-post-assisted-log-structures-case-study-asotin-creek)) |
-| 3/14/2023     | [2.3](https://usu.instructure.com/courses/618152/modules#module_731684) | [State of Supporting Science](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module2.html#f-where-science-is-at-ongoing--outstanding-science)                              |
+| 2/21/2023     | 2.1 | [Review & Intro](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module2.html#b-mimicking--promoting-wood-accumulation--beaver-dam-activity) + Case Studies ([Resilience](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module2.html#e-building-resilience-with-low-tech))           |
+| 2/28/2023    | 2.2 | Case Studies that Build Confidence in LTPBR ([Bridge Creek](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module2.html#c-beaver-dam-analogues-bridge-creek--birch-creek) & [Asotin Creek](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module2.html#d-post-assisted-log-structures-case-study-asotin-creek)) |
+| 3/14/2023     | 2.3 | [State of Supporting Science](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module2.html#f-where-science-is-at-ongoing--outstanding-science)                              |
 
 
 This course is based on [Module 2]({{ site.baseurl }}/workshops/2020/SGI/Modules/module2.html) of the self-paced materials. 
@@ -66,11 +66,11 @@ No additional Course Fee.
 Please register on [Banner](http://banner.usu.edu). *Note, tuition  for 1 credit varies between $712 and $2716 per credit based on undergraduate vs. graduate, in-state vs. out-of-state, and total number of credits)*
 
 ### Continuing Education Students
-**$315** for 1.5 CEUs (*$270 Cource Fee + $45 CEU processing fee*) Registration opens November 9, 2022
-[Register Here](https://cpe.usu.edu/search/publicCourseSearchDetails.do?method=load&courseId=1073960)
+**$315** for 1.5 CEUs (*$270 Cource Fee + $45 CEU processing fee*) Registration is now closed for 2023
+<!---[Register Here](https://cpe.usu.edu/search/publicCourseSearchDetails.do?method=load&courseId=1073960)--->
 
-<div align="center"><a class="button" href="https://cpe.usu.edu/search/publicCourseAdvancedSearch.do?method=doPaginatedFilter&type=subject&objectId=1018628
-"> <b>Module 2 - Science & Case Studies</b> <br> Register Now! <i class="fa fa-user-plus" aria-hidden="true"></i> </a></div>
+<!----<div align="center"><a class="button" href="https://cpe.usu.edu/search/publicCourseAdvancedSearch.do?method=doPaginatedFilter&type=subject&objectId=1018628
+"> <b>Module 2 - Science & Case Studies</b> <br> Register Now! <i class="fa fa-user-plus" aria-hidden="true"></i> </a></div>--->
 
 -----------------
 ## Course Objectives
@@ -146,7 +146,7 @@ The course is organized into a series of modules or topics. Slides (as PDFs), re
 All of course lecture slides and materials are linked from the Canvas page by module and assignment.
 
 <div align="center">
-<a class="hollow button" href="https://usu.instructure.com/courses/727630"><img src="{{ site.baseurl }}/assets/images/canvas_logo.png">  <b>Spring 2021 Canvas</b><br> WATS 6900 - Intro to LTPBR Course Assignments</a>
+<a class="hollow button" href="https://usu.instructure.com/courses/727630"><img src="{{ site.baseurl }}/assets/images/canvas_logo.png">  <b>Spring 2023 Canvas</b><br> WATS/CEWA 5621 - Science & Case Studies of LTPBR </a>
 
 
 
