@@ -17,7 +17,7 @@ Students explore the science and case studies that encouraged Low-Tech Process-B
 |**Credits**: |1.0 Credit hours  (1.5 CEU)|
 |**Levels**: |Graduate/Undergraduate|
 |**Schedule Types**: |Hybrid Face to Face Lecture |
-|**Cross-Listed As**: |CEWA 5700 (Will become WATS/CEWA 5621 in Spring 2022) |
+|**Cross-Listed As**: |CEWA 5621 
 
 <div align="center">
 <a class=" button hollow" href="{{ site.baseurl }}/workshops/2023/USU/"> <i class="fa fa-chevron-circle-left" aria-hidden="true"></i> <b> Back to  Spring 2023 LTPBR Courses</b>  for University Credit or Professional CEU  
@@ -26,7 +26,7 @@ Students explore the science and case studies that encouraged Low-Tech Process-B
 
 ## Schedule
 ### Spring 2023 - Science of LTPBR
-- Matriculated Students: SCI&CASE STUD LOWTECH RIV - 16918 - WATS 6621
+- Matriculated Students: SCI&CASE STUD LOWTECH RIV - 16918 - WATS 5621
 - Non-Matriculated Students: CEWA 5621
 
 
@@ -34,7 +34,7 @@ Students explore the science and case studies that encouraged Low-Tech Process-B
 
 | Class                                                        | Time              | Days     | Where | Dates                    | Instructors                                                  |
 | ------------------------------------------------------------ | ----------------- | -------- | ----- | ------------------------ | ------------------------------------------------------------ |
-| [LTPBR Science & Case Studies]({{ site.baseurl }}/workshops/2021/USU/WATS-5621/) | 1:30 pm - 3:30 pm | Tuesdays | Zoom ([link in Canvas](https://usu.instructure.com/courses/727630)  | Feb 21, 28 & Mar 14, 2023 | [Nicolaas W Bouwes (P), Stephen Nicholas Bennett]({{ site.baseurl }}//workshops/2020/SGI/#instruction-team) |
+| [LTPBR Science & Case Studies]({{ site.baseurl }}/workshops/2021/USU/WATS-5621/) | 1:30 pm - 3:30 pm | Tuesdays | [Zoom](https://usu-edu.zoom.us/s/85735561749)  | Feb 21, 28 & Mar 14, 2023 | [Nicolaas W Bouwes (P)]({{ site.baseurl }}//workshops/2020/SGI/#instruction-team) |
 
 ### Course Schedule/Outline
 
@@ -96,21 +96,6 @@ Recognize what outstanding knowledge gaps exist within the science.
 
    Office Hours:  By Appointment
   </div>
-
-  <div class="column column-block">
-    <a href="https://www.researchgate.net/profile/Stephen_Bennett8"><img src="{{ site.baseurl }}/assets/images/people/bennett-round_orig.png"></a>
-    <h4><a href="https://www.researchgate.net/profile/Stephen_Bennett8">Stephen N. Bennett<sup>1,2,3</sup></a></h4>
-    <b>Co-Instructor</b><br>
-    Ecologist, <a href="https://qcnr.usu.edu/directory/bennett_stephen">Adjunct Professor</a>, <a href="https://www.anabranchsolutions.com/stephen-bennett.html">Principal<sup>2</sup></a><br>
-    Office Hours:  By Appointment
-  </div>
-
-
-
-
-
-
-
 
 </div>
 
