@@ -8,7 +8,7 @@ The WATS/CEWA 5624 Spring 2023 class will focus on Station Creek in southeast Id
 ----
 # Course Logistics
 
-<div align="center"> **Saturday April 22, 2023 from 9a to 5p** </div>
+<div align="center"> <strong>Saturday April 22, 2023 from 9a to 5p</strong> </div>
 
  <div align="center">
     <a class="hollow button" href="https://forms.gle/YGaeh5YyDppFM5c8A" target="_blank"><img src="{{ site.baseurl }}/assets/images/logos/Restoration-PAIRED-05_Horizontal_BlueOnWhite.png"> <br> <b>Participant Waiver</b><br>on April 22, 2023 @ 9:00 AM at Station Creek </a>
@@ -129,7 +129,7 @@ See [here](https://photos.app.goo.gl/iHB3goMo55inQu5z7) for album to download ma
 
 
 ### Jay Wilde's Story of Beaver Reintroduction on Birch Creek
-<a href="https://earth.app.goo.gl/n9RRA6"><img width="100" class="float-left" src="{{ site.baseurl }}/assets/images/people/Wilde_round.png"></a>
+<a class="float-left" src="{{ site.baseurl }}/assets/images/people/Wilde_round.png"></a>
 Idaho Rancher Jay Wilde tells his [story](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Workshops/CheapCheerful/2018/NRCS/Idaho/Lectures/2018_IdahoNRCS_Wilde_BirchCreek.pdf) about bringing beaver back to the creek he grew up on to restore flow.  Jay went on the road in the summer of 2018 and helped spread this message to workshop participants in five SGI Low-Tech Process Based Restoration of Mesic & Riparian Workshops. This video below is from the [Logan Workshop](http://beaver.joewheaton.org/logan-workshop-materials.html):
 
 <div class="responsive-embed">
