@@ -18,7 +18,7 @@ The WATS/CEWA 5624 Spring 2023 class will focus on Station Creek in southeast Id
 
 **Important**: Transportation will not be provided to Birch Creek. You are strongly encouraged to carpool with other students and/or volunteer participants up to Station Creek. It is about an hour drive from Logan to the Field Site. There is ample parking on site. There is some cell reception.
 
-We will meet at the Station Creek Trailhead at 8 AM (about 1 hour drive from Logan @ [5484 E Station Creek Rd, Preston, ID 83263](https://goo.gl/maps/AREJd8KgYuKtzT5L9)). Please note that Google maps may lead you to a nearby by incorrect location. The coordiantes for the parking area are 42.162928, -111.743293. 
+We will meet at the Station Creek Trailhead at 8 AM (about 1 hour drive from Logan @ [5484 E Station Creek Rd, Preston, ID 83263](https://goo.gl/maps/AREJd8KgYuKtzT5L9)). Please note that Google maps may lead you to a nearby but incorrect location. The coordiantes for the parking area are 42.162928, -111.743293. 
 
 <div class="responsive-embed">
 <iframe src="https://www.google.com/maps/embed?pb=!1m22!1m8!1m3!1d1043.7323966491258!2d-111.74409105148973!3d42.16294751243285!3m2!1i1024!2i768!4f13.1!4m11!3e0!4m5!1s0x87547e7defa84bed%3A0xfc404de6d664bd1c!2sUtah%20State%20University%2C%20Logan%2C%20UT%2084322!3m2!1d41.745160999999996!2d-111.8097425!4m3!3m2!1d42.1631947!2d-111.74338999999999!5e1!3m2!1sen!2sus!4v1680209194167!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
