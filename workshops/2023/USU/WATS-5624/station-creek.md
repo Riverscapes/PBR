@@ -3,8 +3,6 @@ title: Station Creek
 weight: 1
 ---
 
-<a href="https://earth.app.goo.gl/n9RRA6"><img class="float-right" src="{{ site.baseurl }}/assets/images/projects/Station_GE.png"></a>
-
 The WATS/CEWA 5624 Spring 2023 class will focus on [Station Creek](https://earth.app.goo.gl/n9RRA6) in southeast Idaho. Station Creek is a left-bank tributary to the Bear River, which joins the Bear River just downstream of Oneida Narrows and the Mink Creek confluence.  The project is on landowner Terry Westerberg's property. Terry saw the success of Jay Wilde's beaver reintroduction on Birch Creek, just over the hill, and wanted to see similar improvements to Station Creek through his property. The project was originally envisioned as a BDA-assisted, beaver translocation project and was going to be funded by Pacificorps.  
 
 ----
@@ -43,7 +41,9 @@ If you have any allergies or medical conditions that we should be aware of, plea
 Please bring your own lunch and snacks to keep you going throughout the day. You will also want to bring plenty of water and a refillable water bottle (we will have some water jugs for refilling).
 
 
-# Intro to Station Creek
+
+# About Station Creek
+
 <div class="responsive-embed">
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQAjG4OzYOspwMcySZV1piDTWGBgPwj_yGfC_m5YLLGFmt8M6NAazomf6aeVZGBEYSVDD4l6nA-POIL/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 </div>
