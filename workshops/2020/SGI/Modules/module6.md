@@ -142,7 +142,7 @@ Watch entire <i class="fa fa-youtube-play" aria-hidden="true"></i> <a href="http
       <div class="card-section">
         <h4>Slides</h4>
     <div align="center">
-        	<a href="" target="_blank"><img src="{{ site.baseurl }}/assets/images/workshops/2020/modules/06_C.png"></a>
+        	<a href="https://usu.box.com/s/4f0o06btfoch2y47s3izup8cb3iiy0fl" target="_blank"><img src="{{ site.baseurl }}/assets/images/workshops/2020/modules/06_C.png"></a>
         	</div>
 
          <i class="fa fa-file-pdf-o" aria-hidden="true"></i> <a href="" target="_blank">Slides part of B. Slides</a>
