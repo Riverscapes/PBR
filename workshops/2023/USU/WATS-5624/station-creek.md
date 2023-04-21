@@ -1,14 +1,16 @@
 ---
-title: Station Creek
+title: Station Creek - CANCELLED
 weight: 1
 ---
+
+***UPDATE: The 2023 Station Creek build day has been cancelled due to heavy snowfall and high flows.***
 
 The WATS/CEWA 5624 Spring 2023 class will focus on Station Creek in southeast Idaho. Station Creek is a left-bank tributary to the Bear River, which joins the Bear River just downstream of Oneida Narrows and the Mink Creek confluence.  The project is on landowner Terry Westerberg's property. Terry saw the success of Jay Wilde's beaver reintroduction on Birch Creek, just over the hill, and wanted to see similar improvements to Station Creek through his property. The project was originally envisioned as a BDA-assisted, beaver translocation project and was going to be funded by Pacificorps.  
 
 ----
 # Course Logistics
 
-<div align="center"> <strong>Saturday April 22, 2023 from 9a to 5p</strong> </div>
+<div align="center"> <strong>CANCELLED -- Saturday April 22, 2023 from 9a to 5p</strong> </div>
 
  <div align="center">
     <a class="hollow button" href="https://forms.gle/YGaeh5YyDppFM5c8A" target="_blank"><img src="{{ site.baseurl }}/assets/images/logos/Restoration-PAIRED-05_Horizontal_BlueOnWhite.png"> <br> <b>Participant Waiver</b><br>on April 22, 2023 @ 9:00 AM at Station Creek </a>
