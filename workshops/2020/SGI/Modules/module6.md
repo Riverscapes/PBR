@@ -172,7 +172,7 @@ Watch entire <i class="fa fa-youtube-play" aria-hidden="true"></i> <a href="http
 <iframe width="480" height="360" src="https://www.youtube.com/embed/-YdHIThLhMk" title="AM Defined" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 </div>
-<i class="fa fa-clock-o" aria-hidden="true"></i> 55 minutes <i class="fa fa-youtube-play" aria-hidden="true"></i>
+<i class="fa fa-clock-o" aria-hidden="true"></i> 25 minutes <i class="fa fa-youtube-play" aria-hidden="true"></i>
       </div>
     </div>
   </div>
