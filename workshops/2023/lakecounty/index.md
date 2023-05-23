@@ -76,13 +76,13 @@ We will meet on site at 7:30 (early to take advantage of lower morning temperatu
 
   <div class="column column-block">
     <a href="https://www.researchgate.net/profile/Stephen_Bennett8"><img src="{{ site.baseurl }}/assets/images/people/bennett-round_orig.png"></a>
-    <h4><a href="https://www.researchgate.net/profile/Stephen_Bennett8">Stephen N. Bennett<sup>1,2,3</sup></a></h4>
+    <h4><a href="https://www.researchgate.net/profile/Stephen_Bennett8">Stephen N. Bennett</a></h4>
     Ecologist, Adjunct Professor
   </div>
 
   <div class="column column-block">
     <a href="https://www.researchgate.net/profile/Joseph_Wheaton"><img src="{{ site.baseurl }}/assets/images/people/Wheaton_round.png"></a>
-    <h4><a href="https://www.researchgate.net/profile/Joseph_Wheaton">Joseph Wheaton<sup>1,2</sup></a></h4>
+    <h4><a href="https://www.researchgate.net/profile/Joseph_Wheaton">Joseph Wheaton</a></h4>
     Professor of Riverscapes
   </div>
 
@@ -95,24 +95,10 @@ We will meet on site at 7:30 (early to take advantage of lower morning temperatu
 
 <div class="column column-block">
 	<a href="https://www.researchgate.net/profile/Scott_Shahverdian"><img src="{{ site.baseurl }}/assets/images/people/shahverdian-round_1.png"></a>
-    <h4><a href="https://www.researchgate.net/profile/Scott_Shahverdian">Scott Shahveridan<sup>2,1</sup></a></h4>
+    <h4><a href="https://www.researchgate.net/profile/Scott_Shahverdian">Scott Shahveridan</a></h4>
     Fluvial Geomorphologist
   </div>
 
-
-
-
-#### Instructor Affiliations
-
-<div class="row small-up-2 medium-up-2 large-up-5" align="center">
-  <div class="column column-block">
-    <a href="https://qcnr.usu.edu/wats/index"><img src="{{ site.baseurl }}/assets/images/sponsors/USU.png"></a>1. 
-  </div>
-  <div class="column column-block">
-	<a href="http://www.anabranchsolutions.com"><img src="{{ site.baseurl }}/assets/images/sponsors/anabranchsolutionslogo-square-450_10.png"></a><br>2. 
-
-
-</div>
 
 </div>
 
