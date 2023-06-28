@@ -1,14 +1,11 @@
 ---
-title:  2023 Lake County Low-Tech Riverscape Restoration Workshop 
+title:  2023 Low-Tech Riverscape Restoration Workshop 
 weight: 1
 ---
 ![image]({{ site.baseurl }}/assets/images/workshops/2023/SaveDateTemp.png)
 
-**Sponsored by:**<br>
-<a href="https://www.blm.gov/montana-dakotas"><img class="float-left" src="{{ site.baseurl }}/assets/images/sponsors/SaveDateTemp.jpeg"></a> 
+<img class="float-left" src="{{ site.baseurl }}/assets/images/sponsors/SaveDateTemp.jpeg"></a> 
 This workshop will be held **July 18-19, 2023**. It will be a mix of field and classroom instruction. 
-
-<a target="_blank" href="https://calendar.google.com/event?action=TEMPLATE&amp;tmeid=MGI3Z2Q5NW12cXJmbWl1bzQyYW9xYmh1cGQgam9lLm0ud2hlYXRvbkBt&amp;tmsrc=joe.m.wheaton%40gmail.com"><img border="0" src="https://www.google.com/calendar/images/ext/gc_button1_en.gif"></a>
 
 
 # Overview
@@ -28,19 +25,19 @@ The target audience for this workshop are local conservation professionals, agen
 #### Classroom Instruction and Field/Construction - Day 1
 - Day 1: **Introduction to Low-Tech Process-Based Restoration** and **Underlying Science & Case Studies for Low-Tech** - Discussion with local landowners and new form of support for landowners and managers - 9 AM to 5 PM
 
-Day 1 will be held at the [xxx](https://blueforest.org)
+Day 1 will be held at the Lake County Administrative Office: 3 Center St, Lakeview, OR 97630
 <div class="responsive-embed">
-	<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2751.5531832512497!2d-105.86268534862901!3d46.39808647902068!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x533a74406e4e6851%3A0x98e04bf3cc70fee4!2sEastern%20Montana%20Fairgrounds!5e0!3m2!1sen!2sus!4v1659479512800!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+	<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1062.4961010541215!2d-120.34569751783661!3d42.18903557881614!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x54c993d41819d443%3A0xed4f32d63f4cfb5d!2s513%20Center%20St%2C%20Lakeview%2C%20OR%2097630!5e0!3m2!1sen!2sus!4v1687979788399!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
 
-#### Construction - Day 2 - xxx Creek
-- Day 2 -  **Implementing Low-Tech Process-Based Restoration** on xxx (field all-day)  - 7:30 AM to 3 PM
+#### Field/Construction - Day 2 (Location TBD)
+- Day 2 -  **Implementing Low-Tech Process-Based Restoration** (field all-day)  - 7:30 AM to 3 PM
 
-We will meet on site at 7:30 (early to take advantage of lower morning temperatures for construction).
+We will meet at the Best Western Skyline Motor Lodge at 7:30am to take advantage of lower morning temperatures for construction: 414 N G St, Lakeview, OR 97630 
 
 <div class="responsive-embed">
-<iframe src="https://www.google.com/maps/embed?pb=!1m26!1m12!1m3!1d148251.83648686708!2d-105.7937925080797!3d46.33200772602325!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m11!3e0!4m5!1s0x533a74406ac7caa9%3A0x4a90b94e8bbe51dc!2sBureau%20of%20Land%20Management%20Miles%20City%20Field%20Office%2C%20111%20Garryowen%20Rd%2C%20Miles%20City%2C%20MT%2059301!3m2!1d46.3979812!2d-105.86413859999999!4m3!3m2!1d46.2132751!2d-105.67494959999999!5e1!3m2!1sen!2sus!4v1659479357933!5m2!1sen!2sus" width="600" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2955.9661308652944!2d-120.34909062395366!3d42.19379167120899!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x54c993d0a4d85671%3A0x5e3ee7a1346f392d!2sBest%20Western%20Skyline%20Motor%20Lodge!5e0!3m2!1sen!2sus!4v1687979905968!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
 -------
@@ -105,7 +102,7 @@ We will meet on site at 7:30 (early to take advantage of lower morning temperatu
 ----
 ## Logistics
 ### Registration
-Registration is free, but is by invitation only. Contact XXX for more information.
+Registration is free. Contact michael@blueforest.org for more information.
 
 **Registration is Open**
 
@@ -122,9 +119,9 @@ For those travelling to xxx from out of town, we have secured a group rate at th
 **CANCELLATION**: Rooms will be reserved with a 24 hour prior to arrival date cancellation. Neither party shall be responsible for failure to perform this contract if circumstances beyond their control, (including, but not limited to: acts of God, shortage of supplies furnished by the Hotel, governmental authority, or declared war in the US) make it illegal or impossible for the hotel to hold the event.
 
 ### Field Gear
-This is a hands-on workshop. For the field portions, we will be hiking and working on real construction projects. Your safety is our top priority, but you are the most important person in ensuring your safety and comfort. So bring common sense. Our workshop is in the Fall in the mountains. You should be prepared for anything from sunny skies and sunburn, to snow and hypothermia (yes we’ve already had our first snow-storms, and yes we will work in the snow). We will be hiking through and doing work in small, wadeable streams. We **strongly recommend a pair of chest waders and wading boots**, in case XXX Creek is flowing during the construction day. It is also possible we will be building structures in a hot, dry creek with isolated pools, so come prepared for a variety of weather.  You also should bring whatever outdoor clothing and gear to keep yourself comfortable. Layers, coats, gloves, hats, sunglasses, sunscreen, and a dry change of clothes for afterwards are all a must. For Day 2, no open-toed shoes will be allowed. Where work clothing suitable for a construction site.
+This is a hands-on workshop. For the field portions, we will be hiking and working on real construction projects. Your safety is our top priority, but you are the most important person in ensuring your safety and comfort. So bring common sense. Our workshop is in the Fall in the mountains. You should be prepared for anything from sunny skies and sunburn, to snow and hypothermia (yes we’ve already had our first snow-storms, and yes we will work in the snow). We will be hiking through and doing work in small, wadeable streams. We **strongly recommend a pair of chest waders and wading boots**, in case the creek is flowing during the construction day. It is also possible we will be building structures in a hot, dry creek with isolated pools, so come prepared for a variety of weather.  You also should bring whatever outdoor clothing and gear to keep yourself comfortable. Layers, coats, gloves, hats, sunglasses, sunscreen, and a dry change of clothes for afterwards are all a must. For Day 2, no open-toed shoes will be allowed. Where work clothing suitable for a construction site.
 
-We will provide you with basic personal protective equipment (PPEs like work gloves, eye protection, hard hats, ear protection). However, if you have any other
+We will provide you with basic personal protective equipment (PPEs like work gloves, eye protection, hard hats, ear protection).
 
 If you have any allergies or medical conditions that we should be aware of, please notify your instructor.
 
@@ -133,16 +130,16 @@ If you have any allergies or medical conditions that we should be aware of, plea
 Meals are provided with your registration to help us run the workshop more efficiently, as follows:
 - Day 1 (Classroom)
 	- Morning coffee and snacks *provided* 
-	- Lunch *provided* from [XXX](https://www.blueforest.org)
-	- Dinner *catered by* XXX, *sponsored by* [Anabranch](https://www.anabranchsolutions.com/)
 - Day 2 (Field Construction Day)
 	- No breakfast or coffee provided (come fueled up and caffinated)
 	- Bag lunches, snacks and beverages *provided* in field. Please bring your own water bottle. 
-	- On your own for dinner. 
 
 We will make sure that for snacks and meals there are some gluten-free options, but those with other dietary restrictions should make other arrangements. 
 
+
 ### Emergency Preparedness
+More information coming soon!
+<!--
 In the event of an emergency, most of our field visits and the classroom at the fairgrounds should all have cell reception of dialing 911. We will have some First Responder certified participants and instructors, and we will have first aid kits available. The closest Emergency Room is:
 
 [XXX](https://www.blueforest.org)- Emergency Room
@@ -150,6 +147,7 @@ In the event of an emergency, most of our field visits and the classroom at the 
 XXX-XXX-XXXX
 <div class="responsive-embed">
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6360.459093106841!2d-105.82996817676552!3d46.39429313153607!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x533a769d01e486f5%3A0x51f723df92556ff4!2s2600%20Wilson%20St%2C%20Miles%20City%2C%20MT%2059301!5e1!3m2!1sen!2sus!4v1659919671469!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+-->
 </div>
 
 
