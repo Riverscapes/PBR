@@ -4,7 +4,7 @@ weight: 1
 ---
 ![image]({{ site.baseurl }}/assets/images/workshops/2023/SaveDateTemp.png)
 
-<img class="float-left" src="{{ site.baseurl }}/assets/images/sponsors/SaveDateTemp.jpeg"></a> 
+<img class="float-left" src="{{ site.baseurl }}/assets/images/sponsors/SaveDateTemp.jpeg">
 This workshop will be held **July 18-19, 2023**. It will be a mix of field and classroom instruction. 
 
 
@@ -23,7 +23,7 @@ The target audience for this workshop are local conservation professionals, agen
 # Agenda
 
 #### Classroom Instruction and Field/Construction - Day 1
-- Day 1: **Introduction to Low-Tech Process-Based Restoration** and **Underlying Science & Case Studies for Low-Tech** - Discussion with local landowners and new form of support for landowners and managers - 9 AM to 5 PM
+- Day 1: **Introduction to Low-Tech Process-Based Restoration** and **Underlying Science & Case Studies for Low-Tech** - Discussion with local landowners and new form of support for landowners and managers - 8 AM to 2 PM
 
 Day 1 will be held at the Lake County Administrative Office: 3 Center St, Lakeview, OR 97630
 <div class="responsive-embed">
@@ -51,7 +51,7 @@ We will meet at the Best Western Skyline Motor Lodge at 7:30am to take advantage
 <a href="https://www.youtube.com/watch?v=wz1mNjdPuzI">Changing a Landscape to a Lifescape: The Humboldt Ranch</a><br>
 <a href="https://www.youtube.com/watch?v=UG8YWqSHF88">Holding Back the Snowpack</a><br>
 <a href="https://www.youtube.com/watch?v=K_2Ib0pQYPo">Idaho Rancher Jay Wilde restores beaver to Birch Creek in a big way!</a><br>
-<a href="https://blueforest.org">Landowner 1-pager (coming soon!)</a><br>
+Landowner 1-pager (coming soon!)<br>
 <p></p>
 
 ### Workshop Reading
@@ -108,15 +108,14 @@ Registration is free. Contact michael@blueforest.org for more information.
 
 
 ### Lodging
-**BOOK BEFORE June 30, 2022** to secure discount rate!
+**BOOK BEFORE July 8, 2023** to secure group rate!
 
-For those travelling to xxx from out of town, we have secured a group rate at the [Best Western](https://blueforest.org/) for a discounted room rate of $xxx for a King or Double Queen Deluxe. There are a variety of [other lodging options in XXX as well](https://www.google.com/travel/hotels/Miles%20City%2C%20MT?q=hotels%20in%20miles%20city&g2lb=2502548%2C2503771%2C2503781%2C4258168%2C4270442%2C4284970%2C4291517%2C4306835%2C4515404%2C4597339%2C4649665%2C4703207%2C4718358%2C4722900%2C4723331%2C4741665%2C4757164%2C4758493%2C4762561%2C4779784%2C4786958%2C4787395%2C4790928%2C4794648%2C4797296&hl=en-US&gl=us&ssta=1&ts=CAESCgoCCAMKAggDEAAaMgoUEhA6Dk1pbGVzIENpdHksIE1UGgASGhIUCgcI5g8QBhgaEgcI5g8QBhgbGAEyAhAAKgsKBygBOgNVU0QaAA&rp=OAFAAEgCogEOTWlsZXMgQ2l0eSwgTVQ&ap=SABoAQ&ictx=1&ved=0CAAQ5JsGahcKEwjAj73Cqcb4AhUAAAAAHQAAAAAQBA&utm_campaign=sharing&utm_medium=link&utm_source=htls). 
+We have secured a group rate at the [Best Western](https://www.bestwestern.com/en_US/book/hotel-rooms.38083.html).
 
-**RATE**: Room rates are net NON commissionable, quoted exclusive of applicable taxes and fees and MUST BE BOOKED BY CALLING the property direct at, 406-234-1000. This is a Group Rate. In order to receive the Group Rate, a person reserving a room must specify the Group Name of "BLM Workshop", while making their reservation. Quoted rates are available through the Cutoff Date, and are still available for the public to book, so please have guests book rooms ASAP.
+**RATE**: Room rates are net NON commissionable, quoted exclusive of applicable taxes and fees and MUST BE BOOKED BY CALLING the property direct at, (541) 947-2194. This is a Group Rate. In order to receive the Group Rate, a person reserving a room must specify the Group Name of "Pheasants Forever", while making their reservation. Quoted rates are available through the Cutoff Date, and are still available for the public to book, so please have guests book rooms ASAP.
 
-**RESERVATIONS** (Individual call-in): Each guest must call to reserve and guarantee their own room reservations. Each guest will be responsible for the payment of his or her own room. The quoted rate will be honored, through 11:59 pm on 7/1/22, while availability lasts, AND the guest refers to the Group Name of "BLM Workshop".
+**RESERVATIONS** (Individual call-in): Each guest must call to reserve and guarantee their own room reservations. Each guest will be responsible for the payment of his or her own room.
 
-**CANCELLATION**: Rooms will be reserved with a 24 hour prior to arrival date cancellation. Neither party shall be responsible for failure to perform this contract if circumstances beyond their control, (including, but not limited to: acts of God, shortage of supplies furnished by the Hotel, governmental authority, or declared war in the US) make it illegal or impossible for the hotel to hold the event.
 
 ### Field Gear
 This is a hands-on workshop. For the field portions, we will be hiking and working on real construction projects. Your safety is our top priority, but you are the most important person in ensuring your safety and comfort. So bring common sense. Our workshop is in the Fall in the mountains. You should be prepared for anything from sunny skies and sunburn, to snow and hypothermia (yes we’ve already had our first snow-storms, and yes we will work in the snow). We will be hiking through and doing work in small, wadeable streams. We **strongly recommend a pair of chest waders and wading boots**, in case the creek is flowing during the construction day. It is also possible we will be building structures in a hot, dry creek with isolated pools, so come prepared for a variety of weather.  You also should bring whatever outdoor clothing and gear to keep yourself comfortable. Layers, coats, gloves, hats, sunglasses, sunscreen, and a dry change of clothes for afterwards are all a must. For Day 2, no open-toed shoes will be allowed. Where work clothing suitable for a construction site.
@@ -139,15 +138,7 @@ We will make sure that for snacks and meals there are some gluten-free options, 
 
 ### Emergency Preparedness
 More information coming soon!
-<!--
-In the event of an emergency, most of our field visits and the classroom at the fairgrounds should all have cell reception of dialing 911. We will have some First Responder certified participants and instructors, and we will have first aid kits available. The closest Emergency Room is:
 
-[XXX](https://www.blueforest.org)- Emergency Room
-[XXX St](https://www.blueforest.org), XXX, OR
-XXX-XXX-XXXX
-<div class="responsive-embed">
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6360.459093106841!2d-105.82996817676552!3d46.39429313153607!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x533a769d01e486f5%3A0x51f723df92556ff4!2s2600%20Wilson%20St%2C%20Miles%20City%2C%20MT%2059301!5e1!3m2!1sen!2sus!4v1659919671469!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
--->
 </div>
 
 
