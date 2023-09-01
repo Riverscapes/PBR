@@ -1,5 +1,5 @@
 ---
-title:  2023 Low-Tech Riverscape Restoration Workshop 
+title:  2023 Lake County Low-Tech Riverscape Restoration Workshop 
 weight: 1
 ---
 ![image]({{ site.baseurl }}/assets/images/workshops/2023/SaveDateTemp.png)
