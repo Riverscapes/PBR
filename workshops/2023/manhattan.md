@@ -1,217 +1,264 @@
 ---
-title:  Klickitat LTPBR Workshop
-weight:  2
+title:  2023 Low-Tech Riverscape Restoration Workshop, Manhattan, KS 
+weight: 1
 ---
-# Klickitat River Watershed 2022 Field-Based Workshop: 
-## Intro to Low-Tech Process-Based Restoration of Riverscapes 
+<!-- ![image]({{ site.baseurl }}/assets/images/workshops/2022/BLM_LTPBR_Workshop_Aug2022_SocialMedia_Tiny.png)
 
-<div class="row small-up-2 medium-up-2 large-up-6" align="center">
+**Sponsored by:**<br>
+<a href="https://www.blm.gov/montana-dakotas"><img class="float-left" src="{{ site.baseurl }}/assets/images/sponsors/blm.png"></a> 
+This workshop was held **August 9-11, 2022**. It was a mix of field and classroom instruction. The BLM Miles City Field Office hosted the event.
 
-  <div class="column column-block">
-    <a href="https://yakamafish-nsn.gov/"><img src="{{ site.baseurl }}/assets/images/sponsors/Yakama.png"></a>
-  </div>
-
+<a target="_blank" href="https://calendar.google.com/event?action=TEMPLATE&amp;tmeid=MGI3Z2Q5NW12cXJmbWl1bzQyYW9xYmh1cGQgam9lLm0ud2hlYXRvbkBt&amp;tmsrc=joe.m.wheaton%40gmail.com"><img border="0" src="https://www.google.com/calendar/images/ext/gc_button1_en.gif"></a> --->
 
 
-  <div class="column column-block">
-	<a href="http://www.anabranchsolutions.com"><img src="{{ site.baseurl }}/assets/images/sponsors/anabranchsolutionslogo-square-450_10.png"></a><br>
-  </div>
 
 
+
+# Manhattan, KS Low-Tech Process Based Restoration Field Workshop
+### October 24-26, 2023
+<!-- 
+<a href="https://s3.us-west-2.amazonaws.com/etalweb.joewheaton.org/Workshops/LTPBR/2022/BLM_Story_0f_The_Week_LTPBR_Workshop_Oct2022.pdf"><img  class="float-right" src="{{ site.baseurl }}/assets/images/workshops/2022/BLM_Story.png"></a> This workshop was solicited by BLM's Alden Shallcross, the State Lead - Montana/Dakotas Aquatic Habitat Management Program. The workshop was made possible thanks to the generous support of the [BLM Montana/Dakotas](https://www.blm.gov/montana-dakotas), and a grant  to [Utah State University's Restoration Consortium](http://restoration.usu.edu/) and [Joe Wheaton's](http://joewheaton.org/) [ET-AL lab](http://etal.joewheaton.org/).  The workshop content grew out of over 20 [LTPBR workshops]({{ site.baseurl }}/workshops/) taught by  Utah State University and the online modules were developed in  [2020]({{ site.baseurl }}/workshops/2020/SGI/) for an NRCS Working Lands for Wildlife workshop series. 
+
+See the ["Teaching While Doing" summary](https://s3.us-west-2.amazonaws.com/etalweb.joewheaton.org/Workshops/LTPBR/2022/BLM_Story_0f_The_Week_LTPBR_Workshop_Oct2022.pdf) put together by our amazing local Miles City Field Office  workshop hosts, including Christina Stuart, Christopher Morris and Dan Fox, as well as State Aquatics Lead, Alden Shallcross. [**→**](https://s3.us-west-2.amazonaws.com/etalweb.joewheaton.org/Workshops/LTPBR/2022/BLM_Story_0f_The_Week_LTPBR_Workshop_Oct2022.pdf) -->
+
+
+## Workshop Description
+This workshop will introduce participants to ‘low-tech’ process-based approaches for restoring streams and their associated riparian areas (riverscapes) to benefit fish, wildlife, and working lands. Participants will learn principles guiding low-tech process-based restoration and become familiar with simple, hand-built tools, including Beaver Dam Analogues (BDAs) and Post-Assisted Log Structures (PALS), intended to mimic and promote specific ecosystem processes. Participants will gain basic skills in the planning, design, and implementation phases of project development. Course content is supported by a published [Design Manual]({{ site.baseurl }}/manual/).  Instruction will be a mix of lectures, discussions, hands-on exercises at the desktop and in the field. Learning will culminate on Day 3 in construction of LTPBR structures on [Pumpkin Creek]({{ site.baseurl }}/workshops/2022/BLM/pumpkin).
+
+<!-- ## Audience
+The target audience for the virtual field workshop is Montana-Dakota BLM Field Staff and their conservation partners interested in improving the health of riverscapes BLM manages with low-tech PBR. -->
+
+
+------
+# Agenda
+
+#### Classroom Instruction - Days 1 & 2
+- Day 1: **Introduction to Low-Tech Process-Based Restoration** and **Underlying Science & Case Studies for Low-Tech** - (local field trip; mostly class-room in Manhattan, KS)  - 9 AM to 5 PM with evening dinner starting at 6:30
+- Day 2 - **Planning Low-Tech Process-Based Restoration** and **Designing Low-Tech Process-Based Restoration**  (all class-room in Manhattan, KS) - 9 AM to 5 PM
+  
+
+
+Days 1 & 2 will be held at the Kansas State University Alumni Center
+<div class="responsive-embed">
+	<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12369.9166170266!2d-96.5843165!3d39.1865599!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87bdcd85f825bb15%3A0x1ea76923bf97904!2sKSU%20Alumni%20Center!5e0!3m2!1sen!2sus!4v1694120909898!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
+#### Day 1 Evening Dinner Social - Location TBD
+<!-- <a href="https://www.anabranchsolutions.com/"><img width="100" class="float-right" src="{{ site.baseurl }}/assets/images/sponsors/anabranchsolutionslogo-square-450_10.png"></a> 
+We will enjoy an evening dutch oven dinner sponsored by [Anabranch Solutions](https://www.anabranchsolutions.com/) and catered by Miles City local Christina Stuart & Company. Please show up at Riverside Park any time between 6:00 and 6:45 PM. Dinner will begin being served around 6:45ish PM, and we will hear rancher [Jay Wilde's story]({{ site.baseurl }}/resources/casestudies/birch) of brining back beaver to his ranch beginning at 7:00. We will wrap sometime between 8:30 and 9:00. 
 
-### **June 7 & 8 in Tepee Creek, WA**
+<div align="center"><a class="hollow button" href="{{ site.baseurl }}/resources/casestudies/birch"><img width="100"  src="{{ site.baseurl }}/assets/images/people/Wilde_round.png"> <br>Learn More about<br><b> Jay Wilde's Birch Creek Story</b> </a> </div>
 
------
-## Description
-This field-based workshop will take place on Tepee Creek in the Klickitat River watershed and is intended to introduce conservationists to ‘low-tech’ process-based (LTPBR) approaches for restoring streams and their associated riparian areas (riverscapes) to benefit fish, wildlife, and Tribal lands. Participants will learn principles guiding low-tech process-based restoration and become familiar with simple, hand-built structures, including Beaver Dam Analogues (BDAs) and Post-Assisted Log Structures (PALS), intended to mimic and promote specific ecosystem processes. The focus of the workshop will be on a set of guiding riverscape and restoration principles, design and construction of different low-tech structures, and the impairments the structures can treat. Planning, assessment, prioritization, and monitoring, though critical to restoration success, will not be covered in detail, but more in-depth information on all aspects of LTPBR restoration can be accessed throug the links below. 
+<div class="responsive-embed">
+	<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5502.4507048263895!2d-105.8535909321097!3d46.404587297221084!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x533a7416f1faad0b%3A0x7c9d5805be0fcbd7!2sRiverside%20Park%2C%20Miles%20City%2C%20MT%2059301!5e0!3m2!1sen!2sus!4v1659479470354!5m2!1sen!2sus" width="600" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div> -->
 
-We encourage workshop participants to review the lecture material before the workshop (especially <a href="{{ site.baseurl }}/workshops/2020/SGI/Modules/module1">Module 1</a>). The [Design Manual]({{ site.baseurl }}/manual), the [Pocket Guide]({{ site.baseurl }}/resources/pocket), and [online lecture series]({{ site.baseurl }}/resources/Topics/) are all available online for review. If you only have an hour or so to review lecture materials, here are some recommendations: <a href="https://www.youtube.com/watch?v=GnM52tj1BbI&t=234s">Scope of the Problem</a>, <a href="https://www.youtube.com/watch?v=nMGmkIl6gVI">What Riverscapes Could Be</a>, <a href="https://www.youtube.com/watch?v=x4LogsoQEn0">Broad Umbrella of Low-Tech Restoration</a>,<a href="https://www.youtube.com/watch?v=v5gZQDEXlxQ&t=2s"> LTPBR Principles</a>, <a href="https://www.youtube.com/watch?v=M__bF3zJjmM"> Reading Riverscapes: Mapping Valley Bottoms</a>, <a href="https://youtu.be/Tpxj60utpfs">Reading Riverscapes: Structural Forcing</a>.
+#### Construction - Day 3 - Location TDB
+- Day 3 -  **Implementing Low-Tech Process-Based Restoration** (field all-day)  - 7:30 AM to 3 PM
+
+We will meet on site at 7:30 (early to take advantage of lower morning temperatures for construction).
+
+<!-- <div class="responsive-embed">
+<iframe src="https://www.google.com/maps/embed?pb=!1m26!1m12!1m3!1d148251.83648686708!2d-105.7937925080797!3d46.33200772602325!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m11!3e0!4m5!1s0x533a74406ac7caa9%3A0x4a90b94e8bbe51dc!2sBureau%20of%20Land%20Management%20Miles%20City%20Field%20Office%2C%20111%20Garryowen%20Rd%2C%20Miles%20City%2C%20MT%2059301!3m2!1d46.3979812!2d-105.86413859999999!4m3!3m2!1d46.2132751!2d-105.67494959999999!5e1!3m2!1sen!2sus!4v1659479357933!5m2!1sen!2sus" width="600" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
+Learn more about Pumpkin Creek [here]({{ site.baseurl }}/workshops/2022/BLM/pumpkin).
+<div align="center"><a class="hollow button" href="{{ site.baseurl }}/workshops/2022/BLM/pumpkin"><img width="100"  src="{{ site.baseurl }}/assets/images/workshops/2022/PumpkinCreek.png"> <br>Learn More about<br><b> Pumpkin Creek</b> </a> </div> -->
+
+-------
+
+# Course Materials
 
 
+### Slides, Videos & Handouts
 
 <div align="center">
-        <a class="hollow button" href="{{ site.baseurl }}/manual/">  Link to LTPBR Design Manual</a>  
+
+<a class="hollow button" href="{{ site.baseurl }}/workshops/2020/SGI/Modules/module1"><img src="{{ site.baseurl }}/assets/images/diagrams/presentation.png"> <b>Module 1 - Intro</b> <br> Slides  <i class="fa fa-file-pdf-o" aria-hidden="true"></i>, Recorded Lectures <i class="fa fa-youtube-play" aria-hidden="true"></i> and Exercises </a>
+
+<a class="hollow button" href="{{ site.baseurl }}/workshops/2020/SGI/Modules/module2"><img src="{{ site.baseurl }}/assets/images/diagrams/presentation.png"> <b>Module 2 - Science</b> <br> Slides  <i class="fa fa-file-pdf-o" aria-hidden="true"></i>, Recorded Lectures <i class="fa fa-youtube-play" aria-hidden="true"></i> and Exercises </a>
+
+<a class="hollow button" href="{{ site.baseurl }}/workshops/2020/SGI/Modules/module3"><img src="{{ site.baseurl }}/assets/images/diagrams/presentation.png"> <b>Module 3 - Planning</b> <br> Slides  <i class="fa fa-file-pdf-o" aria-hidden="true"></i>, Recorded Lectures <i class="fa fa-youtube-play" aria-hidden="true"></i> and Exercises </a>
+
+<a class="hollow button" href="{{ site.baseurl }}/workshops/2020/SGI/Modules/module4"><img src="{{ site.baseurl }}/assets/images/diagrams/presentation.png"> <b>Module 4 - Design</b> <br> Slides  <i class="fa fa-file-pdf-o" aria-hidden="true"></i>, Recorded Lectures <i class="fa fa-youtube-play" aria-hidden="true"></i> and Exercises </a>
+
+<a class="hollow button" href="{{ site.baseurl }}/workshops/2020/SGI/Modules/module5"><img src="{{ site.baseurl }}/assets/images/diagrams/presentation.png"> <b>Module 5 - Implementation</b> <br> Slides  <i class="fa fa-file-pdf-o" aria-hidden="true"></i>, Recorded Lectures <i class="fa fa-youtube-play" aria-hidden="true"></i> and Exercises </a>
+
 </div>
-<div align="center">
-        <a class="hollow button" href="{{ site.baseurl }}/resources/pocket">  Link to LTPBR Pocket Guide </a>  
-</div>
-<div align="center">
-        <a class="hollow button" href="{{ site.baseurl }}/resources/Topics/">  Link to Online Lecture Series </a>  
-</div>
-
-### Where to Meet
-**Tuesday June 07:**  9:00 AM @ Yakama Nation Closed Area: Tepee Creek LTPBR Staging Site <a href="https://goo.gl/maps/CmMJnzA51FPdyUnPA"> (46.139110, -121.070430) </a>
-
-**Wednesday June 08:**  8:30 AM @ Yakama Nation Closed Area: Tepee Creek LTPBR Staging Site <a href="https://goo.gl/maps/CmMJnzA51FPdyUnPA"> (46.139110, -121.070430)</a>
-
-Click on the map below for meeting and stop locations for the workshop.  
-
-<iframe src="https://www.google.com/maps/d/embed?mid=1osO0nGH5b8UVsUqsC4jaKB60fCYUbFzZ&ehbc=2E312F" width="640" height="480"></iframe>
-
-
-### How to Sign Up
-To sign up, please contact Adrianne Grimm <a href="mailto:agrimm@ykfp.org">(agrimm@ykfp.org)</a> or Jeanette Burkhardt <a href="mailto:jeanette@ykfp.org">(jeanette@ykfp.org)</a>. 
-
-### What to Bring
-- Closed toe footwear, clothes you can get dirty in
-- Wading boots or waders
-- Water, lunch
-- PPE (sun protection, ear protection, work gloves, eye protection, hard hat)
-- Some PPE will also be available on-site for work on day 2
-
-
-### COVID-19 Precautions 
-During the workshop, please follow state, local, and employer guidelines for social distancing and wearing masks. 
-
-### What Will Be Provided
-- LTPBR Manual and Pocket Guide
-- Restoration Tools (shovels, buckets, post pounder) and extra safety gear
-- Snacks
-- PPE if needed
-
-
------
-## Agenda
-- <a href="><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a> ***Print Agenda***
-
-### Day 1: Tuesday, June 7
-#### Meeting Location: Yakima Nation Closed Area: Tepee Creek LTPBR Project Staging Site 
-<a href="https://goo.gl/maps/CmMJnzA51FPdyUnPA"> (46.139110, -121.070430) </a>
-
-**9:00-9:50: Introductions, Agenda, & Goals of Workshop**
-
-Introductions, Goals, Agenda, and Logistics
-
-- Introductions
-- Goals/Agenda/Logistics 
-
-**9:50-1020: Background and Purpose** ([Pocket Guide]({{ site.baseurl }}/resources/pocket) p. 5-6, [Design Manual Ch.1]({{ site.baseurl }}/manual/chap01))
-
-Scope of Problem 
-- General degradation
-- Loss and importance of structure (beavers and wood)
-- What was lost?
-- Define process-based restoration (contrast with traditional) 
-
-**10:20-10:30: Break**
-
-**10:30-11:00: Guiding Principles** ([Pocket Guide]({{ site.baseurl }}/resources/pocket) p. 1-4, [Design Manual Ch.2]({{ site.baseurl }}/manual/chap02))
-
-- Riverscape Principles 
-- Restoration Principles 
-
-**11:00-12:00: Context and Conditions**  ([Pocket Guide]({{ site.baseurl }}/resources/pocket) p. 7-22, [Design Manual Ch. 3]({{ site.baseurl }}/manual/chap03))
-
-Connecting Observations with goals and objectives
-- What’s possible – identify valley bottom features, recovery potential, risk 
-- Condition assessment - flow regime, geomorphic, riparian, beaver, Uncertainty - adaptive management and expectation management 
-
-**12:00-1:00: Lunch**
-
-**1:00-1:30:  Low-tech Approaches and Structures**
-- Beaver ecology and management 
-- Low-tech toolbox – introduction to methods & structures
-
-**1:30-3:00: Designing Low-tech Restoration Structures**
-- Assessment of site/goals
-- Review existing design
-
-**3:00-4:30: Building Low-tech Restoration Structures**
-- Safety demonstration
-- Hands on building various structures 
-
-**4:30-5:00: Wrap up**
-- Case studies – success and challenges
-- Wrap up discussion and questions 
-
-
-
-
-### Day 2: Wednesday, June 8
-#### Meeting Location: Yakima Nation Closed Area: Tepee Creek LTPBR Project Staging Site 
-<a href="https://goo.gl/maps/CmMJnzA51FPdyUnPA"> (46.139110, -121.070430) </a>
-
-**8:30-3:30: Building Low-tech Restoration Structures**
-- Hands-on construction of various structures
-
-**3:30-5:00: Review of workshop and construction**
-- AS-BUILT review
-- Workshop synthesis (review principles) & where to turn for help
-
-
------
-## Course Materials
-
 
 ### Workshop Textbooks
-For the workshops, we will rely on the new [Design Manual]({{ site.baseurl }}/manual) and the [Pocket Guide]({{ site.baseurl }}/resources/pocket), which are both available free digitally.   A hard copy of both will be provided to you in person at the workshop.  
+**Mandatory Texts** - Free digital versions are available below. If you do not have hard copies, please have a PDF open in the background. For the field workshop, participants will be provided a hard copy of the Pocket Guide:  
+
+For the workshop, we rely on the a [Design Manual]({{ site.baseurl }}/manual) and the [Pocket Guide]({{ site.baseurl }}/resources/pocket), which  free electronic versions are below. Print copies of manual are available for ~ $60 [on Amazon](https://www.amazon.com/Low-Tech-Process-Based-Restoration-Riverscapes-Design/dp/1543972993/ref=sr_1_1?keywords=low+tech+process-based+restoration&qid=1558989073&s=gateway&sr=8-1) or [on BookBaby](https://store.bookbaby.com/bookshop/book/index.aspx?bookURL=Low-Tech-Process-Based-Restoration-of-Riverscapes) and waterproof versions of the pocket guide can be [purchased here](http://www.anabranchsolutions.com/store/p7/pocketguide.html). 
 
 
-### Workshop Lectures
-Thanks to the generous support of the Natural Resource Conservation Service’s Working Lands for Wildlife, and a grant through Pheasants Forever to Utah State University’s Restoration Consortium and Joe Wheaton’s ET-AL lab are able to deliver a free virtual workshops to NRCS conservationists and their partners. This series was envisioned by Jeremy Maestas (NRCS) and is possible thanks to partner matches by various local organizations in each state and matching funds from Utah State University. This grew out of the successful 2016 Enhancing Mesic Habitat Resilience in Sagebrush Ecosystems Workshop at Utah State University and the 2018 and 2019 workshop series.
+<a href="{{ site.baseurl }}/manual"><img class="float-right" src="{{ site.baseurl }}/assets/images/covers/Manual_Tilted_150.png"></a>
 
-The latest iteration of these is a lecture series designed to be presented virtually over five days. The link below provides access to all the lectures on each aspect of low-tech PBR (e.g., planning and assessment, design, implementation)  in video and pdf format. These resources will provide more detailed information and links to scientific literature than can be delivered in field-based format.  
+- <a href="http://dx.doi.org/10.13140/RG.2.2.19590.63049/2"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a> Wheaton J.M., Bennett S.N., Bouwes, N., Maestas J.D. and Shahverdian S.M. (Editors). 2019. [Low-Tech Process-Based Restoration of Riverscapes: Design Manual. Version 1.0]({{ site.baseurl }}/manual). Utah State University Restoration Consortium. Logan, UT. 286 pp. DOI: [10.13140/RG.2.2.19590.63049/2](http://dx.doi.org/10.13140/RG.2.2.19590.63049/2).
+
+<a href="{{ site.baseurl }}/resources/pocket"><img class="float-right" src="{{ site.baseurl }}/assets/images/covers/pocket_guide_cover_150w.png"></a>
+
+- <a href="http://dx.doi.org/10.13140/RG.2.2.28222.13123/1"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a> Wheaton JM, Wheaton A, Maestas J, Bennett S, Bouwes N, Shahveridan S, Camp R, Jordan C, Macfarlane W, Portugal E, Weber N. 2019. [Low-Tech Process-Based Restoration of Riverscapes: Pocket Field Guide]({{ site.baseurl }}/resources/pocke). [Utah State University Restoration Consortium](http://restoration.usu.edu). DOI: [10.13140/RG.2.2.28222.13123/1](http://dx.doi.org/10.13140/RG.2.2.28222.13123/1).
 
 
-<div align="left">
-        <a class="hollow button" href="{{ site.baseurl }}/resources/">  Link to LTPBR Resources </a>  
-</div>
-
-## Additional Resources
-
-### Tepee Creek LTPBR Design
-The following map outlines the locations of LTPBR structures on Tepee Creek. A full restoration design report can be found <a href="https://s3.us-west-2.amazonaws.com/etalweb.joewheaton.org/Workshops/LTPBR/2021/YakamaNation_TepeeCreek_80PercentDesignReport_Final.pdf"> here</a>. 
-
-<iframe src="https://www.google.com/maps/d/embed?mid=1Rd8iPyT1fQT-XaSkw43Yy18bfsJqckxq&ehbc=2E312F" width="640" height="480"></iframe>
-<div align="left">
-        <a class="hollow button" href="https://s3.us-west-2.amazonaws.com/etalweb.joewheaton.org/Workshops/LTPBR/2021/YakamaNation_TepeeCreek_80PercentDesignReport_Final.pdf">  LTPBR Tepee Creek Report</a>  
-</div>
-### Yakama Nation – Beaver Restoration Assessment Tool
-The Beaver Restoration Assessment Tool (BRAT) is a capacity model developed to assess the upper limits of riverscapes ability to support beaver dam-building activities. Both existing and historic capacity are estimated using readily available spatial datasets to evaluate five key lines of evidence: 1) a perennial water source, 2) availability of dam building materials, 3) ability to build a dam at baseflow, 4) likelihood of dams to withstand a typical flood, and 5) likelihood that stream gradient would limit or completely eliminate dam building by beaver.
-BRAT was ran for all the perennial rivers and streams within the Yakama Nation Reservation, which includes portions of the Lower Yakima, and Klickitat watersheds. The analysis also included the Rock Creek, White Salmon, Little White Salmon, and Wind River watersheds. Click on the below link to access the data.
-
-<div align="left">
-        <a class="hollow button" href="http://brat.riverscapes.xyz/Regions/USA/Yakama_Nation/">  Link to Yakama Nation BRAT data</a>  
-</div>
 
 -----
 
 ## Instruction Team
 
-<div class="row small-up-2 medium-up-2 large-up-4" align="left">
+####  Workshop
+<div class="row small-up-2 medium-up-2 large-up-4" align="center">
+
+  <div class="column column-block">
+    <a href="https://www.researchgate.net/profile/Stephen_Bennett8"><img src="{{ site.baseurl }}/assets/images/people/bennett-round_orig.png"></a>
+    <h4><a href="https://www.researchgate.net/profile/Stephen_Bennett8">Stephen N. Bennett<sup>1,2,3</sup></a></h4>
+    Ecologist, Adjunct Professor
+  </div>
+
+  <div class="column column-block">
+    <a href="https://www.researchgate.net/profile/Joseph_Wheaton"><img src="{{ site.baseurl }}/assets/images/people/Wheaton_round.png"></a>
+    <h4><a href="https://www.researchgate.net/profile/Joseph_Wheaton">Joseph Wheaton<sup>1,2</sup></a></h4>
+    Professor of Riverscapes
+  </div>
+
+
+</div>
+
+#### Virtual Instruction Team (virtual resources)
+<div class="row small-up-2 medium-up-2 large-up-4" align="center">
+
+  <div class="column column-block">
+    <a href="https://www.researchgate.net/profile/Mark_Beardsley"><img src="{{ site.baseurl }}/assets/images/people/beardsley-round.png"></a>
+    <h4><a href="https://www.researchgate.net/profile/Stephen_Bennett8">Mark Beardsley<sup>4</sup></a></h4>
+    Ecologist
+  </div>
+ <div class="column column-block">
+    <a href="https://www.researchgate.net/profile/Nick_Bouwes"><img src="{{ site.baseurl }}/assets/images/people/bouwes-round_1_orig.png"></a>
+    <h4><a href="https://www.researchgate.net/profile/Nick_Bouwes">Nicolaas Bouwes<sup>3,2,1</sup></a></h4>
+   Aquatic  Ecologist, Adjunct Professor
+  </div>
+
+<div class="column column-block">
+    <a href="http://bengoldfarb.com/"><img src="{{ site.baseurl }}/assets/images/people/Goldfarb_Round.png"></a>
+    <h4><a href="http://bengoldfarb.com/">Ben Goldfarb</a></h4>
+    Author, Environmental Journalist, & Beaver Believer
+  </div>
+
+<div class="column column-block">
+    <a href="https://www.researchgate.net/profile/Jeremy_Maestas"><img src="{{ site.baseurl }}/assets/images/people/Maestas_round.png"></a>
+    <h4><a href="https://www.researchgate.net/profile/Jeremy_Maestas">Jeremy Maestas<sup>5</sup></a></h4>
+    Ecologist
+  </div>
 
 
 <div class="column column-block">
-    <a href="https://www.anabranchsolutions.com/stephen-bennett.html"><img src="{{ site.baseurl }}/assets/images/people/Steve_Bennett_round.png"></a>
-    <h4><a href="https://www.anabranchsolutions.com/stephen-bennett.html">Stephen N. Bennett</a></h4>
-    Principal Fish & Wildlife Biologist, Anabranch Solutions
-<p>Research Scientist, USU</p>
+	<a href="https://www.researchgate.net/profile/Scott_Shahverdian"><img src="{{ site.baseurl }}/assets/images/people/shahverdian-round_1.png"></a>
+    <h4><a href="https://www.researchgate.net/profile/Scott_Shahverdian">Scott Shahveridan<sup>2,1</sup></a></h4>
+    Fluvial Geomorphologist
+  </div>
+
+   <div class="column column-block">
+    <a href="https://www.researchgate.net/profile/Colin_Thorne"><img src="{{ site.baseurl }}/assets/images/people/Colin_Round.png"></a>
+    <h4><a href="https://www.researchgate.net/profile/Colin_Thorne">Colin Thorne<sup>6</sup></a></h4>
+    Professor of Physical Geography
+  </div>
+
+   <div class="column column-block">
+    <a href="https://www.researchgate.net/profile/Nick_Weber2"><img src="{{ site.baseurl }}/assets/images/people/webber-round_1_orig.png"></a>
+    <h4><a href="https://www.researchgate.net/profile/Nick_Weber2">Nick Weber<sup>2,3,1</sup></a></h4>
+    Fish Ecologist 
+  </div>
+
+
+
+
+#### Instructor Affiliations
+
+<div class="row small-up-2 medium-up-2 large-up-5" align="center">
+  <div class="column column-block">
+    <a href="https://qcnr.usu.edu/wats/index"><img src="{{ site.baseurl }}/assets/images/sponsors/USU.png"></a>1. 
   </div>
   <div class="column column-block">
-    <a href="https://www.anabranchsolutions.com/joe-wheaton.html"><img src="{{ site.baseurl }}/assets/images/people/Wheaton_round.png"></a>
-    <h4><a href="https://www.anabranchsolutions.com/joe-wheaton.html">Joe Wheaton</a></h4>
-    Principal Geomorphologist, Anabranch Solutions
-    <p>Professor of Riverscapes, USU</p>
+	<a href="http://www.anabranchsolutions.com"><img src="{{ site.baseurl }}/assets/images/sponsors/anabranchsolutionslogo-square-450_10.png"></a><br>2. 
+
   </div>
-<div class="column column-block">
-    <a href="https://www.anabranchsolutions.com/andy-hill.html"><img src="{{ site.baseurl }}/assets/images/people/AndyHill_round-02-01.png"></a>
-    <h4><a href="https://www.anabranchsolutions.com/andy-hill.html">Andrew Hill</a></h4>
-    Spatial Ecologist & Designer, Anabranch Solutions
+   <div class="column column-block">
+    <a href="https://www.eco-logical-research.com/"><img src="{{ site.baseurl }}/assets/images/sponsors/ELR.png"></a><br>3.
 
   </div>
   <div class="column column-block">
-    <a href="https://www.anabranchsolutions.com/scott-nicolai.html"><img src="{{ site.baseurl }}/assets/images/people/nikolai-round.png"></a>
-    <h4><a href="https://www.anabranchsolutions.com/scott-nicolai.html">Scott Nicolail</a></h4>
-    Reverse Logging Expert
-
+    <a href="http://www.ecometricscolorado.net"><img src="{{ site.baseurl }}/assets/images/logos/EcoMetrics.png"></a><br>4.
   </div>
 
+
+
+   <div class="column column-block">
+    <a href="https://www.nrcs.usda.gov/wps/portal/nrcs/detailfull/national/about/leadership/centers/?cid=NRCS143_021469"><img src="{{ site.baseurl }}/assets/images/sponsors/usda-nrcs-logo_1_orig.png"></a><br>5.
+  </div>
+   <div class="column column-block">
+    <a href="https://www.nottingham.ac.uk/geography/"><img src="{{ site.baseurl }}/assets/images/logos/Nottingham_150.png"></a><br>6.
+  </div>
+
+
+</div>
+
+</div>
+
+----
+## Logistics
+### Registration
+Registration is free, but is by invitation only. Contact Jason Sweet for more information.
+
+
+### Lodging
+**BOOK BEFORE October 1, 2023** to secure discount rate!
+
+For those travelling to Manhattan, KS from out of town, we have secured a group rate at the [Holiday Inn on KSU Campus](https://www.ihg.com/holidayinn/hotels/us/en/manhattan/manhi/hoteldetail) for a discounted room rate of $107 for a King or Double Queen Deluxe. There are a variety of [other lodging options in Manhattan as well](https://www.google.com/travel/search?q=manhattan%20ks%20hotels&ap=MAFoAQ&ts=CAESCgoCCAMKAggDEAAaVAo2EjIyJTB4ODdiZGI3ZWY0NGMzNjMyZDoweGE5MTg1ZDQ4NzMxMmM3ZWY6CU1hbmhhdHRhbhoAEhoSFAoHCOcPEAoYFxIHCOcPEAoYGhgDMgIIASoJCgU6A1VTRBoA&g2lb=2502548%2C2503771%2C2503781%2C4258168%2C4270442%2C4284970%2C4291517%2C4306835%2C4515404%2C4597339%2C4649665%2C4703207%2C4718358%2C4722900%2C4723331%2C4741665%2C4757164%2C4758493%2C4762561%2C4779784%2C4786958%2C4787395%2C4790928%2C4794648%2C4797296&qs=CAEgASgAOA1IAA&ved=0CAAQ5JsGahcKEwjIscrYtpmBAxUAAAAAHQAAAAAQUw). 
+
+**RESERVATIONS**: Reservations should be made using the [Group Rate Link](https://www.holidayinn.com/redirect?path=hd&brandCode=HI&localeCode=en&regionCode=1&hotelCode=MANHI&_PMID=99801505&GPC=NRC&cn=no&viewfullsite=true) or using the Group Code **NRC**. Reservations must be made prior to October 1, 2023 to secure the group rate. 
+
+**CANCELLATION**: “No Show” and cancellation less than 48 hours prior to arrival will forfeit the individuals deposit. All guest rooms are non-smoking.
+
+### Field Gear
+This is a hands-on workshop. For the field portions, we will be hiking and working on real construction projects. Your safety is our top priority, but you are the most important person in ensuring your safety and comfort. So bring common sense. Our workshop is in the Fall in the mountains. You should be prepared for anything from sunny skies and sunburn, to snow and hypothermia (yes we’ve already had our first snow-storms, and yes we will work in the snow). We will be hiking through and doing work in small, wadeable streams. We **strongly recommend a pair of chest waders and wading boots**. It is also possible we will be building structures in a hot, dry creek with isolated pools, so come prepared for a variety of weather.  You also should bring whatever outdoor clothing and gear to keep yourself comfortable. Layers, coats, gloves, hats, sunglasses, sunscreen, and a dry change of clothes for afterwards are all a must. For Day 3, no open-toed shoes will be allowed. Where work clothing suitable for a construction site.
+
+We will provide you with basic personal protective equipment (PPEs like work gloves, eye protection, hard hats, ear protection). However, if you have any other
+
+If you have any allergies or medical conditions that we should be aware of, please notify your instructor.
+
+### Meals, Snacks
+
+Meals are provided with your registration to help us run the workshop more efficiently, as follows:
+- Day 1 (Classroom)
+	- Morning coffee and snacks *provided* 
+	- Lunch *provided* 
+	- Dinner *provided*
+- Day 2 (Classroom)
+	- Morning coffee and snacks *provided* 
+	- Lunch *provided* 
+	- On your own for dinner
+- Day 3 (Field Construction Day)
+	- No breakfast or coffee provided (come fueled up and caffinated)
+	- Bag lunches, snacks and beverages *provided* in field. Please bring your own water bottle. 
+	- On your own for dinner. 
+
+We will make sure that for snacks and meals there are some gluten-free options, but those with other dietary restrictions should make other arrangements. 
+
+### Emergency Preparedness
+In the event of an emergency, most of our field visits and the classroom at the fairgrounds should all have cell reception of dialing 911. We will have some First Responder certified participants and instructors, and we will have first aid kits available. The closest Emergency Room  is:
+
+[Holy Rosary Healthcare](https://www.sclhealth.org/locations/holy-rosary-healthcare/)- Emergency Room
+[2600 Wilson St](https://goo.gl/maps/PH7LCVTC22MHWVWL7), Miles City, MT 59301
+406-233-2600
+<div class="responsive-embed">
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6360.459093106841!2d-105.82996817676552!3d46.39429313153607!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x533a769d01e486f5%3A0x51f723df92556ff4!2s2600%20Wilson%20St%2C%20Miles%20City%2C%20MT%2059301!5e1!3m2!1sen!2sus!4v1659919671469!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
 
 
-
-
 -----
+
+
+<div align="center">
+        <a class="hollow button" href="{{ site.baseurl }}/workshops/"><i class="fa fa-graduation-cap"></i>  Back to Workshops </a>  
+</div>
