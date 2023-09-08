@@ -16,24 +16,17 @@ This workshop was held **August 9-11, 2022**. It was a mix of field and classroo
 
 # Manhattan, KS Low-Tech Process Based Restoration Field Workshop
 ### October 24-26, 2023
-<!-- 
-<a href="https://s3.us-west-2.amazonaws.com/etalweb.joewheaton.org/Workshops/LTPBR/2022/BLM_Story_0f_The_Week_LTPBR_Workshop_Oct2022.pdf"><img  class="float-right" src="{{ site.baseurl }}/assets/images/workshops/2022/BLM_Story.png"></a> This workshop was solicited by BLM's Alden Shallcross, the State Lead - Montana/Dakotas Aquatic Habitat Management Program. The workshop was made possible thanks to the generous support of the [BLM Montana/Dakotas](https://www.blm.gov/montana-dakotas), and a grant  to [Utah State University's Restoration Consortium](http://restoration.usu.edu/) and [Joe Wheaton's](http://joewheaton.org/) [ET-AL lab](http://etal.joewheaton.org/).  The workshop content grew out of over 20 [LTPBR workshops]({{ site.baseurl }}/workshops/) taught by  Utah State University and the online modules were developed in  [2020]({{ site.baseurl }}/workshops/2020/SGI/) for an NRCS Working Lands for Wildlife workshop series. 
 
-See the ["Teaching While Doing" summary](https://s3.us-west-2.amazonaws.com/etalweb.joewheaton.org/Workshops/LTPBR/2022/BLM_Story_0f_The_Week_LTPBR_Workshop_Oct2022.pdf) put together by our amazing local Miles City Field Office  workshop hosts, including Christina Stuart, Christopher Morris and Dan Fox, as well as State Aquatics Lead, Alden Shallcross. [**→**](https://s3.us-west-2.amazonaws.com/etalweb.joewheaton.org/Workshops/LTPBR/2022/BLM_Story_0f_The_Week_LTPBR_Workshop_Oct2022.pdf) -->
-
+This workshop is hosted by Ducks Unlimited, Kansas Alliance for Wetland & Streams, Juniper Environmental. The workshop was made possible thanks to the generous support of the Natural Resource Conservation Service. The workshop content grew out of over 20 [LTPBR workshops]({{ site.baseurl }}/workshops/) taught by  Utah State University and the online modules were developed in  [2020]({{ site.baseurl }}/workshops/2020/SGI/) for an NRCS Working Lands for Wildlife workshop series. 
 
 ## Workshop Description
-This workshop will introduce participants to ‘low-tech’ process-based approaches for restoring streams and their associated riparian areas (riverscapes) to benefit fish, wildlife, and working lands. Participants will learn principles guiding low-tech process-based restoration and become familiar with simple, hand-built tools, including Beaver Dam Analogues (BDAs) and Post-Assisted Log Structures (PALS), intended to mimic and promote specific ecosystem processes. Participants will gain basic skills in the planning, design, and implementation phases of project development. Course content is supported by a published [Design Manual]({{ site.baseurl }}/manual/).  Instruction will be a mix of lectures, discussions, hands-on exercises at the desktop and in the field. Learning will culminate on Day 3 in construction of LTPBR structures on [Pumpkin Creek]({{ site.baseurl }}/workshops/2022/BLM/pumpkin).
-
-<!-- ## Audience
-The target audience for the virtual field workshop is Montana-Dakota BLM Field Staff and their conservation partners interested in improving the health of riverscapes BLM manages with low-tech PBR. -->
-
+This workshop will introduce participants to ‘low-tech’ process-based approaches for restoring streams and their associated riparian areas (riverscapes) to benefit fish, wildlife, and working lands. Participants will learn principles guiding low-tech process-based restoration and become familiar with simple, hand-built tools, including Beaver Dam Analogues (BDAs) and Post-Assisted Log Structures (PALS), intended to mimic and promote specific ecosystem processes. Participants will gain basic skills in the planning, design, and implementation phases of project development. Course content is supported by a published [Design Manual]({{ site.baseurl }}/manual/).  Instruction will be a mix of lectures, discussions, hands-on exercises at the desktop and in the field. Learning will culminate on Day 3 in construction of LTPBR structures just outside of Manhattan, KS. 
 
 ------
 # Agenda
 
 #### Classroom Instruction - Days 1 & 2
-- Day 1: **Introduction to Low-Tech Process-Based Restoration** and **Underlying Science & Case Studies for Low-Tech** - (local field trip; mostly class-room in Manhattan, KS)  - 9 AM to 5 PM with evening dinner starting at 6:30
+- Day 1 - **Introduction to Low-Tech Process-Based Restoration** and **Underlying Science & Case Studies for Low-Tech** - (local field trip; mostly class-room in Manhattan, KS)  - 9 AM to 5 PM with evening dinner starting at 6:30
 - Day 2 - **Planning Low-Tech Process-Based Restoration** and **Designing Low-Tech Process-Based Restoration**  (all class-room in Manhattan, KS) - 9 AM to 5 PM
   
 
@@ -87,9 +80,7 @@ Learn more about Pumpkin Creek [here]({{ site.baseurl }}/workshops/2022/BLM/pump
 </div>
 
 ### Workshop Textbooks
-**Mandatory Texts** - Free digital versions are available below. If you do not have hard copies, please have a PDF open in the background. For the field workshop, participants will be provided a hard copy of the Pocket Guide:  
-
-For the workshop, we rely on the a [Design Manual]({{ site.baseurl }}/manual) and the [Pocket Guide]({{ site.baseurl }}/resources/pocket), which  free electronic versions are below. Print copies of manual are available for ~ $60 [on Amazon](https://www.amazon.com/Low-Tech-Process-Based-Restoration-Riverscapes-Design/dp/1543972993/ref=sr_1_1?keywords=low+tech+process-based+restoration&qid=1558989073&s=gateway&sr=8-1) or [on BookBaby](https://store.bookbaby.com/bookshop/book/index.aspx?bookURL=Low-Tech-Process-Based-Restoration-of-Riverscapes) and waterproof versions of the pocket guide can be [purchased here](http://www.anabranchsolutions.com/store/p7/pocketguide.html). 
+**Mandatory Texts** - Free digital versions are available below and hard copies of the [Design Manual]({{ site.baseurl }}/manual) and the [Pocket Guide]({{ site.baseurl }}/resources/pocket) will be provided to course participants. <!-- Print copies of manual are available for ~ $60 [on Amazon](https://www.amazon.com/Low-Tech-Process-Based-Restoration-Riverscapes-Design/dp/1543972993/ref=sr_1_1?keywords=low+tech+process-based+restoration&qid=1558989073&s=gateway&sr=8-1) or [on BookBaby](https://store.bookbaby.com/bookshop/book/index.aspx?bookURL=Low-Tech-Process-Based-Restoration-of-Riverscapes) and waterproof versions of the pocket guide can be [purchased here](http://www.anabranchsolutions.com/store/p7/pocketguide.html). -->
 
 
 <a href="{{ site.baseurl }}/manual"><img class="float-right" src="{{ site.baseurl }}/assets/images/covers/Manual_Tilted_150.png"></a>
@@ -105,6 +96,8 @@ For the workshop, we rely on the a [Design Manual]({{ site.baseurl }}/manual) an
 -----
 
 ## Instruction Team
+
+<!-- not sure who to count on being on the instruction team at this point or if the online team should be included -->
 
 ####  Workshop
 <div class="row small-up-2 medium-up-2 large-up-4" align="center">
@@ -244,7 +237,7 @@ Meals are provided with your registration to help us run the workshop more effic
 
 We will make sure that for snacks and meals there are some gluten-free options, but those with other dietary restrictions should make other arrangements. 
 
-### Emergency Preparedness
+<!--- WAITING ON FIELD SITE LOCATION TO FIND CLOSEST HOSPITAL ### Emergency Preparedness
 In the event of an emergency, most of our field visits and the classroom at the fairgrounds should all have cell reception of dialing 911. We will have some First Responder certified participants and instructors, and we will have first aid kits available. The closest Emergency Room  is:
 
 [Holy Rosary Healthcare](https://www.sclhealth.org/locations/holy-rosary-healthcare/)- Emergency Room
@@ -252,7 +245,7 @@ In the event of an emergency, most of our field visits and the classroom at the 
 406-233-2600
 <div class="responsive-embed">
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6360.459093106841!2d-105.82996817676552!3d46.39429313153607!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x533a769d01e486f5%3A0x51f723df92556ff4!2s2600%20Wilson%20St%2C%20Miles%20City%2C%20MT%2059301!5e1!3m2!1sen!2sus!4v1659919671469!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-</div>
+</div> -->
 
 
 
