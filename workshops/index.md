@@ -51,7 +51,7 @@ See our [University courses]({{ site.baseurl }}/workshops/uni) for a full listin
 
 | Year  | Workshop | Location(s) | Sponsor(s) |
 | ------ | ------ | ------ | ------ |
-| 2023, October 24-26|Juniper Environmental CIG Kansas LTPBR of Riverscapes Workshop|Manhattan, KS|Juniper Environmental|
+| 2023, October 24-26| [Manhattan, KS GIS LTPBR of Riverscapes Workshop|Manhattan, KS|Juniper Environmental, Kansas Alliance for Wetlands & Streams, & Ducks Unlimited]({{site.baseurl}}/workshops/2023/manhattan/)|
 | 2022, August 9-11 | [Montana-Dakotas Bureau of Land Management - LTPBR of Riverscapes Workshop]({{ site.baseurl }}/workshops/2022/BLM/)  | Miles City, MT | [BLM Montana-Dakotas](https://www.blm.gov/montana-dakotas)   |
 | 2022,   March 2 | [American Fisheries Society Virtual Workshop: Low-Tech Process-Based Restoration of Riverscapes]({{ site.baseurl }}/workshops/2022/Anabranch/AFS/) | virtual           | [American Fisheries Society](https:/fisheries.org/), [USFWS Partners for Fish & Wildlife](https://www.fws.gov/partners/), [Pheasants Forever](https://pheasantsforever.org/Hunt/pheasant-hunting.aspx), [Conservation Northwest](https://www.conservationnw.org/),[USDA](https://www.nrcs.usda.gov/wps/portal/nrcs/site/national/home/), [Anabranch Solutions](https://www.anabranchsolutions.com/) |
 | 2021, October 12 & 13 | [Klickitat River Watershed Intro to Low-Tech Process-Based Restoration of Riverscapes - Field-Based Workshop]({{ site.baseurl }}/workshops/2021/Anabranch/Klickitat/) | Tepee Creek, WA  ||
