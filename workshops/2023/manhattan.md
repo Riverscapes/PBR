@@ -36,7 +36,7 @@ Days 1 & 2 will be held at the Kansas State University Alumni Center
 	<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12369.9166170266!2d-96.5843165!3d39.1865599!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87bdcd85f825bb15%3A0x1ea76923bf97904!2sKSU%20Alumni%20Center!5e0!3m2!1sen!2sus!4v1694120909898!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
-#### Day 1 Evening Dinner Social - Location TBD
+#### Day 1 Evening Dinner Social - [Blue Earth Plaza](https://goo.gl/maps/TBZu7jAQH3hSoTrr7) 
 <a href="https://www.anabranchsolutions.com/"><img width="100" class="float-right" src="{{ site.baseurl }}/assets/images/sponsors/anabranchsolutionslogo-square-450_10.png"></a> 
 We will enjoy an evening dutch oven dinner sponsored by [Anabranch Solutions](https://www.anabranchsolutions.com/). Please show up at the Blue Earth Plaza any time between 6:00 and 6:45 PM. Dinner will begin being served around 6:45ish PM, and we will hear rancher [Jay Wilde's story]({{ site.baseurl }}/resources/casestudies/birch) of bringing back beaver to his ranch beginning at 7:00. We will wrap sometime between 8:30 and 9:00. 
 
