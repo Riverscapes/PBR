@@ -33,20 +33,18 @@ This workshop will introduce participants to ‘low-tech’ process-based approa
 
 Days 1 & 2 will be held at the Kansas State University Alumni Center
 <div class="responsive-embed">
-	<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12369.9166170266!2d-96.5843165!3d39.1865599!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87bdcd85f825bb15%3A0x1ea76923bf97904!2sKSU%20Alumni%20Center!5e0!3m2!1sen!2sus!4v1694120909898!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12369.9166170266!2d-96.5843165!3d39.1865599!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87bdcd85f825bb15%3A0x1ea76923bf97904!2sKSU%20Alumni%20Center!5e0!3m2!1sen!2sus!4v1694120909898!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
 </div>
 
 #### Day 1 Evening Dinner Social - [Blue Earth Plaza](https://goo.gl/maps/TBZu7jAQH3hSoTrr7) 
-<!-- <a href="https://www.anabranchsolutions.com/"><img width="100" class="float-right" src="{{ site.baseurl }}/assets/images/sponsors/anabranchsolutionslogo-square-450_10.png"></a> -->
 We will enjoy an evening dinner at the Blue Earth Plaza. Please arrive any time between 6:00 and 6:45 PM. Dinner will begin being served around 6:45ish PM, and we will hear rancher [Jay Wilde's story]({{ site.baseurl }}/resources/casestudies/birch) of bringing back beaver to his ranch beginning at 7:00. We will wrap sometime between 8:30 and 9:00. 
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12371.793558228394!2d-96.5599392!3d39.175894!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87bdd28a5bee85fb%3A0x21f69e2c4546ce7f!2sBlue%20Earth%20Plaza!5e0!3m2!1sen!2sus!4v1694617116916!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 <div align="center"><a class="hollow button" href="{{ site.baseurl }}/resources/casestudies/birch"><img width="100"  src="{{ site.baseurl }}/assets/images/people/Wilde_round.png"> <br>Learn More about<br><b> Jay Wilde's Birch Creek Story</b> </a> </div>
 
-<div class="responsive-embed">
-	<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5502.4507048263895!2d-105.8535909321097!3d46.404587297221084!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x533a7416f1faad0b%3A0x7c9d5805be0fcbd7!2sRiverside%20Park%2C%20Miles%20City%2C%20MT%2059301!5e0!3m2!1sen!2sus!4v1659479470354!5m2!1sen!2sus" width="600" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-</div> -->
 
 #### Construction - Day 3 - Location TDB
 - Day 3 -  **Implementing Low-Tech Process-Based Restoration** (field all-day)  - 7:30 AM to 3 PM
@@ -122,6 +120,13 @@ Learn more about Pumpkin Creek [here]({{ site.baseurl }}/workshops/2022/BLM/pump
     Fluvial Geomorphologist
   </div>
 
+<div class="column column-block">
+    <a href="https://www.researchgate.net/profile/Jeremy_Maestas"><img src="{{ site.baseurl }}/assets/images/people/Maestas_round.png"></a>
+    <h4><a href="https://www.researchgate.net/profile/Jeremy_Maestas">Jeremy Maestas<sup>4</sup></a></h4>
+    Ecologist
+  </div>
+
+
 </div>
 
 <!--- #### Virtual Instruction Team (virtual resources)
@@ -184,15 +189,17 @@ Learn more about Pumpkin Creek [here]({{ site.baseurl }}/workshops/2022/BLM/pump
   </div>
    <div class="column column-block">
     <a href="https://www.eco-logical-research.com/"><img src="{{ site.baseurl }}/assets/images/sponsors/ELR.png"></a><br>3.
+
+   <div class="column column-block">
+    <a href="https://www.nrcs.usda.gov/wps/portal/nrcs/detailfull/national/about/leadership/centers/?cid=NRCS143_021469"><img src="{{ site.baseurl }}/assets/images/sponsors/usda-nrcs-logo_1_orig.png"></a><br>4.
+  </div>    
 <!--
   </div>
   <div class="column column-block">
     <a href="http://www.ecometricscolorado.net"><img src="{{ site.baseurl }}/assets/images/logos/EcoMetrics.png"></a><br>4.
   </div>
 
-   <div class="column column-block">
-    <a href="https://www.nrcs.usda.gov/wps/portal/nrcs/detailfull/national/about/leadership/centers/?cid=NRCS143_021469"><img src="{{ site.baseurl }}/assets/images/sponsors/usda-nrcs-logo_1_orig.png"></a><br>5.
-  </div>
+
    <div class="column column-block">
     <a href="https://www.nottingham.ac.uk/geography/"><img src="{{ site.baseurl }}/assets/images/logos/Nottingham_150.png"></a><br>6.
   </div>
