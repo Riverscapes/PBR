@@ -37,8 +37,8 @@ Days 1 & 2 will be held at the Kansas State University Alumni Center
 </div>
 
 #### Day 1 Evening Dinner Social - [Blue Earth Plaza](https://goo.gl/maps/TBZu7jAQH3hSoTrr7) 
-<a href="https://www.anabranchsolutions.com/"><img width="100" class="float-right" src="{{ site.baseurl }}/assets/images/sponsors/anabranchsolutionslogo-square-450_10.png"></a> 
-We will enjoy an evening dutch oven dinner sponsored by [Anabranch Solutions](https://www.anabranchsolutions.com/). Please show up at the Blue Earth Plaza any time between 6:00 and 6:45 PM. Dinner will begin being served around 6:45ish PM, and we will hear rancher [Jay Wilde's story]({{ site.baseurl }}/resources/casestudies/birch) of bringing back beaver to his ranch beginning at 7:00. We will wrap sometime between 8:30 and 9:00. 
+<!-- <a href="https://www.anabranchsolutions.com/"><img width="100" class="float-right" src="{{ site.baseurl }}/assets/images/sponsors/anabranchsolutionslogo-square-450_10.png"></a> -->
+We will enjoy an evening dinner at the Blue Earth Plaza. Please arrive any time between 6:00 and 6:45 PM. Dinner will begin being served around 6:45ish PM, and we will hear rancher [Jay Wilde's story]({{ site.baseurl }}/resources/casestudies/birch) of bringing back beaver to his ranch beginning at 7:00. We will wrap sometime between 8:30 and 9:00. 
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12371.793558228394!2d-96.5599392!3d39.175894!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87bdd28a5bee85fb%3A0x21f69e2c4546ce7f!2sBlue%20Earth%20Plaza!5e0!3m2!1sen!2sus!4v1694617116916!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
@@ -115,11 +115,16 @@ Learn more about Pumpkin Creek [here]({{ site.baseurl }}/workshops/2022/BLM/pump
     <h4><a href="https://www.researchgate.net/profile/Joseph_Wheaton">Joseph Wheaton<sup>1,2</sup></a></h4>
     Professor of Riverscapes
   </div>
-
+  
+<div class="column column-block">
+	<a href="https://www.researchgate.net/profile/Scott_Shahverdian"><img src="{{ site.baseurl }}/assets/images/people/shahverdian-round_1.png"></a>
+    <h4><a href="https://www.researchgate.net/profile/Scott_Shahverdian">Scott Shahveridan<sup>2,1</sup></a></h4>
+    Fluvial Geomorphologist
+  </div>
 
 </div>
 
-#### Virtual Instruction Team (virtual resources)
+<!--- #### Virtual Instruction Team (virtual resources)
 <div class="row small-up-2 medium-up-2 large-up-4" align="center">
 
   <div class="column column-block">
@@ -163,7 +168,7 @@ Learn more about Pumpkin Creek [here]({{ site.baseurl }}/workshops/2022/BLM/pump
     <h4><a href="https://www.researchgate.net/profile/Nick_Weber2">Nick Weber<sup>2,3,1</sup></a></h4>
     Fish Ecologist 
   </div>
-
+--->
 
 
 
@@ -179,13 +184,11 @@ Learn more about Pumpkin Creek [here]({{ site.baseurl }}/workshops/2022/BLM/pump
   </div>
    <div class="column column-block">
     <a href="https://www.eco-logical-research.com/"><img src="{{ site.baseurl }}/assets/images/sponsors/ELR.png"></a><br>3.
-
+<!--
   </div>
   <div class="column column-block">
     <a href="http://www.ecometricscolorado.net"><img src="{{ site.baseurl }}/assets/images/logos/EcoMetrics.png"></a><br>4.
   </div>
-
-
 
    <div class="column column-block">
     <a href="https://www.nrcs.usda.gov/wps/portal/nrcs/detailfull/national/about/leadership/centers/?cid=NRCS143_021469"><img src="{{ site.baseurl }}/assets/images/sponsors/usda-nrcs-logo_1_orig.png"></a><br>5.
@@ -193,7 +196,7 @@ Learn more about Pumpkin Creek [here]({{ site.baseurl }}/workshops/2022/BLM/pump
    <div class="column column-block">
     <a href="https://www.nottingham.ac.uk/geography/"><img src="{{ site.baseurl }}/assets/images/logos/Nottingham_150.png"></a><br>6.
   </div>
-
+-->
 
 </div>
 
