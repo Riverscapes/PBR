@@ -32,18 +32,17 @@ Check out the condensed, Cliff-Notes version of the manual in our new [Pocket Gu
 
 <div align="center">
 <a class=" hollow button" href="{{ site.baseurl }}/workshops/"><img src="{{ site.baseurl }}/assets/images/PBR-LT_round_30.png"> <b>Workshop and Short Courses</b><br> See all past and scheduled trainings  </a>
-<a class=" button hollow" href="{{ site.baseurl }}/workshops/2023/USU/"><img width="100" src="{{ site.baseurl }}/assets/images/sponsors/USU.png">   <b>Register for LTPBR Courses</b><br>  for University Credit or Professional CEU  <i class="fa fa-graduation-cap"></i>  </a>
+<a class=" button hollow" href="{{ site.baseurl }}/workshops/2024/USU/"><img width="100" src="{{ site.baseurl }}/assets/images/sponsors/USU.png">   <b>Register for LTPBR Courses</b><br>  for University Credit or Professional CEU  <i class="fa fa-graduation-cap"></i>  </a>
 </div>
-The next publicly offered classes will be in Spring 2023. Check back in November for Registration Information. 
+The next publicly offered classes will be in Spring 2024. Check back in November for Registration Information. 
 
 <!---- 
 
-TO UPDATE FOR SPRING 2023 WHEN READY
+TO UPDATE FOR SPRING 2024 WHEN READY
 <div align="center">
-<a class=" button hollow" href="{{ site.baseurl }}/workshops/2023/USU"><img width="100" src="{{ site.baseurl }}/assets/images/sponsors/USU.png">   <b>Register for Spring 2023 LTPBR Courses</b><br>  for University Credit or Professional CEU  <i class="fa fa-graduation-cap"></i>  </a>
+<a class=" button hollow" href="{{ site.baseurl }}/workshops/2024/USU"><img width="100" src="{{ site.baseurl }}/assets/images/sponsors/USU.png">   <b>Register for Spring 2024 LTPBR Courses</b><br>  for University Credit or Professional CEU  <i class="fa fa-graduation-cap"></i>  </a>
 </div>
 -->
 
-[![]({{ site.baseurl }}/assets/images/courses/Spring.png)]({{ site.baseurl }}/workshops/2023/USU)
-
+[![]({{ site.baseurl }}/assets/images/courses/Spring.png)]({{ site.baseurl }}/workshops/2024/USU)
 
