@@ -7,7 +7,7 @@ weight: 1
 
 All of our six popular LTPBR courses  are being offered as 1 credit (1.5 CEU) courses offered in series over Spring Semester.  Matriculated students register in [banner](http://banner.usu.edu).  
 
-<a href="https://www.blm.gov/"><img class="float-left" src="{{ site.baseurl }}/assets/images/sponsors/blm.png"></a>   <a href="https://www.nrcs.usda.gov/wps/portal/nrcs/detailfull/national/programs/initiatives/?cid=steldevb1027671"><img class="float-left" src="{{ site.baseurl }}/assets/images/sponsors/usda-nrcs-logo_1_orig.png"></a>For the first time, in 2024 this series  will be packaged as Level 1 (WATS 5620, 5622, 5623) and Level 2 (WATS 5621, 5624, 5625) training certifications to align with the Bureau of Land Management and the Natural Resources Conservation Services respective National Techncial Training Centers. Details forthcoming. 
+
 
 ![]({{ site.baseurl }}/assets/images/courses/Spring.png)
 
@@ -28,7 +28,9 @@ _Click on course titles for syllabi._
 
 ## For Professionals
 
-Non-matriculated students can take the classes for a direct fee through our Continuing Education Unit system. Registration is now closed for 2024 courses. 
+Non-matriculated students can take the classes for a direct fee through our Continuing Education Unit system. 
+
+<a href="https://www.blm.gov/"><img class="float-left" src="{{ site.baseurl }}/assets/images/sponsors/blm.png"></a>   <a href="https://www.nrcs.usda.gov/wps/portal/nrcs/detailfull/national/programs/initiatives/?cid=steldevb1027671"><img class="float-left" src="{{ site.baseurl }}/assets/images/sponsors/usda-nrcs-logo_1_orig.png"></a>For the first time, in 2024 this series  will be packaged as Level 1 (WATS 5620, 5622, 5623) and Level 2 (WATS 5621, 5624, 5625) training certifications to align with the Bureau of Land Management and the Natural Resources Conservation Services respective National Techncial Training Centers. Details forthcoming. 
 
 | Course # |  Course Title | Registration Cost & Link | CRN |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------|---|---|---|
