@@ -16,16 +16,9 @@ This workshop was held **August 9-11, 2022**. It was a mix of field and classroo
 
 # Manhattan, KS Low-Tech Process Based Restoration Field Workshop
 
-<div class="panel panel-danger">
-**Please Read**
-{: .panel-heading}
-<div class="panel-body">
 
-As of now, we are planning on the October workshop taking place October 24-26. However, 27 of the 50 attendees are in Federal Government, so depending on the occurrence and or duration of a potential shutdown, we will revisit whether or not the event will be held over the next few weeks. We would advise people to make or revise travel plans with some flexibility in mind. If the shutdown does impact the ability of our Federal partners to participate, we will postpone the workshop. Thank you for your patience and understanding.
-
-</div>
-</div>
-
+>[!IMPORTANT]
+> As of now, we are planning on the October workshop taking place October 24-26. However, 27 of the 50 attendees are in Federal Government, so depending on the occurrence and or duration of a potential shutdown, we will revisit whether or not the event will be held over the next few weeks. We would advise people to make or revise travel plans with some flexibility in mind. If the shutdown does impact the ability of our Federal partners to participate, we will postpone the workshop. Thank you for your patience and understanding.
 
 
 ### October 24-26, 2023
