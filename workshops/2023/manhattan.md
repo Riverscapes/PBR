@@ -18,7 +18,7 @@ This workshop was held **August 9-11, 2022**. It was a mix of field and classroo
 
 >**Important, Please Read**
 >----
-> UPDATE - **The Manhattan, KS workshop will be held as planned Oct 24-26, 2023 due to the Continuing Resolution passed 9/30/2023. We look forward to seeing you all. 
+> UPDATE - **The Manhattan, KS workshop will be held as planned Oct 24-26, 2023** due to the Continuing Resolution passed 9/30/2023. We look forward to seeing you all. 
 
 
 ### October 24-26, 2023
