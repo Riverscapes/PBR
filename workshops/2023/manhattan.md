@@ -116,7 +116,7 @@ We will meet at 7:30 at the construction site near Garfield, KS: [38.827883 N, -
   </div>
 
 <div class="column column-block">
-    <a<img src="{{ site.baseurl }}/assets/images/people/shore_round.png"></a>
+    <img src="{{ site.baseurl }}/assets/images/people/shore_round.png">
     <h4><a href="https://qcnr.usu.edu/directory/wats/staff/shore-dominique">Dominique Shore<sup>1</sup></a></h4>
     Fluvial Geomorphologist
   </div>
@@ -130,7 +130,7 @@ We will meet at 7:30 at the construction site near Garfield, KS: [38.827883 N, -
 <div class="row small-up-2 medium-up-2 large-up-5" align="center">
   <div class="column column-block">
     <a href="https://qcnr.usu.edu/wats/index"><img src="{{ site.baseurl }}/assets/images/sponsors/USU.png"></a>1. 
-  </div>
+
   <div class="column column-block">
 	<a href="http://www.anabranchsolutions.com"><img src="{{ site.baseurl }}/assets/images/sponsors/anabranchsolutionslogo-square-450_10.png"></a><br>2. 
 
