@@ -51,7 +51,7 @@ We will enjoy an evening dinner at the Blue Earth Plaza. Please arrive any time 
 <div align="center"><a class="hollow button" href="{{ site.baseurl }}/resources/casestudies/birch"><img width="100"  src="{{ site.baseurl }}/assets/images/people/Wilde_round.png"> <br>Learn More about<br><b> Jay Wilde's Birch Creek Story</b> </a> </div>
 
 
-#### Construction - Day 3 - Location TDB
+#### Construction - Day 3 
 - Day 3 -  **Implementing Low-Tech Process-Based Restoration** (field all-day)  - 7:30 AM to 3 PM
 
 We will meet at 7:30 at the construction site near Garfield, KS: [38.827883 N, -96.489273 W](https://maps.app.goo.gl/oc63Z4CUgSiewCBh9). The site is a ~50 minute drive from Manhattan, KS. 
