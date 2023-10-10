@@ -138,6 +138,7 @@ We will meet at 7:30 at the construction site near Garfield, KS: [38.827883 N, -
     <a href="https://www.nrcs.usda.gov/wps/portal/nrcs/detailfull/national/about/leadership/centers/?cid=NRCS143_021469"><img src="{{ site.baseurl }}/assets/images/sponsors/usda-nrcs-logo_1_orig.png"></a><br>3.
   </div>    
 
+</div>
 
 </div>
 
