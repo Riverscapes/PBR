@@ -54,11 +54,11 @@ We will enjoy an evening dinner at the Blue Earth Plaza. Please arrive any time 
 #### Construction - Day 3 
 - Day 3 -  **Implementing Low-Tech Process-Based Restoration** (field all-day)  - 7:30 AM to 3 PM
 
-We will meet at 7:30 at the construction site near Garfield, KS: [38.827883 N, -96.489273 W](https://maps.app.goo.gl/oc63Z4CUgSiewCBh9). The site is a ~50 minute drive from Manhattan, KS. 
+We will meet at 7:30 at the construction site near Alta Vista, KS: [38.827883 N, -96.489273 W](https://maps.app.goo.gl/oc63Z4CUgSiewCBh9). The site is a ~50 minute drive from Manhattan, KS. 
 
  
 <div class="responsive-embed">
-<iframe src="https://www.google.com/maps/embed?pb=!1m26!1m12!1m3!1d198428.98076204924!2d-96.75311784953598!3d39.00498273454498!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m11!3e0!4m5!1s0x87bdb7ef44c3632d%3A0xa9185d487312c7ef!2sManhattan%2C%20KS!3m2!1d39.183608199999995!2d-96.57166939999999!4m3!3m2!1d38.827883!2d-96.489273!5e0!3m2!1sen!2sus!4v1696951024853!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m26!1m12!1m3!1d198428.98062180122!2d-96.75311784953587!3d39.004982784544744!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m11!3e0!4m5!1s0x87bdb7ef44c3632d%3A0xa9185d487312c7ef!2sManhattan%2C%20KS!3m2!1d39.183608199999995!2d-96.57166939999999!4m3!3m2!1d38.8278889!2d-96.4892778!5e0!3m2!1sen!2sus!4v1696957031456!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
 -------
