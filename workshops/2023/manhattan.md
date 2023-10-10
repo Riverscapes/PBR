@@ -16,11 +16,6 @@ This workshop was held **August 9-11, 2022**. It was a mix of field and classroo
 
 # Manhattan, KS Low-Tech Process Based Restoration Field Workshop
 
->**Important, Please Read**
->----
-> UPDATE - **The Manhattan, KS workshop will be held as planned Oct 24-26, 2023** due to the Continuing Resolution passed 9/30/2023. We look forward to seeing you all. 
-
-
 ### October 24-26, 2023
 
 This workshop is hosted by Ducks Unlimited, Kansas Alliance for Wetland & Streams, Juniper Environmental. The workshop was made possible thanks to the generous support of the Natural Resource Conservation Service. The workshop content grew out of over 20 [LTPBR workshops]({{ site.baseurl }}/workshops/) taught by  Utah State University and the online modules were developed in  [2020]({{ site.baseurl }}/workshops/2020/SGI/) for an NRCS Working Lands for Wildlife workshop series. 
@@ -45,9 +40,13 @@ Days 1 & 2 will be held at the Kansas State University Alumni Center
 </div>
 
 #### Day 1 Evening Dinner Social - [Blue Earth Plaza](https://goo.gl/maps/TBZu7jAQH3hSoTrr7) 
-We will enjoy an evening dinner at the Blue Earth Plaza. Please arrive any time between 6:00 and 6:45 PM. Dinner will begin being served around 6:45ish PM, and we will hear rancher [Jay Wilde's story]({{ site.baseurl }}/resources/casestudies/birch) of bringing back beaver to his ranch beginning at 7:00. We will wrap sometime between 8:30 and 9:00. 
+We will enjoy an evening dinner at the Blue Earth Plaza. Please arrive any time between 6:00 and 6:30 PM. Dinner will begin being served around 6:30ish PM, and we will hear rancher [Jay Wilde's story]({{ site.baseurl }}/resources/casestudies/birch) of bringing back beaver to his ranch beginning at 7:00. We will wrap sometime between 8:30 and 9:00. 
+
+<div class="responsive-embed">
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12371.793558228394!2d-96.5599392!3d39.175894!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87bdd28a5bee85fb%3A0x21f69e2c4546ce7f!2sBlue%20Earth%20Plaza!5e0!3m2!1sen!2sus!4v1694617116916!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+</div>
 
 <div align="center"><a class="hollow button" href="{{ site.baseurl }}/resources/casestudies/birch"><img width="100"  src="{{ site.baseurl }}/assets/images/people/Wilde_round.png"> <br>Learn More about<br><b> Jay Wilde's Birch Creek Story</b> </a> </div>
 
@@ -55,14 +54,12 @@ We will enjoy an evening dinner at the Blue Earth Plaza. Please arrive any time 
 #### Construction - Day 3 - Location TDB
 - Day 3 -  **Implementing Low-Tech Process-Based Restoration** (field all-day)  - 7:30 AM to 3 PM
 
-We will meet on site at 7:30 (early to take advantage of lower morning temperatures for construction).
+We will meet at 7:30 at the construction site near Garfield, KS: [38.827883 N, -96.489273 W](https://maps.app.goo.gl/oc63Z4CUgSiewCBh9). The site is a ~50 minute drive from Manhattan, KS. 
 
-<!-- <div class="responsive-embed">
-<iframe src="https://www.google.com/maps/embed?pb=!1m26!1m12!1m3!1d148251.83648686708!2d-105.7937925080797!3d46.33200772602325!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m11!3e0!4m5!1s0x533a74406ac7caa9%3A0x4a90b94e8bbe51dc!2sBureau%20of%20Land%20Management%20Miles%20City%20Field%20Office%2C%20111%20Garryowen%20Rd%2C%20Miles%20City%2C%20MT%2059301!3m2!1d46.3979812!2d-105.86413859999999!4m3!3m2!1d46.2132751!2d-105.67494959999999!5e1!3m2!1sen!2sus!4v1659479357933!5m2!1sen!2sus" width="600" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+ 
+<div class="responsive-embed">
+<iframe src="https://www.google.com/maps/embed?pb=!1m26!1m12!1m3!1d198428.98076204924!2d-96.75311784953598!3d39.00498273454498!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m11!3e0!4m5!1s0x87bdb7ef44c3632d%3A0xa9185d487312c7ef!2sManhattan%2C%20KS!3m2!1d39.183608199999995!2d-96.57166939999999!4m3!3m2!1d38.827883!2d-96.489273!5e0!3m2!1sen!2sus!4v1696951024853!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
-
-Learn more about Pumpkin Creek [here]({{ site.baseurl }}/workshops/2022/BLM/pumpkin).
-<div align="center"><a class="hollow button" href="{{ site.baseurl }}/workshops/2022/BLM/pumpkin"><img width="100"  src="{{ site.baseurl }}/assets/images/workshops/2022/PumpkinCreek.png"> <br>Learn More about<br><b> Pumpkin Creek</b> </a> </div> -->
 
 -------
 
@@ -103,16 +100,8 @@ Learn more about Pumpkin Creek [here]({{ site.baseurl }}/workshops/2022/BLM/pump
 
 ## Instruction Team
 
-<!-- not sure who to count on being on the instruction team at this point or if the online team should be included -->
-
 ####  Workshop
 <div class="row small-up-2 medium-up-2 large-up-4" align="center">
-
-  <div class="column column-block">
-    <a href="https://www.researchgate.net/profile/Stephen_Bennett8"><img src="{{ site.baseurl }}/assets/images/people/bennett-round_orig.png"></a>
-    <h4><a href="https://www.researchgate.net/profile/Stephen_Bennett8">Stephen N. Bennett<sup>1,2,3</sup></a></h4>
-    Ecologist, Adjunct Professor
-  </div>
 
   <div class="column column-block">
     <a href="https://www.researchgate.net/profile/Joseph_Wheaton"><img src="{{ site.baseurl }}/assets/images/people/Wheaton_round.png"></a>
@@ -121,66 +110,19 @@ Learn more about Pumpkin Creek [here]({{ site.baseurl }}/workshops/2022/BLM/pump
   </div>
   
 <div class="column column-block">
-	<a href="https://www.researchgate.net/profile/Scott_Shahverdian"><img src="{{ site.baseurl }}/assets/images/people/shahverdian-round_1.png"></a>
-    <h4><a href="https://www.researchgate.net/profile/Scott_Shahverdian">Scott Shahveridan<sup>2,1</sup></a></h4>
-    Fluvial Geomorphologist
+    <a href="https://www.researchgate.net/profile/Jeremy_Maestas"><img src="{{ site.baseurl }}/assets/images/people/Maestas_round.png"></a>
+    <h4><a href="https://www.researchgate.net/profile/Jeremy_Maestas">Jeremy Maestas<sup>3</sup></a></h4>
+    Ecologist
   </div>
 
 <div class="column column-block">
-    <a href="https://www.researchgate.net/profile/Jeremy_Maestas"><img src="{{ site.baseurl }}/assets/images/people/Maestas_round.png"></a>
-    <h4><a href="https://www.researchgate.net/profile/Jeremy_Maestas">Jeremy Maestas<sup>4</sup></a></h4>
-    Ecologist
+    <a<img src="{{ site.baseurl }}/assets/images/people/shore_round.png"></a>
+    <h4><a href="https://qcnr.usu.edu/directory/wats/staff/shore-dominique">Dominique Shore<sup>1</sup></a></h4>
+    Fluvial Geomorphologist
   </div>
 
 
 </div>
-
-<!--- #### Virtual Instruction Team (virtual resources)
-<div class="row small-up-2 medium-up-2 large-up-4" align="center">
-
-  <div class="column column-block">
-    <a href="https://www.researchgate.net/profile/Mark_Beardsley"><img src="{{ site.baseurl }}/assets/images/people/beardsley-round.png"></a>
-    <h4><a href="https://www.researchgate.net/profile/Stephen_Bennett8">Mark Beardsley<sup>4</sup></a></h4>
-    Ecologist
-  </div>
- <div class="column column-block">
-    <a href="https://www.researchgate.net/profile/Nick_Bouwes"><img src="{{ site.baseurl }}/assets/images/people/bouwes-round_1_orig.png"></a>
-    <h4><a href="https://www.researchgate.net/profile/Nick_Bouwes">Nicolaas Bouwes<sup>3,2,1</sup></a></h4>
-   Aquatic  Ecologist, Adjunct Professor
-  </div>
-
-<div class="column column-block">
-    <a href="http://bengoldfarb.com/"><img src="{{ site.baseurl }}/assets/images/people/Goldfarb_Round.png"></a>
-    <h4><a href="http://bengoldfarb.com/">Ben Goldfarb</a></h4>
-    Author, Environmental Journalist, & Beaver Believer
-  </div>
-
-<div class="column column-block">
-    <a href="https://www.researchgate.net/profile/Jeremy_Maestas"><img src="{{ site.baseurl }}/assets/images/people/Maestas_round.png"></a>
-    <h4><a href="https://www.researchgate.net/profile/Jeremy_Maestas">Jeremy Maestas<sup>5</sup></a></h4>
-    Ecologist
-  </div>
-
-
-<div class="column column-block">
-	<a href="https://www.researchgate.net/profile/Scott_Shahverdian"><img src="{{ site.baseurl }}/assets/images/people/shahverdian-round_1.png"></a>
-    <h4><a href="https://www.researchgate.net/profile/Scott_Shahverdian">Scott Shahveridan<sup>2,1</sup></a></h4>
-    Fluvial Geomorphologist
-  </div>
-
-   <div class="column column-block">
-    <a href="https://www.researchgate.net/profile/Colin_Thorne"><img src="{{ site.baseurl }}/assets/images/people/Colin_Round.png"></a>
-    <h4><a href="https://www.researchgate.net/profile/Colin_Thorne">Colin Thorne<sup>6</sup></a></h4>
-    Professor of Physical Geography
-  </div>
-
-   <div class="column column-block">
-    <a href="https://www.researchgate.net/profile/Nick_Weber2"><img src="{{ site.baseurl }}/assets/images/people/webber-round_1_orig.png"></a>
-    <h4><a href="https://www.researchgate.net/profile/Nick_Weber2">Nick Weber<sup>2,3,1</sup></a></h4>
-    Fish Ecologist 
-  </div>
---->
-
 
 
 #### Instructor Affiliations
@@ -192,24 +134,10 @@ Learn more about Pumpkin Creek [here]({{ site.baseurl }}/workshops/2022/BLM/pump
   <div class="column column-block">
 	<a href="http://www.anabranchsolutions.com"><img src="{{ site.baseurl }}/assets/images/sponsors/anabranchsolutionslogo-square-450_10.png"></a><br>2. 
 
-  </div>
    <div class="column column-block">
-    <a href="https://www.eco-logical-research.com/"><img src="{{ site.baseurl }}/assets/images/sponsors/ELR.png"></a><br>3.
-
-   <div class="column column-block">
-    <a href="https://www.nrcs.usda.gov/wps/portal/nrcs/detailfull/national/about/leadership/centers/?cid=NRCS143_021469"><img src="{{ site.baseurl }}/assets/images/sponsors/usda-nrcs-logo_1_orig.png"></a><br>4.
+    <a href="https://www.nrcs.usda.gov/wps/portal/nrcs/detailfull/national/about/leadership/centers/?cid=NRCS143_021469"><img src="{{ site.baseurl }}/assets/images/sponsors/usda-nrcs-logo_1_orig.png"></a><br>3.
   </div>    
-<!--
-  </div>
-  <div class="column column-block">
-    <a href="http://www.ecometricscolorado.net"><img src="{{ site.baseurl }}/assets/images/logos/EcoMetrics.png"></a><br>4.
-  </div>
 
-
-   <div class="column column-block">
-    <a href="https://www.nottingham.ac.uk/geography/"><img src="{{ site.baseurl }}/assets/images/logos/Nottingham_150.png"></a><br>6.
-  </div>
--->
 
 </div>
 
@@ -218,7 +146,7 @@ Learn more about Pumpkin Creek [here]({{ site.baseurl }}/workshops/2022/BLM/pump
 ----
 ## Logistics
 ### Registration
-Registration is free, but is by invitation only. Contact Jason Sweet for more information.
+Registration is free, but is by invitation only. Contact [Dominique Shore](mailto:dominique.shore@usu.edu) for more information.
 
 
 ### Lodging
