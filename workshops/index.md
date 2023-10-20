@@ -52,7 +52,7 @@ See our [University courses]({{ site.baseurl }}/workshops/uni) for a full listin
 
 | Year  | Workshop | Location(s) | Sponsor(s) |
 | ------ | ------ | ------ | ------ |
-| 2023, October 24-26| [Manhattan, KS GIS LTPBR of Riverscapes Workshop]({{site.baseurl}}/workshops/2023/manhattan/)|Manhattan, KS|Juniper Environmental, Kansas Alliance for Wetlands & Streams, & Ducks Unlimited]|
+| 2023, October 24-26| [Manhattan, KS GIS LTPBR of Riverscapes Workshop]({{site.baseurl}}/workshops/2023/manhattan.html)|Manhattan, KS|Juniper Environmental, Kansas Alliance for Wetlands & Streams, & Ducks Unlimited]|
 | 2023, August | Introduction to Low-Tech Process-Based Restoration of Riverscapes |Cowichain, BC, Canada|[Cowichain Tribes](https://cowichantribes.com/), [Fisheries & Oceans Canada (DFO)](https://www.dfo-mpo.gc.ca/index-eng.html)|
 | 2023, July 18-19 | [Process-Based Restoration Workshop and Funding Opportunities](http://lowtechpbr.restoration.usu.edu/workshops/2023/lakecounty/) |Lakeview, OR|[Pheasants Forever](), [Blue Forest Conservation](), [Lake County Umbrella Watershed Council](https://lakecountywsc.com/about-us), NRCS Oregon, Intermountain West Join Venture|
 | 2023, April | Low-Tech Process Based Restoration Workshop |Cumbria, England, UK|[British Society for Geomorphology](), [National Trust](), [Environment Agency](), [SEPA]()|
