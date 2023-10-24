@@ -39,12 +39,12 @@ Days 1 & 2 will be held at the Kansas State University Alumni Center
 
 </div>
 
-#### Day 1 Evening Dinner Social - [Blue Earth Plaza](https://goo.gl/maps/TBZu7jAQH3hSoTrr7) 
+#### Day 1 Evening Dinner Social - [Flint Hills Discovery Center](https://maps.app.goo.gl/39CHgZu7xuNWe1my9) 
 We will enjoy an evening dinner at the Blue Earth Plaza. Please arrive any time between 6:00 and 6:30 PM. Dinner will begin being served around 6:30ish PM, and we will hear rancher [Jay Wilde's story]({{ site.baseurl }}/resources/casestudies/birch) of bringing back beaver to his ranch beginning at 7:00. We will wrap sometime between 8:30 and 9:00. 
 
 <div class="responsive-embed">
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12371.793558228394!2d-96.5599392!3d39.175894!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87bdd28a5bee85fb%3A0x21f69e2c4546ce7f!2sBlue%20Earth%20Plaza!5e0!3m2!1sen!2sus!4v1694617116916!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2187.0323782154787!2d-96.56021945989845!3d39.17629271062861!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87bdd28a612be3d3%3A0xf62cd990393cb360!2sFlint%20Hills%20Discovery%20Center!5e0!3m2!1sen!2sus!4v1698157885007!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 </div>
 
@@ -52,9 +52,9 @@ We will enjoy an evening dinner at the Blue Earth Plaza. Please arrive any time 
 
 
 #### Construction - Day 3 
-- Day 3 -  **Implementing Low-Tech Process-Based Restoration** (field all-day)  - 7:30 AM to 3 PM
+- Day 3 -  **Implementing Low-Tech Process-Based Restoration** (field all-day)  - 8:30 AM to 3 PM
 
-We will meet at 7:30 at the construction site near Alta Vista, KS: [38.827883 N, -96.489273 W](https://maps.app.goo.gl/oc63Z4CUgSiewCBh9). The site is a ~50 minute drive from Manhattan, KS. 
+We will meet at 8:30 at the construction site near Alta Vista, KS: [38.827883 N, -96.489273 W](https://maps.app.goo.gl/oc63Z4CUgSiewCBh9). The site is a ~50 minute drive from Manhattan, KS. 
 
  
 <div class="responsive-embed">
