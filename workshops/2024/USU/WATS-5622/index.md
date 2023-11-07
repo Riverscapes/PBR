@@ -27,13 +27,13 @@ This course provides an introduction to the planning process of Low-Tech Process
 
 
 ## Schedule
-### Spring 2023 - Planning LTPBR
-- Matriculated Students: Planning LTPBR - 16925 - WATS 5622 
+### Spring 2024 - Planning LTPBR
+- Matriculated Students: WATS 5622 
 - Professional Students: [CEWA 5622](https://cpe.usu.edu/search/publicCourseSearchDetails.do?method=load&courseId=1073962) 
 
 | Class                                                        | Time              | Days     | Dates                  | Instructors                                                  |
 | ------------------------------------------------------------ | ----------------- | -------- | ---------------------- | ------------------------------------------------------------ |
-| Planning LTPBR | 1:30 pm - 3:30 pm | Tuesdays | Jan 30 & Feb 06, 13, 2024| Joe Wheaton |
+| Planning LTPBR | 1:30 pm - 4:15 pm | Tuesdays | Jan 30 & Feb 06, 13, 2024| Joe Wheaton |
 
 We will use the same recurring [Zoom Meeting Link]():
 
@@ -90,23 +90,24 @@ By the end of this course, students will:
 ## Instructors
 
 
+<div class="row small-up-2 medium-up-2 large-up-4" align="center">
 
    <div class="column column-block">
-    <a href="http://joewheaton.org"><img src="{{ site.baseurl }}/assets/images/people/wheaton-round.png"></a>
+    <a href="http://joewheaton.org"><img src="{{ site.baseurl }}/assets/images/people/Wheaton_round.png"></a>
     <h4><a href="http://joewheaton.org">Joe Wheaton<sup>1,2,3</sup></a></h4>
     <b>Instructor</b><br>
     <a href="https://qcnr.usu.edu/directory/wats/faculty/wheaton-joseph"> Professor of Riverscapes</a>,<br> <a href="https://www.anabranchsolutions.com/joe-wheaton.html">Principal<sup>2</sup></a><br> 
 
+</div> 
+
+</div>
 
 
+To get in touch with instructor(s), please use [Canvas](https://usu.instructure.com/courses/618192) for communication.
+
+<!--- **Group Office Hours**: By appointment  (Wednesday 12:00 - 13:00 via [Zoom](https://usu-edu.zoom.us/my/h20joe?pwd=eFNjSllqT3VDNTRoLzZ3Sk9IM1F6UT09) <i class="fa fa-search" aria-hidden="true"></i>--->
 
 
-
-
-
-<!---To get in touch with instructor(s), please use [Canvas](https://usu.instructure.com/courses/618192) for communication. --->
-
-**Group Office Hours**: By appointment <!--- (Wednesday 12:00 - 13:00 via [Zoom](https://usu-edu.zoom.us/my/h20joe?pwd=eFNjSllqT3VDNTRoLzZ3Sk9IM1F6UT09) <i class="fa fa-search" aria-hidden="true"></i>--->
 
 
 ### Instructor Affiliations
@@ -145,7 +146,7 @@ All of course lecture slides and materials are linked from the Canvas page by mo
 
 
 
-</div>
+
 
 ## Course Textbooks
 **Mandatory Texts** - A hard copy of both the manual and pocket-guide will make your participation in the courses easier, but *free digital versions* are available below. If you do not have hard copies, please have a PDF open in the background during class.  

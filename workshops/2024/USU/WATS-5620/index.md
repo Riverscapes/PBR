@@ -27,11 +27,11 @@ This course provides an introduction to the practice of Low-Tech Process-Based R
 ### Spring 2024 - Intro to LTPBR
 ## Intro to LTPBR
 - Matriculated Students: [INTRO LOWTECH PROC REST RIV - WATS 5620](https://ss.banner.usu.edu/StudentRegistrationSsb/ssb/classSearch/classSearch)
-- Non-Matriculated Students: [CEWA 5620](https://cpe.usu.edu/search/publicCourseSearchDetails.do?method=load&courseId=1015426)
+- Non-USU Students/Professionals: [CEWA 5620](https://cpe.usu.edu/search/publicCourseSearchDetails.do?method=load&courseId=1015426)
 
 | Class                                                        | Time              | Days     | Where                     | Dates                  | Instructor                 |
 | ------------------------------------------------------------ | ----------------- | -------- | ------------------------- | ---------------------- | -------------------------- |
-| Intro to LTPBR | 1:30 pm - 3:30 pm | Tuesdays | Zoom | Jan 9, 16 & 23,  2024 | Joe Wheaton (P) |
+| Intro to LTPBR | 1:30 pm - 4:15 pm | Tuesdays | Zoom | Jan 9, 16 & 23,  2024 | Joe Wheaton (P) |
 
 We will use the same recurring [Zoom Meeting Link]():
 
@@ -57,9 +57,9 @@ This class meets three times for these discussion sessions:
 
 | Meeting Date | Modules | Topics                                                   |
 |--------------|---------|----------------------------------------------------------|
-|    1/9/2023 | 1.1  | [Background & Scope of Degradation](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module1#b-background--why-were-here) / [Build your First BDA](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module1#f-what-you-came-for---your-first-bda) |
-|    1/16/2023 | 1.2  | [Intro to Low-Tech Tools](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module1#g-broad-umbrella-of-low-tech-restoration) & [Guiding Principles](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module1#j-principles)            |
-|     1/23/2023 | 1.3  | [Partnering with Beaver](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module1#k-beaver-history--biology) & [Synthesis](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module1#n-wrap-up-and-preview-of-remaining-modules)                       |
+|   1/09/2024 | 1.1  | [Background & Scope of Degradation](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module1#b-background--why-were-here) / [Build your First BDA](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module1#f-what-you-came-for---your-first-bda) |
+|    1/16/2024 | 1.2  | [Intro to Low-Tech Tools](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module1#g-broad-umbrella-of-low-tech-restoration) & [Guiding Principles](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module1#j-principles)            |
+|     1/23/2024 | 1.3  | [Partnering with Beaver](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module1#k-beaver-history--biology) & [Synthesis](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module1#n-wrap-up-and-preview-of-remaining-modules)                       |
 
 This course is based on [Module 1]({{ site.baseurl }}/workshops/2020/SGI/Modules/module1.html) of the self-paced materials. 
 <div align="center">
@@ -94,10 +94,12 @@ By the end of this course, students will:
 
 <div class="row small-up-2 medium-up-2 large-up-4" align="center">
    <div class="column column-block">
-    <a href="http://joewheaton.org"><img src="{{ site.baseurl }}/assets/images/people/wheaton-round.png"></a>
+    <a href="http://joewheaton.org"><img src="{{ site.baseurl }}/assets/images/people/Wheaton_round.png>"</a>
     <h4><a href="http://joewheaton.org">Joe Wheaton<sup>1,2,3</sup></a></h4>
     <b>Instructor</b><br>
     <a href="https://qcnr.usu.edu/directory/wats/faculty/wheaton-joseph"> Professor of Riverscapes</a>,<br> <a href="https://www.anabranchsolutions.com/joe-wheaton.html">Principal<sup>2</sup></a><br> 
+
+
 
 
 
@@ -149,9 +151,6 @@ All of course lecture slides and materials are linked from the Canvas page by mo
 
 
 <a class="hollow button" href="{{ site.baseurl }}/workshops/2020/SGI/Modules/module1"><img src="{{ site.baseurl }}/assets/images/diagrams/presentation.png"> <b>Module  - Intro Resources</b> <br> Slides  <i class="fa fa-file-pdf-o" aria-hidden="true"></i>, Recorded Lectures <i class="fa fa-youtube-play" aria-hidden="true"></i> and Exercises </a>
-
-
-</div>
 
 ## Course Textbooks
 **Mandatory Texts** - A hard copy of both the manual and pocket-guide will make your participation in the courses easier, but *free digital versions* are available below. If you do not have hard copies, please have a PDF open in the background during class.  

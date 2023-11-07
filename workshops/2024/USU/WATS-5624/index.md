@@ -30,10 +30,10 @@ This course introduces Low-Tech Process-Based Restoration of Riverscapes impleme
 - Matriculated Students: WATS 5624
 - Non-USU/Professional Students: CEWA 5624  [Register Here](https://cpe.usu.edu/search/publicCourseSearchDetails.do?method=load&courseId=1015428) 
 
-| Class              | Time              | Days     | Where                                             | Dates        | Instructors                                                  |
-| ------------------ | ----------------- | -------- | ------------------------------------------------- | ------------ | ------------------------------------------------------------ |
-| Implementing LTPBR | 1:30 pm - 3:30 pm | Tuesday  | [via Zoom](https://usu-edu.zoom.us/s/85735561749) | Apr 9, 2024  | [Stephen Nicholas Bennett]({{ site.baseurl }}//workshops/2020/SGI/#instruction-team) |
-| Implementing LTPBR | 7:30 am - 5:30 pm | Saturday | Field Trip                                        | Apr 13, 2024 | [Stephen Nicholas Bennett]({{ site.baseurl }}//workshops/2020/SGI/#instruction-team) |
+| Class              | Time              | Days     | Where        | Dates        | Instructors                                                  |
+| ------------------ | ----------------- | -------- | ------------ | ------------ | ------------------------------------------------------------ |
+| Implementing LTPBR | 1:30 pm - 4:15 pm | Tuesday  | [via Zoom]() | Apr 9, 2024  | [Stephen Nicholas Bennett]({{ site.baseurl }}//workshops/2020/SGI/#instruction-team) |
+| Implementing LTPBR | 7:30 am - 5:30 pm | Saturday | Field Trip   | Apr 13, 2024 | [Stephen Nicholas Bennett]({{ site.baseurl }}//workshops/2020/SGI/#instruction-team) |
 
 ### Course Schedule/Outline
 
@@ -63,7 +63,6 @@ This course is based on [Module 5]({{ site.baseurl }}/workshops/2020/SGI/Modules
 ### Matriculated Students
 Current USU [Tuition](https://www.usu.edu/registrar/registration/payment/) for 1 credit. 
 $100 Course Fee for field trip (construction supplies, equipment, travel, safety equipment, etc.). 
-**
 
 ### Continuing Education Students
 **$415** for 1.5 CEUs  (_$370 Course Fee + $45 CEU processing fee_) Registration opens November 13. 
@@ -102,7 +101,7 @@ By the end of this course, students will:
 
 </div>
 
-To get in touch with instructor(s), please use [Canvas](https://usu.instructure.com/courses/618129) for communication. 
+To get in touch with instructor(s), please use Canvas for communication. 
 
 <!---**Group Office Hours** (Wednesday 12:00 - 13:00 via [Zoom](https://usu-edu.zoom.us/my/h20joe?pwd=eFNjSllqT3VDNTRoLzZ3Sk9IM1F6UT09) <i class="fa fa-search" aria-hidden="true"></i>--->
 
@@ -140,9 +139,10 @@ All of course lecture slides and materials are linked from the Canvas page by mo
 <a class="hollow button" href=""><img src="{{ site.baseurl }}/assets/images/canvas_logo.png">  <b>Spring 2024 Canvas</b><br> WATS 5624 - Implementation of LTPBR Course Assignments</a> --->
 
 
+
 <a class="hollow button" href="{{ site.baseurl }}/workshops/2020/SGI/Modules/module5"><img src="{{ site.baseurl }}/assets/images/diagrams/presentation.png"> <b>Module 5 - Implementation</b> <br> Slides  <i class="fa fa-file-pdf-o" aria-hidden="true"></i>, Recorded Lectures <i class="fa fa-youtube-play" aria-hidden="true"></i> and Exercises </a>
 
-</div>
+
 
 ## Course Textbooks
 **Mandatory Texts** - A hard copy of both the manual and pocket-guide will make your participation in the courses easier, but *free digital versions* are available below. If you do not have hard copies, please have a PDF open in the background during class.  

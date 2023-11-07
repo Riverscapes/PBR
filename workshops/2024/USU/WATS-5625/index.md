@@ -25,7 +25,7 @@ This course introduces Adaptive Management and how it can be applied to Low-Tech
 
 
 ## Schedule
-### Spring 2023 - Adaptive Management of LTPBR
+### Spring 2024 - Adaptive Management of LTPBR
 - Matriculated Students: WATS 5625
 - Non-Matriculated Students: CEWA 5625 [Register Here](https://cpe.usu.edu/search/publicCourseSearchDetails.do?method=load&courseId=1015430) 
 

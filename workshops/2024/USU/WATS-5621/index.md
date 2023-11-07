@@ -35,7 +35,7 @@ Students explore the science and case studies that encouraged Low-Tech Process-B
 
 | Class                                                        | Time              | Days     | Where | Dates                    | Instructors                                                  |
 | ------------------------------------------------------------ | ----------------- | -------- | ----- | ------------------------ | ------------------------------------------------------------ |
-| LTPBR Science & Case Studies | 1:30 pm - 3:30 pm MST | Tuesdays | Zoom | Feb 20, 27 & Mar 5, 2024 | [Nicolaas W Bouwes (P)]({{ site.baseurl }}//workshops/2020/SGI/#instruction-team) |
+| LTPBR Science & Case Studies | 1:30 pm - 4:15 pm MST | Tuesdays | Zoom | Feb 20, 27 & Mar 5, 2024 | [Nicolaas W Bouwes (P)]({{ site.baseurl }}//workshops/2020/SGI/#instruction-team) |
 
 We will use the same recurring [Zoom Meeting Link]():
 
@@ -146,8 +146,6 @@ All of course lecture slides and materials are linked from the Canvas page by mo
 <a class="hollow button" href="{{ site.baseurl }}/workshops/2020/SGI/Modules/module2"><img src="{{ site.baseurl }}/assets/images/diagrams/presentation.png"> <b>Module 2 - Science</b> <br> Slides  <i class="fa fa-file-pdf-o" aria-hidden="true"></i>, Recorded Lectures <i class="fa fa-youtube-play" aria-hidden="true"></i> and Exercises </a>
 
 
-
-</div>
 
 ## Course Textbooks
 **Mandatory Texts** - A hard copy of both the manual and pocket-guide will make your participation in the courses easier, but *free digital versions* are available below. If you do not have hard copies, please have a PDF open in the background during class.  
