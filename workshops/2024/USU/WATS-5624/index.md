@@ -40,7 +40,7 @@ This course introduces Low-Tech Process-Based Restoration of Riverscapes impleme
 Outline dates and assignments will be available on Canvas:
 
 <!--- <div align="center">
-<a class="hollow button" href=""><img src="{{ site.baseurl }}/assets/images/canvas_logo.png">  <b>Spring 2024 Canvas</b><br> WATS 5624 - Implementation Course Assignments</a></div> --->
+<a class="hollow button" href="https://usu.instructure.com/courses/753152"><img src="{{ site.baseurl }}/assets/images/canvas_logo.png">  <b>Spring 2024 Canvas</b><br> WATS 5624 - Implementation Course Assignments</a></div> --->
 
 
 Students are expected to watch pre-recorded lectures and complete the reading assignments prior to our class meeting, where those topics will be discussed and exercises completed as a group. Both that session and the Saturday field trip are mandatory attendance. 
@@ -136,7 +136,7 @@ The course is organized into a series of modules or topics. Slides (as PDFs), re
 All of course lecture slides and materials are linked from the Canvas page by module and assignment.
 
 <!--- <div align="center">
-<a class="hollow button" href=""><img src="{{ site.baseurl }}/assets/images/canvas_logo.png">  <b>Spring 2024 Canvas</b><br> WATS 5624 - Implementation of LTPBR Course Assignments</a> --->
+<a class="hollow button" href="https://usu.instructure.com/courses/753152"><img src="{{ site.baseurl }}/assets/images/canvas_logo.png">  <b>Spring 2024 Canvas</b><br> WATS 5624 - Implementation of LTPBR Course Assignments</a> --->
 
 
 
