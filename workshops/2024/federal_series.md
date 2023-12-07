@@ -5,7 +5,7 @@ weight: 1
 
 # LTPBR Series Trainings - Federal Agencies 
 
-The [USU Restoration Consortium](https://restoration.usu.edu) has partnered with the [Natural Resources Conservation Service National Techncial Training Center](https://www.nrcs.usda.gov/continuing-education-information) and the [Bureau of Land Management's Aquatic Resources Program](https://www.blm.gov/programs/aquatics) to develop a standardized training series for Low-Tech Process-Based Restoration. These training series are pending incorporation into [AgLearn](https://aglearn.usda.gov/) and [DOI Talent](https://www.doi.gov/doitalent). Students will also receive continuing education units ([CEUs](https://cpe.usu.edu/contentManagement.do?method=load&code=PG0020)) and a transcript of professional credit from Utah State University. 
+The [USU Restoration Consortium](https://restoration.usu.edu) has partnered with the Natural Resources Conservation Service [West National Technology Support Center](https://www.nrcs.usda.gov/west-national-technology-support-center) and the [Bureau of Land Management's Aquatic Resources Program](https://www.blm.gov/programs/aquatics) to develop a standardized training series for Low-Tech Process-Based Restoration. These training series are pending incorporation into [AgLearn](https://aglearn.usda.gov/) and [DOI Talent](https://www.doi.gov/doitalent). Students will also receive continuing education units ([CEUs](https://cpe.usu.edu/contentManagement.do?method=load&code=PG0020)) and a transcript of professional credit from Utah State University. 
 
 In Spring 2024, we will offer the LTPBR Level I and II trainings. Delivery of Level III is planned for Fall 2025.
 
