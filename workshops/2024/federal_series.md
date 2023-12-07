@@ -11,7 +11,7 @@ In Spring 2024, we will offer the LTPBR Level I and II trainings. Delivery of Le
 
 <div class="row small-up-2 medium-up-3 large-up-2">
  <div class="column column-block">
-<a href="https://www.nrcs.usda.gov/"><img  src="{{ site.baseurl }}assets/images/sponsors/NRCS-Logo.png"></a> 
+<a href="https://www.nrcs.usda.gov/"><img  src="{{ site.baseurl }}/assets/images/sponsors/NRCS-Logo.png"></a> 
   </div>
   <div class="column column-block">
   	<a href="https://www.blm.gov/"><img  src="{{ site.baseurl }}/assets/images/sponsors/blm.png"></a> 
