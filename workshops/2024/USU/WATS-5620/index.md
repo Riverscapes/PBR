@@ -92,31 +92,17 @@ By the end of this course, students will:
 ------
 ## Instructors
 
-<div class="row small-up-2 medium-up-2 large-up-4" align="center">
-   <div class="column column-block">
-    <a href="http://joewheaton.org"><img src="{{ site.baseurl }}/assets/images/people/Wheaton_round.png>"</a>
+<div class="row small-up-2 medium-up-2 large-up-5" align="center">
+<div class="column column-block">
+    <a href="http://joewheaton.org"><img src="{{ site.baseurl }}/assets/images/people/Wheaton_round.png"></a>
     <h4><a href="http://joewheaton.org">Joe Wheaton<sup>1,2,3</sup></a></h4>
     <b>Instructor</b><br>
     <a href="https://qcnr.usu.edu/directory/wats/faculty/wheaton-joseph"> Professor of Riverscapes</a>,<br> <a href="https://www.anabranchsolutions.com/joe-wheaton.html">Principal<sup>2</sup></a><br> 
 
+<!--- To get in touch with instructor(s), please use [Canvas](https://usu.instructure.com/courses/754452) for communication. --->
 
-
-
-
+<!--- **Group Office Hours**: By appointment (Wednesday 12:00 - 13:00 via [Zoom](https://usu-edu.zoom.us/my/h20joe?pwd=eFNjSllqT3VDNTRoLzZ3Sk9IM1F6UT09) <i class="fa fa-search" aria-hidden="true"></i> --->
   </div>
-
-
-
-
-
-
-
-</div>
-
-To get in touch with instructor(s), please use [Canvas](https://usu.instructure.com/courses/700764) for communication. 
-
-<!---**Group Office Hours** Wednesday 12:00 - 1:00 via [Zoom](https://usu-edu.zoom.us/my/h20joe?pwd=eFNjSllqT3VDNTRoLzZ3Sk9IM1F6UT09)---> 
-
 
 ### Instructor Affiliations
 
