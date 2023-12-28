@@ -42,12 +42,12 @@ This course is based on [Module 6]({{ site.baseurl }}/workshops/2020/SGI/Modules
 ### Course Schedule/Outline
 
 Outline dates and assignments will be available on Canvas:
-<!---<div align="center">
-<a class="hollow button" href="https://usu.instructure.com/courses/700765"><img src="{{ site.baseurl }}/assets/images/canvas_logo.png">  <b>Spring 2024 Canvas</b><br> WATS 5625 - Adaptive Management of  LTPBR Course Assignments</a></div>--->
+<div align="center">
+<a class="hollow button" href="https://usu.instructure.com/courses/753154"><img src="{{ site.baseurl }}/assets/images/canvas_logo.png">  <b>Spring 2024 Canvas</b><br> WATS 5625 - Adaptive Management of  LTPBR Course Assignments</a></div>
 
-Students are expected to watch live or pre-recorded lectures and complete the reading assignments prior to our class meeting, where those topics will be discussed. Each person will develop an adaptive management framework for Birch Creek. 
+Students are expected to watch live or pre-recorded lectures and complete the reading assignments prior to our class meeting, where those topics will be discussed. Each person will develop an adaptive management framework. 
 
-This class meets three times for a discussion session (live or remotely) :
+This class meets two times for a discussion session (live or remotely) :
 
 | Meeting Date | Modules     | Topics                                                       |
 | ------------ | ----------- | ------------------------------------------------------------ |
@@ -144,8 +144,8 @@ The course is organized into a series of modules or topics. Slides (as PDFs), re
 All of course lecture slides and materials are linked from the Canvas page by module and assignment.
 
 
-<!--- <div align="center">
-<a class="hollow button" href=""><img src="{{ site.baseurl }}/assets/images/canvas_logo.png">  <b>Spring 2024 Canvas</b><br> WATS 5625 - Adaptive Management of LTPBR Course Assignments</a> --->
+<div align="center">
+<a class="hollow button" href="https://usu.instructure.com/courses/753154"><img src="{{ site.baseurl }}/assets/images/canvas_logo.png">  <b>Spring 2024 Canvas</b><br> WATS 5625 - Adaptive Management of LTPBR Course Assignments</a>
 
 
 <a class="hollow button" href="{{ site.baseurl }}/workshops/2020/SGI/Modules/module6"><img src="{{ site.baseurl }}/assets/images/diagrams/presentation.png"> <b>Module 6 - Implementation</b> <br> Slides  <i class="fa fa-file-pdf-o" aria-hidden="true"></i>, Recorded Lectures <i class="fa fa-youtube-play" aria-hidden="true"></i> and Exercises </a>
