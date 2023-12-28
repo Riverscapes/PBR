@@ -47,8 +47,8 @@ We will use the same recurring [Zoom Meeting Link]():
 
 Outline dates and assignments will be available on Canvas:
 
-<!--- <div align="center">
-<a class="hollow button" href=""><img src="{{ site.baseurl }}/assets/images/canvas_logo.png">  <b>Spring 2024 Canvas</b><br> WATS 5621 - Science & Case Studies of LTPBR Course Modules</a></div> --->
+<div align="center">
+<a class="hollow button" href="https://usu.instructure.com/courses/753184"><img src="{{ site.baseurl }}/assets/images/canvas_logo.png">  <b>Spring 2024 Canvas</b><br> WATS 5621 - Science & Case Studies of LTPBR Course Modules</a></div> 
 
 
 Students are expected to watch pre-recorded lectures and complete the reading assignments prior to our class meetings, where those topics will be discussed and exercises completed as a group. 
@@ -137,8 +137,8 @@ The course is organized into a series of modules or topics. Slides (as PDFs), re
 
 All of course lecture slides and materials are linked from the Canvas page by module and assignment.
 
-<!--- <div align="center">
-<a class="hollow button" href=""><img src="{{ site.baseurl }}/assets/images/canvas_logo.png">  <b>Spring 2024 Canvas</b><br> WATS/CEWA 5621 - Science & Case Studies of LTPBR </a>--->
+<div align="center">
+<a class="hollow button" href="https://usu.instructure.com/courses/753184"><img src="{{ site.baseurl }}/assets/images/canvas_logo.png">  <b>Spring 2024 Canvas</b><br> WATS/CEWA 5621 - Science & Case Studies of LTPBR </a>
 
 
 
