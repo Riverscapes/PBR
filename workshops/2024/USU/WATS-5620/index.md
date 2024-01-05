@@ -48,7 +48,7 @@ This course provides an introduction to the practice of Low-Tech Process-Based R
 Outline dates, assignments, and course zoom links will be available on Canvas:
 
 <!--- <div align="center">
-<a class="hollow button" href="https://usu.instructure.com/courses/727011"><img src="{{ site.baseurl }}/assets/images/canvas_logo.png">  <b>Spring 2023 Canvas</b><br> WATS 5620 - Intro to LTPBR Course Assignments</a></div> --->
+<a class="hollow button" href="https://usu.instructure.com/courses/754452"><img src="{{ site.baseurl }}/assets/images/canvas_logo.png">  <b>Spring 2023 Canvas</b><br> WATS 5620 - Intro to LTPBR Course Assignments</a></div> --->
 
 
 Students are expected to watch pre-recorded lectures and complete the reading assignments prior to our class meetings, where those topics will be discussed and exercises completed as a group. 
@@ -113,7 +113,7 @@ By the end of this course, students will:
 
 </div>
 
-To get in touch with instructor(s), please use [Canvas](https://usu.instructure.com/courses/700764) for communication. 
+To get in touch with instructor(s), please use [Canvas](https://usu.instructure.com/courses/754452) for communication. 
 
 <!---**Group Office Hours** Wednesday 12:00 - 1:00 via [Zoom](https://usu-edu.zoom.us/my/h20joe?pwd=eFNjSllqT3VDNTRoLzZ3Sk9IM1F6UT09)---> 
 
