@@ -35,7 +35,7 @@ This course provides an introduction to the planning process of Low-Tech Process
 | ------------------------------------------------------------ | ----------------- | -------- | ---------------------- | ------------------------------------------------------------ |
 | Planning LTPBR | 1:30 pm - 4:15 pm | Tuesdays | Jan 30 & Feb 06, 13, 2024| Joe Wheaton |
 
-We will use the same recurring [Zoom Meeting Link]():
+
 
 <!--- <div align="center">
 <a class="hollow button" href="https://usu-edu.zoom.us/j/84727348167?pwd=NkZaZ254andOaUorWmkzdkpGb0pIdz09"><img src="{{ site.baseurl }}/assets/images/zoom_icon_32.png">  <b>Zoom Meeting Link</b><br>Tuesdays</a></div> --->
@@ -44,8 +44,8 @@ We will use the same recurring [Zoom Meeting Link]():
 
 Outline dates and assignments will be available on Canvas:
 
-<!--- <div align="center">
-<a class="hollow button" href="https://usu.instructure.com/courses/753153"><img src="{{ site.baseurl }}/assets/images/canvas_logo.png">  <b>Spring 2024 Canvas</b><br> WATS 5622 - Planning LTPBR Course Assignments</a></div> --->
+<div align="center">
+<a class="hollow button" href="https://usu.instructure.com/courses/754453"><img src="{{ site.baseurl }}/assets/images/canvas_logo.png">  <b>Spring 2024 Canvas</b><br> WATS 5622 - Planning LTPBR Course Assignments</a></div> 
 
 
 Students are expected to watch pre-recorded lectures and complete the reading assignments prior to our class meetings, where those topics will be discussed and exercises completed as a group. 
@@ -103,7 +103,7 @@ By the end of this course, students will:
 </div>
 
 
-To get in touch with instructor(s), please use [Canvas](https://usu.instructure.com/courses/618192) for communication.
+To get in touch with instructor(s), please use [Canvas](https://usu.instructure.com/courses/754453) for communication.
 
 <!--- **Group Office Hours**: By appointment  (Wednesday 12:00 - 13:00 via [Zoom](https://usu-edu.zoom.us/my/h20joe?pwd=eFNjSllqT3VDNTRoLzZ3Sk9IM1F6UT09) <i class="fa fa-search" aria-hidden="true"></i>--->
 
@@ -138,13 +138,13 @@ The course is organized into a series of modules or topics. Slides (as PDFs), re
 
 All of course lecture slides and materials are linked from the Canvas page by module and assignment.
 
-<!--- <div align="center">
-<a class="hollow button" href="https://usu.instructure.com/courses/753153"><img src="{{ site.baseurl }}/assets/images/canvas_logo.png">  <b>Spring 2024 Canvas</b><br> WATS 5622 - Planning of LTPBR Course Modules</a> --->
+ <div align="center">
+<a class="hollow button" href="https://usu.instructure.com/courses/754453"><img src="{{ site.baseurl }}/assets/images/canvas_logo.png">  <b>Spring 2024 Canvas</b><br> WATS 5622 - Planning of LTPBR Course Modules</a> 
 
 
 <a class="hollow button" href="{{ site.baseurl }}/workshops/2020/SGI/Modules/module3"><img src="{{ site.baseurl }}/assets/images/diagrams/presentation.png"> <b>Module 3 - Planning</b> <br> Slides  <i class="fa fa-file-pdf-o" aria-hidden="true"></i>, Recorded Lectures <i class="fa fa-youtube-play" aria-hidden="true"></i> and Exercises </a>
 
-
+</div>
 
 
 
