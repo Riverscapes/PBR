@@ -33,7 +33,7 @@ This course provides an introduction to the practice of Low-Tech Process-Based R
 | ------------------------------------------------------------ | ----------------- | -------- | ------------------------- | ---------------------- | -------------------------- |
 | Intro to LTPBR | 1:30 pm - 4:15 pm | Tuesdays | Zoom | Jan 9, 16 & 23,  2024 | Joe Wheaton (P) |
 
-We will use the same recurring [Zoom Meeting Link]():
+
 
 <!--- <div align="center">
 <a class="hollow button" href="https://usu-edu.zoom.us/j/88147342464?pwd=ZVpMdVNYS2U2L2U5QnZBQ1NJSElhUT09"><img src="{{ site.baseurl }}/assets/images/zoom_icon_32.png">  <b>Zoom Meeting Link</b><br>Tuesdays</a></div> --->
@@ -72,9 +72,9 @@ Current USU [Tuition](https://www.usu.edu/registrar/registration/payment/) for 1
 Please register on [Banner](https://ssb.banner.usu.edu/zprod/twbkwbis.P_WWWLogin). 
 
 ### Continuing Education Students
-**$315** for 1.5 CEUs  (_$270 Course Fee + $45 CEU processing fee_)  Registration opens November 14.  
+**$315** for 1.5 CEUs  (_$270 Course Fee + $45 CEU processing fee_).  Registration is now full for Spring '24. 
 
-<div align="center"><a class="button" href="https://cpe.usu.edu/search/publicCourseSearchDetails.do?method=load&courseId=1015426"> <b>Module 1 - Intro</b> <br> Professionals Registraton Now! <i class="fa fa-user-plus" aria-hidden="true"></i> </a></div>
+<!--- <div align="center"><a class="button" href="https://cpe.usu.edu/search/publicCourseSearchDetails.do?method=load&courseId=1015426"> <b>Module 1 - Intro</b> <br> Professionals Registraton Now! <i class="fa fa-user-plus" aria-hidden="true"></i> </a></div> --->
 
 -----------------
 ## Course Objectives
