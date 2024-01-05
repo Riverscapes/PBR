@@ -75,19 +75,18 @@ Please register on [Banner](http://banner.usu.edu)
 
 
 -----------------
-<!----- NICK TO POPULATE
+
 
 ## Course Objectives
 
-This introductory course is focused on remembering, understanding, using adaptive management in LT-PBR projects. ({{ site.baseurl }}/workshops/uni) on [LTPBR]({{ site.baseurl }}) .
-By the end of this course, students will:
+This introductory course is focused on remembering, understanding, using adaptive management on LTPBR projects. By the end of this course, students will:
 
 1. *Understand* why adaptive management can increase our ability to both learn and achieve restoration goals. 
 2. *Use* adaptive management for low-tech process-based restoration
 3. *Create* an adaptive management plan to articulate objectives, expected responses, monitoring plan, when to do mainteance, and intiation of potential subsequent phases of design and construction. 
 
 
---->
+
 
 
 
