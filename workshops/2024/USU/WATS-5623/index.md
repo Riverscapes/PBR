@@ -35,7 +35,7 @@ This course provides an introduction to designing Low-Tech Process-Based Restora
 | ------------------------------------------------------------ | ----------------- | -------- | ------------------------- | ------------------------------------------------------------ |
 | Designing LTPBR | 1:30 pm - 4:15 pm | Tuesdays | Mar 19, 26 & Apr 2, 2024 | Joe Wheaton |
 
-We will use the same recurring [Zoom Meeting Link]():
+
 
 <!--- <div align="center">
 <a class="hollow button" href="https://usu-edu.zoom.us/j/84727348167?pwd=NkZaZ254andOaUorWmkzdkpGb0pIdz09"><img src="{{ site.baseurl }}/assets/images/zoom_icon_32.png">  <b>Zoom Meeting Link</b><br>Tuesdays</a></div> --->
@@ -44,8 +44,8 @@ We will use the same recurring [Zoom Meeting Link]():
 
 Outline dates and assignments will be available on Canvas:
 
-<!--- <div align="center">
-<a class="hollow button" href="https://usu.instructure.com/courses/753156"><img src="{{ site.baseurl }}/assets/images/canvas_logo.png">  <b>Spring 2024 Canvas</b><br> WATS 5623 - Design LTPBR Course Assignments</a></div> --->
+<div align="center">
+<a class="hollow button" href="https://usu.instructure.com/courses/754454"><img src="{{ site.baseurl }}/assets/images/canvas_logo.png">  <b>Spring 2024 Canvas</b><br> WATS 5623 - Design LTPBR Course Assignments</a></div> 
 
 
 Students are expected to watch pre-recorded lectures and complete the reading assignments prior to our class meetings, where those topics will be discussed and exercises completed as a group. 
@@ -102,7 +102,7 @@ By the end of this course, students will:
     <b>Instructor</b><br>
     <a href="https://qcnr.usu.edu/directory/wats/faculty/wheaton-joseph"> Professor of Riverscapes</a>,<br> <a href="https://www.anabranchsolutions.com/joe-wheaton.html">Principal<sup>2</sup></a><br> 
 
-<!--- To get in touch with instructor(s), please use [Canvas](https://usu.instructure.com/courses/618129) for communication. --->
+To get in touch with instructor(s), please use [Canvas](https://usu.instructure.com/courses/754454) for communication. 
 
 <!--- **Group Office Hours**: By appointment (Wednesday 12:00 - 13:00 via [Zoom](https://usu-edu.zoom.us/my/h20joe?pwd=eFNjSllqT3VDNTRoLzZ3Sk9IM1F6UT09) <i class="fa fa-search" aria-hidden="true"></i> --->
   </div>
@@ -140,15 +140,15 @@ The course is organized into a series of modules or topics. Slides (as PDFs), re
 
 All of course lecture slides and materials are linked from the Canvas page by module and assignment.
 
-<!--- <div align="center">
-<a class="hollow button" href="https://usu.instructure.com/courses/753156"><img src="{{ site.baseurl }}/assets/images/canvas_logo.png">  <b>Spring 2024 Canvas</b><br> WATS 5623 - Design of LTPBR</a> --->
+<div align="center">
+<a class="hollow button" href="https://usu.instructure.com/courses/754454"><img src="{{ site.baseurl }}/assets/images/canvas_logo.png">  <b>Spring 2024 Canvas</b><br> WATS 5623 - Design of LTPBR</a>
 
 
 
 
 <a class="hollow button" href="{{ site.baseurl }}/workshops/2020/SGI/Modules/module4"><img src="{{ site.baseurl }}/assets/images/diagrams/presentation.png"> <b>Module 4 - Design</b> <br> Slides  <i class="fa fa-file-pdf-o" aria-hidden="true"></i>, Recorded Lectures <i class="fa fa-youtube-play" aria-hidden="true"></i> and Exercises </a>
 
-
+</div>
 
 
 
