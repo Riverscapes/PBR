@@ -47,8 +47,8 @@ This course provides an introduction to the practice of Low-Tech Process-Based R
 
 Outline dates, assignments, and course zoom links will be available on Canvas:
 
-<!--- <div align="center">
-<a class="hollow button" href="https://usu.instructure.com/courses/754452"><img src="{{ site.baseurl }}/assets/images/canvas_logo.png">  <b>Spring 2023 Canvas</b><br> WATS 5620 - Intro to LTPBR Course Assignments</a></div> --->
+<div align="center">
+<a class="hollow button" href="https://usu.instructure.com/courses/754452"><img src="{{ site.baseurl }}/assets/images/canvas_logo.png">  <b>Spring 2023 Canvas</b><br> WATS 5620 - Intro to LTPBR Course Assignments</a></div> 
 
 
 Students are expected to watch pre-recorded lectures and complete the reading assignments prior to our class meetings, where those topics will be discussed and exercises completed as a group. 
@@ -146,11 +146,15 @@ The course is organized into a series of modules or topics. Slides (as PDFs), re
 
 All of course lecture slides and materials are linked from the Canvas page by module and assignment.
 
-<!--- <div align="center">
-<a class="hollow button" href=""><img src="{{ site.baseurl }}/assets/images/canvas_logo.png">  <b>Spring 2024 Canvas</b><br> WATS 5620 - Intro to LTPBR Course Assignments</a> --->
+<div align="center">
+<a class="hollow button" href="https://usu.instructure.com/courses/754452"><img src="{{ site.baseurl }}/assets/images/canvas_logo.png">  <b>Spring 2024 Canvas</b><br> WATS 5620 - Intro to LTPBR Course Assignments</a>
+    
+
 
 
 <a class="hollow button" href="{{ site.baseurl }}/workshops/2020/SGI/Modules/module1"><img src="{{ site.baseurl }}/assets/images/diagrams/presentation.png"> <b>Module  - Intro Resources</b> <br> Slides  <i class="fa fa-file-pdf-o" aria-hidden="true"></i>, Recorded Lectures <i class="fa fa-youtube-play" aria-hidden="true"></i> and Exercises </a>
+
+</div>
 
 ## Course Textbooks
 **Mandatory Texts** - A hard copy of both the manual and pocket-guide will make your participation in the courses easier, but *free digital versions* are available below. If you do not have hard copies, please have a PDF open in the background during class.  
