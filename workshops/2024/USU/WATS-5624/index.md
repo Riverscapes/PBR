@@ -98,9 +98,16 @@ By the end of this course, students will:
     Ecologist, <a href="https://qcnr.usu.edu/directory/bennett_stephen">Adjunct Professor</a>, <a href="https://www.anabranchsolutions.com/stephen-bennett.html">Principal<sup>2</sup></a><br>
     Office Hours:  By Appointment
 </div> 
+<div class="column column-block">
+    <a href="http://joewheaton.org"><img src="{{ site.baseurl }}/assets/images/people/Wheaton_round.png"></a>
+    <h4><a href="http://joewheaton.org">Joe Wheaton<sup>1,2,3</sup></a></h4>
+    <b>Instructor</b><br>
+    <a href="https://qcnr.usu.edu/directory/wats/faculty/wheaton-joseph"> Professor of Riverscapes</a>,<br> <a href="https://www.anabranchsolutions.com/joe-wheaton.html">Principal<sup>2</sup></a><br>   </div>
+
 </div>
 
-To get in touch with instructor(s), please use [Canvas](https://usu.instructure.com/) discussion boards or direct email for communication. 
+
+To get in touch with instructor(s), please use [Canvas](https://usu.instructure.com/) discussion boards or direct messaging for communication. 
 
 **Joe's Group Office Hours** Tuesdays 11:00 - 12:00 MT in person in NR360 or via [Zoom](https://usu-edu.zoom.us/j/83341579485?pwd=NVhTL01YNjJzRW1xTmRLbmxYS2hZUT09&from=addon) 
 
