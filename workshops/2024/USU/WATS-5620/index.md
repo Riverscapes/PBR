@@ -115,7 +115,7 @@ By the end of this course, students will:
 
 To get in touch with instructor(s), please use [Canvas](https://usu.instructure.com/) discussion boards or direct email for communication. 
 
-**Joe's Group Office Hours** Wednesday 11:00 - 12:00 MT in person in NR360 or via [Zoom](https://usu-edu.zoom.us/j/83341579485?pwd=NVhTL01YNjJzRW1xTmRLbmxYS2hZUT09&from=addon) or One tap mobile on Zoom: +16699006833,,83341579485#,,,,*723131# US (San Jose)
+**Joe's Group Office Hours** Tuesdays 11:00 - 12:00 MT in person in NR360 or via [Zoom](https://usu-edu.zoom.us/j/83341579485?pwd=NVhTL01YNjJzRW1xTmRLbmxYS2hZUT09&from=addon) 
 
 
 ### Instructor Affiliations
