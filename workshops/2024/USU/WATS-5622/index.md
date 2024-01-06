@@ -103,11 +103,9 @@ By the end of this course, students will:
 </div>
 
 
-To get in touch with instructor(s), please use [Canvas](https://usu.instructure.com/courses/754453) for communication.
+To get in touch with instructor(s), please use [Canvas](https://usu.instructure.com/) discussion boards or direct email for communication. 
 
-<!--- **Group Office Hours**: By appointment  (Wednesday 12:00 - 13:00 via [Zoom](https://usu-edu.zoom.us/my/h20joe?pwd=eFNjSllqT3VDNTRoLzZ3Sk9IM1F6UT09) <i class="fa fa-search" aria-hidden="true"></i>--->
-
-
+**Joe's Group Office Hours** Tuesdays 11:00 - 12:00 MT in person in NR360 or via [Zoom](https://usu-edu.zoom.us/j/83341579485?pwd=NVhTL01YNjJzRW1xTmRLbmxYS2hZUT09&from=addon) 
 
 
 ### Instructor Affiliations
