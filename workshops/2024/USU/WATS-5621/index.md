@@ -126,7 +126,7 @@ This introductory course is focused on remembering and understanding, and is int
   <div class="column column-block">
 	<a href="http://www.anabranchsolutions.com"><img src="{{ site.baseurl }}/assets/images/sponsors/anabranchsolutionslogo-square-450_10.png"></a><br>2. 
 
-
+</div>
 
 
 

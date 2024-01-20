@@ -95,7 +95,7 @@ By the end of this course, students will:
 <div class="row small-up-2 medium-up-2 large-up-4" align="center">
    <div class="column column-block">
     <a href="http://joewheaton.org"><img src="{{ site.baseurl }}/assets/images/people/Wheaton_round.png"></a>
-    <h4><a href="http://joewheaton.org">Joe Wheaton<sup>1,2,3</sup></a></h4>
+    <h4><a href="http://joewheaton.org">Joe Wheaton<sup>1,2</sup></a></h4>
     <b>Instructor</b><br>
     <a href="https://qcnr.usu.edu/directory/wats/faculty/wheaton-joseph"> Professor of Riverscapes</a>,<br> <a href="https://www.anabranchsolutions.com/joe-wheaton.html">Principal<sup>2</sup></a><br> 
 
@@ -129,10 +129,7 @@ To get in touch with instructor(s), please use [Canvas](https://usu.instructure.
 	<a href="http://www.anabranchsolutions.com"><img src="{{ site.baseurl }}/assets/images/sponsors/anabranchsolutionslogo-square-450_10.png"></a><br>2. 
 
   </div>
-   <div class="column column-block">
-    <a href="https://www.eco-logical-research.com/"><img src="{{ site.baseurl }}/assets/images/sponsors/ELR.png"></a><br>3.
 
-  </div>
 
 
 
