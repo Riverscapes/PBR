@@ -100,6 +100,21 @@ By the end of this course, students will:
 
 </div> 
 
+<div class="column column-block">
+    <a href="https://www.researchgate.net/profile/Stephen_Bennett8"><img src="{{ site.baseurl }}/assets/images/people/bennett-round_orig.png"></a>
+    <h4><a href="https://www.researchgate.net/profile/Stephen_Bennett8">Stephen N. Bennett<sup>1,2,3</sup></a></h4>
+    <b>Co Instructor</b><br>
+    Ecologist, <a href="https://qcnr.usu.edu/directory/bennett_stephen">Adjunct Professor</a>, <a href="https://www.anabranchsolutions.com/stephen-bennett.html">Principal<sup>2</sup></a><br>
+    Office Hours:  By Appointment
+</div> 
+
+   <div class="column column-block">
+    <img src="{{ site.baseurl }}/assets/images/people/Sandy_Round_200.png">
+    <h4>Sandra Johnson<sup>1</sup></h4>
+    <b>Teaching Assistant</b><br>
+    Masters Student in MoER<br> 
+  </div>
+
 </div>
 
 

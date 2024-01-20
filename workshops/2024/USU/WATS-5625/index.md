@@ -103,7 +103,13 @@ This introductory course is focused on remembering, understanding, using adaptiv
     Ecologist, <a href="https://qcnr.usu.edu/directory/bouwes_nicolaas">Adjunct Professor</a>, <a href="https://www.anabranchsolutions.com/nick-bouwes.html">Principal<sup>2</sup></a><br>
     Office Hours:  By Appointment
   </div>
-   
+
+  <div class="column column-block">
+    <img src="{{ site.baseurl }}/assets/images/people/Sandy_Round_200.png">
+    <h4>Sandra Johnson<sup>1</sup></h4>
+    <b>Teaching Assistant</b><br>
+    Masters Student in MoER<br> 
+  </div>
 
 
 

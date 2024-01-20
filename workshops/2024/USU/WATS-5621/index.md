@@ -103,6 +103,13 @@ Recognize what outstanding knowledge gaps exist within the science.
 
    Office Hours:  By Appointment
   </div>
+    
+   <div class="column column-block">
+    <img src="{{ site.baseurl }}/assets/images/people/Sandy_Round_200.png">
+    <h4>Sandra Johnson<sup>1</sup></h4>
+    <b>Teaching Assistant</b><br>
+    Masters Student in MoER<br> 
+  </div>
 
 </div>
 
