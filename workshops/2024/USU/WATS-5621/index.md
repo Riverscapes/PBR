@@ -90,7 +90,8 @@ This introductory course is focused on remembering and understanding, and is int
 3. *Recognize* what outstanding knowledge gaps exist within the science.
 
 
-Recognize what outstanding knowledge gaps exist within the science.
+
+
 ------
 ## Instructors
 
