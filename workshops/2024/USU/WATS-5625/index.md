@@ -98,7 +98,7 @@ This introductory course is focused on remembering, understanding, using adaptiv
 
 <div class="column column-block">
     <a href="https://www.researchgate.net/profile/Nick_Bouwes"><img src="{{ site.baseurl }}/assets/images/people/bouwes-round_1_orig.png"></a>
-    <h4><a href="https://www.researchgate.net/profile/Nick_Bouwes">Nicolaas Bouwes<sup>1,2,3</sup></a></h4>
+    <h4><a href="https://www.researchgate.net/profile/Nick_Bouwes">Nicolaas Bouwes<sup>1,2</sup></a></h4>
     <b>Lead Instructor</b><br>
     Ecologist, <a href="https://qcnr.usu.edu/directory/bouwes_nicolaas">Adjunct Professor</a>, <a href="https://www.anabranchsolutions.com/nick-bouwes.html">Principal<sup>2</sup></a><br>
     Office Hours:  By Appointment
@@ -129,11 +129,7 @@ To get in touch with instructor(s), please use [Canvas](https://usu.instructure.
   <div class="column column-block">
 	<a href="http://www.anabranchsolutions.com"><img src="{{ site.baseurl }}/assets/images/sponsors/anabranchsolutionslogo-square-450_10.png"></a><br>2. 
 
-  </div>
-   <div class="column column-block">
-    <a href="https://www.eco-logical-research.com/"><img src="{{ site.baseurl }}/assets/images/sponsors/ELR.png"></a><br>3.
 
-  </div>
 
 
 

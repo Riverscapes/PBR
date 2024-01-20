@@ -98,7 +98,7 @@ This introductory course is focused on remembering and understanding, and is int
 <div class="row small-up-2 medium-up-2 large-up-4" align="center">
   <div class="column column-block">
     <a href="https://www.researchgate.net/profile/Nick_Bouwes"><img src="{{ site.baseurl }}/assets/images/people/bouwes-round_1_orig.png"></a>
-    <h4><a href="https://www.researchgate.net/profile/Nick_Bouwes">Nicolaas Bouwes<sup>3,2,1</sup></a></h4>
+    <h4><a href="https://www.researchgate.net/profile/Nick_Bouwes">Nicolaas Bouwes<sup>2,1</sup></a></h4>
     <b>Lead Instructor</b><br>
    Aquatic  Ecologist, <a href="https://qcnr.usu.edu/directory/bouwes_nicolaas">Adjunct Professor</a>, <a href="https://www.anabranchsolutions.com/nick-bouwes.html">Principal<sup>2</sup></a><br>
 
@@ -126,11 +126,7 @@ This introductory course is focused on remembering and understanding, and is int
   <div class="column column-block">
 	<a href="http://www.anabranchsolutions.com"><img src="{{ site.baseurl }}/assets/images/sponsors/anabranchsolutionslogo-square-450_10.png"></a><br>2. 
 
-  </div>
-   <div class="column column-block">
-    <a href="https://www.eco-logical-research.com/"><img src="{{ site.baseurl }}/assets/images/sponsors/ELR.png"></a><br>3.
 
-  </div>
 
 
 
