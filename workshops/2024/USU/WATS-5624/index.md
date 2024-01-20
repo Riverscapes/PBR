@@ -112,6 +112,15 @@ By the end of this course, students will:
     Restoration Technician
   </div>
 
+   <div class="column column-block">
+    <a href="hhttps://www.anabranchsolutions.com/alec-arditti.html"><img src="{{ site.baseurl }}/assets/images/people/Alec_Round200.png"></a>
+    <h4><a href="https://www.anabranchsolutions.com/alec-arditti.html">Alec Arditti<sup>1,2</sup></a></h4>
+     Geomorphologist & Project Manager<br>
+   <b>Teaching Assistant</b><br>
+   Office Hours: by Appointment
+  </div>
+
+
 </div>
 
 
