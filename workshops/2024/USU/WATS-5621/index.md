@@ -107,9 +107,10 @@ This introductory course is focused on remembering and understanding, and is int
     
    <div class="column column-block">
     <img src="{{ site.baseurl }}/assets/images/people/Sandy_Round_200.png">
-    <h4>Sandra Johnson<sup>1</sup></h4>
+    <h4>Sandra Johnson<sup>1,2</sup></h4>
     <b>Teaching Assistant</b><br>
-    Masters Student in MoER<br> 
+    Masters Student in MoER<br>
+    Restoration Technician
   </div>
 
 </div>

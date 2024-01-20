@@ -100,11 +100,13 @@ By the end of this course, students will:
     <a href="https://qcnr.usu.edu/directory/wats/faculty/wheaton-joseph"> Professor of Riverscapes</a>,<br> <a href="https://www.anabranchsolutions.com/joe-wheaton.html">Principal<sup>2</sup></a><br> 
 
   </div>
+
    <div class="column column-block">
     <img src="{{ site.baseurl }}/assets/images/people/Sandy_Round_200.png">
-    <h4>Sandra Johnson<sup>1</sup></h4>
+    <h4>Sandra Johnson<sup>1,2</sup></h4>
     <b>Teaching Assistant</b><br>
-    Masters Student in MoER<br> 
+    Masters Student in MoER<br>
+    Restoration Technician
   </div>
 
 
