@@ -27,9 +27,9 @@ In this training, students will learn the key principles and techniques for Low-
 
 | Course #  | Course Title                                                 | Dates                  | Time (MST)  | Cost | Link to Register                                             |
 | --------- | ------------------------------------------------------------ | ---------------------- | ----------- | ---- | ------------------------------------------------------------ |
-| CEWA 5620 | **[Introduction]({{ site.baseurl }}/workshops/2024/USU/WATS-5620/)** to Low-Tech Process-Based Restoration of Riverscapes | **Jan 9, 16 & 23**     | 1:30 - 4:15 | $315 | [Register](https://cpe.usu.edu/search/publicCourseSearchDetails.do?method=load&courseId=1015426) |
-| CEWA 5621 | **[Science & Case Studies]({{ site.baseurl }}/workshops/2024/USU/WATS-5621/)** of Low-Tech Process-Based Restoration of Riverscapes | **Feb 20, 27 & Mar 5** | 1:30 - 4:15 | $315 | [Register](https://cpe.usu.edu/search/publicCourseSearchDetails.do?method=load&courseId=1073960) |
-| CEWA 5622 | **[Planning]({{ site.baseurl }}/workshops/2024/USU/WATS-5622/)** to Low-Tech Process-Based Restoration of Riverscapes | **Jan 30 & Feb 6, 13** | 1:30 - 4:15 | $315 | [Register](https://cpe.usu.edu/search/publicCourseSearchDetails.do?method=load&courseId=1073962) |
+| CEWA 5620 | **[Introduction]({{ site.baseurl }}/workshops/2024/USU/WATS-5620/)** to Low-Tech Process-Based Restoration of Riverscapes | **Jan 9, 16 & 23**     | 1:30 - 4:15 | $315 | **Registration Full** |
+| CEWA 5621 | **[Science & Case Studies]({{ site.baseurl }}/workshops/2024/USU/WATS-5621/)** of Low-Tech Process-Based Restoration of Riverscapes | **Feb 20, 27 & Mar 5** | 1:30 - 4:15 | $315 | [Register](https://cpe.usu.edu/search/publicCourseSearchDetails.do?method=load&courseId=1073960) *<5 spots available* |
+| CEWA 5622 | **[Planning]({{ site.baseurl }}/workshops/2024/USU/WATS-5622/)** to Low-Tech Process-Based Restoration of Riverscapes | **Jan 30 & Feb 6, 13** | 1:30 - 4:15 | $315 | **Registration Full** |
 
 Students must register for all three courses to satisfy the Level 1 Series requirements.  
 
@@ -42,7 +42,7 @@ Participants will engage in hands-on activities, from designing their own restor
 
 | Course #  | Course Title                                                 | Dates                                 | Time                                | Cost | Link to Register                                             |
 | --------- | ------------------------------------------------------------ | ------------------------------------- | ----------------------------------- | ---- | ------------------------------------------------------------ |
-| CEWA 5623 | **[Design]({{ site.baseurl }}/workshops/2024/USU/WATS-5623/)** to Low-Tech Process-Based Restoration of Riverscapes | **Mar 19, 26 & Apr 2**                | 1:30 - 4:15                         | $315 | [Register](https://cpe.usu.edu/search/publicCourseSearchDetails.do?method=load&courseId=1073964) |
+| CEWA 5623 | **[Design]({{ site.baseurl }}/workshops/2024/USU/WATS-5623/)** to Low-Tech Process-Based Restoration of Riverscapes | **Mar 19, 26 & Apr 2**                | 1:30 - 4:15                         | $315 | [Register](https://cpe.usu.edu/search/publicCourseSearchDetails.do?method=load&courseId=1073964) *<5 spots available* |
 | CEWA 5624 | **[Implementing]({{ site.baseurl }}/workshops/2024/USU/WATS-5624/)** Low-Tech Process-Based Restoration of Riverscapes | **Apr 9 & 13\***<br/>*** Field Trip** | Apr 9: 1:30 -3:30<br/>April 13: 9-5 | $415 | [Register](https://cpe.usu.edu/search/publicCourseSearchDetails.do?method=load&courseId=1015428) |
 | CEWA 5625 | **[Adaptive Management]({{ site.baseurl }}/workshops/2024/USU/WATS-5625/)** of Low-Tech Process-Based Restoration of Riverscapes | **Apr 16 & 23**                       | 1:30 - 4:15                         | $315 | [Register](https://cpe.usu.edu/search/publicCourseSearchDetails.do?method=load&courseId=1015430) |
 
