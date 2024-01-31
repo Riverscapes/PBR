@@ -41,7 +41,7 @@ Non-matriculated students can take the classes for a direct fee through our Cont
 | CEWA 5620 |  **[Introduction]({{ site.baseurl }}/workshops/2024/USU/WATS-5620/)** to Low-Tech Process-Based Restoration of Riverscapes | $315 | **Registration Full** |
 | CEWA 5621 |  **[Science & Case Studies]({{ site.baseurl }}/workshops/2024/USU/WATS-5621/)** of Low-Tech Process-Based Restoration of Riverscapes | $315 | [Register](https://cpe.usu.edu/search/publicCourseSearchDetails.do?method=load&courseId=1073960) *few spots remaining* |
 | CEWA 5622 |  **[Planning]({{ site.baseurl }}/workshops/2024/USU/WATS-5622/)** to Low-Tech Process-Based Restoration of Riverscapes | $315 | **Registration Full** |
-| CEWA 5623 |  **[Design]({{ site.baseurl }}/workshops/2024/USU/WATS-5623/)** to Low-Tech Process-Based Restoration of Riverscapes | $315 | [Register](https://cpe.usu.edu/search/publicCourseSearchDetails.do?method=load&courseId=1073964&selectedProgramAreaId=1134103&selectedProgramStreamId=) *few spots remaining*|
+| CEWA 5623 |  **[Design]({{ site.baseurl }}/workshops/2024/USU/WATS-5623/)** to Low-Tech Process-Based Restoration of Riverscapes | $315 | **Registration Full** |
 | CEWA 5624 | **[Implementing]({{ site.baseurl }}/workshops/2024/USU/WATS-5624/)** of Low-Tech Process-Based Restoration of Riverscapes | $415 | [Register](https://cpe.usu.edu/search/publicCourseSearchDetails.do?method=load&courseId=1015428) |
 | CEWA 5625 | **[Adaptive Management]({{ site.baseurl }}/workshops/2024/USU/WATS-5625/)** of Low-Tech Process-Based Restoration of Riverscapes | $315 | [Register](https://cpe.usu.edu/search/publicCourseSearchDetails.do?method=load&courseId=1015430) |
 
