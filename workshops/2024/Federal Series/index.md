@@ -52,8 +52,8 @@ Students have completed the Level 1 training prior to taking the Level 2 courses
 
 BLM/NRCS employees can choose to attend the April 13th implementation day around Logan, UT or an one of the following implementation day organized by the BLM & NRCS Summer 2024. 
 
-- [July 24, 2024 | Sisters, OR]({{sitebaseurl}}/workshops/2024/Federal%20Series/sisters)
-- Date TBD | Western Wyoming
+- [July 24, 2024, Sisters, OR]({{sitebaseurl}}/workshops/2024/Federal%20Series/sisters)
+- Date TBD, Western Wyoming
 
 ### Registration Instructions
 
