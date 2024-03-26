@@ -23,11 +23,9 @@ weight: 1
 
 ## Workshop Description
 
-This workshop will give students as basic introduction to ‘low-tech’ process-based approaches for restoring streams and their associated riparian areas (riverscapes) to benefit fish, wildlife, and working lands. Participants will learn principles guiding low-tech process-based restoration and become familiar with simple, hand-built tools, including Beaver Dam Analogues (BDAs) and Post-Assisted Log Structures (PALS), intended to mimic and promote specific ecosystem processes. Course content is supported by a published [Design Manual]({{ site.baseurl }}/manual/).  On day 2 of the workshop, students will construct LTPBR structures just outside of Sisters, OR. 
+The [USU Restoration Consortium](https://restoration.usu.edu) has partnered with the Natural Resources Conservation Service [West National Technology Support Center](https://www.nrcs.usda.gov/west-national-technology-support-center) and the [Bureau of Land Management's Aquatic Resources Program](https://www.blm.gov/programs/aquatics) to develop a standardized training series for Low-Tech Process-Based Restoration.
 
-
-
-This course is offered as part of CEWA 5624 - Implementation of Low-Tech Process-Based Restoration for NRCS & BLM employees to satisfy [LTPBR Level 2]({{sitebaseurl}}/workshops/2024/federal_series) training requirements. 
+This course is offered as part of CEWA 5624 - Implementation of Low-Tech Process-Based Restoration for NRCS & BLM employees to satisfy [LTPBR Level 2]({{sitebaseurl}}/workshops/2024/federal_series) training requirements. For students who have not participated in the Level 1 & 2 Training series, we will introduce Low-Tech Process-Based Restoration (LTPBR), we will introduce the basic concepts of LTPBR during day 1 of the workshop. On day 2 of the workshop, students will construct LTPBR structures just outside of Sisters, OR. 
 
 ------
 
@@ -36,7 +34,6 @@ This course is offered as part of CEWA 5624 - Implementation of Low-Tech Process
 #### Classroom Instruction - Day 1
 
 - Day 1 - **Introduction to Low-Tech Process-Based Restoration** and **Underlying Science & Case Studies for Low-Tech** - (local field trip; mostly class-room in Manhattan, KS)  - 9 AM to 5 PM with evening dinner starting at 6:30
-- Day 2 - **Planning Low-Tech Process-Based Restoration** and **Designing Low-Tech Process-Based Restoration**  (all class-room in Manhattan, KS) - 9 AM to 5 PM
 
 
 Days 1 will be held at the Best Western Ponderosa Lodge
@@ -72,16 +69,15 @@ We will meet at 8:30 at the construction site on Whychus Creek. Implementation S
 
 <div align="center">
 
+<a class="hollow button" href="{{ site.baseurl }}/workshops/2020/SGI/Modules/module1"><img src="{{ site.baseurl }}/assets/images/diagrams/presentation.png"> <b>Module 1 - Intro</b> <br> Slides  <i class="fa fa-file-pdf-o" aria-hidden="true"></i>, Recorded Lectures <i class="fa fa-youtube-play" aria-hidden="true"></i> and Exercises </a>
 
-<a class="hollow button" href="{{ site.baseurl }}/workshops/2020/SGI/Modules/module1"><img src="C:\Users\dshore\Documents\GitPBR\PBR\workshops\2023\{{ site.baseurl }}\assets\images\diagrams\presentation.png"> <b>Module 1 - Intro</b> <br> Slides  <i class="fa fa-file-pdf-o" aria-hidden="true"></i>, Recorded Lectures <i class="fa fa-youtube-play" aria-hidden="true"></i> and Exercises </a>
+<a class="hollow button" href="{{ site.baseurl }}/workshops/2020/SGI/Modules/module2"><img src="{{ site.baseurl }}/assets/images/diagrams/presentation.png">  <b>Module 2 - Science</b> <br> Slides  <i class="fa fa-file-pdf-o" aria-hidden="true"></i>, Recorded Lectures <i class="fa fa-youtube-play" aria-hidden="true"></i> and Exercises </a>
 
-<a class="hollow button" href="{{ site.baseurl }}/workshops/2020/SGI/Modules/module2"><img src="C:\Users\dshore\Documents\GitPBR\PBR\workshops\2023\{{ site.baseurl }}\assets\images\diagrams\presentation.png"> <b>Module 2 - Science</b> <br> Slides  <i class="fa fa-file-pdf-o" aria-hidden="true"></i>, Recorded Lectures <i class="fa fa-youtube-play" aria-hidden="true"></i> and Exercises </a>
+<a class="hollow button" href="{{ site.baseurl }}/workshops/2020/SGI/Modules/module3"><img src="{{ site.baseurl }}/assets/images/diagrams/presentation.png"> <b>Module 3 - Planning</b> <br> Slides  <i class="fa fa-file-pdf-o" aria-hidden="true"></i>, Recorded Lectures <i class="fa fa-youtube-play" aria-hidden="true"></i> and Exercises </a>
 
-<a class="hollow button" href="{{ site.baseurl }}/workshops/2020/SGI/Modules/module3"><img src="C:\Users\dshore\Documents\GitPBR\PBR\workshops\2023\{{ site.baseurl }}\assets\images\diagrams\presentation.png"> <b>Module 3 - Planning</b> <br> Slides  <i class="fa fa-file-pdf-o" aria-hidden="true"></i>, Recorded Lectures <i class="fa fa-youtube-play" aria-hidden="true"></i> and Exercises </a>
+<a class="hollow button" href="{{ site.baseurl }}/workshops/2020/SGI/Modules/module4"><img src="{{ site.baseurl }}/assets/images/diagrams/presentation.png"> <b>Module 4 - Design</b> <br> Slides  <i class="fa fa-file-pdf-o" aria-hidden="true"></i>, Recorded Lectures <i class="fa fa-youtube-play" aria-hidden="true"></i> and Exercises </a>
 
-<a class="hollow button" href="{{ site.baseurl }}/workshops/2020/SGI/Modules/module4"><img src="C:\Users\dshore\Documents\GitPBR\PBR\workshops\2023\{{ site.baseurl }}\assets\images\diagrams\presentation.png"> <b>Module 4 - Design</b> <br> Slides  <i class="fa fa-file-pdf-o" aria-hidden="true"></i>, Recorded Lectures <i class="fa fa-youtube-play" aria-hidden="true"></i> and Exercises </a>
-
-<a class="hollow button" href="{{ site.baseurl }}/workshops/2020/SGI/Modules/module5"><img src="C:\Users\dshore\Documents\GitPBR\PBR\workshops\2023\{{ site.baseurl }}\assets\images\diagrams\presentation.png"> <b>Module 5 - Implementation</b> <br> Slides  <i class="fa fa-file-pdf-o" aria-hidden="true"></i>, Recorded Lectures <i class="fa fa-youtube-play" aria-hidden="true"></i> and Exercises </a>
+<a class="hollow button" href="{{ site.baseurl }}/workshops/2020/SGI/Modules/module5"><img src="{{ site.baseurl }}/assets/images/diagrams/presentation.png">  <b>Module 5 - Implementation</b> <br> Slides  <i class="fa fa-file-pdf-o" aria-hidden="true"></i>, Recorded Lectures <i class="fa fa-youtube-play" aria-hidden="true"></i> and Exercises </a>
 
 </div>
 
