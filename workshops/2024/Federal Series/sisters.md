@@ -33,7 +33,7 @@ This course is offered as part of CEWA 5624 - Implementation of Low-Tech Process
 
 #### Classroom Instruction - Day 1 | July 23, 2024
 
-- Day 1 - **Introduction to Low-Tech Process-Based Restoration** and **Underlying Science & Case Studies for Low-Tech** - (local field trip; mostly class-room in Manhattan, KS)  - 9 AM to 5 PM with evening dinner starting at 6:30
+- Day 1 - **Introduction to Low-Tech Process-Based Restoration** - 1PM to 5 PM with evening dinner starting at 6:30. This Introduction to LTPBR is intended for participants who are not enrolled in the [Level 2]({{sitebaseurl}}/workshops/2024/federal_series) LTPBR series. 
 
 
 Days 1 will be held at the Best Western Ponderosa Lodge
