@@ -31,7 +31,7 @@ This course is offered as part of CEWA 5624 - Implementation of Low-Tech Process
 
 # Agenda
 
-#### Classroom Instruction - Day 1
+#### Classroom Instruction - Day 1 | July 23, 2024
 
 - Day 1 - **Introduction to Low-Tech Process-Based Restoration** and **Underlying Science & Case Studies for Low-Tech** - (local field trip; mostly class-room in Manhattan, KS)  - 9 AM to 5 PM with evening dinner starting at 6:30
 
@@ -51,7 +51,7 @@ We will enjoy an evening dinner at the Best Western Ponderosa Lodge Please arriv
 <div align="center"><a class="hollow button" href="{{ site.baseurl }}/resources/casestudies/birch"><img width="100"  src="{{ site.baseurl }}/assets/images/people/Wilde_round.png"> <br>Learn More about<br><b> Jay Wilde's Birch Creek Story</b> </a> </div>
 
 
-#### Construction - Day 2 
+#### Construction - Day 2 | July 24, 2024
 
 - Day 2 -  **Implementing Low-Tech Process-Based Restoration** (field all-day)  - 8:30 AM to 3 PM
 
