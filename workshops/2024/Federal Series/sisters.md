@@ -8,7 +8,12 @@ weight: 1
 
 ### July 23-24, 2024
 
-<!---- The [USU Restoration Consortium](https://restoration.usu.edu) has partnered with the Natural Resources Conservation Service [West National Technology Support Center](https://www.nrcs.usda.gov/west-national-technology-support-center) and the [Bureau of Land Management's Aquatic Resources Program](https://www.blm.gov/programs/aquatics) to develop a standardized training series for Low-Tech Process-Based Restoration. These training series are pending incorporation into [AgLearn](https://aglearn.usda.gov/) and [DOI Talent](https://www.doi.gov/doitalent). Students will also receive continuing education units ([CEUs](https://cpe.usu.edu/contentManagement.do?method=load&code=PG0020)) and a transcript of professional credit from Utah State University. 
+
+## Workshop Description
+
+The [USU Restoration Consortium](https://restoration.usu.edu) has partnered with the Natural Resources Conservation Service [West National Technology Support Center](https://www.nrcs.usda.gov/west-national-technology-support-center) and the [Bureau of Land Management's Aquatic Resources Program](https://www.blm.gov/programs/aquatics) to develop a standardized training series for Low-Tech Process-Based Restoration.
+
+This course is offered as part of CEWA 5624 - Implementation of Low-Tech Process-Based Restoration for NRCS & BLM employees to satisfy [LTPBR Level 2]({{sitebaseurl}}/workshops/2024/federal_series) training requirements. For students who have not participated in the Level 1 & 2 Training series, we will introduce Low-Tech Process-Based Restoration (LTPBR) day 1 of the workshop. On day 2 of the workshop, students will construct LTPBR structures just outside of Sisters, OR. 
 
 <div class="row small-up-2 medium-up-3 large-up-2">
  <div class="column column-block">
@@ -18,15 +23,6 @@ weight: 1
   	<a href="https://www.blm.gov/"><img  src="{{ site.baseurl }}/assets/images/sponsors/blm.png"></a> 
   </div>
 </div>
-
---->
-
-## Workshop Description
-
-The [USU Restoration Consortium](https://restoration.usu.edu) has partnered with the Natural Resources Conservation Service [West National Technology Support Center](https://www.nrcs.usda.gov/west-national-technology-support-center) and the [Bureau of Land Management's Aquatic Resources Program](https://www.blm.gov/programs/aquatics) to develop a standardized training series for Low-Tech Process-Based Restoration.
-
-This course is offered as part of CEWA 5624 - Implementation of Low-Tech Process-Based Restoration for NRCS & BLM employees to satisfy [LTPBR Level 2]({{sitebaseurl}}/workshops/2024/federal_series) training requirements. For students who have not participated in the Level 1 & 2 Training series, we will introduce Low-Tech Process-Based Restoration (LTPBR) day 1 of the workshop. On day 2 of the workshop, students will construct LTPBR structures just outside of Sisters, OR. 
-
 ------
 
 # Agenda
@@ -161,7 +157,7 @@ Registration is free, but is by invitation only. Contact [Dominique Shore](mailt
 
 ### Lodging
 
-For those travelling  from out of town, we recommend staying at the [Best Western Ponderosa Lodge](). We recommend you book early as Sisters, OR is a popular vacation destination in the summer. There are a variety of [other lodging options in Sisters as well](https://www.google.com/travel/search?q=hotels%20near%20sisters%20oregon&ts=CAEaHBIaEhQKBwjoDxADGBwSBwjoDxADGB0YATICEAAqBwoFOgNVU0Q&ved=0CAAQ5JsGahcKEwjIpeWl7ZKFAxUAAAAAHQAAAAAQWQ&ictx=3&qs=CAAgASgA&ap=MAA). 
+For those travelling  from out of town, we recommend staying at the [Best Western Ponderosa Lodge](https://www.bestwestern.com/en_US/book/hotels-in-sisters/best-western-ponderosa-lodge/propertyCode.38103.html). We recommend you book early as Sisters, OR is a popular vacation destination in the summer. There are a variety of [other lodging options in Sisters as well](https://www.google.com/travel/search?q=hotels%20near%20sisters%20oregon&ts=CAEaHBIaEhQKBwjoDxADGBwSBwjoDxADGB0YATICEAAqBwoFOgNVU0Q&ved=0CAAQ5JsGahcKEwjIpeWl7ZKFAxUAAAAAHQAAAAAQWQ&ictx=3&qs=CAAgASgA&ap=MAA). 
 
 ### Field Gear
 
@@ -177,8 +173,6 @@ Meals are provided with your registration to help us run the workshop more effic
 
 - Day 1 (Classroom)
 
-  - Morning coffee and snacks *provided* 
-  - Lunch *provided* 
   - Dinner *provided*
 
 - Day 2 (Field Construction Day)
