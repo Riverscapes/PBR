@@ -1,19 +1,19 @@
 ---
-title:  2024 Low-Tech Riverscape Restoration Workshop, Sisters, OR
+title:  2024 Low-Tech Riverscape Restoration Workshop, Pinedale, WY
 weight: 1
 
 ---
 
-# Sisters, OR | Low-Tech Process Based Restoration Field Workshop
+# Pinedale, OR | Low-Tech Process Based Restoration Field Workshop
 
-### July 23-24, 2024
+### August 7-8, 2024
 
 
 ## Workshop Description
 
 The [USU Restoration Consortium](https://restoration.usu.edu) has partnered with the Natural Resources Conservation Service [West National Technology Support Center](https://www.nrcs.usda.gov/west-national-technology-support-center) and the [Bureau of Land Management's Aquatic Resources Program](https://www.blm.gov/programs/aquatics) to develop a standardized training series for Low-Tech Process-Based Restoration.
 
-This course is offered as part of CEWA 5624 - Implementation of Low-Tech Process-Based Restoration for NRCS & BLM employees to satisfy [LTPBR Level 2]({{sitebaseurl}}/workshops/2024/federal_series) training requirements. For students who have not participated in the Level 1 & 2 Training series, we will introduce Low-Tech Process-Based Restoration (LTPBR) day 1 of the workshop. On day 2 of the workshop, students will construct LTPBR structures just outside of Sisters, OR. 
+This course is offered as part of CEWA 5624 - Implementation of Low-Tech Process-Based Restoration for NRCS & BLM employees to satisfy [LTPBR Level 2]({{sitebaseurl}}/workshops/2024/federal_series) training requirements. For students who have not participated in the Level 1 & 2 Training series, we will introduce Low-Tech Process-Based Restoration (LTPBR) day 1 of the workshop. On day 2 of the workshop, students will construct LTPBR structures just outside of Pinedale, WY. 
 
 <div class="row small-up-2 medium-up-3 large-up-2">
  <div class="column column-block">
@@ -27,31 +27,30 @@ This course is offered as part of CEWA 5624 - Implementation of Low-Tech Process
 
 # Agenda
 
-#### Classroom Instruction - Day 1 | July 23, 2024
+#### Classroom Instruction - Day 1 | August 7, 2024
 
 - Day 1 - **Introduction to Low-Tech Process-Based Restoration** - 1PM to 5 PM with evening dinner starting at 6:30. This Introduction to LTPBR is intended for participants who are not enrolled in the [Level 2]({{sitebaseurl}}/workshops/2024/federal_series) LTPBR series. 
 
 
-Days 1 will be held at the Best Western Ponderosa Lodge
+Days 1 will be held at the BLM Pinedale Field Office
 
 <div class="responsive-embed">
-
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2855.593499840718!2d-121.5617983241869!3d44.29774807107883!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x54b8c60dc50deb81%3A0xc6d44b805aedae41!2sBest%20Western%20Ponderosa%20Lodge!5e0!3m2!1sen!2sus!4v1711487578357!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d11697.025254959282!2d-109.88255033025844!3d42.867433913101124!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x875796a72ca3a56d%3A0x382acbb5748249b3!2sUS%20Bureau%20of%20Land%20Management!5e0!3m2!1sen!2sus!4v1711993749836!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 </div>
 
-#### Day 1 Evening Dinner Social - [Best Western Ponderosa Lodge](https://maps.app.goo.gl/QR4xzLJiinpz7vmKA) 
+#### Day 1 Evening Dinner Social
 
-We will enjoy an evening dinner at the Best Western Ponderosa Lodge Please arrive any time between 6:00 and 6:30 PM. Dinner will begin being served around 6:30ish PM, and we will hear rancher [Jay Wilde's story]({{ site.baseurl }}/resources/casestudies/birch) of bringing back beaver to his ranch beginning at 7:00. We will wrap sometime between 8:30 and 9:00. 
+We encourage all course participants enjoy an evening dinner Aug 7. Please arrive any time between 6:00 and 6:30 PM. Dinner will begin being served around 6:30ish PM, and we will hear rancher [Jay Wilde's story]({{ site.baseurl }}/resources/casestudies/birch) of bringing back beaver to his ranch beginning at 7:00. We will wrap sometime between 8:30 and 9:00. Location TBD. 
 
 <div align="center"><a class="hollow button" href="{{ site.baseurl }}/resources/casestudies/birch"><img width="100"  src="{{ site.baseurl }}/assets/images/people/Wilde_round.png"> <br>Learn More about<br><b> Jay Wilde's Birch Creek Story</b> </a> </div>
 
 
-#### Construction - Day 2 | July 24, 2024
+#### Construction - Day 2 | August 8, 2024
 
 - Day 2 -  **Implementing Low-Tech Process-Based Restoration** (field all-day)  - 8:30 AM to 3 PM
 
-We will meet at 8:30 at the construction site on Whychus Creek. Implementation Site TBD.  
+We will meet at 8:30 at the construction site. Implementation Site TBD.  
 
 
 
@@ -155,9 +154,9 @@ We will meet at 8:30 at the construction site on Whychus Creek. Implementation S
 Registration is free, but is by invitation only. Contact [Dominique Shore](mailto:dominique.shore@usu.edu) for more information.
 
 
-### Lodging
+### Lodging 
 
-For those travelling  from out of town, we recommend staying at the [Best Western Ponderosa Lodge](https://www.bestwestern.com/en_US/book/hotels-in-sisters/best-western-ponderosa-lodge/propertyCode.38103.html). Please note that rooms in Sisters, OR are quite expensive, and federal-employees may need to have their room pricing   We recommend you book early as Sisters, OR is a popular vacation destination in the summer. There are a variety of [other lodging options in Sisters as well](https://www.google.com/travel/search?q=hotels%20near%20sisters%20oregon&ts=CAEaHBIaEhQKBwjoDxADGBwSBwjoDxADGB0YATICEAAqBwoFOgNVU0Q&ved=0CAAQ5JsGahcKEwjIpeWl7ZKFAxUAAAAAHQAAAAAQWQ&ictx=3&qs=CAAgASgA&ap=MAA). 
+For those travelling  from out of town, we have secured a hotel block at the [Best Western Pinedale Inn](https://www.bestwestern.com/en_US/book/hotels-in-pinedale/best-western-pinedale-inn/propertyCode.51060.html) at the rate of $169 for 8/7-8/9. To book, call the hotel at 307-367-6869 and provide the group name BLM-USU. *Rooms must be booked before 7/6/2024 to secure group rate.* 
 
 ### Field Gear
 
@@ -186,13 +185,14 @@ Meals are provided with your registration to help us run the workshop more effic
 ### Emergency Preparedness
 In the event of an emergency, most of our field visits and the classroom at the fairgrounds should all have cell reception of dialing 911. We will have some First Responder certified participants and instructors, and we will have first aid kits available. The closest Emergency Room  is:
 
-[St. Charles Redmond](https://www.stcharleshealthcare.org/locations/st-charles-redmond?utm_source=local-listing&utm_medium=organic&utm_campaign=website-link)
-[1253 Northwest Canal Boulevard](https://maps.app.goo.gl/81XB6Q6Q1GJ1pE9FA), Redmond, OR 97756
-541-548-8131
+[Mableton/Big Piney Medical Clinic](https://www.sublettehospitaldistrict.org/urgentcare)
+[103 W Third Street Marbleton, WY](https://maps.app.goo.gl/oYidKx8DdFziw4LM7)
+(307) 276-3306
 
 <div class="responsive-embed">
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d182940.73476986794!2d-121.46565020485708!3d44.23900172751847!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x54bf2aeb62d3be97%3A0x812dbe5ec235127f!2sSt.%20Charles%20Redmond!5e0!3m2!1sen!2sus!4v1711997495334!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d734.7468645457984!2d-110.111638668086!3d42.55555920156613!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x875708f176575a01%3A0xf2086561249c7931!2sMarbleton%20-%20Big%20Piney%20Clinic!5e0!3m2!1sen!2sus!4v1711999285974!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div> 
+
 
 
 

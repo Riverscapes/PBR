@@ -43,7 +43,7 @@ Participants will engage in hands-on activities, from designing their own restor
 | Course #  | Course Title                                                 | Dates                                                        | Time                                | Cost | Link to Register                                             |
 | --------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ----------------------------------- | ---- | ------------------------------------------------------------ |
 | CEWA 5623 | **[Design]({{ site.baseurl }}/workshops/2024/USU/WATS-5623/)** to Low-Tech Process-Based Restoration of Riverscapes | **Mar 19, 26 & Apr 2**                                       | 1:30 - 4:15                         | $315 | **Registration Full**                                        |
-| CEWA 5624 | **[Implementing]({{ site.baseurl }}/workshops/2024/USU/WATS-5624/)** Low-Tech Process-Based Restoration of Riverscapes | **Classroom April 9** <br/>**Field Day April 13 in Logan, UT, July 24 or Wyoming, Date TBD** | Apr 9: 1:30 -3:30<br/>April 13: 9-5 | $415 | [Register](https://cpe.usu.edu/search/publicCourseSearchDetails.do?method=load&courseId=1015428) |
+| CEWA 5624 | **[Implementing]({{ site.baseurl }}/workshops/2024/USU/WATS-5624/)** Low-Tech Process-Based Restoration of Riverscapes | **Classroom April 9** <br/>**Field Day April 13 in Logan, UT, July 24 in Oregon, or August 8 in Wyoming** | Apr 9: 1:30 -3:30<br/>April 13: 9-5 | $415 | [Register](https://cpe.usu.edu/search/publicCourseSearchDetails.do?method=load&courseId=1015428) |
 | CEWA 5625 | **[Adaptive Management]({{ site.baseurl }}/workshops/2024/USU/WATS-5625/)** of Low-Tech Process-Based Restoration of Riverscapes | **Apr 16 & 23**                                              | 1:30 - 4:15                         | $315 | [Register](https://cpe.usu.edu/search/publicCourseSearchDetails.do?method=load&courseId=1015430) |
 
 Students have completed the Level 1 training prior to taking the Level 2 courses and must register for all three courses to satisfy the Level 2 Series requirements.
@@ -52,8 +52,8 @@ Students have completed the Level 1 training prior to taking the Level 2 courses
 
 BLM/NRCS employees can choose to attend the April 13th implementation day around Logan, UT or an one of the following implementation day organized by the BLM & NRCS Summer 2024. 
 
-- [July 24, 2024, Sisters, OR]({{sitebaseurl}}/workshops/2024/Federal%20Series/sisters)
-- Date TBD, Western Wyoming
+- [July 24, 2024 | Sisters, OR]({{sitebaseurl}}/workshops/2024/Federal%20Series/sisters)
+- [August 8, 2024 | Pinedale, WY]({{sitebaseurl}}/workshops/2024/Federal%20Series/pinedale)
 
 ### Registration Instructions
 
