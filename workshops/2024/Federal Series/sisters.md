@@ -186,8 +186,8 @@ Meals are provided with your registration to help us run the workshop more effic
 ### Emergency Preparedness
 In the event of an emergency, most of our field visits and the classroom at the fairgrounds should all have cell reception of dialing 911. We will have some First Responder certified participants and instructors, and we will have first aid kits available. The closest Emergency Room  is:
 
-[St. Charles Redmond](https://www.stcharleshealthcare.org/locations/st-charles-redmond?utm_source=local-listing&utm_medium=organic&utm_campaign=website-link)
-[1253 Northwest Canal Boulevard](https://maps.app.goo.gl/81XB6Q6Q1GJ1pE9FA), Redmond, OR 97756
+[St. Charles Redmond](https://www.stcharleshealthcare.org/locations/st-charles-redmond?utm_source=local-listing&utm_medium=organic&utm_campaign=website-link)<br>
+[1253 Northwest Canal Boulevard](https://maps.app.goo.gl/81XB6Q6Q1GJ1pE9FA), Redmond, OR 97756<br>
 541-548-8131
 
 <div class="responsive-embed">

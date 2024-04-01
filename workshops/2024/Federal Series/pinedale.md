@@ -185,8 +185,8 @@ Meals are provided with your registration to help us run the workshop more effic
 ### Emergency Preparedness
 In the event of an emergency, most of our field visits and the classroom at the fairgrounds should all have cell reception of dialing 911. We will have some First Responder certified participants and instructors, and we will have first aid kits available. The closest Emergency Room  is:
 
-[Mableton/Big Piney Medical Clinic](https://www.sublettehospitaldistrict.org/urgentcare)
-[103 W Third Street Marbleton, WY](https://maps.app.goo.gl/oYidKx8DdFziw4LM7)
+[Mableton/Big Piney Medical Clinic](https://www.sublettehospitaldistrict.org/urgentcare)<br>
+[103 W Third Street Marbleton, WY](https://maps.app.goo.gl/oYidKx8DdFziw4LM7)<br>
 (307) 276-3306
 
 <div class="responsive-embed">
