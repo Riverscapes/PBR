@@ -113,9 +113,8 @@ By the end of this course, students will:
   </div>
 
    <div class="column column-block">
-    <a href="hhttps://www.anabranchsolutions.com/alec-arditti.html"><img src="{{ site.baseurl }}/assets/images/people/Alec_Round200.png"></a>
-    <h4><a href="https://www.anabranchsolutions.com/alec-arditti.html">Alec Arditti<sup>1,2</sup></a></h4>
-     Geomorphologist & Project Manager<br>
+    <img src="{{ site.baseurl }}/assets/images/people/Alec_Round200.png">
+    <h4>Alec Arditti<sup>1</sup></h4>
    <b>Teaching Assistant</b><br>
    Office Hours: by Appointment
   </div>
