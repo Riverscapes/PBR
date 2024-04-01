@@ -3,28 +3,29 @@ title: Station Creek - CANCELLED
 weight: 1
 ---
 
-The WATS/CEWA 5624 Spring 2024 class will focus on Summit Creek in Cache Valley. Station Creek is a left-bank tributary to the Bear River, which joins the Bear River just downstream of Oneida Narrows and the Mink Creek confluence.  The project is on landowner Terry Westerberg's property. Terry saw the success of Jay Wilde's beaver reintroduction on Birch Creek, just over the hill, and wanted to see similar improvements to Station Creek through his property. The project was originally envisioned as a BDA-assisted, beaver translocation project and was going to be funded by Pacificorps.  
+The WATS/CEWA 5624 Spring 2024 class will focus on Summit Creek in Cache Valley. 
 
 ----
 # Course Logistics
 
-<div align="center"> <strong>CANCELLED -- Saturday April 22, 2023 from 9a to 5p</strong> </div>
+<div align="center"> <strong> Saturday April 13, 2024 from 9a to 5p</strong> </div>
 
  <div align="center">
-    <a class="hollow button" href="https://forms.gle/YGaeh5YyDppFM5c8A" target="_blank"><img src="{{ site.baseurl }}/assets/images/logos/Restoration-PAIRED-05_Horizontal_BlueOnWhite.png"> <br> <b>Participant Waiver</b><br>on April 22, 2023 @ 9:00 AM at Station Creek </a>
+    <a class="hollow button" href="https://docs.google.com/forms/d/e/1FAIpQLSemNg7NCWmTUyOzOzzszUANJBXFCkpjw7xNIp-Oq7ps8T6UhQ/viewform?usp=sf_link" target="_blank"><img src="{{ site.baseurl }}/assets/images/logos/Restoration-PAIRED-05_Horizontal_BlueOnWhite.png"> <br> <b>Participant Waiver</b><br>on April 13, 2024 @ 9:00 AM at Summit Creek </a>
   </div>
+
 
 ## Getting There
 
 **Important**: Transportation will not be provided to Summit Creek. 
 
-We will meet at the Station Creek Trailhead at 9 AM (about 1 hour drive from Logan @ [5484 E Station Creek Rd, Preston, ID 83263](https://goo.gl/maps/AREJd8KgYuKtzT5L9)). Please note that Google maps may lead you to a nearby but incorrect location. The coordiantes for the parking area are 42.162928, -111.743293. 
+We will meet at [Smithfield Campground](https://maps.app.goo.gl/FRp1Fxe1ExWXUu6H7) at 9 AM (about 30 minute drive from Logan). The coordinates for the implementation area are [41.869361, -111.757611](https://maps.app.goo.gl/iJeX7LbcJVJJXwHF9). 
 
 <div class="responsive-embed">
-<iframe src="https://www.google.com/maps/embed?pb=!1m22!1m8!1m3!1d1043.7323966491258!2d-111.74409105148973!3d42.16294751243285!3m2!1i1024!2i768!4f13.1!4m11!3e0!4m5!1s0x87547e7defa84bed%3A0xfc404de6d664bd1c!2sUtah%20State%20University%2C%20Logan%2C%20UT%2084322!3m2!1d41.745160999999996!2d-111.8097425!4m3!3m2!1d42.1631947!2d-111.74338999999999!5e1!3m2!1sen!2sus!4v1680209194167!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d5942.190389486354!2d-111.76130549613308!3d41.869298287618896!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zNDHCsDUyJzA5LjciTiAxMTHCsDQ1JzI3LjQiVw!5e0!3m2!1sen!2sus!4v1712003309039!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
   </div>
 
-**NOTE**: For emergencies, [Franklin County Medical Center](https://goo.gl/maps/JwSKpEargiSLRPMA6) in Preston is the closest hospital to this field site @ 20 minutes away.
+**NOTE**: For emergencies, [North Cache Valley InstaCare](https://maps.app.goo.gl/xsKAiHMsvKD7g4Ug8) in Hyde Park is the closest medical center to this field site @ 20 minutes away.
 
 ## What do I need to bring? 
 
@@ -46,7 +47,7 @@ Please bring your own lunch and snacks to keep you going throughout the day. You
 
 
 
-# About Station Creek
+<!--- #  About Station Creek
 
 <div class="responsive-embed">
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQAjG4OzYOspwMcySZV1piDTWGBgPwj_yGfC_m5YLLGFmt8M6NAazomf6aeVZGBEYSVDD4l6nA-POIL/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
@@ -136,6 +137,6 @@ Idaho Rancher Jay Wilde tells his [story](https://s3-us-west-2.amazonaws.com/eta
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4j6R1JxG8M8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-Birch Creek was the catalyst for the Station Creek project.
+Birch Creek was the catalyst for the Station Creek project. ---->
 
 ----
