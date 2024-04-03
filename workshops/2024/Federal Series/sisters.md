@@ -157,7 +157,7 @@ Registration is free, but is by invitation only. Contact [Dominique Shore](mailt
 
 ### Lodging
 
-For those travelling  from out of town, we recommend staying at the [Best Western Ponderosa Lodge](https://www.bestwestern.com/en_US/book/hotels-in-sisters/best-western-ponderosa-lodge/propertyCode.38103.html). Please note that rooms in Sisters, OR are quite expensive, and federal-employees may need to have their room pricing   We recommend you book early as Sisters, OR is a popular vacation destination in the summer. There are a variety of [other lodging options in Sisters as well](https://www.google.com/travel/search?q=hotels%20near%20sisters%20oregon&ts=CAEaHBIaEhQKBwjoDxADGBwSBwjoDxADGB0YATICEAAqBwoFOgNVU0Q&ved=0CAAQ5JsGahcKEwjIpeWl7ZKFAxUAAAAAHQAAAAAQWQ&ictx=3&qs=CAAgASgA&ap=MAA). 
+We have secured a group rate at the [GrandStay Hotel & Suites](https://www.grandstayhospitality.com/find-a-hotel/locations/sisters/overview?rt=google|cpc|GSH01-GrandStay-Hospitality-Brand-1958-00000|grandstay%20sisters&gad_source=1&gclid=CjwKCAjw_LOwBhBFEiwAmSEQAWeE0dWbicTzrHbPO9c7E_yqUAPqFs0-pcKGslQu1gekupQ0zOTS0hoCYq8QAvD_BwE) in Sister, OR of $225 for 7/23 & 7/24. To reserve a room, call the hotel at 541-904-0967 and say you are part of the **BLM/NRCS** group. Book before June 9th to reserve the rate. 
 
 ### Field Gear
 
