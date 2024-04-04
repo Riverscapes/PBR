@@ -24,7 +24,7 @@ The LTBPR Spring Series of courses met weekly on Tuesdays from 13:30 to 16:15  (
 | WATS/CEWA 5622 | **Planning** Low-Tech Process-Based Restoration of Riverscapes | Meets 3 times (Hybrid F2F) | WATS/CEWA 5620|
 | WATS/CEWA 5623 | **Designing** Low-Tech Process-Based Restoration of Riverscapes | Meets 3 times (Hybrid F2F) | WATS/CEWA 5620 & 5622|
 | WATS/CEWA 5624 | **Implementing** Low-Tech Process-Based Restoration of Riverscapes | Meets once remotely, with mandatory Construction Field Trip on a Saturday   | WATS/CEWA 5620|
-| WATS/CEWA 5625 | **Adaptive Management** of Low-Tech Process-Based Restoration of Riverscapes | Meets 3 times (Hybrid F2F)                                   | WATS/CEWA 5620|
+| WATS/CEWA 5625 | **Adaptive Management** of Low-Tech Process-Based Restoration of Riverscapes | Meets 2 times (Hybrid F2F)                                   | WATS/CEWA 5620|
 
 Note Hybrid Face to Face (F2F) will meet in person on campus, with a concurrent Zoom broadcast for remote participants. This is meant to accommodate professionals off-campus, and also to help maintain flexibility for students during the pandemic. 
 
