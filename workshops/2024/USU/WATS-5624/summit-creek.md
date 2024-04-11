@@ -1,4 +1,4 @@
----
+d---
 title: Summit Creek 
 weight: 1
 ---
@@ -20,7 +20,7 @@ The WATS/CEWA 5624 Spring 2024 class will focus on Summit Creek in Cache Valley.
 **Important**: Transportation will not be provided to Summit Creek. There is limited parking along Summit Creek, so we urge you to carpool to mimimize the number of vehicles. 
 
 ### Carpool from Lee's Marketplace - 8:00A
-There is limited parking along Summit Creek, so we urge you to carpool to mimimize the number of vehicles. Students carpooling should meet at the Smithfield Lee's Marketplace at **8:00 AM**. 
+Students carpooling should meet at the Smithfield Lee's Marketplace at **8:00 AM**. 
 
 <div class="responsive-embed">
 <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d40009.7474226166!2d-111.87653303585776!3d41.8123122232438!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x875462ca9efeeb81%3A0x20b6b4911c16be42!2sLee&#39;s%20Marketplace!5e0!3m2!1sen!2sus!4v1712849501998!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
