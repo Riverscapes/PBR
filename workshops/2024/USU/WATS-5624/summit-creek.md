@@ -1,9 +1,9 @@
-d---
+---
 title: Summit Creek 
 weight: 1
 ---
 
-The WATS/CEWA 5624 Spring 2024 class will focus on Summit Creek in Cache Valley. 
+The WATS/CEWA 5624 Spring 2024 class will focus on Summit Creek in Cache Valley, UT. Summit Creek is a left-bank tributary to the Bear River and meets the Bear River just upstream of Culter Reservoir. The project landowner is the United States Forest Service.  
 
 ----
 # Course Logistics
@@ -27,7 +27,7 @@ Students carpooling should meet at the [Smithfield Lee's Marketplace](https://ma
 </div>
 
 ### Meet at Station Creek - 8:30A
-We will park at the [USFS parking lot on Summit Creek Rd](https://maps.app.goo.gl/xV5yq4hTJzKzA6jE7) at 8:30 AM (about 30 minute drive from Logan). 
+We will park at the [USFS parking lot on Summit Creek Rd](https://maps.app.goo.gl/xV5yq4hTJzKzA6jE7) at 8:30 AM (about 30 minute drive from Logan). The project coordinates are 41.8693439, -111.7575455. 
 
 <div class="responsive-embed">
 <iframe src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d1326.9334958015027!2d-111.75883296128393!3d41.8693438928107!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zNDHCsDUyJzA5LjYiTiAxMTHCsDQ1JzI3LjIiVw!5e1!3m2!1sen!2sus!4v1712849826654!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
