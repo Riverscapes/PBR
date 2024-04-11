@@ -8,21 +8,29 @@ The WATS/CEWA 5624 Spring 2024 class will focus on Summit Creek in Cache Valley.
 ----
 # Course Logistics
 
-<div align="center"> <strong> Saturday April 13, 2024 from 9a to 5p</strong> </div>
+<div align="center"> <strong> Saturday April 13, 2024 from 8:30a to 5p</strong> </div>
 
  <div align="center">
-    <a class="hollow button" href="https://docs.google.com/forms/d/e/1FAIpQLSemNg7NCWmTUyOzOzzszUANJBXFCkpjw7xNIp-Oq7ps8T6UhQ/viewform?usp=sf_link" target="_blank"><img src="{{ site.baseurl }}/assets/images/logos/Restoration-PAIRED-05_Horizontal_BlueOnWhite.png"> <br> <b>Participant Waiver</b><br>on April 13, 2024 @ 9:00 AM at Summit Creek </a>
+    <a class="hollow button" href="https://docs.google.com/forms/d/e/1FAIpQLSemNg7NCWmTUyOzOzzszUANJBXFCkpjw7xNIp-Oq7ps8T6UhQ/viewform?usp=sf_link" target="_blank"><img src="{{ site.baseurl }}/assets/images/logos/Restoration-PAIRED-05_Horizontal_BlueOnWhite.png"> <br> <b>Participant Waiver</b><br>on April 13, 2024 @ 8:30 AM at Summit Creek </a>
   </div>
 
 
 ## Getting There
 
-**Important**: Transportation will not be provided to Summit Creek. 
+**Important**: Transportation will not be provided to Summit Creek. There is limited parking along Summit Creek, so we urge you to carpool to mimimize the number of vehicles. 
 
-We will meet at [Smithfield Campground](https://maps.app.goo.gl/FRp1Fxe1ExWXUu6H7) at 9 AM (about 30 minute drive from Logan). The coordinates for the implementation area are [41.869361, -111.757611](https://maps.app.goo.gl/iJeX7LbcJVJJXwHF9). 
+### Carpool from Lee's Marketplace - 8:00A
+There is limited parking along Summit Creek, so we urge you to carpool to mimimize the number of vehicles. Students carpooling should meet at the Smithfield Lee's Marketplace at **8:00 AM**. 
 
 <div class="responsive-embed">
-<iframe src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d5942.190389486354!2d-111.76130549613308!3d41.869298287618896!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zNDHCsDUyJzA5LjciTiAxMTHCsDQ1JzI3LjQiVw!5e0!3m2!1sen!2sus!4v1712003309039!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d40009.7474226166!2d-111.87653303585776!3d41.8123122232438!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x875462ca9efeeb81%3A0x20b6b4911c16be42!2sLee&#39;s%20Marketplace!5e0!3m2!1sen!2sus!4v1712849501998!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
+### Meet at Station Creek - 8:30A
+We will park at the [USFS parking lot on Summit Creek Rd](https://maps.app.goo.gl/xV5yq4hTJzKzA6jE7) at 8:30 AM (about 30 minute drive from Logan). 
+
+<div class="responsive-embed">
+<iframe src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d1326.9334958015027!2d-111.75883296128393!3d41.8693438928107!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zNDHCsDUyJzA5LjYiTiAxMTHCsDQ1JzI3LjIiVw!5e1!3m2!1sen!2sus!4v1712849826654!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
   </div>
 
 **NOTE**: For emergencies, [North Cache Valley InstaCare](https://maps.app.goo.gl/xsKAiHMsvKD7g4Ug8) in Hyde Park is the closest medical center to this field site @ 20 minutes away.
