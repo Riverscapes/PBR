@@ -11,7 +11,7 @@ The WATS/CEWA 5624 Spring 2024 class will focus on Summit Creek in Cache Valley.
 <div align="center"> <strong> Saturday April 13, 2024 from 8:30a to 5p</strong> </div>
 
  <div align="center">
-    <a class="hollow button" href="https://docs.google.com/forms/d/e/1FAIpQLSemNg7NCWmTUyOzOzzszUANJBXFCkpjw7xNIp-Oq7ps8T6UhQ/viewform?usp=sf_link" target="_blank"><img src="{{ site.baseurl }}/assets/images/logos/Restoration-PAIRED-05_Horizontal_BlueOnWhite.png"> <br> <b>Participant Waiver</b><br>on April 13, 2024 @ 8:30 AM at Summit Creek </a>
+    <a class="hollow button" href="https://docs.google.com/forms/d/e/1FAIpQLSeTl3N3MMi2PSHMfmoBBrjkydbKdA_27vrb-1fi9DAA03bpQA/viewform?usp=sf_link" target="_blank"><img src="{{ site.baseurl }}/assets/images/logos/Restoration-PAIRED-05_Horizontal_BlueOnWhite.png"> <br> <b>Participant Waiver</b><br>on April 13, 2024 @ 8:30 AM at Summit Creek </a>
   </div>
 
 
