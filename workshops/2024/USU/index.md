@@ -30,26 +30,26 @@ _Click on course titles for syllabi._
 
 Non-matriculated students can take the classes for a direct fee through our Continuing Education Unit system. 
 
-<a href="https://www.blm.gov/"><img class="float-left" src="{{ site.baseurl }}/assets/images/sponsors/blm.png"></a>   <a href="https://www.nrcs.usda.gov/wps/portal/nrcs/detailfull/national/programs/initiatives/?cid=steldevb1027671"><img class="float-left" src="{{ site.baseurl }}/assets/images/sponsors/usda-nrcs-logo_1_orig.png"></a>For the first time, in 2024 this series  will be packaged as Level 1 (WATS 5620, 5622, 5623) and Level 2 (WATS 5621, 5624, 5625) training certifications to align with the Bureau of Land Management and the Natural Resources Conservation Services respective National Technical Training Centers. Details forthcoming. 
-
-
-
 **Registration Opens November 13**
 
 | Course # |  Course Title | Registration Cost | Link to Register |
 |:-------------------------------------------------------------------------------------------------------------------------------------------------------------|--:|:-:|:-:|
-| CEWA 5620 |  **[Introduction]({{ site.baseurl }}/workshops/2024/USU/WATS-5620/)** to Low-Tech Process-Based Restoration of Riverscapes | $315 | **Registration Full** |
-| CEWA 5621 |  **[Science & Case Studies]({{ site.baseurl }}/workshops/2024/USU/WATS-5621/)** of Low-Tech Process-Based Restoration of Riverscapes | $315 | [Register](https://cpe.usu.edu/search/publicCourseSearchDetails.do?method=load&courseId=1073960) *few spots remaining* |
-| CEWA 5622 |  **[Planning]({{ site.baseurl }}/workshops/2024/USU/WATS-5622/)** to Low-Tech Process-Based Restoration of Riverscapes | $315 | **Registration Full** |
-| CEWA 5623 |  **[Design]({{ site.baseurl }}/workshops/2024/USU/WATS-5623/)** to Low-Tech Process-Based Restoration of Riverscapes | $315 | **Registration Full** |
-| CEWA 5624 | **[Implementing]({{ site.baseurl }}/workshops/2024/USU/WATS-5624/)** of Low-Tech Process-Based Restoration of Riverscapes | $415 | [Register](https://cpe.usu.edu/search/publicCourseSearchDetails.do?method=load&courseId=1015428) |
-| CEWA 5625 | **[Adaptive Management]({{ site.baseurl }}/workshops/2024/USU/WATS-5625/)** of Low-Tech Process-Based Restoration of Riverscapes | $315 | [Register](https://cpe.usu.edu/search/publicCourseSearchDetails.do?method=load&courseId=1015430) |
+| CEWA 5620 |  **[Introduction]({{ site.baseurl }}/workshops/2024/USU/WATS-5620/)** to Low-Tech Process-Based Restoration of Riverscapes | $315 | **Registration Closed** |
+| CEWA 5621 |  **[Science & Case Studies]({{ site.baseurl }}/workshops/2024/USU/WATS-5621/)** of Low-Tech Process-Based Restoration of Riverscapes | $315 | **Registration Closed** |
+| CEWA 5622 |  **[Planning]({{ site.baseurl }}/workshops/2024/USU/WATS-5622/)** to Low-Tech Process-Based Restoration of Riverscapes | $315 | **Registration Closed** |
+| CEWA 5623 |  **[Design]({{ site.baseurl }}/workshops/2024/USU/WATS-5623/)** to Low-Tech Process-Based Restoration of Riverscapes | $315 | **Registration Closed** |
+| CEWA 5624 | **[Implementing]({{ site.baseurl }}/workshops/2024/USU/WATS-5624/)** of Low-Tech Process-Based Restoration of Riverscapes | $415 | **Registration Closed** |
+| CEWA 5625 | **[Adaptive Management]({{ site.baseurl }}/workshops/2024/USU/WATS-5625/)** of Low-Tech Process-Based Restoration of Riverscapes | $315 | **Registration Closed** |
 
 To Register: 
 1.	[Create an account or Login](https://cpe.usu.edu/portal/logon.do?method=load) to an existing account.
 2.	Search for the course(s) by course number, CRN, or Program
 3.	Register for a course by adding the course to the Cart.
 4.	Checkout and submit payment.
+
+### Level 1 & 2 Federal Series 
+<a href="https://www.blm.gov/"><img class="float-left" src="{{ site.baseurl }}/assets/images/sponsors/blm.png"></a>   <a href="https://www.nrcs.usda.gov/wps/portal/nrcs/detailfull/national/programs/initiatives/?cid=steldevb1027671"><img class="float-left" src="{{ site.baseurl }}/assets/images/sponsors/usda-nrcs-logo_1_orig.png"></a>For the first time, in 2024 this series  will be packaged as Level 1 (WATS 5620, 5622, 5623) and Level 2 (WATS 5621, 5624, 5625) training certifications to align with the Bureau of Land Management and the Natural Resources Conservation Services respective National Technical Training Centers. [Learn More]({{ site.baseurl }}/workshops/2024/Federal%20Series/)
+
 
 <div align="center">
 <a class=" button hollow" href="{{ site.baseurl }}/workshops/uni.html#professional-continuing-education-units"><img width="100" src="{{ site.baseurl }}/assets/images/sponsors/USU.png">  <b> Back to  LTPBR Courses</b>  for University Credit or Professional CEU  <i class="fa fa-chevron-circle-left" aria-hidden="true"></i>
