@@ -1,9 +1,9 @@
 ---
-title: Summit Creek 
+title: Summit Creek Volunteer Day
 weight: 1
 ---
 
-Join us in building beaver dam analogs (BDA) and post-assisted log structures (PALS) on help improve riverscape health on Summit Creek. Summit Creek is a left-bank tributary to the Bear River and meets the Bear River just upstream of Cutler Reservoir. The project landowner is the United States Forest Service.  
+Join us June 1, 2024 to improve riverscape health along Summit Creek in Smithfield, Utah by building beaver dam analogs (BDA) and post-assisted log structures (PALS). Summit Creek is a left-bank tributary to the Bear River and meets the Bear River just upstream of Cutler Reservoir. The project landowner is the United States Forest Service.  
 
 ----
 # Course Logistics
