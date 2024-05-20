@@ -11,7 +11,7 @@ Join us June 1, 2024 to improve riverscape health along Summit Creek in Smithfie
 <div align="center"> <strong> Saturday June 1, 2024 from 9:00a to 5p</strong> </div>
 
  <div align="center">
-    <a class="hollow button" href="https://docs.google.com/forms/d/e/1FAIpQLSeTl3N3MMi2PSHMfmoBBrjkydbKdA_27vrb-1fi9DAA03bpQA/viewform?usp=sf_link" target="_blank"><img src="{{ site.baseurl }}/assets/images/logos/Restoration-PAIRED-05_Horizontal_BlueOnWhite.png"> <br> <b>Participant Waiver</b><br>on June 1, 2024 at Summit Creek </a>
+    <a class="hollow button" href="https://docs.google.com/forms/d/e/1FAIpQLSeTl3N3MMi2PSHMfmoBBrjkydbKdA_27vrb-1fi9DAA03bpQA/viewform?usp=sf_link" target="_blank"><br> <b>Participant Waiver</b><br>on June 1, 2024 at Summit Creek </a>
   </div>
 
 
