@@ -8,19 +8,24 @@ Join us June 1, 2024 to improve riverscape health along Summit Creek in Smithfie
 ----
 # Course Logistics
 
-<div align="center"> <strong> Saturday June 1, 2024 from 9:00a to 5p</strong> </div>
+<div align="center"> <strong> Saturday June 1, 2024 from 9:00a to 3:00p</strong> </div>
 
  <div align="center">
-    <a class="hollow button" href="https://docs.google.com/forms/d/e/1FAIpQLSeTl3N3MMi2PSHMfmoBBrjkydbKdA_27vrb-1fi9DAA03bpQA/viewform?usp=sf_link" target="_blank"><br> <b>Participant Waiver</b><br>on June 1, 2024 at Summit Creek </a>
+    <a class="hollow button" href="https://docs.google.com/forms/d/e/1FAIpQLSeTl3N3MMi2PSHMfmoBBrjkydbKdA_27vrb-1fi9DAA03bpQA/viewform?usp=sf_link" target="_blank"><br><b>Participant Waiver</b><br>on June 1, 2024 at Summit Creek </a>
   </div>
 
 
 
 ## Getting There
+### Carpool from Lee's Marketplace - 9:00A
+Students carpooling should meet at the [Smithfield Lee's Marketplace](https://maps.app.goo.gl/YM5PbXMJhAs7Ya4MA) at **9:00 AM**. 
 
+<div class="responsive-embed">
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d40009.7474226166!2d-111.87653303585776!3d41.8123122232438!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x875462ca9efeeb81%3A0x20b6b4911c16be42!2sLee&#39;s%20Marketplace!5e0!3m2!1sen!2sus!4v1712849501998!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
 
-### Meet at Station Creek - 9:00A
-We will park at the [USFS parking lot on Summit Creek Rd](https://maps.app.goo.gl/xV5yq4hTJzKzA6jE7) at 8:30 AM (about 30 minute drive from Logan). The project coordinates are 41.8693439, -111.7575455. 
+### Meet at Summit Creek - 9:30A
+We will park at the [USFS parking lot on Summit Creek Rd](https://maps.app.goo.gl/xV5yq4hTJzKzA6jE7) at 9:30 AM (about 30 minute drive from Logan). The project coordinates are 41.8693439, -111.7575455. 
 
 <div class="responsive-embed">
 <iframe src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d1326.9334958015027!2d-111.75883296128393!3d41.8693438928107!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zNDHCsDUyJzA5LjYiTiAxMTHCsDQ1JzI3LjIiVw!5e1!3m2!1sen!2sus!4v1712849826654!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
@@ -44,7 +49,7 @@ If you have any allergies or medical conditions that we should be aware of, plea
 
 ## Lunch and Snacks
 
-Please bring your own lunch and snacks to keep you going throughout the day. You will also want to bring plenty of water and a refillable water bottle (we will have some water jugs for refilling).
+A light lunch will be available for volunteers thanks to our local Texas Roadhouse. You will also want to bring plenty of water and other other snack or drinks you will need to workoutside for several hours. 
 
 
 
