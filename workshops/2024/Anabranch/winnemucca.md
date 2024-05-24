@@ -66,15 +66,16 @@ On Day 1 & 2, we will meet at the University of Nevada Cooperative Extension at 
 
 ### Slides & Handouts
 
-<div align="center"
+<div align="center">
 <a class="hollow button" href="https://drive.google.com/drive/folders/16DvWdBG23dIp40lpwzyMeqoqRI8ZNCn8?usp=drive_link"><img src="{{ site.baseurl }}/assets/images/diagrams/presentation.png"> <b>View Course Powerpoints</b></a>
 </div>
 
 
+
 ### Course Photos
 
-<div align="center"
-<a class="hollow button" href="https://photos.app.goo.gl/sRyoP9BuYq96aHqL8" View and upload photos from the course </a>
+<div align="center">
+<a class="hollow button" href="https://photos.app.goo.gl/sRyoP9BuYq96aHqL8"><b>View and Share photos from the course</b></a>
 </div>
 
 
@@ -103,79 +104,6 @@ On Day 1 & 2, we will meet at the University of Nevada Cooperative Extension at 
 <a href="{{ site.baseurl }}/resources/pocket"><img class="float-right" src="{{ site.baseurl }}/assets/images/covers/pocket_guide_cover_150w.png"></a>
 
 - <a href="http://dx.doi.org/10.13140/RG.2.2.28222.13123/1"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a> Wheaton JM, Wheaton A, Maestas J, Bennett S, Bouwes N, Shahveridan S, Camp R, Jordan C, Macfarlane W, Portugal E, Weber N. 2019. [Low-Tech Process-Based Restoration of Riverscapes: Pocket Field Guide]({{ site.baseurl }}/resources/pocke). [Utah State University Restoration Consortium](http://restoration.usu.edu). DOI: [10.13140/RG.2.2.28222.13123/1](http://dx.doi.org/10.13140/RG.2.2.28222.13123/1).
-
-
-
------
-
-## <!--- Instruction Team
-
-####  Workshop
-<div class="row small-up-2 medium-up-2 large-up-4" align="center">
-
-  <div class="column column-block">
-    <a href="https://www.researchgate.net/profile/Joseph_Wheaton"><img src="{{ site.baseurl }}/assets/images/people/Wheaton_round.png"></a>
-    <h4><a href="https://www.researchgate.net/profile/Joseph_Wheaton">Joseph Wheaton<sup>1,2</sup></a></h4>
-    Professor of Riverscapes
-  </div>
-
-<div class="column column-block">
-    <a href="https://www.researchgate.net/profile/Jeremy_Maestas"><img src="{{ site.baseurl }}/assets/images/people/Maestas_round.png"></a>
-    <h4><a href="https://www.researchgate.net/profile/Jeremy_Maestas">Jeremy Maestas<sup>3</sup></a></h4>
-    Ecologist
-  </div>
-
-<div class="column column-block">
-    <img src="{{ site.baseurl }}/assets/images/people/shore_round.png">
-    <h4><a href="https://qcnr.usu.edu/directory/wats/staff/shore-dominique">Dominique Shore<sup>1</sup></a></h4>
-    Fluvial Geomorphologist
-  </div>
-
-
-</div>
-
-
-#### Instructor Affiliations
-
-<div class="row small-up-2 medium-up-2 large-up-5" align="center">
-  <div class="column column-block">
-    <a href="https://qcnr.usu.edu/wats/index"><img src="{{ site.baseurl }}/assets/images/sponsors/USU.png"></a>1. 
-
-  <div class="column column-block">
-	<a href="http://www.anabranchsolutions.com"><img src="{{ site.baseurl }}/assets/images/sponsors/anabranchsolutionslogo-square-450_10.png"></a><br>2. 
-
-   <div class="column column-block">
-    <a href="https://www.nrcs.usda.gov/wps/portal/nrcs/detailfull/national/about/leadership/centers/?cid=NRCS143_021469"><img src="{{ site.baseurl }}/assets/images/sponsors/usda-nrcs-logo_1_orig.png"></a><br>3.
-  </div>    
-
-</div>
-
-</div>
-
-</div> --->
-
-----
-## Logistics
-### Registration
-Registration is now closed. For any questions, please contact Connie Lee at connielee@nvacd.org or 775-934-5376. 
-
-### Field Gear
-This is a hands-on workshop. For the field portions, we will be hiking and working on real construction projects. Your safety is our top priority, but you are the most important person in ensuring your safety and comfort. So bring common sense. Our workshop is in the Fall in the mountains. You should be prepared for anything from sunny skies and sunburn, to snow and hypothermia (yes we’ve already had our first snow-storms, and yes we will work in the snow). We will be hiking through and doing work in small, wadeable streams. We **strongly recommend a pair of chest waders and wading boots**. It is also possible we will be building structures in a hot, dry creek with isolated pools, so come prepared for a variety of weather.  You also should bring whatever outdoor clothing and gear to keep yourself comfortable. Layers, coats, gloves, hats, sunglasses, sunscreen, and a dry change of clothes for afterwards are all a must. For Day 3, no open-toed shoes will be allowed. Where work clothing suitable for a construction site.
-
-We will provide you with basic personal protective equipment (PPEs like work gloves, eye protection, hard hats, ear protection). However, if you have any other
-
-If you have any allergies or medical conditions that we should be aware of, please notify your instructor.
-
-### Meals, Snacks
-
-Registration includes lunch/snacks on Day 1. 
-- Day 1 (Classroom)
-	- Lunch *provided* 
-	- Snacks *provided*
-- Day 2 (Field Tour)
-	- Please *bring your own* lunch and snacks
-
-
 
 
 -----
