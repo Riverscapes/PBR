@@ -4,20 +4,19 @@ weight: 1
 ---
 **Sponsored by:**<br>
 
-<!--- Add Nevada Association of Conservation Districts, USFWS, Nevada Conservation Districts Program & Anabranch Solutions --->
-
-<a href="https://www.blm.gov/montana-dakotas"><img class="float-left" src="{{ site.baseurl }}/assets/images/sponsors/blm.png"></a> 
-
+<a href="https://www.nvacd.org/"><img class="float-left" src="{{ site.baseurl }}/assets/images/sponsors/NACD.png"></a> 
+<a href="https://www.fws.gov/"><img class="float-left" src="{{ site.baseurl }}/assets/images/sponsors/USFWS.jpg"></a> 
+<a href="https://dcnr.nv.gov/divisions-boards/conservation-districts-program"><img class="float-left" src="{{ site.baseurl }}/assets/images/sponsors/NACDP.jpg"></a> 
 
 
 # Winnemucca, NV Low-Tech Process Based Restoration Field Workshop
 
 ### May 9-10, 2024
 
-This workshop is hosted by Nevada Association of Conservation Districts, US Fish & Wildlife Service, and the Nevada Conservation Districts Program and taught by Anabranch Solutions. The workshop content grew out of over 20 [LTPBR workshops]({{ site.baseurl }}/workshops/) taught by  Utah State University and the online modules were developed in [2020]({{ site.baseurl }}/workshops/2020/SGI/) for an NRCS Working Lands for Wildlife workshop series. 
+This workshop was hosted by Nevada Association of Conservation Districts, US Fish & Wildlife Service, and the Nevada Conservation Districts Program and taught by Anabranch Solutions. The workshop content grew out of over 20 [LTPBR workshops]({{ site.baseurl }}/workshops/) taught by  Utah State University and the online modules were developed in [2020]({{ site.baseurl }}/workshops/2020/SGI/) for an NRCS Working Lands for Wildlife workshop series. 
 
 ## Workshop Description
-You will learn ‘low-tech process-based restoration’ (LTPBR) as a practice of using simple, low unit-cost, structural additions (e.g.wood and beaver dams) in streams to mimic natural functions and initiate specific processes. A conscious effort to use cost-effective, low-tech treatments (e.g.hand-built, natural materials, non-engineered, short-term design lifespans). ‘Letting the system do the work’ means that with a few low-cost amendments, we allow the riparian area to recover naturally.
+Students learned‘low-tech process-based restoration’ (LTPBR) as a practice of using simple, low unit-cost, structural additions (e.g.wood and beaver dams) in streams to mimic natural functions and initiate specific processes. ‘Letting the system do the work’ means that with a few low-cost amendments and low-tech treatments (e.g.hand-built, natural materials, non-engineered, short-term design lifespans) we allow the riparian area to recover naturally.
 
 ------
 ## Agenda
@@ -32,7 +31,7 @@ You will learn ‘low-tech process-based restoration’ (LTPBR) as a practice of
 - Low-tech tools (Chapter [1]({{ site.baseurl }}/manual/chap01) & [4]({{ site.baseurl }}/manual/chap04) - Design Manual): BDAs, PALs, rock dams
 - Guiding Principles ([Chapter 2]({{ site.baseurl }}/manual/chap02) - Design Manual)
 
-**Noon - Lunch provided** and Parking Lot BDA Exercise
+**Noon** - Lunch and Parking Lot BDA Exercise
 
 #### Afternoon
 
@@ -42,8 +41,6 @@ You will learn ‘low-tech process-based restoration’ (LTPBR) as a practice of
 
 ### Day 2 - Friday, May 10th: 8:00a - 5:00p
 
-Meet at University of Nevada Cooperative Extension (UNCE). We will leave promptly at 8:30 am. Please **pack a lunch**. We will have lunch ~12p at Stop 2. There is a "porta John" available at stop 2. 
-
 #### Stop 1 - 
 
 Exploring beaver complex and activity 
@@ -52,13 +49,6 @@ Exploring beaver complex and activity
 
 - Valley bottom mapping, risk assessment, condition assessment ([Chapter 3]({{ site.baseurl }}/manual/chap03) - Design Manual)
 - Reading riverscapes ([Chapter 3]({{ site.baseurl }}/manual/chap03) - Design Manual)
-
-On Day 1 & 2, we will meet at the University of Nevada Cooperative Extension at [1085 Fairgrounds Rd, Winnemucca, NV 89455](https://maps.app.goo.gl/sozffbqh5atVqjqu5)
-
-<div class="responsive-embed">
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d12876.676623534297!2d-117.72588921439741!3d40.981168378944574!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80a0e341009920bb%3A0xf67c75366ad57d50!2s1085%20Fairgrounds%20Rd%2C%20Winnemucca%2C%20NV%2089445%2C%20USA!5e0!3m2!1sen!2sca!4v1716565990701!5m2!1sen!2sca" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-</div>
-
 
 -------
 
