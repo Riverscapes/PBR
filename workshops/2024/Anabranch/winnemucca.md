@@ -5,7 +5,7 @@ weight: 1
 **Sponsored by:**<br>
 
 <a href="https://www.nvacd.org/"><img class="float-left" src="{{ site.baseurl }}/assets/images/sponsors/NACD.png"></a> 
-<a href="https://www.fws.gov/"><img class="float-left" src="{{ site.baseurl }}/assets/images/sponsors/USFWS.jpg"></a> 
+<a href="https://www.fws.gov/"><img class="float-left" src="{{ site.baseurl }}/assets/images/sponsors/USFWS2.png"></a> 
 <a href="https://dcnr.nv.gov/divisions-boards/conservation-districts-program"><img class="float-left" src="{{ site.baseurl }}/assets/images/sponsors/NACDP.jpg"></a> 
 
 
@@ -16,7 +16,7 @@ weight: 1
 This workshop was hosted by Nevada Association of Conservation Districts, US Fish & Wildlife Service, and the Nevada Conservation Districts Program and taught by Anabranch Solutions. The workshop content grew out of over 20 [LTPBR workshops]({{ site.baseurl }}/workshops/) taught by  Utah State University and the online modules were developed in [2020]({{ site.baseurl }}/workshops/2020/SGI/) for an NRCS Working Lands for Wildlife workshop series. 
 
 ## Workshop Description
-Students learned‘low-tech process-based restoration’ (LTPBR) as a practice of using simple, low unit-cost, structural additions (e.g.wood and beaver dams) in streams to mimic natural functions and initiate specific processes. ‘Letting the system do the work’ means that with a few low-cost amendments and low-tech treatments (e.g.hand-built, natural materials, non-engineered, short-term design lifespans) we allow the riparian area to recover naturally.
+Students learned ‘low-tech process-based restoration’ (LTPBR) as a practice of using simple, low unit-cost, structural additions (e.g.wood and beaver dams) in streams to mimic natural functions and initiate specific processes. ‘Letting the system do the work’ means that with a few low-cost amendments and low-tech treatments (e.g.hand-built, natural materials, non-engineered, short-term design lifespans) we allow the riparian area to recover naturally.
 
 ------
 ## Agenda
