@@ -43,6 +43,7 @@ Days 1 will be held at the Best Western Ponderosa Lodge
 #### Day 1 Evening Dinner Social - [Best Western Ponderosa Lodge](https://maps.app.goo.gl/QR4xzLJiinpz7vmKA) 
 
 We will enjoy an evening dinner at the Best Western Ponderosa Lodge Please arrive any time between 6:00 and 6:30 PM. Dinner will begin being served around 6:30ish PM, and we will hear rancher [Jay Wilde's story]({{ site.baseurl }}/resources/casestudies/birch) of bringing back beaver to his ranch beginning at 7:00. We will wrap sometime between 8:30 and 9:00. 
+We will have a vegetarian option available. If your dietary restrictions require something different, please feel free to bring your own food.
 
 <div align="center"><a class="hollow button" href="{{ site.baseurl }}/resources/casestudies/birch"><img width="100"  src="{{ site.baseurl }}/assets/images/people/Wilde_round.png"> <br>Learn More about<br><b> Jay Wilde's Birch Creek Story</b> </a> </div>
 
