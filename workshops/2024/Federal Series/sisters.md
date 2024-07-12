@@ -105,19 +105,19 @@ We will meet at 8:30 at the construction site on Whychus Creek ([44.314500, -121
     Professor of Riverscapes
   </div>
 
-<!--- <div class="column column-block">
+<div class="column column-block">
     <a href="https://www.researchgate.net/profile/Jeremy_Maestas"><img src="{{ site.baseurl }}/assets/images/people/Maestas_round.png"></a>
 
     <h4><a href="https://www.researchgate.net/profile/Jeremy_Maestas">Jeremy Maestas<sup>3</sup></a></h4>
 ​    Ecologist
-  </div> --->
+  </div>
 
 
-<div class="column column-block">
+<!--- <div class="column column-block">
     <img src="{{ site.baseurl }}/assets/images/people/shore_round.png">
     <h4><a href="https://qcnr.usu.edu/directory/wats/staff/shore-dominique">Dominique Shore<sup>1</sup></a></h4>
     Fluvial Geomorphologist
-  </div>
+  </div> --->
 
 
 
@@ -134,10 +134,9 @@ We will meet at 8:30 at the construction site on Whychus Creek ([44.314500, -121
   <div class="column column-block">
 	<a href="http://www.anabranchsolutions.com"><img src="{{ site.baseurl }}/assets/images/sponsors/anabranchsolutionslogo-square-450_10.png"></a><br>2. 
 
- <!---  <div class="column column-block">
+<div class="column column-block">
     <a href="https://www.nrcs.usda.gov/wps/portal/nrcs/detailfull/national/about/leadership/centers/?cid=NRCS143_021469"><img src="{{ site.baseurl }}/assets/images/sponsors/usda-nrcs-logo_1_orig.png"></a><br>3.
-  </div>    --->
-
+  </div>    
 </div>
 
 </div>
