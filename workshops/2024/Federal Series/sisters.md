@@ -29,10 +29,9 @@ This course is offered as part of CEWA 5624 - Implementation of Low-Tech Process
 
 #### Classroom Instruction - Day 1 | July 23, 2024
 
-- Day 1 - **Introduction to Low-Tech Process-Based Restoration** - 1PM to 5 PM with evening dinner starting at 6:30. This Introduction to LTPBR is intended for participants who are not enrolled in the [Level 2]({{sitebaseurl}}/workshops/2024/federal_series) LTPBR series. 
+- Day 1 - **Introduction to Low-Tech Process-Based Restoration** - 1PM to 5 PM with evening dinner starting at 6:30. This section is intended as an introduction to LTPBR for workshop participants who did not take the [Level 2]({{sitebaseurl}}/workshops/2024/federal_series) LTPBR course in the Spring. If you did attend the Level 2 course, you are welcome to join for the classroom portion Day 1, but it is not required. 
 
-
-Days 1 will be held at the Best Western Ponderosa Lodge
+Day 1 will be held at the Best Western Ponderosa Lodge
 
 <div class="responsive-embed">
 
@@ -52,10 +51,9 @@ We will have a vegetarian option available. If your dietary restrictions require
 
 - Day 2 -  **Implementing Low-Tech Process-Based Restoration** (field all-day)  - 8:30 AM to 3 PM
 
-We will meet at 8:30 at the construction site on Whychus Creek. Implementation Site TBD.  
+We will meet at 8:30 at the construction site on Whychus Creek ([44.314500, -121.512081](https://www.google.com/maps/place/44%C2%B018'52.2%22N+121%C2%B030'43.5%22W/@44.3073049,-121.6510731,18741m/data=!3m1!1e3!4m4!3m3!8m2!3d44.3145!4d-121.512081?entry=ttu)) located ~10 minutes outside of Sisters, OR
 
-
-
+<iframe src="https://www.google.com/maps/dir/Sisters,+OR/44.3145,-121.512081/@44.3073049,-121.6510731,18741m/data=!3m2!1e3!4b1!4m9!4m8!1m5!1m1!1s0x54bf30b47c2cf1a9:0x85dd298592775554!2m2!1d-121.5492119!2d44.2909491!1m0!3e0?entry=ttu" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 -------
 
@@ -80,8 +78,7 @@ We will meet at 8:30 at the construction site on Whychus Creek. Implementation S
 
 ### Workshop Textbooks
 
-**Mandatory Texts** - Free digital versions are available below and hard copies of the [Design Manual]({{ site.baseurl }}/manual) and the [Pocket Guide]({{ site.baseurl }}/resources/pocket) will be provided to course participants. <!-- Print copies of manual are available for ~ $60 [on Amazon](https://www.amazon.com/Low-Tech-Process-Based-Restoration-Riverscapes-Design/dp/1543972993/ref=sr_1_1?keywords=low+tech+process-based+restoration&qid=1558989073&s=gateway&sr=8-1) or [on BookBaby](https://store.bookbaby.com/bookshop/book/index.aspx?bookURL=Low-Tech-Process-Based-Restoration-of-Riverscapes) and waterproof versions of the pocket guide can be [purchased here](http://www.anabranchsolutions.com/store/p7/pocketguide.html). -->
-
+**Mandatory Texts** - Free digital versions are available below and hard copies of the [Design Manual]({{ site.baseurl }}/manual) and the [Pocket Guide]({{ site.baseurl }}/resources/pocket). Print copies of manual are available for ~ $60 [on Amazon](https://www.amazon.com/Low-Tech-Process-Based-Restoration-Riverscapes-Design/dp/1543972993/ref=sr_1_1?keywords=low+tech+process-based+restoration&qid=1558989073&s=gateway&sr=8-1) or [on BookBaby](https://store.bookbaby.com/bookshop/book/index.aspx?bookURL=Low-Tech-Process-Based-Restoration-of-Riverscapes). Waterproof copies of the pocket guide will be provided to participants.
 
 <a href="{{ site.baseurl }}/manual"><img class="float-right" src="C:\Users\dshore\Documents\GitPBR\PBR\workshops\2023\{{ site.baseurl }}\assets\images\covers\Manual_Tilted_150.png"></a>
 
@@ -89,7 +86,7 @@ We will meet at 8:30 at the construction site on Whychus Creek. Implementation S
 
 <a href="{{ site.baseurl }}/resources/pocket"><img class="float-right" src="C:\Users\dshore\Documents\GitPBR\PBR\workshops\2023\{{ site.baseurl }}\assets\images\covers\pocket_guide_cover_150w.png"></a>
 
-- <a href="http://dx.doi.org/10.13140/RG.2.2.28222.13123/1"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a> Wheaton JM, Wheaton A, Maestas J, Bennett S, Bouwes N, Shahveridan S, Camp R, Jordan C, Macfarlane W, Portugal E, Weber N. 2019. [Low-Tech Process-Based Restoration of Riverscapes: Pocket Field Guide]({{ site.baseurl }}/resources/pocke). [Utah State University Restoration Consortium](http://restoration.usu.edu). DOI: [10.13140/RG.2.2.28222.13123/1](http://dx.doi.org/10.13140/RG.2.2.28222.13123/1).
+- <a href="http://dx.doi.org/10.13140/RG.2.2.28222.13123/1"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a> Wheaton JM, Wheaton A, Maestas J, Bennett S, Bouwes N, Shahveridan S, Camp R, Jordan C, Macfarlane W, Portugal E, Weber N. 2019. [Low-Tech Process-Based Restoration of Riverscapes: Pocket Field Guide]({{ site.baseurl }}/resources/pocket). [Utah State University Restoration Consortium](http://restoration.usu.edu). DOI: [10.13140/RG.2.2.28222.13123/1](http://dx.doi.org/10.13140/RG.2.2.28222.13123/1).
 
 
 
@@ -162,9 +159,9 @@ We have secured a group rate at the [GrandStay Hotel & Suites](https://www.grand
 
 ### Field Gear
 
-This is a hands-on workshop. For the field portions, we will be hiking and working on real construction projects. Your safety is our top priority, but you are the most important person in ensuring your safety and comfort. So bring common sense. Our workshop is in the Summer in the mountains. You should be prepared for anything from sunny skies and sunburn, to snow and hypothermia.. We will be hiking through and doing work in small, wadeable streams. We **strongly recommend a pair of chest waders and wading boots**. It is also possible we will be building structures in a hot, dry creek with isolated pools, so come prepared for a variety of weather.  You also should bring whatever outdoor clothing and gear to keep yourself comfortable. Layers, coats, gloves, hats, sunglasses, sunscreen, and a dry change of clothes for afterwards are all a must. For Day 2, no open-toed shoes will be allowed. Where work clothing suitable for a construction site.
+This is a hands-on workshop. For the field portions, we will be hiking and working on real construction projects. Your safety is our top priority, but you are the most important person in ensuring your safety and comfort. So bring common sense. Our workshop is in the Summer, and it is expected to be very hot. We will be hiking through and doing work in small, wadeable streams. We recommend you wet wade or wear boots. Please note that **closed-toe shoes are required**. Wear work clothing suitable for a construction site. You also should bring whatever outdoor clothing and gear to keep yourself comfortable. Layers, coats, gloves, hats, sunglasses, sunscreen, and a dry change of clothes for afterwards are all a must. 
 
-We will provide you with basic personal protective equipment (PPEs like work gloves, eye protection, hard hats, ear protection). However, if you have any other
+We will provide you with basic personal protective equipment (PPEs like work gloves, eye protection, hard hats, ear protection).
 
 If you have any allergies or medical conditions that we should be aware of, please notify your instructor.
 
@@ -179,13 +176,13 @@ Meals are provided with your registration to help us run the workshop more effic
 - Day 2 (Field Construction Day)
 
   - No breakfast or coffee provided (come fueled up and caffinated)
-  - Bag lunches, snacks and beverages *provided* in field. Please bring your own water bottle. 
+  - Bag lunches, snacks and beverages *provided* in field. We will have a vegetarian option available. If your dietary restrictions require something different, please feel free to bring your own food. Please bring your own water bottle. 
   - On your own for dinner. 
 
   We will make sure that for snacks and meals there are some gluten-free options, but those with other dietary restrictions should make other arrangements. 
 
 ### Emergency Preparedness
-In the event of an emergency, most of our field visits and the classroom at the fairgrounds should all have cell reception of dialing 911. We will have some First Responder certified participants and instructors, and we will have first aid kits available. The closest Emergency Room  is:
+In the event of an emergency, most of our field and classroom locatios have cell reception of dialing 911. We will have some First Responder certified participants and instructors, and we will have first aid kits available. The closest Emergency Room  is:
 
 [St. Charles Redmond](https://www.stcharleshealthcare.org/locations/st-charles-redmond?utm_source=local-listing&utm_medium=organic&utm_campaign=website-link)<br>
 [1253 Northwest Canal Boulevard](https://maps.app.goo.gl/81XB6Q6Q1GJ1pE9FA), Redmond, OR 97756<br>
