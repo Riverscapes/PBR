@@ -49,7 +49,7 @@ We will have a vegetarian option available. If your dietary restrictions require
 
 #### Construction - Day 2 | July 24, 2024
 
-- Day 2 -  **Implementing Low-Tech Process-Based Restoration** (field all-day)  - 8:30 AM to 3 PM
+- Day 2 -  **Implementing Low-Tech Process-Based Restoration** (field all-day)  - 8 AM to 3 PM
 
 We will meet at 8:30 at the construction site on Whychus Creek ([44.314500, -121.512081](https://www.google.com/maps/place/44%C2%B018'52.2%22N+121%C2%B030'43.5%22W/@44.3073049,-121.6510731,18741m/data=!3m1!1e3!4m4!3m3!8m2!3d44.3145!4d-121.512081?entry=ttu)) located ~10 minutes outside of Sisters, OR
 
