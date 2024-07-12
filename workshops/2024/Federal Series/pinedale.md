@@ -54,9 +54,9 @@ We encourage all course participants enjoy an evening dinner Aug 7 at [Pitchfork
 
 - Day 2 -  **Implementing Low-Tech Process-Based Restoration** (field all-day)  - 8:30 AM to 3 PM
 
-We will meet at 8:30 at the construction site. Implementation Site TBD.  
+We will meet at the construction site on Pine Grove Creek ([42.431946, -110.379446] about 1hr outside of Pinedale.  (https://www.google.com/maps/place/42%C2%B025'55.0%22N+110%C2%B022'46.0%22W/@42.4319499,-110.382021,17z/data=!3m1!4b1!4m4!3m3!8m2!3d42.431946!4d-110.3794461?entry=ttu)). 
 
-
+<iframe src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d27634.66591665142!2d-110.42327983694064!3d42.43994895406631!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zNDLCsDI1JzU1LjAiTiAxMTDCsDIyJzQ2LjAiVw!5e1!3m2!1sen!2sus!4v1720807936004!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 
 -------
@@ -164,9 +164,9 @@ For those travelling  from out of town, we have secured a hotel block at the [Be
 
 ### Field Gear
 
-This is a hands-on workshop. For the field portions, we will be hiking and working on real construction projects. Your safety is our top priority, but you are the most important person in ensuring your safety and comfort. So bring common sense. Our workshop is in the Summer in the mountains. You should be prepared for anything from sunny skies and sunburn, to snow and hypothermia.. We will be hiking through and doing work in small, wadeable streams. We **strongly recommend a pair of chest waders and wading boots**. It is also possible we will be building structures in a hot, dry creek with isolated pools, so come prepared for a variety of weather.  You also should bring whatever outdoor clothing and gear to keep yourself comfortable. Layers, coats, gloves, hats, sunglasses, sunscreen, and a dry change of clothes for afterwards are all a must. For Day 2, no open-toed shoes will be allowed. Where work clothing suitable for a construction site.
+This is a hands-on workshop. For the field portions, we will be hiking and working on real construction projects. Your safety is our top priority, but you are the most important person in ensuring your safety and comfort. So bring common sense. Our workshop is in the summer, and it is expected to be very hot. We will be hiking through and doing work in small, wadeable streams. We recommend you wet wade or wear boots. Please note **closed-toe shoes are required**. Wear work clothing suitable for a construction site. You also should bring whatever outdoor clothing and gear to keep yourself comfortable. Layers, coats, gloves, hats, sunglasses, sunscreen, and a dry change of clothes for afterwards are all a must.
 
-We will provide you with basic personal protective equipment (PPEs like work gloves, eye protection, hard hats, ear protection). However, if you have any other
+We will provide you with basic personal protective equipment (PPEs like work gloves, eye protection, hard hats, ear protection). 
 
 If you have any allergies or medical conditions that we should be aware of, please notify your instructor.
 
