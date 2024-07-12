@@ -51,7 +51,7 @@ We will have a vegetarian option available. If your dietary restrictions require
 
 - Day 2 -  **Implementing Low-Tech Process-Based Restoration** (field all-day)  - 8 AM to 3 PM
 
-We will meet at 8:30 at the construction site on Whychus Creek ([44.314500, -121.512081](https://www.google.com/maps/place/44%C2%B018'52.2%22N+121%C2%B030'43.5%22W/@44.3073049,-121.6510731,18741m/data=!3m1!1e3!4m4!3m3!8m2!3d44.3145!4d-121.512081?entry=ttu)) located ~10 minutes outside of Sisters, OR
+We will meet at the construction site on Whychus Creek ([44.314500, -121.512081](https://www.google.com/maps/place/44%C2%B018'52.2%22N+121%C2%B030'43.5%22W/@44.3073049,-121.6510731,18741m/data=!3m1!1e3!4m4!3m3!8m2!3d44.3145!4d-121.512081?entry=ttu)) located ~10 minutes outside of Sisters, OR
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d81609.09493968729!2d-121.65107311528313!3d44.30730493196681!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zNDTCsDE4JzUyLjIiTiAxMjHCsDMwJzQzLjUiVw!5e1!3m2!1sen!2sus!4v1720805344561!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
