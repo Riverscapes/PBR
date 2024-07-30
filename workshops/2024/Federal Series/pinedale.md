@@ -110,19 +110,19 @@ We will meet at the construction site on Pine Grove Creek ([42.431946, -110.3794
     Professor of Riverscapes
   </div>
 
-<!--- <div class="column column-block">
+<div class="column column-block">
     <a href="https://www.researchgate.net/profile/Jeremy_Maestas"><img src="{{ site.baseurl }}/assets/images/people/Maestas_round.png"></a>
 
     <h4><a href="https://www.researchgate.net/profile/Jeremy_Maestas">Jeremy Maestas<sup>3</sup></a></h4>
 ​    Ecologist
-  </div> --->
+  </div> 
 
 
-<div class="column column-block">
+<!--- <div class="column column-block">
     <img src="{{ site.baseurl }}/assets/images/people/shore_round.png">
     <h4><a href="https://qcnr.usu.edu/directory/wats/staff/shore-dominique">Dominique Shore<sup>1</sup></a></h4>
     Fluvial Geomorphologist
-  </div>
+  </div> --->
 
 
 
