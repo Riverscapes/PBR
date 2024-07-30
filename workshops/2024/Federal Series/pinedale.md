@@ -110,7 +110,7 @@ We will meet at the construction site on Pine Grove Creek ([42.431946, -110.3794
     Professor of Riverscapes
   </div>
 
-<div class="column column-block">
+  <div class="column column-block">
     <a href="https://www.researchgate.net/profile/Jeremy_Maestas"><img src="{{ site.baseurl }}/assets/images/people/Maestas_round.png"></a>
 
     <h4><a href="https://www.researchgate.net/profile/Jeremy_Maestas">Jeremy Maestas<sup>3</sup></a></h4>
@@ -139,9 +139,9 @@ We will meet at the construction site on Pine Grove Creek ([42.431946, -110.3794
   <div class="column column-block">
 	<a href="http://www.anabranchsolutions.com"><img src="{{ site.baseurl }}/assets/images/sponsors/anabranchsolutionslogo-square-450_10.png"></a><br>2. 
 
- <!---  <div class="column column-block">
+  <div class="column column-block">
     <a href="https://www.nrcs.usda.gov/wps/portal/nrcs/detailfull/national/about/leadership/centers/?cid=NRCS143_021469"><img src="{{ site.baseurl }}/assets/images/sponsors/usda-nrcs-logo_1_orig.png"></a><br>3.
-  </div>    --->
+  </div>    
 
 </div>
 
