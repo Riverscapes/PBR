@@ -56,8 +56,9 @@ We encourage all course participants enjoy an evening dinner Aug 7 at [Pitchfork
 
 We will meet at the construction site on Pine Grove Creek ([42.431946, -110.379446](https://www.google.com/maps/place/42%C2%B025'55.0%22N+110%C2%B022'46.0%22W/@42.4319499,-110.382021,17z/data=!3m1!4b1!4m4!3m3!8m2!3d42.431946!4d-110.3794461?entry=ttu)) about 1hr outside of Pinedale.
 
+<div class="responsive-embed">
 <iframe src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d27634.66591665142!2d-110.42327983694064!3d42.43994895406631!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zNDLCsDI1JzU1LjAiTiAxMTDCsDIyJzQ2LjAiVw!5e1!3m2!1sen!2sus!4v1720807936004!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-
+</div>
 
 -------
 
