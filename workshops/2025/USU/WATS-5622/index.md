@@ -31,6 +31,8 @@ This course provides an introduction to the planning process of Low-Tech Process
 - Matriculated Students: WATS 5622 
 - Professional Students: [CEWA 5622](https://cpe.usu.edu/search/publicCourseSearchDetails.do?method=load&courseId=1073962) 
 
+*Registration opens November 11, 2024*
+
 | Class                                                        | Time              | Days     | Dates                  | Instructors                                                  |
 | ------------------------------------------------------------ | ----------------- | -------- | ---------------------- | ------------------------------------------------------------ |
 | Planning LTPBR | 1:30 pm - 4:15 pm | Tuesdays | Jan 28 & Feb 04, 11, 2025| Joe Wheaton |
@@ -310,5 +312,5 @@ Students are also encouraged to download the [“SafeUT App” (Links to an exte
   </a>
 </div>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDI0Njg3NzhdfQ==
+eyJoaXN0b3J5IjpbNTI0MTc0OTM0XX0=
 -->
