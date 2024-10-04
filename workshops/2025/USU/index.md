@@ -34,12 +34,13 @@ Professional students register for the CEWA 562X section of the course through t
 3.	Register for a course by adding the course to the Cart.
 4.	Checkout and submit payment.
 
+
 ### Registration for USU Students
 
-USU students should register for the WATS 562X section of the course through [Banner]()
+USU students should register for the WATS 562X section of the course through [Banner](https://ss.banner.usu.edu/StudentRegistrationSsb/ssb/registration/registration). 
 
-### Level 1 & 2 Federal Series | BLM & NRCS Employees only
-<a href="https://www.blm.gov/"><img class="float-left" src="{{ site.baseurl }}/assets/images/sponsors/blm.png"></a>   <a href="https://www.nrcs.usda.gov/wps/portal/nrcs/detailfull/national/programs/initiatives/?cid=steldevb1027671"><img class="float-left" src="{{ site.baseurl }}/assets/images/sponsors/usda-nrcs-logo_1_orig.png"></a>In 2025 this series  will be packaged as Level 1 (WATS 5620, 5622, 5623) and Level 2 (WATS 5621, 5624, 5625) training certifications to align with the Bureau of Land Management and the Natural Resources Conservation Services respective National Technical Training Centers. [Learn More]({{ site.baseurl }}/workshops/2025/Federal%20Series/)
+
+
 
 
 <div align="center">
@@ -49,5 +50,5 @@ USU students should register for the WATS 562X section of the course through [Ba
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTAyMjA1MzBdfQ==
+eyJoaXN0b3J5IjpbNDYwNzg3NTQ2XX0=
 -->
