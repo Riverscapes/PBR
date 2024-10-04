@@ -153,9 +153,9 @@ All of course lecture slides and materials are linked from the Canvas page by mo
 --->
 
 
-<div ali
+<div align="center">
 <a class="hollow button" href="{{ site.baseurl }}/workshops/2020/SGI/Modules/module4"><img src="{{ site.baseurl }}/assets/images/diagrams/presentation.png"> <b>Module 4 - Design</b> <br> Slides  <i class="fa fa-file-pdf-o" aria-hidden="true"></i>, Recorded Lectures <i class="fa fa-youtube-play" aria-hidden="true"></i> and Exercises </a>
-
+</div>
 </div>
 
 
@@ -311,5 +311,5 @@ Students are also encouraged to download the [“SafeUT App” (Links to an exte
   </a>
 </div>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTAzODU5NjBdfQ==
+eyJoaXN0b3J5IjpbMTcxODQzMDQ5NV19
 -->
