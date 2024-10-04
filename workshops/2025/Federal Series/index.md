@@ -32,6 +32,7 @@ In this training, students will learn the key principles and techniques for Low-
 | CEWA 5620 | **[Introduction]({{ site.baseurl }}/workshops/2025/USU/WATS-5620/)** to Low-Tech Process-Based Restoration of Riverscapes | **Jan 7, 14 & 21**     | 1:30 - 4:15 | $315 | [Register](https://cpe.usu.edu/public/category/programArea.do?method=load&selectedProgramAreaId=1134103) |
 | CEWA 5621 | **[Science & Case Studies]({{ site.baseurl }}/workshops/2025/USU/WATS-5621/)** of Low-Tech Process-Based Restoration of Riverscapes | **Feb 18, 25 & Mar 4** | 1:30 - 4:15 | $315 | [Register](https://cpe.usu.edu/public/category/programArea.do?method=load&selectedProgramAreaId=1134103) |
 | CEWA 5622 | **[Planning]({{ site.baseurl }}/workshops/2025/USU/WATS-5622/)** to Low-Tech Process-Based Restoration of Riverscapes | **Jan 28 & Feb 4, 11** | 1:30 - 4:15 | $315 | [Register](https://cpe.usu.edu/public/category/programArea.do?method=load&selectedProgramAreaId=1134103) |
+
 **Note:** Students must register for all three courses to satisfy the Level 1 Series requirements.
 
 
@@ -78,6 +79,6 @@ An advanced, Level III Training Series will be developed and will likely consist
 
 These advanced courses are targetted at practitioners within the agencies that are leading implementation efforts and attempting to scale up LTPBR practices to the scope of the problem in their watersheds and riverscapes.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3NjIzMDE0MiwyMTcxOTc2MTUsMTQwND
-E4MzY2MF19
+eyJoaXN0b3J5IjpbNTc3MTY0Nzg0LDIxNzE5NzYxNSwxNDA0MT
+gzNjYwXX0=
 -->
