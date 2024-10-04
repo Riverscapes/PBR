@@ -19,13 +19,13 @@ This course introduces Adaptive Management and how it can be applied to Low-Tech
 |**Cross-Listed As**: |CEWA 5625|
 
 <div align="center">
-<a class=" button hollow" href="{{ site.baseurl }}/workshops/2024/USU/"> <i class="fa fa-chevron-circle-left" aria-hidden="true"></i> <b> Back to  Spring 2024 LTPBR Courses</b>  for University Credit or Professional CEU  
+<a class=" button hollow" href="{{ site.baseurl }}/workshops/2025/USU/"> <i class="fa fa-chevron-circle-left" aria-hidden="true"></i> <b> Back to  Spring 2025 LTPBR Courses</b>  for University Credit or Professional CEU  
   </a>
 </div>
 
 
 ## Schedule
-### Spring 2024 - Adaptive Management of LTPBR
+### Spring 2025 - Adaptive Management of LTPBR
 - Matriculated Students: WATS 5625
 - Non-Matriculated Students: CEWA 5625 [Register Here](https://cpe.usu.edu/search/publicCourseSearchDetails.do?method=load&courseId=1015430) 
 
@@ -41,9 +41,12 @@ This course is based on [Module 6]({{ site.baseurl }}/workshops/2020/SGI/Modules
 
 ### Course Schedule/Outline
 
-Outline dates and assignments will be available on Canvas:
+Assignments and course material will be available on Canvas two weeks prior to the course start date. 
+
+<!--- UPDATE CANVAS LINK
 <div align="center">
 <a class="hollow button" href="https://usu.instructure.com/courses/753154"><img src="{{ site.baseurl }}/assets/images/canvas_logo.png">  <b>Spring 2024 Canvas</b><br> WATS 5625 - Adaptive Management of  LTPBR Course Assignments</a></div>
+--->
 
 Students are expected to watch live or pre-recorded lectures and complete the reading assignments prior to our class meeting, where those topics will be discussed. Each person will develop an adaptive management framework. 
 
@@ -51,13 +54,8 @@ This class meets two times for a discussion session (live or remotely) :
 
 | Meeting Date | Modules     | Topics                                                       |
 | ------------ | ----------- | ------------------------------------------------------------ |
-| 4/16/2024    | Module 6A-D | Introduction and background of Adaptive Management |
-| 4/23/2024   | Module 6E&F | Adapative Management for Low-Tech Process-Based Restoration     |
-
-<!--- NICK TO POPULATE
-This course will introduce traditional adaptive management.  We discuss the need, background, and what is adaptive management.  We will then discuss how we might simplfy adaptive management as it applys to low-tech process-based restoration.  Finally each student will create their own adpative management plan for the Birch Creek restoration efforts.  
-<a class="hollow button" href="{{ site.baseurl }}/workshops/2020/SGI/Modules/module5"><img src="{{ site.baseurl }}/assets/images/diagrams/presentation.png"> <b>Module 5 - Implementation</b> <br> Slides  <i class="fa fa-file-pdf-o" aria-hidden="true"></i>, Recorded Lectures <i class="fa fa-youtube-play" aria-hidden="true"></i> and Exercises </a></div>
---->
+| 4/15/2025    | Module 6A-D | Introduction and background of Adaptive Management |
+| 4/22/2025   | Module 6E&F | Adapative Management for Low-Tech Process-Based Restoration     |
 
 ------------------
 ## Fees
@@ -304,5 +302,5 @@ Students are also encouraged to download the [“SafeUT App” (Links to an exte
   </a>
 </div>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1Mjc2NDMwMl19
+eyJoaXN0b3J5IjpbLTEwODczNjA5NTZdfQ==
 -->
