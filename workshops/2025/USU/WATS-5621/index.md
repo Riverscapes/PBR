@@ -144,14 +144,17 @@ The course is organized into a series of modules or topics. Slides (as PDFs), re
 
 All of course lecture slides and materials are linked from the Canvas page by module and assignment.
 
-<!--- UPDATE CANVAS LINK<div align="center">
-<a class="hollow button" href="https://usu.instructure.com/courses/753184"><img src="{{ site.baseurl }}/assets/images/canvas_logo.png">  <b>Spring 2025 Canvas</b><br> WATS/CEWA 5621 - Science & Case Studies of LTPBR </a> --->
+<!--- UPDATE CANVAS LINK
+<div align="center">
+<a class="hollow button" href="https://usu.instructure.com/courses/753184"><img src="{{ site.baseurl }}/assets/images/canvas_logo.png">  <b>Spring 2025 Canvas</b><br> WATS/CEWA 5621 - Science & Case Studies of LTPBR </a> 
+</div>
+--->
 
 
 <div align="center">
 <a class="hollow button" href="{{ site.baseurl }}/workshops/2020/SGI/Modules/module2"><img src="{{ site.baseurl }}/assets/images/diagrams/presentation.png"> <b>Module 2 - Science</b> <br> Slides  <i class="fa fa-file-pdf-o" aria-hidden="true"></i>, Recorded Lectures <i class="fa fa-youtube-play" aria-hidden="true"></i> and Exercises </a>
 </div>
-</div>
+
 
 ## Course Textbooks
 **Mandatory Texts** - A hard copy of both the manual and pocket-guide will make your participation in the courses easier, but *free digital versions* are available below. If you do not have hard copies, please have a PDF open in the background during class.  
@@ -305,5 +308,5 @@ Students are also encouraged to download the [“SafeUT App” (Links to an exte
   </a>
 </div>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzMDIxNDYwNSwtMTAzNjIwMzk5NF19
+eyJoaXN0b3J5IjpbMTUwOTAyMTA4OSwtMTAzNjIwMzk5NF19
 -->
