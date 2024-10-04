@@ -53,7 +53,7 @@ Participants will engage in hands-on activities, from designing their own restor
 
 ### Field Days (CEWA 5624)
 
-BLM/NRCS employees can choose to attend the April 13th implementation day around Logan, UT or an one of the following implementation day organized by the BLM & NRCS Summer 2025. Dates and Locations to be a
+BLM/NRCS employees can choose to attend the April 13th implementation day around Logan, UT or an one of the following implementation day organized by the BLM & NRCS Summer 2025. Dates and Locations to be announced. 
 
 
 ### Registration Instructions
@@ -73,5 +73,5 @@ An advanced, Level III Training Series will be developed and will likely consist
 
 These advanced courses are targetted at practitioners within the agencies that are leading implementation efforts and attempting to scale up LTPBR practices to the scope of the problem in their watersheds and riverscapes.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwNzczNjU5MiwxNDA0MTgzNjYwXX0=
+eyJoaXN0b3J5IjpbMzUzODkwOTQwLDE0MDQxODM2NjBdfQ==
 -->
