@@ -3,7 +3,7 @@ title: Design LTPBR - Syllabus
 weight: 4
 ---
 
-# WATS 5623 - Course Syllabus
+# WATS/CEWA 5623 - Course Syllabus
 ![header]({{ site.baseurl }}/assets/images/courses/WATS-5623_header_C.png)
 
 
@@ -19,13 +19,13 @@ This course provides an introduction to designing Low-Tech Process-Based Restora
 |**Cross-Listed As**: |CEWA 5623 |
 
 <div align="center">
-<a class=" button hollow" href="{{ site.baseurl }}/workshops/2024/USU/"> <i class="fa fa-chevron-circle-left" aria-hidden="true"></i> <b> Back to  Spring 2024 LTPBR Courses</b>  for University Credit or Professional CEU  
+<a class=" button hollow" href="{{ site.baseurl }}/workshops/2025/USU/"> <i class="fa fa-chevron-circle-left" aria-hidden="true"></i> <b> Back to  Spring 2025 LTPBR Courses</b>  for University Credit or Professional CEU  
   </a>
 </div>
 
 
 ## Schedule
-### Spring 2024 - Design LTPBR
+### Spring 2025 - Design LTPBR
 - Matriculated Students: WATS 5623 
 - Non-USU/Professional Students: [CEWA 5623](https://cpe.usu.edu/search/publicCourseSearchDetails.do?method=load&courseId=1073964) 
 
@@ -33,7 +33,7 @@ This course provides an introduction to designing Low-Tech Process-Based Restora
 
 | Class                                                        | Time              | Days     | Dates                     | Instructors                                                  |
 | ------------------------------------------------------------ | ----------------- | -------- | ------------------------- | ------------------------------------------------------------ |
-| Designing LTPBR | 1:30 pm - 4:15 pm | Tuesdays | Mar 19, 26 & Apr 2, 2024 | Joe Wheaton |
+| Designing LTPBR | 1:30 pm - 4:15 pm | Tuesdays | Mar 18, 25 & Apr 1, 2025 | Joe Wheaton |
 
 
 
@@ -41,12 +41,12 @@ This course provides an introduction to designing Low-Tech Process-Based Restora
 <a class="hollow button" href="https://usu-edu.zoom.us/j/84727348167?pwd=NkZaZ254andOaUorWmkzdkpGb0pIdz09"><img src="{{ site.baseurl }}/assets/images/zoom_icon_32.png">  <b>Zoom Meeting Link</b><br>Tuesdays</a></div> --->
 
 ### Course Schedule/Outline
+Assignments and course material will be available on Canvas two weeks prior to the course start date. 
 
-Outline dates and assignments will be available on Canvas:
-
+<!---- UPDATE CANVAS LINK
 <div align="center">
-<a class="hollow button" href="https://usu.instructure.com/courses/754454"><img src="{{ site.baseurl }}/assets/images/canvas_logo.png">  <b>Spring 2024 Canvas</b><br> WATS 5623 - Design LTPBR Course Assignments</a></div> 
-
+<a class="hollow button" href="https://usu.instructure.com/courses/754454"><img src="{{ site.baseurl }}/assets/images/canvas_logo.png">  <b>Spring 2025 Canvas</b><br> WATS 5623 - Design LTPBR Course Assignments</a></div> 
+--->
 
 Students are expected to watch pre-recorded lectures and complete the reading assignments prior to our class meetings, where those topics will be discussed and exercises completed as a group. 
 
@@ -54,7 +54,7 @@ This class meets three times for these discussion sessions:
 
 | Meeting Date | Modules | Topics                                                   |
 |--------------|---------|----------------------------------------------------------|
-|   3/19/2024 | 4.1 | [Intro to Design Process](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module4#b-designing-low-tech-restoration-projects); [Leading Design with Recovery Potential](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module4#c-leading-design-with-recovery-potential) |
+|   3/18/202 | 4.1 | [Intro to Design Process](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module4#b-designing-low-tech-restoration-projects); [Leading Design with Recovery Potential](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module4#c-leading-design-with-recovery-potential) |
 | 3/26/2024 | 4.2 |[Design Standards of Practice @ Complex-Scale](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module4#d-design-standards-of-practice--designing-at-complex-scale) ; [Learning How to Design @ Structure-Scale](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module4#e-learning-how-to-design-at-structure-scale)|
 |     4/02/2024 | 4.3 | [Field Design Documentation](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module4#f-putting-it-all-together-in-the-field) ; Designing at Your Own Riverscape                      |
 
@@ -311,3 +311,6 @@ Students are also encouraged to download the [“SafeUT App” (Links to an exte
 <a class=" button hollow" href="{{ site.baseurl }}/workshops/uni"><img width="100" src="{{ site.baseurl }}/assets/images/sponsors/USU.png">  <b> Back to  LTPBR Courses</b>  for University Credit or Professional CEU  <i class="fa fa-chevron-circle-left" aria-hidden="true"></i>
   </a>
 </div>
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTE3ODk4NDcwNDFdfQ==
+-->
