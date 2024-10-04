@@ -5,28 +5,11 @@ weight: 1
 
 # Overview of Spring 2024 Offerings
 
-All of our six popular LTPBR courses  are being offered as 1 credit (1.5 CEU) courses offered in series over Spring Semester.  Matriculated students register in [banner](http://banner.usu.edu).  
-
-
+All of our six popular LTPBR courses  are being offered as 1 credit (1.5 CEU) courses offered in series over Spring Semester.  Registration is open to **both USU** and **non-USU & Professional students.**
 
 ![]({{ site.baseurl }}/assets/images/courses/Spring.png)
 
-## For Matriculated Students
-
-[Registration opens in Banner mid November](https://catalog.usu.edu/)
-
-| Course # |  Course Title |
-|--------------------------------------------------------------------------------------------------------------------------------------------------------------|---|
-| WATS 5620 |  **[Introduction]({{ site.baseurl }}/workshops/2024/USU/WATS-5620/)** to Low-Tech Process-Based Restoration of Riverscapes |
-| WATS 5621 |  **[Science & Case Studies]({{ site.baseurl }}/workshops/2024/USU/WATS-5621/)** of Low-Tech Process-Based Restoration of Riverscapes |
-| WATS 5622 |  **[Planning]({{ site.baseurl }}/workshops/2024/USU/WATS-5622/)** to Low-Tech Process-Based Restoration of Riverscapes |
-| WATS 5623 |  **[Design]({{ site.baseurl }}/workshops/2024/USU/WATS-5623/)** to Low-Tech Process-Based Restoration of Riverscapes |
-| WATS 5624 | **[Implementing]({{ site.baseurl }}/workshops/2024/USU/WATS-5624/)** Low-Tech Process-Based Restoration of Riverscapes |
-| WATS 5625 | **[Adaptive Management]({{ site.baseurl }}/workshops/2024/USU/WATS-5625/)** of Low-Tech Process-Based Restoration of Riverscapes |
-
-_Click on course titles for syllabi._
-
-## For Professionals
+## 2025 Course Schedule
 
 Non-matriculated students can take the classes for a direct fee through our Continuing Education Unit system. 
 
@@ -45,6 +28,7 @@ Non-matriculated students can take the classes for a direct fee through our Cont
 
 ### Registration for Non-USU & Professional Students: 
 
+
 1.	[Create an account or Login](https://cpe.usu.edu/portal/logon.do?method=load) to an existing account.
 2.	Search for the course(s) by course number, CRN, or Program
 3.	Register for a course by adding the course to the Cart.
@@ -61,5 +45,5 @@ Non-matriculated students can take the classes for a direct fee through our Cont
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDM1MTU4XX0=
+eyJoaXN0b3J5IjpbMTY3MDAxMzAzNV19
 -->
