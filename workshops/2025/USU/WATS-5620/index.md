@@ -27,7 +27,7 @@ This course provides an introduction to the practice of Low-Tech Process-Based R
 ### Spring 2024 - Intro to LTPBR
 ## Intro to LTPBR
 - Matriculated Students: [INTRO LOWTECH PROC REST RIV - WATS 5620](https://ss.banner.usu.edu/StudentRegistrationSsb/ssb/classSearch/classSearch)
-- Non-USU Students/Professionals: [CEWA 5620](https://cpe.usu.edu/search/publicCourseSearchDetails.do?method=load&courseId=1015426)
+- Non-USU Students/Professionals: [CEWA 5620](https://cpe.usu.edu/search/publicCourseSearchDetails.do?method=load&courseId=1015426&selectedProgramAreaId=1134103&selectedProgramStreamId=)
 
 | Class                                                        | Time              | Days     | Where                     | Dates                  | Instructor                 |
 | ------------------------------------------------------------ | ----------------- | -------- | ------------------------- | ---------------------- | -------------------------- |
@@ -45,10 +45,10 @@ This course provides an introduction to the practice of Low-Tech Process-Based R
 
 ### Course Schedule/Outline
 
-Outline dates, assignments, and course zoom links will be available on Canvas:
+Outline dates, assignments, and course zoom links will be available on Canvas starting 2 weeks before the course starts. 
 
-<div align="center">
-<a class="hollow button" href="https://usu.instructure.com/courses/754452"><img src="{{ site.baseurl }}/assets/images/canvas_logo.png">  <b>Spring 2024 Canvas</b><br> WATS 5620 - Intro to LTPBR Course Assignments</a></div> 
+<!---- <div align="center">
+<a class="hollow button" href="https://usu.instructure.com/courses/754452"><img src="{{ site.baseurl }}/assets/images/canvas_logo.png">  <b>Spring 2024 Canvas</b><br> WATS 5620 - Intro to LTPBR Course Assignments</a></div>  --->
 
 
 Students are expected to watch pre-recorded lectures and complete the reading assignments prior to our class meetings, where those topics will be discussed and exercises completed as a group. 
@@ -57,9 +57,9 @@ This class meets three times for these discussion sessions:
 
 | Meeting Date | Modules | Topics                                                   |
 |--------------|---------|----------------------------------------------------------|
-|   1/09/2024 | 1.1  | [Background & Scope of Degradation](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module1#b-background--why-were-here) / [Build your First BDA](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module1#f-what-you-came-for---your-first-bda) |
-|    1/16/2024 | 1.2  | [Intro to Low-Tech Tools](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module1#g-broad-umbrella-of-low-tech-restoration) & [Guiding Principles](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module1#j-principles)            |
-|     1/23/2024 | 1.3  | [Partnering with Beaver](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module1#k-beaver-history--biology) & [Synthesis](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module1#n-wrap-up-and-preview-of-remaining-modules)                       |
+|   1/07/2025 | 1.1  | [Background & Scope of Degradation](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module1#b-background--why-were-here) / [Build your First BDA](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module1#f-what-you-came-for---your-first-bda) |
+|    1/14/2025 | 1.2  | [Intro to Low-Tech Tools](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module1#g-broad-umbrella-of-low-tech-restoration) & [Guiding Principles](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module1#j-principles)            |
+|     1/21/2024 | 1.3  | [Partnering with Beaver](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module1#k-beaver-history--biology) & [Synthesis](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module1#n-wrap-up-and-preview-of-remaining-modules)                       |
 
 This course is based on [Module 1]({{ site.baseurl }}/workshops/2020/SGI/Modules/module1.html) of the self-paced materials. 
 <div align="center">
@@ -307,5 +307,5 @@ Students are also encouraged to download the [“SafeUT App” (Links to an exte
   </a>
 </div>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1NjEzNDI3OF19
+eyJoaXN0b3J5IjpbMTI1MjU2NjQ0NV19
 -->
