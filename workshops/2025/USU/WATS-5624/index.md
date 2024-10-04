@@ -2,7 +2,7 @@
 title: Implementation of LTPBR - Syllabus
 weight: 5
 ---
-# WATS 5624 - Syllabus
+# WATS/CEWA 5624 - Syllabus
 
 ![header]({{ site.baseurl }}/assets/images/courses/WATS-5624_header_C.png)
 
@@ -20,27 +20,27 @@ This course introduces Low-Tech Process-Based Restoration of Riverscapes impleme
 |**Cross-Listed As**: |CEWA 5624|
 
 <div align="center">
-<a class=" button hollow" href="{{ site.baseurl }}/workshops/2024/USU/"> <i class="fa fa-chevron-circle-left" aria-hidden="true"></i> <b> Back to  Spring 2024 LTPBR Courses</b>  for University Credit or Professional CEU  
+<a class=" button hollow" href="{{ site.baseurl }}/workshops/2025/USU/"> <i class="fa fa-chevron-circle-left" aria-hidden="true"></i> <b> Back to  Spring 2025 LTPBR Courses</b>  for University Credit or Professional CEU  
   </a>
 </div>
 
 
 ## Schedule
-### Spring 2024 - Implementation of LTPBR
+### Spring 2025 - Implementation of LTPBR
 - Matriculated Students: WATS 5624
-- Non-USU/Professional Students: CEWA 5624  [Register Here](https://cpe.usu.edu/search/publicCourseSearchDetails.do?method=load&courseId=1015428) 
+- Non-USU/Professional Students: CEWA 5624  
 
 | Class              | Time              | Days     | Where      | Dates        | Instructors                                                  |
 | ------------------ | ----------------- | -------- | ---------- | ------------ | ------------------------------------------------------------ |
-| Implementing LTPBR | 1:30 pm - 4:15 pm | Tuesday  | via Zoom   | Apr 9, 2024  | [Stephen Nicholas Bennett]({{ site.baseurl }}//workshops/2020/SGI/#instruction-team) |
-| Implementing LTPBR | 7:30 am - 5:30 pm | Saturday | Field Trip | Apr 13, 2024 | [Stephen Nicholas Bennett]({{ site.baseurl }}//workshops/2020/SGI/#instruction-team) |
+| Implementing LTPBR | 1:30 pm - 4:15 pm | Tuesday  | via Zoom   | Apr 8, 2025  | Joe Wheaton |
+| Implementing LTPBR | 7:30 am - 5:30 pm | Saturday | Field Trip | Apr 12, 2025 | Joe Wheaton |
 
 ### Course Schedule/Outline
 
 Outline dates and assignments will be available on Canvas:
 
  <div align="center">
-<a class="hollow button" href="https://usu.instructure.com/courses/754450"><img src="{{ site.baseurl }}/assets/images/canvas_logo.png">  <b>Spring 2024 Canvas</b><br> WATS 5624 - Implementation Course Assignments</a></div>
+<a class="hollow button" href="https://usu.instructure.com/courses/754450"><img src="{{ site.baseurl }}/assets/images/canvas_logo.png">  <b>Spring 2025 Canvas</b><br> WATS 5624 - Implementation Course Assignments</a></div>
 
 
 Students are expected to watch pre-recorded lectures and complete the reading assignments prior to our class meeting, where those topics will be discussed and exercises completed as a group. Both that session and the Saturday field trip are mandatory attendance. 
@@ -311,3 +311,6 @@ Students are also encouraged to download the [“SafeUT App” (Links to an exte
 <a class=" button hollow" href="{{ site.baseurl }}/workshops/uni"><img width="100" src="{{ site.baseurl }}/assets/images/sponsors/USU.png">  <b> Back to  LTPBR Courses</b>  for University Credit or Professional CEU  <i class="fa fa-chevron-circle-left" aria-hidden="true"></i>
   </a>
 </div>
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMzQ5ODM5MDQyXX0=
+-->
