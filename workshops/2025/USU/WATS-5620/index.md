@@ -29,6 +29,8 @@ This course provides an introduction to the practice of Low-Tech Process-Based R
 - Matriculated Students: [INTRO LOWTECH PROC REST RIV - WATS 5620](https://ss.banner.usu.edu/StudentRegistrationSsb/ssb/classSearch/classSearch)
 - Non-USU Students/Professionals: [CEWA 5620](https://cpe.usu.edu/search/publicCourseSearchDetails.do?method=load&courseId=1015426&selectedProgramAreaId=1134103&selectedProgramStreamId=)
 
+*Registration opens November 11, 2024*
+
 <!---- INSERT REGISTRATION BUTTON --->
 
 | Class                                                        | Time              | Days     | Where                     | Dates                  | Instructor                 |
@@ -309,5 +311,5 @@ Students are also encouraged to download the [“SafeUT App” (Links to an exte
   </a>
 </div>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQ4Mjk0NTk0XX0=
+eyJoaXN0b3J5IjpbLTIwNjc2MzI2Ml19
 -->
