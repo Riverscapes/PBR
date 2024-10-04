@@ -8,11 +8,6 @@ weight: 1
 <a href="https://www.blm.gov/montana-dakotas"><img class="float-left" src="{{ site.baseurl }}/assets/images/sponsors/blm.png"></a> 
 This workshop was held **August 9-11, 2022**. It was a mix of field and classroom instruction. The BLM Miles City Field Office hosted the event.
 
-<a target="_blank" href="https://calendar.google.com/event?action=TEMPLATE&amp;tmeid=MGI3Z2Q5NW12cXJmbWl1bzQyYW9xYmh1cGQgam9lLm0ud2hlYXRvbkBt&amp;tmsrc=joe.m.wheaton%40gmail.com"><img border="0" src="https://www.google.com/calendar/images/ext/gc_button1_en.gif"></a>
-
-
-
-
 
 # Overview
 
@@ -268,3 +263,6 @@ In the event of an emergency, most of our field visits and the classroom at the 
 <div align="center">
         <a class="hollow button" href="{{ site.baseurl }}/workshops/"><i class="fa fa-graduation-cap"></i>  Back to Workshops </a>  
 </div>
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTMyODkzNTE1M119
+-->
