@@ -49,7 +49,7 @@ This course provides an introduction to the practice of Low-Tech Process-Based R
 
 ### Course Schedule/Outline
 
-Outline dates, assignments, and course zoom links will be available on Canvas starting 2 weeks before the course starts. 
+Assignments and course material will be available on Canvas two weeks prior to the course start date. 
 
 <!---- UPDATE CANVAS LINK<div align="center">
 <a class="hollow button" href="https://usu.instructure.com/courses/754452"><img src="{{ site.baseurl }}/assets/images/canvas_logo.png">  <b>Spring 2025 Canvas</b><br> WATS 5620 - Intro to LTPBR Course Assignments</a></div>  --->
@@ -311,5 +311,5 @@ Students are also encouraged to download the [“SafeUT App” (Links to an exte
   </a>
 </div>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzE3MjU3MDI5XX0=
+eyJoaXN0b3J5IjpbMTExMzY2OTIyOF19
 -->
