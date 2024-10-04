@@ -37,11 +37,12 @@ This course introduces Low-Tech Process-Based Restoration of Riverscapes impleme
 
 ### Course Schedule/Outline
 
-Outline dates and assignments will be available on Canvas:
+Assignments and course material will be available on Canvas two weeks prior to the course start date. 
 
+<!--- UPDATE CANVAS LINK
  <div align="center">
 <a class="hollow button" href="https://usu.instructure.com/courses/754450"><img src="{{ site.baseurl }}/assets/images/canvas_logo.png">  <b>Spring 2025 Canvas</b><br> WATS 5624 - Implementation Course Assignments</a></div>
-
+--->
 
 Students are expected to watch pre-recorded lectures and complete the reading assignments prior to our class meeting, where those topics will be discussed and exercises completed as a group. Both that session and the Saturday field trip are mandatory attendance. 
 
@@ -49,8 +50,8 @@ This class meets once for a discussion session (remotely) and once in person for
 
 | Meeting Date | Modules     | Topics                                                       |
 | ------------ | ----------- | ------------------------------------------------------------ |
-| 4/09/2024   | 5.2, 5.3, 5.4 & 5.5 | [Overview](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module5#b-low-tech-implementation-overview); [Consultation & Permitting](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module5#c-consultation--permitting); [Logistics, Equipment & Safety](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module5#d-logistics-equipment--safety), [Construction of PALS & BDAs](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module5#e-construction-of-pals--bdas) |
-| 4/13/2024    | 5.6           | Field Day (Saturday) - Constructing an LTPBR Project                    |
+| 4/08/2025   | 5.2, 5.3, 5.4 & 5.5 | [Overview](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module5#b-low-tech-implementation-overview); [Consultation & Permitting](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module5#c-consultation--permitting); [Logistics, Equipment & Safety](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module5#d-logistics-equipment--safety), [Construction of PALS & BDAs](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module5#e-construction-of-pals--bdas) |
+| 4/12/2025    | 5.6           | Field Day (Saturday) - Constructing an LTPBR Project                    |
 
 
 This course is based on [Module 5]({{ site.baseurl }}/workshops/2020/SGI/Modules/module5.html) of the self-paced materials. 
@@ -61,16 +62,15 @@ This course is based on [Module 5]({{ site.baseurl }}/workshops/2020/SGI/Modules
 ------------------
 ## Fees
 ### Matriculated Students
-Current USU [Tuition](https://www.usu.edu/registrar/registration/payment/) for 1 credit. 
-$100 Course Fee for field trip (construction supplies, equipment, travel, safety equipment, etc.). 
+Current USU [Tuition](https://www.usu.edu/registrar/registration/payment/) for 1 credit.  $100 Course Fee for field trip (construction supplies, equipment, travel, safety equipment, etc.). 
 
 ### Continuing Education Students
-**$415** for 1.5 CEUs  (_$370 Course Fee + $45 CEU processing fee_) Registration opens November 13. 
+**$415** for 1.5 CEUs  (_$370 Course Fee + $45 CEU processing fee_) Registration opens November 11. 
 
 
-
+<!--- REGISTRATION BUTTON. OPEN NOV 11
 <div align="center"><a class="button" href="https://cpe.usu.edu/search/publicCourseSearchDetails.do?method=load&courseId=1015428"> <b>Module 5 - Implementation</b> <br> Professionals Register Now! <i class="fa fa-user-plus" aria-hidden="true"></i> </a></div>
-
+--->
 
 -----------------
 ## Course Objectives
@@ -90,7 +90,7 @@ By the end of this course, students will:
 
 
 <div class="row small-up-2 medium-up-2 large-up-4" align="center">
-
+<!---
 <div class="column column-block">
     <a href="https://www.researchgate.net/profile/Stephen_Bennett8"><img src="{{ site.baseurl }}/assets/images/people/bennett-round_orig.png"></a>
     <h4><a href="https://www.researchgate.net/profile/Stephen_Bennett8">Stephen N. Bennett<sup>1,2</sup></a></h4>
@@ -98,6 +98,8 @@ By the end of this course, students will:
     Ecologist, <a href="https://qcnr.usu.edu/directory/bennett_stephen">Adjunct Professor</a>, <a href="https://www.anabranchsolutions.com/stephen-bennett.html">Principal<sup>2</sup></a><br>
     Office Hours:  By Appointment
 </div> 
+--->
+
 <div class="column column-block">
     <a href="http://joewheaton.org"><img src="{{ site.baseurl }}/assets/images/people/Wheaton_round.png"></a>
     <h4><a href="http://joewheaton.org">Joe Wheaton<sup>1,2</sup></a></h4>
@@ -312,5 +314,5 @@ Students are also encouraged to download the [“SafeUT App” (Links to an exte
   </a>
 </div>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQ5ODM5MDQyXX0=
+eyJoaXN0b3J5IjpbMjEwNzM2Mzg5OV19
 -->
