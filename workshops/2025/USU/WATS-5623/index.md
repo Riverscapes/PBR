@@ -54,9 +54,9 @@ This class meets three times for these discussion sessions:
 
 | Meeting Date | Modules | Topics                                                   |
 |--------------|---------|----------------------------------------------------------|
-|   3/18/202 | 4.1 | [Intro to Design Process](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module4#b-designing-low-tech-restoration-projects); [Leading Design with Recovery Potential](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module4#c-leading-design-with-recovery-potential) |
-| 3/26/2024 | 4.2 |[Design Standards of Practice @ Complex-Scale](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module4#d-design-standards-of-practice--designing-at-complex-scale) ; [Learning How to Design @ Structure-Scale](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module4#e-learning-how-to-design-at-structure-scale)|
-|     4/02/2024 | 4.3 | [Field Design Documentation](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module4#f-putting-it-all-together-in-the-field) ; Designing at Your Own Riverscape                      |
+|   3/18/2025 | 4.1 | [Intro to Design Process](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module4#b-designing-low-tech-restoration-projects); [Leading Design with Recovery Potential](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module4#c-leading-design-with-recovery-potential) |
+| 3/25/2025 | 4.2 |[Design Standards of Practice @ Complex-Scale](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module4#d-design-standards-of-practice--designing-at-complex-scale) ; [Learning How to Design @ Structure-Scale](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module4#e-learning-how-to-design-at-structure-scale)|
+|     4/01/2025 | 4.3 | [Field Design Documentation](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module4#f-putting-it-all-together-in-the-field) ; Designing at Your Own Riverscape                      |
 
 
 Students will be expected to take their own field trip to a real riverscape of their choosing  and complete a design assignment. 
@@ -68,17 +68,15 @@ This course is based on [Module 4]({{ site.baseurl }}/workshops/2020/SGI/Modules
 ------------------
 ## Fees
 ### Matriculated Students
-Current USU [Tuition](https://www.usu.edu/registrar/registration/payment/) for 1 credit. 
-No additional Course Fee. 
-Please register on [Banner](http://banner.usu.edu). **
+Current USU [Tuition](https://www.usu.edu/registrar/registration/payment/) for 1 credit. No additional Course Fee.  Please register on [Banner](http://banner.usu.edu). 
 
 ### Continuing Education Students
-**$315** for 1.5 CEUs (*$270 Course Fee + $45 CEU processing fee*) Registration opens November 13. 
+**$315** for 1.5 CEUs (*$270 Course Fee + $45 CEU processing fee*) Registration opens November 11. 
 
 
-
+<!--- REGISTRATION BUTTON. OPEN NOV 11
 <div align="center"><a class="button" href="https://cpe.usu.edu/search/publicCourseSearchDetails.do?method=load&courseId=1073964"> <b>Module 4 - Design</b> <br> Register Now! <i class="fa fa-user-plus" aria-hidden="true"></i> </a></div> 
-
+--->
 -----------------
 ## Course Objectives
 
@@ -102,7 +100,7 @@ By the end of this course, students will:
     <b>Lead Instructor</b><br>
     <a href="https://qcnr.usu.edu/directory/wats/faculty/wheaton-joseph"> Professor of Riverscapes</a>,<br> <a href="https://www.anabranchsolutions.com/joe-wheaton.html">Principal<sup>2</sup></a><br> 
 </div>
-
+<!--- 
 <div class="column column-block">
     <a href="https://www.researchgate.net/profile/Stephen_Bennett8"><img src="{{ site.baseurl }}/assets/images/people/bennett-round_orig.png"></a>
     <h4><a href="https://www.researchgate.net/profile/Stephen_Bennett8">Stephen N. Bennett<sup>1,2</sup></a></h4>
@@ -117,6 +115,7 @@ By the end of this course, students will:
     Masters Student in MoER<br>
     Restoration Technician
   </div>
+  --->
 </div>
 
 To get in touch with instructor(s), please use [Canvas](https://usu.instructure.com/) discussion boards or direct messaging for communication. 
@@ -148,13 +147,13 @@ The course is organized into a series of modules or topics. Slides (as PDFs), re
 ## Slides & Handouts
 
 All of course lecture slides and materials are linked from the Canvas page by module and assignment.
-
+<!--- UPDATE CANVAS LINK
 <div align="center">
-<a class="hollow button" href="https://usu.instructure.com/courses/754454"><img src="{{ site.baseurl }}/assets/images/canvas_logo.png">  <b>Spring 2024 Canvas</b><br> WATS 5623 - Design of LTPBR</a>
+<a class="hollow button" href="https://usu.instructure.com/courses/754454"><img src="{{ site.baseurl }}/assets/images/canvas_logo.png">  <b>Spring 2025 Canvas</b><br> WATS 5623 - Design of LTPBR</a>
+--->
 
 
-
-
+<div ali
 <a class="hollow button" href="{{ site.baseurl }}/workshops/2020/SGI/Modules/module4"><img src="{{ site.baseurl }}/assets/images/diagrams/presentation.png"> <b>Module 4 - Design</b> <br> Slides  <i class="fa fa-file-pdf-o" aria-hidden="true"></i>, Recorded Lectures <i class="fa fa-youtube-play" aria-hidden="true"></i> and Exercises </a>
 
 </div>
@@ -312,5 +311,5 @@ Students are also encouraged to download the [“SafeUT App” (Links to an exte
   </a>
 </div>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODk4NDcwNDFdfQ==
+eyJoaXN0b3J5IjpbLTExMTAzODU5NjBdfQ==
 -->
