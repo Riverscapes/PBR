@@ -106,6 +106,7 @@ By the end of this course, students will:
     <b>Instructor</b><br>
     <a href="https://qcnr.usu.edu/directory/wats/faculty/wheaton-joseph"> Professor of Riverscapes</a>,<br> <a href="https://www.anabranchsolutions.com/joe-wheaton.html">Principal<sup>2</sup></a><br>   </div>
 
+<!--- 
    <div class="column column-block">
     <img src="{{ site.baseurl }}/assets/images/people/Sandy_Round_200.png">
     <h4>Sandra Johnson<sup>1,2</sup></h4>
@@ -113,12 +114,7 @@ By the end of this course, students will:
     Masters Student in MoER<br>
     Restoration Technician
   </div>
-
-   <div class="column column-block">
-    <img src="{{ site.baseurl }}/assets/images/people/Alec_Round200.png">
-    <h4>Alec Arditti<sup>1</sup></h4>
-   <b>Teaching Assistant</b><br>
-   Office Hours: by Appointment
+--->
   </div>
 
 
@@ -155,13 +151,13 @@ The course is organized into a series of modules or topics. Slides (as PDFs), re
 
 All of course lecture slides and materials are linked from the Canvas page by module and assignment.
 
- <div align="center">
-<a class="hollow button" href="https://usu.instructure.com/courses/754450"><img src="{{ site.baseurl }}/assets/images/canvas_logo.png">  <b>Spring 2024 Canvas</b><br> WATS 5624 - Implementation of LTPBR Course Assignments</a>
+<!--- update canvas link <div align="center">
+<a class="hollow button" href="https://usu.instructure.com/courses/754450"><img src="{{ site.baseurl }}/assets/images/canvas_logo.png">  <b>Spring 2025 Canvas</b><br> WATS 5624 - Implementation of LTPBR Course Assignments</a>
+</div>
+--->
 
-
-
+<div align="center">
 <a class="hollow button" href="{{ site.baseurl }}/workshops/2020/SGI/Modules/module5"><img src="{{ site.baseurl }}/assets/images/diagrams/presentation.png"> <b>Module 5 - Implementation</b> <br> Slides  <i class="fa fa-file-pdf-o" aria-hidden="true"></i>, Recorded Lectures <i class="fa fa-youtube-play" aria-hidden="true"></i> and Exercises </a>
-
 </div>
 
 ## Course Textbooks
@@ -314,5 +310,5 @@ Students are also encouraged to download the [“SafeUT App” (Links to an exte
   </a>
 </div>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwNzM2Mzg5OV19
+eyJoaXN0b3J5IjpbLTIxMTY1NDk3NjVdfQ==
 -->
