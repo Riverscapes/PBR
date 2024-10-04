@@ -47,7 +47,7 @@ Assignments and course material will be available on Canvas two weeks prior to t
 
 <!--- UPDATE CANVAS LINK
 <div align="center">
-<a class="hollow button" href="https://usu.instructure.com/courses/753154"><img src="{{ site.baseurl }}/assets/images/canvas_logo.png">  <b>Spring 2024 Canvas</b><br> WATS 5625 - Adaptive Management of  LTPBR Course Assignments</a></div>
+<a class="hollow button" href="https://usu.instructure.com/courses/753154"><img src="{{ site.baseurl }}/assets/images/canvas_logo.png">  <b>Spring 2025 Canvas</b><br> WATS 5625 - Adaptive Management of  LTPBR Course Assignments</a></div>
 --->
 
 Students are expected to watch live or pre-recorded lectures and complete the reading assignments prior to our class meeting, where those topics will be discussed. Each person will develop an adaptive management framework. 
@@ -72,7 +72,7 @@ Please register on [Banner](http://banner.usu.edu)
 
 <!--- REGISTRATION LINK. OPEN NOV 11
 <div align="center"><a class="button" href="https://cpe.usu.edu/search/publicCourseSearchDetails.do?method=load&courseId=1015430"> <b>Module 6 - Adaptive Management</b> <br> Register Now! <i class="fa fa-user-plus" aria-hidden="true"></i> </a></div> 
---
+--->
 
 -----------------
 
@@ -103,7 +103,7 @@ This introductory course is focused on remembering, understanding, using adaptiv
     Ecologist, <a href="https://qcnr.usu.edu/directory/bouwes_nicolaas">Adjunct Professor</a>, <a href="https://www.anabranchsolutions.com/nick-bouwes.html">Principal<sup>2</sup></a><br>
     Office Hours:  By Appointment
   </div>
-
+<!---
    <div class="column column-block">
     <img src="{{ site.baseurl }}/assets/images/people/Sandy_Round_200.png">
     <h4>Sandra Johnson<sup>1,2</sup></h4>
@@ -111,7 +111,7 @@ This introductory course is focused on remembering, understanding, using adaptiv
     Masters Student in MoER<br>
     Restoration Technician
   </div>
-
+--->
 
 
 </div>
@@ -145,13 +145,13 @@ The course is organized into a series of modules or topics. Slides (as PDFs), re
 
 All of course lecture slides and materials are linked from the Canvas page by module and assignment.
 
-
+<!--- UPDATE CANVAS LINK
 <div align="center">
-<a class="hollow button" href="https://usu.instructure.com/courses/753154"><img src="{{ site.baseurl }}/assets/images/canvas_logo.png">  <b>Spring 2024 Canvas</b><br> WATS 5625 - Adaptive Management of LTPBR Course Assignments</a>
-
-
+<a class="hollow button" href="https://usu.instructure.com/courses/753154"><img src="{{ site.baseurl }}/assets/images/canvas_logo.png">  <b>Spring 2025 Canvas</b><br> WATS 5625 - Adaptive Management of LTPBR Course Assignments</a>
+</div>
+--->
+<div align="center">
 <a class="hollow button" href="{{ site.baseurl }}/workshops/2020/SGI/Modules/module6"><img src="{{ site.baseurl }}/assets/images/diagrams/presentation.png"> <b>Module 6 - Implementation</b> <br> Slides  <i class="fa fa-file-pdf-o" aria-hidden="true"></i>, Recorded Lectures <i class="fa fa-youtube-play" aria-hidden="true"></i> and Exercises </a>
-
 </div>
 
 ## Course Textbooks
@@ -304,5 +304,5 @@ Students are also encouraged to download the [“SafeUT App” (Links to an exte
   </a>
 </div>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwMzUyMTgxOV19
+eyJoaXN0b3J5IjpbLTE5MTQ4NDM4N119
 -->
