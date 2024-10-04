@@ -7,7 +7,7 @@ weight: 1
 
 ![]({{ site.baseurl }}/assets/images/courses/Spring.png)
 
-## All of our six popular LTPBR courses are being offered as 1 credit (1.5 CEU) courses offered in series over Spring Semester. Registration is open to **both USU** and **non-USU & Professional students.**
+All of our six popular LTPBR courses are being offered as 1 credit (1.5 CEU) courses offered in series over Spring Semester. Registration is open to **both USU** and **non-USU & Professional students.**
 
 ## 2025 Course Schedule
 
@@ -52,5 +52,5 @@ USU students should register for the WATS 562X section of the course through [Ba
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyNTM0OTE3XX0=
+eyJoaXN0b3J5IjpbLTE5NTY2NzA3ODNdfQ==
 -->
