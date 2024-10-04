@@ -147,16 +147,17 @@ The course is organized into a series of modules or topics. Slides (as PDFs), re
 ## Slides & Handouts
 
 All of course lecture slides and materials are linked from the Canvas page by module and assignment.
-<!--- UPDATE CANVAS LINK
+
+<!---- UPDATE CANVAS LINK
 <div align="center">
 <a class="hollow button" href="https://usu.instructure.com/courses/754454"><img src="{{ site.baseurl }}/assets/images/canvas_logo.png">  <b>Spring 2025 Canvas</b><br> WATS 5623 - Design of LTPBR</a>
---->
+---->
 
 
 <div align="center">
 <a class="hollow button" href="{{ site.baseurl }}/workshops/2020/SGI/Modules/module4"><img src="{{ site.baseurl }}/assets/images/diagrams/presentation.png"> <b>Module 4 - Design</b> <br> Slides  <i class="fa fa-file-pdf-o" aria-hidden="true"></i>, Recorded Lectures <i class="fa fa-youtube-play" aria-hidden="true"></i> and Exercises </a>
 </div>
-</div>
+
 
 
 
@@ -311,5 +312,5 @@ Students are also encouraged to download the [“SafeUT App” (Links to an exte
   </a>
 </div>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0MTA3MTU0XX0=
+eyJoaXN0b3J5IjpbLTIyMzgyNzI3OF19
 -->
