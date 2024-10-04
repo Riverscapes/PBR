@@ -105,7 +105,8 @@ By the end of this course, students will:
     <a href="http://joewheaton.org"><img src="{{ site.baseurl }}/assets/images/people/Wheaton_round.png"></a>
     <h4><a href="http://joewheaton.org">Joe Wheaton<sup>1,2</sup></a></h4>
     <b>Instructor</b><br>
-    <a href="https://qcnr.usu.edu/directory/wats/faculty/wheaton-joseph"> Professor of Riverscapes</a>,<br> <a href="https://www.anabranchsolutions.com/joe-wheaton.html">Principal<sup>2</sup></a><br>   </div>
+    <a href="https://qcnr.usu.edu/directory/wats/faculty/wheaton-joseph"> Professor of Riverscapes</a>,<br> <a href="https://www.anabranchsolutions.com/joe-wheaton.html">Principal<sup>2</sup></a><br>   
+    </div>
 
 <!--- 
    <div class="column column-block">
@@ -116,8 +117,6 @@ By the end of this course, students will:
     Restoration Technician
   </div>
 --->
-  </div>
-
 
 </div>
 
@@ -311,5 +310,5 @@ Students are also encouraged to download the [“SafeUT App” (Links to an exte
   </a>
 </div>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxOTA5MzkyNywtMjExNjU0OTc2NV19
+eyJoaXN0b3J5IjpbNDkyNjgxMjg3LC0yMTE2NTQ5NzY1XX0=
 -->
