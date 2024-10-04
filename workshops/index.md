@@ -38,6 +38,7 @@ See our [University courses]({{ site.baseurl }}/workshops/uni) for a full listin
 
 | Year               | Workshop                                                     | Location           | Audience                                                     |
 | ------------------ | ------------------------------------------------------------ | ------------------ | ------------------------------------------------------------ |
+| 2025, Spring | [Low-Tech Process Based Restoration of Riverscapes - 2025 Workshop Series]({{ site.baseurl }}/workshops/2025/USU/) | Online | Managers and staff from federal and state agencies, tribal communities, watershed councils, and conservation organizations who oversee, fund, or regulate riverscape restoration |
 | 2024, Spring | [Low-Tech Process Based Restoration of Riverscapes - 2024 Workshop Series]({{ site.baseurl }}/workshops/2024/USU/) | Online | Managers and staff from federal and state agencies, tribal communities, watershed councils, and conservation organizations who oversee, fund, or regulate riverscape restoration |
 | 2023, Spring | [Low-Tech Process Based Restoration of Riverscapes - 2023 Workshop Series]({{ site.baseurl }}/workshops/2023/USU/) | Online | Managers and staff from federal and state agencies, tribal communities, watershed councils, and conservation organizations who oversee, fund, or regulate riverscape restoration |
 | 2023, March 7-9 | [Restoring Riverscapes Workshop - Advancing Process-Based Actions](https://www.restoringriverscapes.org/) | Online             | Managers and staff from federal and state agencies, tribal communities, watershed councils, and conservation organizations who oversee, fund, or regulate riverscape restoration|
@@ -81,3 +82,6 @@ In addition to teaching these workshops at the [Utah State University campus](ht
 <div class="responsive-embed">
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=11j18BJXFTUUEOYZZIS_mLex6ijZx0sFf" width="640" height="480"></iframe>
 </div>
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTgwMjI2MDczNV19
+-->
