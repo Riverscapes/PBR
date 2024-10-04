@@ -30,6 +30,7 @@ Students explore the science and case studies that encouraged Low-Tech Process-B
 - Matriculated Students: SCI&CASE STUD LOWTECH RIV - 16918 - WATS 5621
 - Non-USU Students/Professionals: [CEWA 5621](https://cpe.usu.edu/search/publicCourseSearchDetails.do?method=load&courseId=1073960)
 
+*Registration opens November 11, 2024*
 
 
 
@@ -45,11 +46,11 @@ Students explore the science and case studies that encouraged Low-Tech Process-B
 
 ### Course Schedule/Outline
 
-Outline dates and assignments will be available on Canvas:
+Outline dates and assignments will be available on Canvas two weeks prior to the start of the course. 
 
-<div align="center">
+<!--- ADD CANVAS LINK <div align="center">
 <a class="hollow button" href="https://usu.instructure.com/courses/753184"><img src="{{ site.baseurl }}/assets/images/canvas_logo.png">  <b>Spring 2024 Canvas</b><br> WATS 5621 - Science & Case Studies of LTPBR Course Modules</a></div> 
-
+--->
 
 Students are expected to watch pre-recorded lectures and complete the reading assignments prior to our class meetings, where those topics will be discussed and exercises completed as a group. 
 
@@ -75,9 +76,9 @@ Current USU [Tuition](https://www.usu.edu/registrar/registration/payment/) for 1
 Please register on [Banner](http://banner.usu.edu).
 
 ### Continuing Education Students
-**$315** for 1.5 CEUs (*$270 Cource Fee + $45 CEU processing fee*) Registration opens November 13. 
+**$315** for 1.5 CEUs (*$270 Cource Fee + $45 CEU processing fee*) . Registration opens November 11. 
 
-<div align="center"><a class="button" href="https://cpe.usu.edu/search/publicCourseSearchDetails.do?method=load&courseId=1073960"> <b>Module 2 - Science & Case Studies</b> <br> Register Now! <i class="fa fa-user-plus" aria-hidden="true"></i> </a></div>
+<!--- <div align="center"><a class="button" href="https://cpe.usu.edu/search/publicCourseSearchDetails.do?method=load&courseId=1073960"> <b>Module 2 - Science & Case Studies</b> <br> Register Now! <i class="fa fa-user-plus" aria-hidden="true"></i> </a></div> --->
 
 -----------------
 ## Course Objectives
@@ -305,5 +306,5 @@ Students are also encouraged to download the [“SafeUT App” (Links to an exte
   </a>
 </div>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzM3ODYxOTU5XX0=
+eyJoaXN0b3J5IjpbLTE5MjI1MjU3MTZdfQ==
 -->
