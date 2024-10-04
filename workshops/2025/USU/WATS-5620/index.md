@@ -155,7 +155,7 @@ All of course lecture slides and materials are linked from the Canvas page by mo
 UPDATE CANVAS LINK
 <div align="center">
 <a class="hollow button" href="https://usu.instructure.com/courses/754452"><img src="{{ site.baseurl }}/assets/images/canvas_logo.png">  <b>Spring 2025 Canvas</b><br> WATS 5620 - Intro to LTPBR Course Assignments</a>
---->
+---->
 
 
 <div align="center">
@@ -314,5 +314,5 @@ Students are also encouraged to download the [“SafeUT App” (Links to an exte
   </a>
 </div>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDYwOTE4MThdfQ==
+eyJoaXN0b3J5IjpbLTEzMDgzMTU1MzddfQ==
 -->
