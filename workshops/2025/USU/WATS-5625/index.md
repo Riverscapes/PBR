@@ -26,7 +26,7 @@ This course introduces Adaptive Management and how it can be applied to Low-Tech
 
 ## Schedule
 ### Spring 2025 - Adaptive Management of LTPBR
-- Matriculated Students: WATS 5625
+- Matriculated USU Students: WATS 5625
 - Non-USU/Professional Students: [CEWA 5625](https://cpe.usu.edu/search/publicCourseSearchDetails.do?method=load&courseId=1015430) 
 
 *Registration opens November 11, 2024*
@@ -35,7 +35,7 @@ This course introduces Adaptive Management and how it can be applied to Low-Tech
 
 | Class                                                        | Time              | Days     | Where      | Dates        | Instructors                                                  |
 | ------------------------------------------------------------ | ----------------- | -------- | ---------- | ------------ | ------------------------------------------------------------ |
-| Adaptive Management of LTPBR | 1:30 pm - 4:15 pm | Tuesday | Online via Zoom | Apr 16, 23 2024 | [Nick Bouwes]({{ site.baseurl }}//workshops/2020/SGI/#instruction-team) |
+| Adaptive Management of LTPBR | 1:30 pm - 4:15 pm | Tuesday | Online via Zoom | Apr 15, 22 2025 | [Nick Bouwes]({{ site.baseurl }}//workshops/2020/SGI/#instruction-team) |
 
 This course is based on [Module 6]({{ site.baseurl }}/workshops/2020/SGI/Modules/module6.html) of the self-paced materials. 
 <div align="center">
@@ -67,12 +67,12 @@ Current USU Tuition for 1 credit. No course fee.
 Please register on [Banner](http://banner.usu.edu)
 
 ### Continuing Education Students
-**$315** for 1.5 CEUs (*$270 Course Fee + $45 CEU processing fee*) Registration opens November 13
+**$315** for 1.5 CEUs (*$270 Course Fee + $45 CEU processing fee*) Registration opens November 11
 
 
-
+<!--- REGISTRATION LINK. OPEN NOV 11
 <div align="center"><a class="button" href="https://cpe.usu.edu/search/publicCourseSearchDetails.do?method=load&courseId=1015430"> <b>Module 6 - Adaptive Management</b> <br> Register Now! <i class="fa fa-user-plus" aria-hidden="true"></i> </a></div> 
-
+--
 
 -----------------
 
@@ -304,5 +304,5 @@ Students are also encouraged to download the [“SafeUT App” (Links to an exte
   </a>
 </div>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzOTIwNDM2M119
+eyJoaXN0b3J5IjpbMTUwMzUyMTgxOV19
 -->
