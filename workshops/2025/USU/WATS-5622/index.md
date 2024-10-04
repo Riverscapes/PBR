@@ -159,7 +159,7 @@ All of course lecture slides and materials are linked from the Canvas page by mo
 <a class="hollow button" href="{{ site.baseurl }}/workshops/2020/SGI/Modules/module3"><img src="{{ site.baseurl }}/assets/images/diagrams/presentation.png"> <b>Module 3 - Planning</b> <br> Slides  <i class="fa fa-file-pdf-o" aria-hidden="true"></i>, Recorded Lectures <i class="fa fa-youtube-play" aria-hidden="true"></i> and Exercises </a>
 </div> 
 
-</div>
+
 
 
 
@@ -313,5 +313,5 @@ Students are also encouraged to download the [“SafeUT App” (Links to an exte
   </a>
 </div>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzcwOTEzOTU0XX0=
+eyJoaXN0b3J5IjpbMjEyNzE4MTc5NF19
 -->
