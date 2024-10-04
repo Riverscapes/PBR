@@ -2,7 +2,7 @@
 title: Adaptive Management of LTPBR - Syllabus
 weight: 6
 ---
-# WATS 5625 - Syllabus
+# WATS/CEWA 5625 - Syllabus
 ![header]({{ site.baseurl }}/assets/images/courses/WATS-5625_header_C.png)
 
 
@@ -303,3 +303,6 @@ Students are also encouraged to download the [“SafeUT App” (Links to an exte
 <a class=" button hollow" href="{{ site.baseurl }}/workshops/uni"><img width="100" src="{{ site.baseurl }}/assets/images/sponsors/USU.png">  <b> Back to  LTPBR Courses</b>  for University Credit or Professional CEU  <i class="fa fa-chevron-circle-left" aria-hidden="true"></i>
   </a>
 </div>
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTU1Mjc2NDMwMl19
+-->
