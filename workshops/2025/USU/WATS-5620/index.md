@@ -3,7 +3,7 @@ title: Intro to LTPBR - Syllabus
 weight: 1
 ---
 
-# WATS 5620  - Course Syllabus
+# WATS/CEWA 5620  - Course Syllabus
 ![header]({{ site.baseurl }}/assets/images/courses/WATS-5620_header_C.png)
 
 ## [Catalog Description](https://catalog.usu.edu/content.php?filter%5B27%5D=WATS&filter%5B29%5D=5620&filter%5Bcourse_type%5D=-1&filter%5Bkeyword%5D=&filter%5B32%5D=1&filter%5Bcpage%5D=1&cur_cat_oid=12&expand=&navoid=3068&search_database=Filter#acalog_template_course_filter)
@@ -31,7 +31,7 @@ This course provides an introduction to the practice of Low-Tech Process-Based R
 
 | Class                                                        | Time              | Days     | Where                     | Dates                  | Instructor                 |
 | ------------------------------------------------------------ | ----------------- | -------- | ------------------------- | ---------------------- | -------------------------- |
-| Intro to LTPBR | 1:30 pm - 4:15 pm | Tuesdays | Zoom | Jan 9, 16 & 23,  2024 | Joe Wheaton (P) |
+| Intro to LTPBR | 1:30 pm - 4:15 pm | Tuesdays | Zoom | Jan 7, 14 & 21,  2025 | Joe Wheaton (P) |
 
 
 
@@ -306,3 +306,6 @@ Students are also encouraged to download the [“SafeUT App” (Links to an exte
 <a class=" button hollow" href="{{ site.baseurl }}/workshops/uni"><img width="100" src="{{ site.baseurl }}/assets/images/sponsors/USU.png">  <b> Back to  LTPBR Courses</b>  for University Credit or Professional CEU  <i class="fa fa-chevron-circle-left" aria-hidden="true"></i>
   </a>
 </div>
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMjA1NjEzNDI3OF19
+-->
