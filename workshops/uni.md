@@ -9,7 +9,7 @@ weight: 2
 
 [![]({{ site.baseurl }}/assets/images/courses/Spring.png)]({{ site.baseurl }}/workshops/2025/USU)
 
-In Spring 2021, we began offering a sequence of five, short-courses, that parallel the modularized workshop curriculum (available for free, self-pacing [here]({{ site.baseurl }}/resources/Topics/)). These short-courses differ from the workshop curriculum in that:
+In Spring 2021, we began offering a sequence of six, short-courses, that parallel the modularized workshop curriculum (available for free, self-pacing [here]({{ site.baseurl }}/resources/Topics/)). These short-courses differ from the workshop curriculum in that:
 - These courses are taken for University Credit (for matriculated USU students) or University [Continuing Education Units](https://www.usu.edu/ais/ceu/about)
 - These courses use the same curriculum as the [free self-paced modules](http://lowtechpbr.restoration.usu.edu/resources/Topics/), but are augmented by more in-depth class discussions, quizzes and homework assignments
 - These courses are assessed, and you will receive feedback and a letter grade based on your assessed work.
@@ -32,21 +32,10 @@ Note Hybrid Face to Face (F2F) will meet in person on campus, with a concurrent 
 <a class=" button hollow" href="{{ site.baseurl }}/workshops/2025/USU/"><img src="{{ site.baseurl }}/assets/images/sponsors/USU.png">  <b> Spring 2025 - Registration for  LTPBR Courses</b><br>  University Credit or Professional CEU  <i class="fa fa-graduation-cap"></i>  </a>
 </div>
 
-
--------------
-# Make it Count
-
-Through the [USU Restoration Consortium](http://restoration.usu.edu/) we the  LTPBR series for both Continuing Education Credits and USU Academic Credit. 
-
--------------
-## Professional Continuing Education Units
-
-Our University offers professional continuing education units ([CEUs](https://cpe.usu.edu/)) where 1 CEU is roughly 10 contact hours). These are available through the CEWA (Continuing Education Watershed) course prefix and include special topics (CEWA 5700) as well as the Low-Tech Series (CEWA 5620-5625).
-
 -------------
 
 ## CERP - Compliant
 Our program and the LTPBR curriculum have undergone a review by the Society of Ecological Restoration so that  these courses count towards their [Certified Ecological Restoration Practitioner Program](https://www.ser.org/page/Certification). 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2MTEyMTIxOF19
+eyJoaXN0b3J5IjpbMjEzMjQxNDA3Ml19
 -->
