@@ -2,7 +2,7 @@
 title: Planning LTPBR - Syllabus
 weight: 4
 ---
-# WATS 5622 - Course Syllabus
+# WATS/CEWA 5622 - Course Syllabus
 ![header]({{ site.baseurl }}/assets/images/courses/WATS-5622_header_C.png)
 
 
@@ -310,5 +310,5 @@ Students are also encouraged to download the [“SafeUT App” (Links to an exte
   </a>
 </div>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3ODY4ODM3N119
+eyJoaXN0b3J5IjpbLTE1NDI0Njg3NzhdfQ==
 -->
