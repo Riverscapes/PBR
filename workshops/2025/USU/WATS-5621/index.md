@@ -3,7 +3,7 @@ title: Science of LTPBR - Syllabus
 weight: 2
 ---
 
-# WATS 5621 - Course Syllabus
+# WATS/CEWA 5621 - Course Syllabus
 ![header]({{ site.baseurl }}/assets/images/courses/WATS-5621_header_C.png)
 
 ## [Catalog Description](https://ssb.banner.usu.edu/zprod/bwckctlg.p_display_courses?term_in=202120&one_subj=WATS&sel_crse_strt=5150&sel_crse_end=5150&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=)
@@ -20,13 +20,13 @@ Students explore the science and case studies that encouraged Low-Tech Process-B
 |**Cross-Listed As**: |CEWA 5621 
 
 <div align="center">
-<a class=" button hollow" href="{{ site.baseurl }}/workshops/2024/USU/"> <i class="fa fa-chevron-circle-left" aria-hidden="true"></i> <b> Back to  Spring 2024 LTPBR Courses</b>  for University Credit or Professional CEU  
+<a class=" button hollow" href="{{ site.baseurl }}/workshops/2025/USU/"> <i class="fa fa-chevron-circle-left" aria-hidden="true"></i> <b> Back to  Spring 2025 LTPBR Courses</b>  for University Credit or Professional CEU  
   </a>
 </div>
 
 
 ## Schedule
-### Spring 2024 - Science of LTPBR
+### Spring 2025 - Science of LTPBR
 - Matriculated Students: SCI&CASE STUD LOWTECH RIV - 16918 - WATS 5621
 - Non-USU Students/Professionals: [CEWA 5621](https://cpe.usu.edu/search/publicCourseSearchDetails.do?method=load&courseId=1073960)
 
@@ -35,7 +35,7 @@ Students explore the science and case studies that encouraged Low-Tech Process-B
 
 | Class                                                        | Time              | Days     | Where | Dates                    | Instructors                                                  |
 | ------------------------------------------------------------ | ----------------- | -------- | ----- | ------------------------ | ------------------------------------------------------------ |
-| LTPBR Science & Case Studies | 1:30 pm - 4:15 pm MST | Tuesdays | Zoom | Feb 20, 27 & Mar 5, 2024 | [Nicolaas W Bouwes (P)]({{ site.baseurl }}//workshops/2020/SGI/#instruction-team) |
+| LTPBR Science & Case Studies | 1:30 pm - 4:15 pm MST | Tuesdays | Zoom | Feb 18, 25 & Mar 54, 2025 | [Nicolaas W Bouwes (P)]({{ site.baseurl }}//workshops/2020/SGI/#instruction-team) |
 
 
 
@@ -57,9 +57,9 @@ This class meets three times for these discussion sessions:
 
 | Meeting Date | Modules                                                      | Topics                                                       |
 | ------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| 2/20/2024   | 2.1 | [Review & Intro](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module2.html#b-mimicking--promoting-wood-accumulation--beaver-dam-activity) + Case Studies ([Resilience](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module2.html#e-building-resilience-with-low-tech))           |
-| 2/27/2024    | 2.2 | Case Studies that Build Confidence in LTPBR ([Bridge Creek](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module2.html#c-beaver-dam-analogues-bridge-creek--birch-creek) & [Asotin Creek](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module2.html#d-post-assisted-log-structures-case-study-asotin-creek)) |
-| 3/05/2024    | 2.3 | [State of Supporting Science](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module2.html#f-where-science-is-at-ongoing--outstanding-science)                              |
+| 2/18/2025   | 2.1 | [Review & Intro](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module2.html#b-mimicking--promoting-wood-accumulation--beaver-dam-activity) + Case Studies ([Resilience](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module2.html#e-building-resilience-with-low-tech))           |
+| 2/25/2025    | 2.2 | Case Studies that Build Confidence in LTPBR ([Bridge Creek](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module2.html#c-beaver-dam-analogues-bridge-creek--birch-creek) & [Asotin Creek](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module2.html#d-post-assisted-log-structures-case-study-asotin-creek)) |
+| 3/4/2025   | 2.3 | [State of Supporting Science](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module2.html#f-where-science-is-at-ongoing--outstanding-science)                              |
 
 
 This course is based on [Module 2]({{ site.baseurl }}/workshops/2020/SGI/Modules/module2.html) of the self-paced materials. 
@@ -304,3 +304,6 @@ Students are also encouraged to download the [“SafeUT App” (Links to an exte
 <a class=" button hollow" href="{{ site.baseurl }}/workshops/uni"><img width="100" src="{{ site.baseurl }}/assets/images/sponsors/USU.png">  <b> Back to  LTPBR Courses</b>  for University Credit or Professional CEU  <i class="fa fa-chevron-circle-left" aria-hidden="true"></i>
   </a>
 </div>
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMzM3ODYxOTU5XX0=
+-->
