@@ -29,6 +29,8 @@ This course provides an introduction to the practice of Low-Tech Process-Based R
 - Matriculated Students: [INTRO LOWTECH PROC REST RIV - WATS 5620](https://ss.banner.usu.edu/StudentRegistrationSsb/ssb/classSearch/classSearch)
 - Non-USU Students/Professionals: [CEWA 5620](https://cpe.usu.edu/search/publicCourseSearchDetails.do?method=load&courseId=1015426&selectedProgramAreaId=1134103&selectedProgramStreamId=)
 
+<!---- INSERT REGISTRATION BUTTON --->
+
 | Class                                                        | Time              | Days     | Where                     | Dates                  | Instructor                 |
 | ------------------------------------------------------------ | ----------------- | -------- | ------------------------- | ---------------------- | -------------------------- |
 | Intro to LTPBR | 1:30 pm - 4:15 pm | Tuesdays | Zoom | Jan 7, 14 & 21,  2025 | Joe Wheaton (P) |
@@ -59,7 +61,7 @@ This class meets three times for these discussion sessions:
 |--------------|---------|----------------------------------------------------------|
 |   1/07/2025 | 1.1  | [Background & Scope of Degradation](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module1#b-background--why-were-here) / [Build your First BDA](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module1#f-what-you-came-for---your-first-bda) |
 |    1/14/2025 | 1.2  | [Intro to Low-Tech Tools](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module1#g-broad-umbrella-of-low-tech-restoration) & [Guiding Principles](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module1#j-principles)            |
-|     1/21/2024 | 1.3  | [Partnering with Beaver](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module1#k-beaver-history--biology) & [Synthesis](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module1#n-wrap-up-and-preview-of-remaining-modules)                       |
+|     1/21/2025 | 1.3  | [Partnering with Beaver](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module1#k-beaver-history--biology) & [Synthesis](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module1#n-wrap-up-and-preview-of-remaining-modules)                       |
 
 This course is based on [Module 1]({{ site.baseurl }}/workshops/2020/SGI/Modules/module1.html) of the self-paced materials. 
 <div align="center">
@@ -72,7 +74,7 @@ Current USU [Tuition](https://www.usu.edu/registrar/registration/payment/) for 1
 Please register on [Banner](https://ssb.banner.usu.edu/zprod/twbkwbis.P_WWWLogin). 
 
 ### Continuing Education Students
-**$315** for 1.5 CEUs  (_$270 Course Fee + $45 CEU processing fee_).  Registration is now full for Spring '24. 
+**$315** for 1.5 CEUs  (_$270 Course Fee + $45 CEU processing fee_).  
 
 <!--- <div align="center"><a class="button" href="https://cpe.usu.edu/search/publicCourseSearchDetails.do?method=load&courseId=1015426"> <b>Module 1 - Intro</b> <br> Professionals Registraton Now! <i class="fa fa-user-plus" aria-hidden="true"></i> </a></div> --->
 
@@ -101,13 +103,13 @@ By the end of this course, students will:
 
   </div>
 
-   <div class="column column-block">
+<!---   <div class="column column-block">
     <img src="{{ site.baseurl }}/assets/images/people/Sandy_Round_200.png">
     <h4>Sandra Johnson<sup>1,2</sup></h4>
     <b>Teaching Assistant</b><br>
     Masters Student in MoER<br>
     Restoration Technician
-  </div>
+  </div> --->
 
 
 
@@ -307,5 +309,5 @@ Students are also encouraged to download the [“SafeUT App” (Links to an exte
   </a>
 </div>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1MjU2NjQ0NV19
+eyJoaXN0b3J5IjpbNDQ4Mjk0NTk0XX0=
 -->
