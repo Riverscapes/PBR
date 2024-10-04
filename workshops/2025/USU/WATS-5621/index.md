@@ -27,8 +27,8 @@ Students explore the science and case studies that encouraged Low-Tech Process-B
 
 ## Schedule
 ### Spring 2025 - Science of LTPBR
-- Matriculated Students: SCI&CASE STUD LOWTECH RIV - 16918 - WATS 5621
-- Non-USU Students/Professionals: [CEWA 5621](https://cpe.usu.edu/search/publicCourseSearchDetails.do?method=load&courseId=1073960)
+- Matriculated USU Students: SCI&CASE STUD LOWTECH RIV - 16918 - WATS 5621
+- Non-USU/Professional Students: [CEWA 5621](https://cpe.usu.edu/search/publicCourseSearchDetails.do?method=load&courseId=1073960)
 
 *Registration opens November 11, 2024*
 
@@ -305,5 +305,5 @@ Students are also encouraged to download the [“SafeUT App” (Links to an exte
   </a>
 </div>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDUyMjQxNTUxLC0xMDM2MjAzOTk0XX0=
+eyJoaXN0b3J5IjpbLTMzMDIxNDYwNSwtMTAzNjIwMzk5NF19
 -->
