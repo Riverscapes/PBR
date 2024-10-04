@@ -151,7 +151,7 @@ All of course lecture slides and materials are linked from the Canvas page by mo
  <div align="center">
 <a class="hollow button" href="https://usu.instructure.com/courses/754453"><img src="{{ site.baseurl }}/assets/images/canvas_logo.png">  <b>Spring 2025 Canvas</b><br> WATS 5622 - Planning of LTPBR Course Modules</a> 
 </div>
-
+--->
 <div align="center">
 <a class="hollow button" href="{{ site.baseurl }}/workshops/2020/SGI/Modules/module3"><img src="{{ site.baseurl }}/assets/images/diagrams/presentation.png"> <b>Module 3 - Planning</b> <br> Slides  <i class="fa fa-file-pdf-o" aria-hidden="true"></i>, Recorded Lectures <i class="fa fa-youtube-play" aria-hidden="true"></i> and Exercises </a>
 </div> 
@@ -310,5 +310,5 @@ Students are also encouraged to download the [“SafeUT App” (Links to an exte
   </a>
 </div>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjcyNTcxODk2XX0=
+eyJoaXN0b3J5IjpbLTQ3ODY4ODM3N119
 -->
