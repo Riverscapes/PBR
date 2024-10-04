@@ -1,9 +1,9 @@
 ---
-title: USU LTPBR Courses 2024
+title: USU LTPBR Courses 2025
 weight: 1
 ---
 
-# Overview of Spring 2024 Offerings
+# Overview of Spring 2025 Offerings
 
 All of our six popular LTPBR courses  are being offered as 1 credit (1.5 CEU) courses offered in series over Spring Semester.  Registration is open to **both USU** and **non-USU & Professional students.**
 
@@ -52,5 +52,5 @@ USU students should register for the WATS 562X section of the course through [Ba
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzODE5Mjc0MV19
+eyJoaXN0b3J5IjpbLTEzMTM5MjQ2MDNdfQ==
 -->
