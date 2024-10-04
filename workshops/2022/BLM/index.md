@@ -5,7 +5,7 @@ weight: 1
 ![image]({{ site.baseurl }}/assets/images/workshops/2022/BLM_LTPBR_Workshop_Aug2022_SocialMedia_Tiny.png)
 
 **Sponsored by:**<br>
-<a href="https://www.blm.gov/montana-dakotas"><img class="float-left" src="{{ site.baseurl }}/assets/images/sponsors/blm.png"></a> 
+<a href="https://www.blm.gov/montana-dakotas"><img class="float-left" src="{{ site.baseurl }}/assets/images/sponsors/blm.png"></a> </br>
 This workshop was held **August 9-11, 2022**. It was a mix of field and classroom instruction. The BLM Miles City Field Office hosted the event.
 
 
@@ -264,5 +264,5 @@ In the event of an emergency, most of our field visits and the classroom at the 
         <a class="hollow button" href="{{ site.baseurl }}/workshops/"><i class="fa fa-graduation-cap"></i>  Back to Workshops </a>  
 </div>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyODkzNTE1M119
+eyJoaXN0b3J5IjpbLTkzODUzNTQ0NF19
 -->
