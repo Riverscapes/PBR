@@ -21,20 +21,19 @@ This course provides an introduction to the planning process of Low-Tech Process
 |**Cross-Listed As**: |CEWA 5622|
 
 <div align="center">
-<a class=" button hollow" href="{{ site.baseurl }}/workshops/2024/USU/"> <i class="fa fa-chevron-circle-left" aria-hidden="true"></i> <b> Back to  Spring 2024 LTPBR Courses</b>  for University Credit or Professional CEU  
+<a class=" button hollow" href="{{ site.baseurl }}/workshops/2025/USU/"> <i class="fa fa-chevron-circle-left" aria-hidden="true"></i> <b> Back to  Spring 2025 LTPBR Courses</b>  for University Credit or Professional CEU  
   </a>
 </div>
 
 
 ## Schedule
-### Spring 2024 - Planning LTPBR
+### Spring 2025 - Planning LTPBR
 - Matriculated Students: WATS 5622 
 - Professional Students: [CEWA 5622](https://cpe.usu.edu/search/publicCourseSearchDetails.do?method=load&courseId=1073962) 
 
 | Class                                                        | Time              | Days     | Dates                  | Instructors                                                  |
 | ------------------------------------------------------------ | ----------------- | -------- | ---------------------- | ------------------------------------------------------------ |
-| Planning LTPBR | 1:30 pm - 4:15 pm | Tuesdays | Jan 30 & Feb 06, 13, 2024| Joe Wheaton |
-
+| Planning LTPBR | 1:30 pm - 4:15 pm | Tuesdays | Jan 28 & Feb 04, 11, 2025| Joe Wheaton |
 
 
 <!--- <div align="center">
@@ -42,11 +41,11 @@ This course provides an introduction to the planning process of Low-Tech Process
 
 ### Course Schedule/Outline
 
-Outline dates and assignments will be available on Canvas:
-
+Outline dates and assignments will be available on Canvas two weeks prior the the course start date. 
+<!---- UPDATE CANVAS LINK
 <div align="center">
-<a class="hollow button" href="https://usu.instructure.com/courses/754453"><img src="{{ site.baseurl }}/assets/images/canvas_logo.png">  <b>Spring 2024 Canvas</b><br> WATS 5622 - Planning LTPBR Course Assignments</a></div> 
-
+<a class="hollow button" href="https://usu.instructure.com/courses/754453"><img src="{{ site.baseurl }}/assets/images/canvas_logo.png">  <b>Spring 2025 Canvas</b><br> WATS 5622 - Planning LTPBR Course Assignments</a></div> 
+--->
 
 Students are expected to watch pre-recorded lectures and complete the reading assignments prior to our class meetings, where those topics will be discussed and exercises completed as a group. 
 
@@ -307,3 +306,6 @@ Students are also encouraged to download the [“SafeUT App” (Links to an exte
 <a class=" button hollow" href="{{ site.baseurl }}/workshops/uni"><img width="100" src="{{ site.baseurl }}/assets/images/sponsors/USU.png">  <b> Back to  LTPBR Courses</b>  for University Credit or Professional CEU  <i class="fa fa-chevron-circle-left" aria-hidden="true"></i>
   </a>
 </div>
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTIxMzQ1MDg0MTddfQ==
+-->
