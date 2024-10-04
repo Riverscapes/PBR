@@ -43,18 +43,18 @@ Participants will engage in hands-on activities, from designing their own restor
 
 | Course #  | Course Title                                                 | Dates                                                        | Time                                | Cost | Link to Register                                             |
 | --------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ----------------------------------- | ---- | ------------------------------------------------------------ |
-| CEWA 5623 | **[Design]({{ site.baseurl }}/workshops/2024/USU/WATS-5623/)** to Low-Tech Process-Based Restoration of Riverscapes | **Mar 19, 26 & Apr 2**                                       | 1:30 - 4:15                         | $315 | **Registration Full**                                        |
-| CEWA 5624 | **[Implementing]({{ site.baseurl }}/workshops/2024/USU/WATS-5624/)** Low-Tech Process-Based Restoration of Riverscapes | **Classroom April 9** <br/>**Field Day April 13 in Logan, UT, July 24 in Oregon, or August 8 in Wyoming** | Apr 9: 1:30 -3:30<br/>April 13: 9-5 | $415 | [Register](https://cpe.usu.edu/search/publicCourseSearchDetails.do?method=load&courseId=1015428) |
-| CEWA 5625 | **[Adaptive Management]({{ site.baseurl }}/workshops/2024/USU/WATS-5625/)** of Low-Tech Process-Based Restoration of Riverscapes | **Apr 16 & 23**                                              | 1:30 - 4:15                         | $315 | [Register](https://cpe.usu.edu/search/publicCourseSearchDetails.do?method=load&courseId=1015430) |
+| CEWA 5623 | **[Design]({{ site.baseurl }}/workshops/2024/USU/WATS-5623/)** to Low-Tech Process-Based Restoration of Riverscapes | **Mar 18, 25 & Apr 1**                                       | 1:30 - 4:15                         | $315 | **Registration Full**                                        |
+| CEWA 5624 | **[Implementing]({{ site.baseurl }}/workshops/2024/USU/WATS-5624/)** Low-Tech Process-Based Restoration of Riverscapes | **Classroom April 8** <br/>**Field Day April 12 in Logan, UT. BLM/NRCS Field Days to be announced** | Apr 9: 1:30 -3:30<br/>April 13: 9-5 | $415 | [Register](https://cpe.usu.edu/search/publicCourseSearchDetails.do?method=load&courseId=1015428) |
+| CEWA 5625 | **[Adaptive Management]({{ site.baseurl }}/workshops/2024/USU/WATS-5625/)** of Low-Tech Process-Based Restoration of Riverscapes | **Apr 15 & 22**                                              | 1:30 - 4:15                         | $315 | [Register](https://cpe.usu.edu/search/publicCourseSearchDetails.do?method=load&courseId=1015430) |
 
-Students have completed the Level 1 training prior to taking the Level 2 courses and must register for all three courses to satisfy the Level 2 Series requirements.
+<div class="note-block"> <strong>Note:</strong> Students have completed the Level 1 training prior to taking the Level 2 courses and must register for all three courses to satisfy the Level 2 Series requirements.</div>
 
-### Field Day (CEWA 5624)
 
-BLM/NRCS employees can choose to attend the April 13th implementation day around Logan, UT or an one of the following implementation day organized by the BLM & NRCS Summer 2024. 
 
-- [July 24, 2024 - Sisters, OR]({{sitebaseurl}}/workshops/2024/Federal%20Series/sisters)
-- [August 8, 2024 - Pinedale, WY]({{sitebaseurl}}/workshops/2024/Federal%20Series/pinedale)
+### Field Days (CEWA 5624)
+
+BLM/NRCS employees can choose to attend the April 13th implementation day around Logan, UT or an one of the following implementation day organized by the BLM & NRCS Summer 2025. Dates and Locations to be a
+
 
 ### Registration Instructions
 
@@ -73,5 +73,5 @@ An advanced, Level III Training Series will be developed and will likely consist
 
 These advanced courses are targetted at practitioners within the agencies that are leading implementation efforts and attempting to scale up LTPBR practices to the scope of the problem in their watersheds and riverscapes.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODA4NDExOTMsMTQwNDE4MzY2MF19
+eyJoaXN0b3J5IjpbMTMwNzczNjU5MiwxNDA0MTgzNjYwXX0=
 -->
