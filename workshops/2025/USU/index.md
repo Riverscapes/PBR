@@ -38,18 +38,19 @@ Non-matriculated students can take the classes for a direct fee through our Cont
 | WATS/CEWA 5621 | **[Science & Case Studies]({{ site.baseurl }}/workshops/2025/USU/WATS-5621/)** of Low-Tech Process-Based Restoration of Riverscapes | **Feb 18, 25 & Mar 4** | 1:30 - 4:15 | $315 | [Register](https://cpe.usu.edu/search/publicCourseSearchDetails.do?method=load&courseId=1073960) *<5 spots available* |
 | WATS/CEWA 5622 | **[Planning]({{ site.baseurl }}/workshops/2025/USU/WATS-5622/)** to Low-Tech Process-Based Restoration of Riverscapes | **Jan 28 & Feb 4, 11** | 1:30 - 4:15 | $315 | **Registration Full** |
 | WATS/CEWA 5623 | **[Design]({{ site.baseurl }}/workshops/2025/USU/WATS-5623/)** to Low-Tech Process-Based Restoration of Riverscapes | **Mar 18, 25 & Apr 1**                                       | 1:30 - 4:15                         | $315 | **Registration Full**                                        |
-| WATS/CEWA 5624 | **[Implementing]({{ site.baseurl }}/workshops/2025/USU/WATS-5624/)** Low-Tech Process-Based Restoration of Riverscapes | **Classroom April 8** <br/>**Field Day April 12 in Logan, UT. BLM/NRCS Field Days to be announced** | Apr 9: 1:30 -3:30<br/>April 13: 9-5 | $415 | [Register](https://cpe.usu.edu/search/publicCourseSearchDetails.do?method=load&courseId=1015428) |
+| WATS/CEWA 5624 | **[Implementing]({{ site.baseurl }}/workshops/2025/USU/WATS-5624/)** Low-Tech Process-Based Restoration of Riverscapes | **Classroom April 8** <br/>**Field Day April 12 in Logan, UT.** | Apr 9: 1:30 -3:30<br/>April 13: 9-5 | $415 | [Register](https://cpe.usu.edu/search/publicCourseSearchDetails.do?method=load&courseId=1015428) |
 | WATS/CEWA 5625 | **[Adaptive Management]({{ site.baseurl }}/workshops/2025/USU/WATS-5625/)** of Low-Tech Process-Based Restoration of Riverscapes | **Apr 15 & 22**                                              | 1:30 - 4:15                         | $315 | [Register](https://cpe.usu.edu/search/publicCourseSearchDetails.do?method=load&courseId=1015430) |
 
 
 
-To Register: 
+### Registration for Non-USU & Professional Students: 
+
 1.	[Create an account or Login](https://cpe.usu.edu/portal/logon.do?method=load) to an existing account.
 2.	Search for the course(s) by course number, CRN, or Program
 3.	Register for a course by adding the course to the Cart.
 4.	Checkout and submit payment.
 
-### Level 1 & 2 Federal Series | BLM & NRCS Emplot
+### Level 1 & 2 Federal Series | BLM & NRCS Employees only
 <a href="https://www.blm.gov/"><img class="float-left" src="{{ site.baseurl }}/assets/images/sponsors/blm.png"></a>   <a href="https://www.nrcs.usda.gov/wps/portal/nrcs/detailfull/national/programs/initiatives/?cid=steldevb1027671"><img class="float-left" src="{{ site.baseurl }}/assets/images/sponsors/usda-nrcs-logo_1_orig.png"></a>In 2025 this series  will be packaged as Level 1 (WATS 5620, 5622, 5623) and Level 2 (WATS 5621, 5624, 5625) training certifications to align with the Bureau of Land Management and the Natural Resources Conservation Services respective National Technical Training Centers. [Learn More]({{ site.baseurl }}/workshops/2025/Federal%20Series/)
 
 
@@ -60,5 +61,5 @@ To Register:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE2Mjc2MjA0XX0=
+eyJoaXN0b3J5IjpbLTE2NDE1MDcwNTddfQ==
 -->
