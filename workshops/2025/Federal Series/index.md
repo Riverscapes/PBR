@@ -50,7 +50,7 @@ Participants will engage in hands-on activities, from designing their own restor
 | CEWA 5624 | **[Implementing]({{ site.baseurl }}/workshops/2025/USU/WATS-5624/)** Low-Tech Process-Based Restoration of Riverscapes | **Classroom April 8** <br/>**Field Day April 12 in Logan, UT. BLM/NRCS Field Days to be announced** | Apr 9: 1:30 -3:30<br/>April 13: 9-5 | $415 | [Register](https://cpe.usu.edu/public/category/programArea.do?method=load&selectedProgramAreaId=1134103) |
 | CEWA 5625 | **[Adaptive Management]({{ site.baseurl }}/workshops/2025/USU/WATS-5625/)** of Low-Tech Process-Based Restoration of Riverscapes | **Apr 15 & 22**                                              | 1:30 - 4:15                         | $315 | [Register](https://cpe.usu.edu/public/category/programArea.do?method=load&selectedProgramAreaId=1134103) |
 
-<div class="note-block"> <strong>Note:</strong> Students have completed the Level 1 training prior to taking the Level 2 courses and must register for all three courses to satisfy the Level 2 Series requirements.</div>
+**Note:** Students must complete the Level 1 training prior to taking the Level 2 courses and must register for all three courses to satisfy the Level 2 Series requirements.
 
 
 
@@ -78,6 +78,6 @@ An advanced, Level III Training Series will be developed and will likely consist
 
 These advanced courses are targetted at practitioners within the agencies that are leading implementation efforts and attempting to scale up LTPBR practices to the scope of the problem in their watersheds and riverscapes.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwNDcwNDM2MCwyMTcxOTc2MTUsMTQwND
+eyJoaXN0b3J5IjpbLTQ3NjIzMDE0MiwyMTcxOTc2MTUsMTQwND
 E4MzY2MF19
 -->
