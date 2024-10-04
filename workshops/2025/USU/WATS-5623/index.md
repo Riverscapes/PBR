@@ -29,7 +29,7 @@ This course provides an introduction to designing Low-Tech Process-Based Restora
 - Matriculated Students: WATS 5623 
 - Non-USU/Professional Students: [CEWA 5623](https://cpe.usu.edu/search/publicCourseSearchDetails.do?method=load&courseId=1073964) 
 
-
+*Registration opens November 11, 2024*
 
 | Class                                                        | Time              | Days     | Dates                     | Instructors                                                  |
 | ------------------------------------------------------------ | ----------------- | -------- | ------------------------- | ------------------------------------------------------------ |
@@ -311,5 +311,5 @@ Students are also encouraged to download the [“SafeUT App” (Links to an exte
   </a>
 </div>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxODQzMDQ5NV19
+eyJoaXN0b3J5IjpbLTEzNTQxMzM2MzddfQ==
 -->
