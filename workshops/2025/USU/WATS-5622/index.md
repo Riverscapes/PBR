@@ -41,7 +41,7 @@ This course provides an introduction to the planning process of Low-Tech Process
 
 ### Course Schedule/Outline
 
-Outline dates and assignments will be available on Canvas two weeks prior the the course start date. 
+Assignments and course material will be available on Canvas two weeks prior to the course start date. 
 <!---- UPDATE CANVAS LINK
 <div align="center">
 <a class="hollow button" href="https://usu.instructure.com/courses/754453"><img src="{{ site.baseurl }}/assets/images/canvas_logo.png">  <b>Spring 2025 Canvas</b><br> WATS 5622 - Planning LTPBR Course Assignments</a></div> 
@@ -53,9 +53,9 @@ This class meets three times for these discussion sessions. Students will take o
 
 | Meeting Date | Modules | Topics                                                   |
 |--------------|---------|----------------------------------------------------------|
-|    1/30/2024 | 3.1 & 3.2   | [Intro to Planning Process](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module3#b-overview-of-planning--nrcs-conservation-planning-process) ; [Reading Riverscapes](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module3#c-valley-bottom-mapping--virtual-field-trip) |
-|    2/06/2024 | 3.3  | [Planning Phase](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module3#e-risk-assessment-condition-assessment--recovery-potential)           |
-|    2/13/2024 | 3.4  | Planning Applied to your own Riverscape                       |
+|    1/28/2025 | 3.1 & 3.2   | [Intro to Planning Process](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module3#b-overview-of-planning--nrcs-conservation-planning-process) ; [Reading Riverscapes](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module3#c-valley-bottom-mapping--virtual-field-trip) |
+|    2/04/2025| 3.3  | [Planning Phase](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module3#e-risk-assessment-condition-assessment--recovery-potential)           |
+|    2/11/2025 | 3.4  | Planning Applied to your own Riverscape                       |
 
 This course is based on [Module 3]({{ site.baseurl }}/workshops/2020/SGI/Modules/module3.html) of the self-paced materials. 
 <div align="center">
@@ -64,15 +64,14 @@ This course is based on [Module 3]({{ site.baseurl }}/workshops/2020/SGI/Modules
 ------------------
 ## Fees
 ### Matriculated Students
-Current USU [Tuition](https://www.usu.edu/registrar/registration/payment/) for 1 credit. 
-No additional Course Fee. 
-Please register on [Banner](http://banner.usu.edu). **
+Current USU [Tuition](https://www.usu.edu/registrar/registration/payment/) for 1 credit. No additional Course Fee. Please register on [Banner](http://banner.usu.edu). 
 
 ### Continuing Education Students
-**$315** for 1.5 CEUs (*$270 Course Fee + $45 CEU processing fee*) Registration opens November 13. 
+**$315** for 1.5 CEUs (*$270 Course Fee + $45 CEU processing fee*) Registration opens November 11. 
 
-<div align="center"><a class="button" href="https://cpe.usu.edu/search/publicCourseSearchDetails.do?method=load&courseId=1073962"> <b>Module 3 - Planning</b> <br> Register Now! <i class="fa fa-user-plus" aria-hidden="true"></i> </a></div>
-
+<!--- 
+ <div align="center"><a class="button" href="https://cpe.usu.edu/search/publicCourseSearchDetails.do?method=load&courseId=1073962"> <b>Module 3 - Planning</b> <br> Register Now! <i class="fa fa-user-plus" aria-hidden="true"></i> </a></div>
+--->
 -----------------
 ## Course Objectives
 
@@ -307,5 +306,5 @@ Students are also encouraged to download the [“SafeUT App” (Links to an exte
   </a>
 </div>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzQ1MDg0MTddfQ==
+eyJoaXN0b3J5IjpbNTM4NDI0MDkzXX0=
 -->
