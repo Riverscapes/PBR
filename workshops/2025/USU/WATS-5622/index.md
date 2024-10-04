@@ -38,16 +38,17 @@ This course provides an introduction to the planning process of Low-Tech Process
 | Planning LTPBR | 1:30 pm - 4:15 pm | Tuesdays | Jan 28 & Feb 04, 11, 2025| Joe Wheaton |
 
 
-<!--- <div align="center">
-<a class="hollow button" href="https://usu-edu.zoom.us/j/84727348167?pwd=NkZaZ254andOaUorWmkzdkpGb0pIdz09"><img src="{{ site.baseurl }}/assets/images/zoom_icon_32.png">  <b>Zoom Meeting Link</b><br>Tuesdays</a></div> --->
+<!---- <div align="center">
+<a class="hollow button" href="https://usu-edu.zoom.us/j/84727348167?pwd=NkZaZ254andOaUorWmkzdkpGb0pIdz09"><img src="{{ site.baseurl }}/assets/images/zoom_icon_32.png">  <b>Zoom Meeting Link</b><br>Tuesdays</a></div> ---->
 
 ### Course Schedule/Outline
 
 Assignments and course material will be available on Canvas two weeks prior to the course start date. 
+
 <!---- UPDATE CANVAS LINK
 <div align="center">
 <a class="hollow button" href="https://usu.instructure.com/courses/754453"><img src="{{ site.baseurl }}/assets/images/canvas_logo.png">  <b>Spring 2025 Canvas</b><br> WATS 5622 - Planning LTPBR Course Assignments</a></div> 
---->
+---->
 
 Students are expected to watch pre-recorded lectures and complete the reading assignments prior to our class meetings, where those topics will be discussed and exercises completed as a group. 
 
@@ -312,5 +313,5 @@ Students are also encouraged to download the [“SafeUT App” (Links to an exte
   </a>
 </div>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3NjY3MDE1NV19
+eyJoaXN0b3J5IjpbMzcwOTEzOTU0XX0=
 -->
