@@ -38,6 +38,7 @@ See our [University courses]({{ site.baseurl }}/workshops/uni) for a full listin
 
 | Year               | Workshop                                                     | Location           | Audience                                                     |
 | ------------------ | ------------------------------------------------------------ | ------------------ | ------------------------------------------------------------ |
+| 2025, Spring | [Low-Tech Process Based Restoration of Riverscapes - 2025 Workshop Series]({{ site.baseurl }}/workshops/2025/USU/) | Online | Managers and staff from federal and state agencies, tribal communities, watershed councils, and conservation organizations who oversee, fund, or regulate riverscape restoration |
 | 2024, Spring | [Low-Tech Process Based Restoration of Riverscapes - 2024 Workshop Series]({{ site.baseurl }}/workshops/2024/USU/) | Online | Managers and staff from federal and state agencies, tribal communities, watershed councils, and conservation organizations who oversee, fund, or regulate riverscape restoration |
 | 2023, Spring | [Low-Tech Process Based Restoration of Riverscapes - 2023 Workshop Series]({{ site.baseurl }}/workshops/2023/USU/) | Online | Managers and staff from federal and state agencies, tribal communities, watershed councils, and conservation organizations who oversee, fund, or regulate riverscape restoration |
 | 2023, March 7-9 | [Restoring Riverscapes Workshop - Advancing Process-Based Actions](https://www.restoringriverscapes.org/) | Online             | Managers and staff from federal and state agencies, tribal communities, watershed councils, and conservation organizations who oversee, fund, or regulate riverscape restoration|
@@ -58,7 +59,7 @@ See our [University courses]({{ site.baseurl }}/workshops/uni) for a full listin
 | 2023, August | Introduction to Low-Tech Process-Based Restoration of Riverscapes |Cowichain, BC, Canada|[Cowichain Tribes](https://cowichantribes.com/), [Fisheries & Oceans Canada (DFO)](https://www.dfo-mpo.gc.ca/index-eng.html)|
 | 2023, July 18-19 | [Process-Based Restoration Workshop and Funding Opportunities](http://lowtechpbr.restoration.usu.edu/workshops/2023/lakecounty/) | Lakeview, OR | Pheasants Forever, Blue Forest Conservation, [Lake County Umbrella Watershed Council](https://lakecountywsc.com/about-us), NRCS Oregon, Intermountain West Join Venture|
 | 2023, April | Low-Tech Process Based Restoration Workshop |Cumbria, England, UK|British Society for Geomorphology, National Trust, Environment Agency, SEPA |
-| 2022, August 9-11 | [Montana-Dakotas Bureau of Land Management - LTPBR of Riverscapes Workshop]({{ site.b url }}/workshops/2022/BLM/)  | Miles City, MT | [BLM Montana-Dakotas](https://www.blm.gov/montana-dakotas)   |
+| 2022, August 9-11 | [Montana-Dakotas Bureau of Land Management - LTPBR of Riverscapes Workshop]({{ site.baseurl }}/workshops/2022/BLM/)  | Miles City, MT | [BLM Montana-Dakotas](https://www.blm.gov/montana-dakotas)   |
 | 2022,   March 2 | [American Fisheries Society Virtual Workshop: Low-Tech Process-Based Restoration of Riverscapes]({{ site.baseurl }}/workshops/2022/Anabranch/AFS/) | virtual           | [American Fisheries Society](https:/fisheries.org/), [USFWS Partners for Fish & Wildlife](https://www.fws.gov/partners/), [Pheasants Forever](https://pheasantsforever.org/Hunt/pheasant-hunting.aspx), [Conservation Northwest](https://www.conservationnw.org/),[USDA](https://www.nrcs.usda.gov/wps/portal/nrcs/site/national/home/), [Anabranch Solutions](https://www.anabranchsolutions.com/) |
 | 2021, October 12 & 13 | [Klickitat River Watershed Intro to Low-Tech Process-Based Restoration of Riverscapes - Field-Based Workshop]({{ site.baseurl }}/workshops/2021/Anabranch/Klickitat/) | Tepee Creek, WA  ||
 | 2021, September 29 & 30 | [Foster Creek Low-Tech Process-Based Restoration of Riverscapes-Field-based Workshop]({{ site.baseurl }}/workshops/2021/Anabranch/Foster/) | Bridgeport, WA           | [Foster Creek Conservation District](https://www.fostercreekcd.org/), [USFWS Partners for Fish & Wildlife](https://www.fws.gov/), [Pheasants Forever](https://pheasantsforever.org/Hunt/pheasant-hunting.aspx), [Conservation Northwest](https://www.conservationnw.org/),[USDA](https://www.nrcs.usda.gov/wps/portal/nrcs/site/national/home/), [Anabranch Solutions](https://www.anabranchsolutions.com/) |
@@ -81,3 +82,6 @@ In addition to teaching these workshops at the [Utah State University campus](ht
 <div class="responsive-embed">
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=11j18BJXFTUUEOYZZIS_mLex6ijZx0sFf" width="640" height="480"></iframe>
 </div>
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTQ0NDQxNTA1NCwtODAyMjYwNzM1XX0=
+-->
