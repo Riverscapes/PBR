@@ -28,7 +28,8 @@ This course introduces Low-Tech Process-Based Restoration of Riverscapes impleme
 ## Schedule
 ### Spring 2025 - Implementation of LTPBR
 - Matriculated Students: WATS 5624
-- Non-USU/Professional Students: CEWA 5624  
+- Non-USU/Professional Students: [CEWA 5624]()  
+*Registration opens November 11, 2025*
 
 | Class              | Time              | Days     | Where      | Dates        | Instructors                                                  |
 | ------------------ | ----------------- | -------- | ---------- | ------------ | ------------------------------------------------------------ |
@@ -310,5 +311,5 @@ Students are also encouraged to download the [“SafeUT App” (Links to an exte
   </a>
 </div>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTY1NDk3NjVdfQ==
+eyJoaXN0b3J5IjpbMTc4MTQwMjA1MSwtMjExNjU0OTc2NV19
 -->
