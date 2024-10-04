@@ -69,7 +69,7 @@ Current USU [Tuition](https://www.usu.edu/registrar/registration/payment/) for 1
 ### Continuing Education Students
 **$315** for 1.5 CEUs (*$270 Course Fee + $45 CEU processing fee*) Registration opens November 11. 
 
-<!--- 
+<!--- REGISTRATION BUTTON. OPEN NOV 11
  <div align="center"><a class="button" href="https://cpe.usu.edu/search/publicCourseSearchDetails.do?method=load&courseId=1073962"> <b>Module 3 - Planning</b> <br> Register Now! <i class="fa fa-user-plus" aria-hidden="true"></i> </a></div>
 --->
 -----------------
@@ -98,6 +98,7 @@ By the end of this course, students will:
 
 </div> 
 
+<!---
 <div class="column column-block">
     <a href="https://www.researchgate.net/profile/Stephen_Bennett8"><img src="{{ site.baseurl }}/assets/images/people/bennett-round_orig.png"></a>
     <h4><a href="https://www.researchgate.net/profile/Stephen_Bennett8">Stephen N. Bennett<sup>1,2</sup></a></h4>
@@ -113,7 +114,7 @@ By the end of this course, students will:
     Masters Student in MoER<br>
     Restoration Technician
   </div>
-
+--->
 </div>
 
 
@@ -146,11 +147,14 @@ The course is organized into a series of modules or topics. Slides (as PDFs), re
 
 All of course lecture slides and materials are linked from the Canvas page by module and assignment.
 
+<!--- UPDATE CANVAS LINK
  <div align="center">
-<a class="hollow button" href="https://usu.instructure.com/courses/754453"><img src="{{ site.baseurl }}/assets/images/canvas_logo.png">  <b>Spring 2024 Canvas</b><br> WATS 5622 - Planning of LTPBR Course Modules</a> 
+<a class="hollow button" href="https://usu.instructure.com/courses/754453"><img src="{{ site.baseurl }}/assets/images/canvas_logo.png">  <b>Spring 2025 Canvas</b><br> WATS 5622 - Planning of LTPBR Course Modules</a> 
+</div>
 
-
+<div align="center">
 <a class="hollow button" href="{{ site.baseurl }}/workshops/2020/SGI/Modules/module3"><img src="{{ site.baseurl }}/assets/images/diagrams/presentation.png"> <b>Module 3 - Planning</b> <br> Slides  <i class="fa fa-file-pdf-o" aria-hidden="true"></i>, Recorded Lectures <i class="fa fa-youtube-play" aria-hidden="true"></i> and Exercises </a>
+</div> 
 
 </div>
 
@@ -306,5 +310,5 @@ Students are also encouraged to download the [“SafeUT App” (Links to an exte
   </a>
 </div>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTM4NDI0MDkzXX0=
+eyJoaXN0b3J5IjpbNjcyNTcxODk2XX0=
 -->
