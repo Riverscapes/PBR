@@ -1,5 +1,5 @@
 ---
-title: BLM/NRCS LTPBR Series | 2024
+title: BLM/NRCS LTPBR Series | 2025
 weight: 1
 ---
 
@@ -7,7 +7,7 @@ weight: 1
 
 The [USU Restoration Consortium](https://restoration.usu.edu) has partnered with the Natural Resources Conservation Service [West National Technology Support Center](https://www.nrcs.usda.gov/west-national-technology-support-center) and the [Bureau of Land Management's Aquatic Resources Program](https://www.blm.gov/programs/aquatics) to develop a standardized training series for Low-Tech Process-Based Restoration. These training series are pending incorporation into [AgLearn](https://aglearn.usda.gov/) and [DOI Talent](https://www.doi.gov/doitalent). Students will also receive continuing education units ([CEUs](https://cpe.usu.edu/contentManagement.do?method=load&code=PG0020)) and a transcript of professional credit from Utah State University. 
 
-In Spring 2024, we will offer the LTPBR Level I and II trainings. Delivery of Level III is planned for Fall 2025.
+In Spring 2025, we will offer the LTPBR Level I and II trainings. Delivery of Level III is planned for Fall 2025.
 
 <div class="row small-up-2 medium-up-3 large-up-2">
  <div class="column column-block">
@@ -27,11 +27,11 @@ In this training, students will learn the key principles and techniques for Low-
 
 | Course #  | Course Title                                                 | Dates                  | Time (MST)  | Cost | Link to Register                                             |
 | --------- | ------------------------------------------------------------ | ---------------------- | ----------- | ---- | ------------------------------------------------------------ |
-| CEWA 5620 | **[Introduction]({{ site.baseurl }}/workshops/2024/USU/WATS-5620/)** to Low-Tech Process-Based Restoration of Riverscapes | **Jan 9, 16 & 23**     | 1:30 - 4:15 | $315 | **Registration Full** |
-| CEWA 5621 | **[Science & Case Studies]({{ site.baseurl }}/workshops/2024/USU/WATS-5621/)** of Low-Tech Process-Based Restoration of Riverscapes | **Feb 20, 27 & Mar 5** | 1:30 - 4:15 | $315 | [Register](https://cpe.usu.edu/search/publicCourseSearchDetails.do?method=load&courseId=1073960) *<5 spots available* |
-| CEWA 5622 | **[Planning]({{ site.baseurl }}/workshops/2024/USU/WATS-5622/)** to Low-Tech Process-Based Restoration of Riverscapes | **Jan 30 & Feb 6, 13** | 1:30 - 4:15 | $315 | **Registration Full** |
+| CEWA 5620 | **[Introduction]({{ site.baseurl }}/workshops/2024/USU/WATS-5620/)** to Low-Tech Process-Based Restoration of Riverscapes | **Jan 7, 14 & 21**     | 1:30 - 4:15 | $315 | **Registration Full** |
+| CEWA 5621 | **[Science & Case Studies]({{ site.baseurl }}/workshops/2024/USU/WATS-5621/)** of Low-Tech Process-Based Restoration of Riverscapes | **Feb 18, 25 & Mar 4** | 1:30 - 4:15 | $315 | [Register](https://cpe.usu.edu/search/publicCourseSearchDetails.do?method=load&courseId=1073960) *<5 spots available* |
+| CEWA 5622 | **[Planning]({{ site.baseurl }}/workshops/2024/USU/WATS-5622/)** to Low-Tech Process-Based Restoration of Riverscapes | **Jan 28 & Feb 4, 11** | 1:30 - 4:15 | $315 | **Registration Full** |
 
-Students must register for all three courses to satisfy the Level 1 Series requirements.  
+**Students must register for all three courses to satisfy the Level 1 Series requirements.**  
 
 ## Level II Training Series
 
@@ -71,3 +71,6 @@ An advanced, Level III Training Series will be developed and will likely consist
 - LTPBR Action Effectiveness Monitoring
 
 These advanced courses are targetted at practitioners within the agencies that are leading implementation efforts and attempting to scale up LTPBR practices to the scope of the problem in their watersheds and riverscapes.
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTQwNDE4MzY2MF19
+-->
