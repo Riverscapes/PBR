@@ -46,7 +46,7 @@ Students explore the science and case studies that encouraged Low-Tech Process-B
 
 ### Course Schedule/Outline
 
-Outline dates and assignments will be available on Canvas two weeks prior to the start of the course. 
+Assignments and course material will be available on Canvas two weeks prior to the course start date. 
 
 <!--- ADD CANVAS LINK <div align="center">
 <a class="hollow button" href="https://usu.instructure.com/courses/753184"><img src="{{ site.baseurl }}/assets/images/canvas_logo.png">  <b>Spring 2024 Canvas</b><br> WATS 5621 - Science & Case Studies of LTPBR Course Modules</a></div> 
@@ -305,5 +305,5 @@ Students are also encouraged to download the [“SafeUT App” (Links to an exte
   </a>
 </div>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzYyMDM5OTRdfQ==
+eyJoaXN0b3J5IjpbNDUyMjQxNTUxLC0xMDM2MjAzOTk0XX0=
 -->
