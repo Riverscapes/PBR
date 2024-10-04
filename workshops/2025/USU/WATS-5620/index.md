@@ -18,13 +18,13 @@ This course provides an introduction to the practice of Low-Tech Process-Based R
 |**Cross-Listed As**: |CEWA 5620|
 
 <div align="center">
-<a class=" button hollow" href="{{ site.baseurl }}/workshops/2024/USU/"> <i class="fa fa-chevron-circle-left" aria-hidden="true"></i> <b> Back to  Spring 2024 LTPBR Courses</b>  for University Credit or Professional CEU  
+<a class=" button hollow" href="{{ site.baseurl }}/workshops/2025/USU/"> <i class="fa fa-chevron-circle-left" aria-hidden="true"></i> <b> Back to  Spring 2025 LTPBR Courses</b>  for University Credit or Professional CEU  
   </a>
 </div>
 
 
 ## Schedule
-### Spring 2024 - Intro to LTPBR
+### Spring 2025 - Intro to LTPBR
 ## Intro to LTPBR
 - Matriculated Students: [INTRO LOWTECH PROC REST RIV - WATS 5620](https://ss.banner.usu.edu/StudentRegistrationSsb/ssb/classSearch/classSearch)
 - Non-USU Students/Professionals: [CEWA 5620](https://cpe.usu.edu/search/publicCourseSearchDetails.do?method=load&courseId=1015426&selectedProgramAreaId=1134103&selectedProgramStreamId=)
@@ -51,8 +51,8 @@ This course provides an introduction to the practice of Low-Tech Process-Based R
 
 Outline dates, assignments, and course zoom links will be available on Canvas starting 2 weeks before the course starts. 
 
-<!---- <div align="center">
-<a class="hollow button" href="https://usu.instructure.com/courses/754452"><img src="{{ site.baseurl }}/assets/images/canvas_logo.png">  <b>Spring 2024 Canvas</b><br> WATS 5620 - Intro to LTPBR Course Assignments</a></div>  --->
+<!---- UPDATE CANVAS LINK<div align="center">
+<a class="hollow button" href="https://usu.instructure.com/courses/754452"><img src="{{ site.baseurl }}/assets/images/canvas_logo.png">  <b>Spring 2025 Canvas</b><br> WATS 5620 - Intro to LTPBR Course Assignments</a></div>  --->
 
 
 Students are expected to watch pre-recorded lectures and complete the reading assignments prior to our class meetings, where those topics will be discussed and exercises completed as a group. 
@@ -149,13 +149,13 @@ The course is organized into a series of modules or topics. Slides (as PDFs), re
 ## Slides & Handouts
 
 All of course lecture slides and materials are linked from the Canvas page by module and assignment.
-
+<!---- UPDATE CANVAS LINK
 <div align="center">
-<a class="hollow button" href="https://usu.instructure.com/courses/754452"><img src="{{ site.baseurl }}/assets/images/canvas_logo.png">  <b>Spring 2024 Canvas</b><br> WATS 5620 - Intro to LTPBR Course Assignments</a>
-    
+<a class="hollow button" href="https://usu.instructure.com/courses/754452"><img src="{{ site.baseurl }}/assets/images/canvas_logo.png">  <b>Spring 2025 Canvas</b><br> WATS 5620 - Intro to LTPBR Course Assignments</a>
+    --->
 
 
-
+<div
 <a class="hollow button" href="{{ site.baseurl }}/workshops/2020/SGI/Modules/module1"><img src="{{ site.baseurl }}/assets/images/diagrams/presentation.png"> <b>Module  - Intro Resources</b> <br> Slides  <i class="fa fa-file-pdf-o" aria-hidden="true"></i>, Recorded Lectures <i class="fa fa-youtube-play" aria-hidden="true"></i> and Exercises </a>
 
 </div>
@@ -311,5 +311,5 @@ Students are also encouraged to download the [“SafeUT App” (Links to an exte
   </a>
 </div>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjc2MzI2Ml19
+eyJoaXN0b3J5IjpbLTEwMTk1MDQ3MzJdfQ==
 -->
