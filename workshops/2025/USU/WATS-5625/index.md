@@ -27,7 +27,8 @@ This course introduces Adaptive Management and how it can be applied to Low-Tech
 ## Schedule
 ### Spring 2025 - Adaptive Management of LTPBR
 - Matriculated Students: WATS 5625
-- Non-Matriculated Students: CEWA 5625 [Register Here](https://cpe.usu.edu/search/publicCourseSearchDetails.do?method=load&courseId=1015430) 
+- Non-Matriculated Students: [CEWA 5625](https://cpe.usu.edu/search/publicCourseSearchDetails.do?method=load&courseId=1015430) 
+*Registration opens November 11, 2025*
 
 
 
@@ -302,5 +303,5 @@ Students are also encouraged to download the [“SafeUT App” (Links to an exte
   </a>
 </div>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODczNjA5NTZdfQ==
+eyJoaXN0b3J5IjpbMTE3NDkxNzEwOF19
 -->
