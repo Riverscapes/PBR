@@ -36,7 +36,7 @@ Note Hybrid Face to Face (F2F) will meet in person on campus, with a concurrent 
 -------------
 # Make it Count
 
-Through our [USU Restoration Consortium](http://restoration.usu.edu/) we  offer professional CEU credit hours as well as undergraduate or graduate matriculated student regular credit hours through the USU registrar. To earn these credits, one needs to both pay the [regular tuition](https://www.usu.edu/registrar/registration/payment/) and submit assignments, which are formally assessed. By contrast, if you just want a Certificate of Participation (suffices for some professional development and training requirements), we issue these at participant request for all our workshops.  
+Through the [USU Restoration Consortium](http://restoration.usu.edu/) we the  LTPBR series for both Continuing Education Credits and USU Academic Credit. 
 
 -------------
 ## Professional Continuing Education Units
@@ -48,5 +48,5 @@ Our University offers professional continuing education units ([CEUs](https://cp
 ## CERP - Compliant
 Our program and the LTPBR curriculum have undergone a review by the Society of Ecological Restoration so that  these courses count towards their [Certified Ecological Restoration Practitioner Program](https://www.ser.org/page/Certification). 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTI1MzkyNTk2XX0=
+eyJoaXN0b3J5IjpbLTg2MTEyMTIxOF19
 -->
