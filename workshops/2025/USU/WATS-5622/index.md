@@ -31,7 +31,7 @@ This course provides an introduction to the planning process of Low-Tech Process
 - Matriculated USU Students: WATS 5622 
 - Non-USU/Professional Students: [CEWA 5622](https://cpe.usu.edu/search/publicCourseSearchDetails.do?method=load&courseId=1073962) 
 
-*Registration opens November 11, 2024*
+*Registration opens November 6, 2024*
 
 | Class                                                        | Time              | Days     | Dates                  | Instructors                                                  |
 | ------------------------------------------------------------ | ----------------- | -------- | ---------------------- | ------------------------------------------------------------ |
@@ -70,7 +70,7 @@ This course is based on [Module 3]({{ site.baseurl }}/workshops/2020/SGI/Modules
 Current USU [Tuition](https://www.usu.edu/registrar/registration/payment/) for 1 credit. No additional Course Fee. Please register on [Banner](http://banner.usu.edu). 
 
 ### Continuing Education Students
-**$315** for 1.5 CEUs (*$270 Course Fee + $45 CEU processing fee*) Registration opens November 11. 
+**$315** for 1.5 CEUs (*$270 Course Fee + $45 CEU processing fee*) Registration opens November 6. 
 
 <!--- REGISTRATION BUTTON. OPEN NOV 11
  <div align="center"><a class="button" href="https://cpe.usu.edu/search/publicCourseSearchDetails.do?method=load&courseId=1073962"> <b>Module 3 - Planning</b> <br> Register Now! <i class="fa fa-user-plus" aria-hidden="true"></i> </a></div>
@@ -313,5 +313,5 @@ Students are also encouraged to download the [“SafeUT App” (Links to an exte
   </a>
 </div>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyNzE4MTc5NF19
+eyJoaXN0b3J5IjpbMTk3OTk1Nzg2MCwyMTI3MTgxNzk0XX0=
 -->
