@@ -42,7 +42,7 @@ In this training, students will learn the key principles and techniques for Low-
 
 Participants will engage in hands-on activities, from designing their own restoration projects to constructing low-tech structures and mastering adaptive management principles.
 - Develop the skills to plan LTPBR restoration projects
-- Construct & implement LTPBR strucures, learn about the permitting process and construction safety and logistics
+- Construct & implement LTPBR structures, learn about the permitting process and construction safety and logistics
 - Learn how to build adaptive management plans and associated monitoring plans for LTPBR projects.
 
 | Course #  | Course Title                                                 | Dates                                                        | Time                                | Cost | Link to Register                                             |
@@ -77,8 +77,8 @@ An advanced, Level III Training Series will be developed and will likely consist
 - Screening & Prioritization of LTPBR at Regional Scales
 - LTPBR Action Effectiveness Monitoring
 
-These advanced courses are targetted at practitioners within the agencies that are leading implementation efforts and attempting to scale up LTPBR practices to the scope of the problem in their watersheds and riverscapes.
+These advanced courses are targeted at practitioners within the agencies that are leading implementation efforts and attempting to scale up LTPBR practices to the scope of the problem in their watersheds and riverscapes.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3Mzg1NTY2ODAsNTc3MTY0Nzg0LDIxNz
-E5NzYxNSwxNDA0MTgzNjYwXX0=
+eyJoaXN0b3J5IjpbLTE4NjIxMDQxOTAsLTE3Mzg1NTY2ODAsNT
+c3MTY0Nzg0LDIxNzE5NzYxNSwxNDA0MTgzNjYwXX0=
 -->
