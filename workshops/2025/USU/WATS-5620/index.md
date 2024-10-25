@@ -37,15 +37,6 @@ This course provides an introduction to the practice of Low-Tech Process-Based R
 | ------------------------------------------------------------ | ----------------- | -------- | ------------------------- | ---------------------- | -------------------------- |
 | Intro to LTPBR | 1:30 pm - 4:15 pm | Tuesdays | Zoom | Jan 7, 14 & 21,  2025 | Joe Wheaton (P) |
 
-<!---- Change course zoom link
-
-<!--- <div align="center">
-<a class="hollow button" href="https://usu-edu.zoom.us/j/88147342464?pwd=ZVpMdVNYS2U2L2U5QnZBQ1NJSElhUT09"><img src="{{ site.baseurl }}/assets/images/zoom_icon_32.png">  <b>Zoom Meeting Link</b><br>Tuesdays</a></div> --->
-
-
-
-
-
 
 ### Course Schedule/Outline
 
@@ -314,5 +305,6 @@ Students are also encouraged to download the [“SafeUT App” (Links to an exte
   </a>
 </div>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDY2NDYxNzAsOTM5MDc3NDg3XX0=
+eyJoaXN0b3J5IjpbMjAyOTc3OTMyNiwtMTA0NjY0NjE3MCw5Mz
+kwNzc0ODddfQ==
 -->
