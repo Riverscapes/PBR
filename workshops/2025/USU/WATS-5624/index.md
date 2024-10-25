@@ -29,7 +29,7 @@ This course introduces Low-Tech Process-Based Restoration of Riverscapes impleme
 ### Spring 2025 - Implementation of LTPBR
 - Matriculated USU Students: WATS 5624
 - Non-USU/Professional Students: [CEWA 5624](https://cpe.usu.edu/search/publicCourseSearchDetails.do?method=load&courseId=1015428&selectedProgramAreaId=1134103&selectedProgramStreamId=)  
-*Registration opens November 11, 2024*
+*Registration opens November 6, 2024*
 
 | Class              | Time              | Days     | Where      | Dates        | Instructors                                                  |
 | ------------------ | ----------------- | -------- | ---------- | ------------ | ------------------------------------------------------------ |
@@ -66,7 +66,7 @@ This course is based on [Module 5]({{ site.baseurl }}/workshops/2020/SGI/Modules
 Current USU [Tuition](https://www.usu.edu/registrar/registration/payment/) for 1 credit.  $100 Course Fee for field trip (construction supplies, equipment, travel, safety equipment, etc.). 
 
 ### Continuing Education Students
-**$415** for 1.5 CEUs  (_$370 Course Fee + $45 CEU processing fee_) Registration opens November 11. 
+**$415** for 1.5 CEUs  (_$370 Course Fee + $45 CEU processing fee_) Registration opens November 6. 
 
 
 <!--- REGISTRATION BUTTON. OPEN NOV 11
@@ -310,5 +310,6 @@ Students are also encouraged to download the [“SafeUT App” (Links to an exte
   </a>
 </div>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDkyNjgxMjg3LC0yMTE2NTQ5NzY1XX0=
+eyJoaXN0b3J5IjpbLTY5MTYxOTgxMyw0OTI2ODEyODcsLTIxMT
+Y1NDk3NjVdfQ==
 -->
