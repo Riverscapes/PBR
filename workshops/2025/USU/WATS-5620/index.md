@@ -69,7 +69,7 @@ Please register on [Banner](https://ssb.banner.usu.edu/zprod/twbkwbis.P_WWWLogin
 ### Continuing Education Students
 **$315** for 1.5 CEUs  (_$270 Course Fee + $45 CEU processing fee_).  Registration opens November 11, 2024. 
 
-<!--- REGISTRATION BUTTON. UNCOMMENT NOV 11 <div align="center"><a class="button" href="https://cpe.usu.edu/search/publicCourseSearchDetails.do?method=load&courseId=1015426"> <b>Module 1 - Intro</b> <br> Professionals Registraton Now! <i class="fa fa-user-plus" aria-hidden="true"></i> </a></div> --->
+<!--- REGISTRATION BUTTON. UNCOMMENT  NOV  <div align="center"><a class="button" href="https://cpe.usu.edu/search/publicCourseSearchDetails.do?method=load&courseId=1015426"> <b>Module 1 - Intro</b> <br> Professionals Registraton Now! <i class="fa fa-user-plus" aria-hidden="true"></i> </a></div> --->
 
 -----------------
 ## Course Objectives
@@ -305,6 +305,6 @@ Students are also encouraged to download the [“SafeUT App” (Links to an exte
   </a>
 </div>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyOTc3OTMyNiwtMTA0NjY0NjE3MCw5Mz
+eyJoaXN0b3J5IjpbMjA5NzY5NjQ1OCwtMTA0NjY0NjE3MCw5Mz
 kwNzc0ODddfQ==
 -->
