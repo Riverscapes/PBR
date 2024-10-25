@@ -13,7 +13,7 @@ All of our six popular LTPBR courses are being offered as 1 credit (1.5 CEU) cou
 
 Non-matriculated students can take the classes for a direct fee through our Continuing Education Unit system. 
 
-**Registration Opens November 11, 2024**
+**Registration Opens November 6, 2024**
 
 | Course #  | Course Title                                                 | Dates                  | Time (MST)  | Cost | Professional Registration                                           |
 | --------- | ------------------------------------------------------------ | ---------------------- | ----------- | ---- | ------------------------------------------------------------ |
@@ -52,5 +52,6 @@ USU students should register for the WATS 562X section of the course through [Ba
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTY2NzA3ODNdfQ==
+eyJoaXN0b3J5IjpbLTE3NTY3ODA4ODksLTE5NTY2NzA3ODNdfQ
+==
 -->
