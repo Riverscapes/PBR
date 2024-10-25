@@ -25,7 +25,7 @@ In this training, students will learn the key principles and techniques for Low-
 - Explore the scientific foundations of LTPBR and gain an understanding of the current state of LTPBR science
 - Learn to assess current riverscape conditions & estimate recovery potential for effective LTPBR project planning
 
-***Registration opens November 11, 2024***
+***Registration opens November 6, 2024***
 
 | Course #  | Course Title                                                 | Dates                  | Time (MST)  | Cost | Link to Register                                             |
 | --------- | ------------------------------------------------------------ | ---------------------- | ----------- | ---- | ------------------------------------------------------------ |
@@ -79,6 +79,6 @@ An advanced, Level III Training Series will be developed and will likely consist
 
 These advanced courses are targetted at practitioners within the agencies that are leading implementation efforts and attempting to scale up LTPBR practices to the scope of the problem in their watersheds and riverscapes.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTc3MTY0Nzg0LDIxNzE5NzYxNSwxNDA0MT
-gzNjYwXX0=
+eyJoaXN0b3J5IjpbLTE3Mzg1NTY2ODAsNTc3MTY0Nzg0LDIxNz
+E5NzYxNSwxNDA0MTgzNjYwXX0=
 -->
