@@ -30,7 +30,7 @@ Students explore the science and case studies that encouraged Low-Tech Process-B
 - Matriculated USU Students: SCI&CASE STUD LOWTECH RIV - 16918 - WATS 5621
 - Non-USU/Professional Students: [CEWA 5621](https://cpe.usu.edu/search/publicCourseSearchDetails.do?method=load&courseId=1073960)
 
-*Registration opens November 11, 2024*
+*Registration opens November 6, 2024*
 
 
 
@@ -76,7 +76,7 @@ Current USU [Tuition](https://www.usu.edu/registrar/registration/payment/) for 1
 Please register on [Banner](http://banner.usu.edu).
 
 ### Continuing Education Students
-**$315** for 1.5 CEUs (*$270 Cource Fee + $45 CEU processing fee*) . Registration opens November 11. 
+**$315** for 1.5 CEUs (*$270 Cource Fee + $45 CEU processing fee*) . Registration opens November 6. 
 
 <!--- <div align="center"><a class="button" href="https://cpe.usu.edu/search/publicCourseSearchDetails.do?method=load&courseId=1073960"> <b>Module 2 - Science & Case Studies</b> <br> Register Now! <i class="fa fa-user-plus" aria-hidden="true"></i> </a></div> --->
 
@@ -308,5 +308,6 @@ Students are also encouraged to download the [“SafeUT App” (Links to an exte
   </a>
 </div>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwOTAyMTA4OSwtMTAzNjIwMzk5NF19
+eyJoaXN0b3J5IjpbMTQyODUyNTIyMywxNTA5MDIxMDg5LC0xMD
+M2MjAzOTk0XX0=
 -->
