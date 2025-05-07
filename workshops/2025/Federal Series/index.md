@@ -77,6 +77,12 @@ An advanced, Level III Training Series will be developed and will likely consist
 - Screening & Prioritization of LTPBR at Regional Scales
 - LTPBR Action Effectiveness Monitoring
 
+| Course #  | Course Title                                                 | Dates                                                        | Time                                | Cost | Link to Register                                             |
+| --------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ----------------------------------- | ---- | ------------------------------------------------------------ |
+| CEWA 6626 | **[Advanced LTPBR Planning](https://cpe.usu.edu/search/publicCourseSearchDetails.do?method=load&courseId=1467560)** of Riverscapes | **Sep 29 - Oct 2, 2025**                                       | All Day                         | $315 | [Register](https://cpe.usu.edu/search/publicCourseSearchDetails.do?method=load&courseId=1467560)  |
+
+
+
 These advanced courses are targeted at practitioners within the agencies that are leading implementation efforts and attempting to scale up LTPBR practices to the scope of the problem in their watersheds and riverscapes.
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTE4NjIxMDQxOTAsLTE3Mzg1NTY2ODAsNT
