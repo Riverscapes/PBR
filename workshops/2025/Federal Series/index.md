@@ -69,13 +69,13 @@ BLM/NRCS employees can choose to attend the April 13th implementation day around
 3. Register for a course by adding the course to the Cart. 
 4. Checkout and submit payment. 
 
-## Level III Training Series (Planned Fall 2025)
+## Level III Training Series
 
-An advanced, Level III Training Series will be developed and will likely consist of the following short-courses:
-- Advanced Planning of LTPBR Projects
-- Advanced Design of LTPBR Projects
-- Screening & Prioritization of LTPBR at Regional Scales
-- LTPBR Action Effectiveness Monitoring
+Participants will build on existing LTPBR planning, implementation, and monitoring skills. Practitioners will gain the advanced screening, planning, design, and monitoring skills to lead watershed and riverscape scope projects. 
+- Advance the skills to plan LTPBR restoration projects
+- Use Riverscapes Studio to prepare design report and regulatory permit application
+- Learn how to monitor and assess reiverscape health
+- Practice advanced geospatial analysis of riverscape network models to screen, filter, contextualize, and prioritize restoration actions
 
 | Course #  | Course Title                                                 | Dates                                                        | Time                                | Cost | Link to Register                                             |
 | --------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ----------------------------------- | ---- | ------------------------------------------------------------ |
@@ -84,7 +84,7 @@ An advanced, Level III Training Series will be developed and will likely consist
 | CEWA 6628 | **[Riverscape Monitoring](https://cpe.usu.edu/search/publicCourseSearchDetails.do?method=load&courseId=1467564)** | **Oct 27 - Oct 30, 2025**                                       | All Day                         | $315 | [Register](https://cpe.usu.edu/search/publicCourseSearchDetails.do?method=load&courseId=1467564)  |
 | CEWA 6629 | **[Screening & Prioritization](https://cpe.usu.edu/search/publicCourseSearchDetails.do?method=load&courseId=1467566)** of Riverscapes | **Nov 10 - Nov 13, 2025**                                       | All Day                         | $315 | [Register](https://cpe.usu.edu/search/publicCourseSearchDetails.do?method=load&courseId=1467566)  |
 
-
+**Note:** Students must complete the Level 2 training prior to taking the Level 3 courses and must register for all four courses to satisfy the Level 3 Series requirements. 
 
 These advanced courses are targeted at practitioners within the agencies that are leading implementation efforts and attempting to scale up LTPBR practices to the scope of the problem in their watersheds and riverscapes.
 <!--stackedit_data:
