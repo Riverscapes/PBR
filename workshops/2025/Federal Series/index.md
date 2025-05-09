@@ -74,7 +74,7 @@ BLM/NRCS employees can choose to attend the April 13th implementation day around
 Participants will build on existing LTPBR planning, implementation, and monitoring skills. Practitioners will gain the advanced screening, planning, design, and monitoring skills to lead watershed and riverscape scope projects. 
 - Advance the skills to plan LTPBR restoration projects
 - Use Riverscapes Studio to prepare design report and regulatory permit application
-- Learn how to monitor and assess reiverscape health
+- Learn how to monitor and assess riverscape health
 - Practice advanced geospatial analysis of riverscape network models to screen, filter, contextualize, and prioritize restoration actions
 
 | Course #  | Course Title                                                 | Dates                                                        | Time                                | Cost | Link to Register                                             |
