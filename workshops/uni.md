@@ -9,28 +9,28 @@ weight: 2
 
 [![]({{ site.baseurl }}/assets/images/courses/fall 2025 uni course header.jpg)]({{ site.baseurl }}/workshops/2025/USU)
 
-In Spring 2021, we began offering a sequence of six, short-courses, that parallel the modularized workshop curriculum (available for free, self-pacing [here]({{ site.baseurl }}/resources/Topics/)). These short-courses differ from the workshop curriculum in that:
-- These courses are taken for University Credit (for matriculated USU students) or University [Continuing Education Units](https://www.usu.edu/ais/ceu/about)
-- These courses use the same curriculum as the [free self-paced modules](http://lowtechpbr.restoration.usu.edu/resources/Topics/), but are augmented by more in-depth class discussions, quizzes and homework assignments
-- These courses are assessed, and you will receive feedback and a letter grade based on your assessed work.
+In Fall 2025, we will be offering an advanced LTPBR course series for the first time. These courses are meant to be a continuation of your existing LTPBR training and are available to take individually or as a series. 
 
-The LTBPR Spring Series of courses met weekly on Tuesdays from 1:30 to 4:15 MST  ([hybrid F2F](https://www.usu.edu/ais/scheduling/deliverymethods)), and Implementation has a mandatory Saturday Field Trip.
+Participants will build on existing LTPBR planning, implementation, and monitoring skills. Practitioners will gain the advanced screening, planning, design, and monitoring skills to lead watershed and riverscape scope projects. 
+- Advance the skills to plan LTPBR restoration projects
+- Use Riverscapes Studio to prepare a design report and regulatory permit application
+- Learn how to monitor and assess riverscape health
+- Practice advanced geospatial analysis of riverscape network models to screen, filter, contextualize, and prioritize restoration actions
+  
+These courses fulfill graduate-level University Credit or University [Continuing Education Units](https://www.usu.edu/ais/ceu/about)
+
+These courses are assessed, and you will receive feedback and a letter grade based on your assessed work.
 
 
-| Course # |  Course Title | Number of Meetings     | Pre-Requisite |
-|--------------------------------------------------------------------------------------------------------------------------------------------------------------|---|---|---|
-| WATS/CEWA 5620 |  **Introduction** to Low-Tech Process-Based Restoration of Riverscapes | Meets 3 times (Hybrid F2F) | NA|
-| WATS/CEWA 5621 | **Science and Case Studies** of Low-Tech Process-Based Restoration of Riverscapes | Meets 3 times (Hybrid F2F) | WATS/CEWA 5620|
-| WATS/CEWA 5622 | **Planning** Low-Tech Process-Based Restoration of Riverscapes | Meets 3 times (Hybrid F2F) | WATS/CEWA 5620|
-| WATS/CEWA 5623 | **Designing** Low-Tech Process-Based Restoration of Riverscapes | Meets 3 times (Hybrid F2F) | WATS/CEWA 5620 & 5622|
-| WATS/CEWA 5624 | **Implementing** Low-Tech Process-Based Restoration of Riverscapes | Meets once remotely, with mandatory Construction Field Trip on a Saturday   | WATS/CEWA 5620|
-| WATS/CEWA 5625 | **Adaptive Management** of Low-Tech Process-Based Restoration of Riverscapes | Meets 2 times (Hybrid F2F)                                   | WATS/CEWA 5620|
 
-Note Hybrid Face to Face (F2F) will meet in person on campus, with a concurrent Zoom broadcast for remote participants. This is meant to accommodate professionals off-campus, and also to help maintain flexibility for students during the pandemic. 
+| Course #  | Course Title                                                 | Dates                                                        | Time                                | Cost | Link to Register                                             |
+| --------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ----------------------------------- | ---- | ------------------------------------------------------------ |
+| CEWA 6626 | **[Advanced LTPBR Planning](https://cpe.usu.edu/search/publicCourseSearchDetails.do?method=load&courseId=1467560)** of Riverscapes | **Sep 29 - Oct 2, 2025**                                       | All Day                         | $315 | [Register](https://cpe.usu.edu/search/publicCourseSearchDetails.do?method=load&courseId=1467560)  |
+| CEWA 6627 | **[Advanced LTPBR Design](https://cpe.usu.edu/search/publicCourseSearchDetails.do?method=load&courseId=1467562)** of Riverscapes | **Oct 6 - Oct 9, 2025**                                       | All Day                         | $315 | [Register](https://cpe.usu.edu/search/publicCourseSearchDetails.do?method=load&courseId=1467562)  |
+| CEWA 6628 | **[Riverscape Monitoring](https://cpe.usu.edu/search/publicCourseSearchDetails.do?method=load&courseId=1467564)** | **Oct 27 - Oct 30, 2025**                                       | All Day                         | $315 | [Register](https://cpe.usu.edu/search/publicCourseSearchDetails.do?method=load&courseId=1467564)  |
+| CEWA 6629 | **[Screening & Prioritization](https://cpe.usu.edu/search/publicCourseSearchDetails.do?method=load&courseId=1467566)** of Riverscapes | **Nov 10 - Nov 13, 2025**                                       | All Day                         | $315 | [Register](https://cpe.usu.edu/search/publicCourseSearchDetails.do?method=load&courseId=1467566)  |
 
-<div align="center">
-<a class=" button hollow" href="{{ site.baseurl }}/workshops/2025/USU/"><img src="{{ site.baseurl }}/assets/images/sponsors/USU.png">  <b> Spring 2025 - Registration for  LTPBR Courses</b><br>  University Credit or Professional CEU  <i class="fa fa-graduation-cap"></i>  </a>
-</div>
+
 
 -------------
 
