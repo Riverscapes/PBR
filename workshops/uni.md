@@ -7,7 +7,7 @@ weight: 2
 
 # Utah State University Administered Courses
 
-[![]({{ site.baseurl }}/assets/images/courses/Spring.png)]({{ site.baseurl }}/workshops/2025/USU)
+[![]({{ site.baseurl }}/assets/images/courses/fall 2025 uni course header.jpg)]({{ site.baseurl }}/workshops/2025/USU)
 
 In Spring 2021, we began offering a sequence of six, short-courses, that parallel the modularized workshop curriculum (available for free, self-pacing [here]({{ site.baseurl }}/resources/Topics/)). These short-courses differ from the workshop curriculum in that:
 - These courses are taken for University Credit (for matriculated USU students) or University [Continuing Education Units](https://www.usu.edu/ais/ceu/about)
