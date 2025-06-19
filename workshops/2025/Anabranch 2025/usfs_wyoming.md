@@ -6,8 +6,6 @@ weight:  1
 # USFW Wyoming Unlimited Assessment and Design Workshop 
 
 
-</div>
-
 
 **June 23-27, 2025**
 
@@ -30,12 +28,40 @@ videos or pdf documents. We encourage workshop participants to review Module 1 o
 Low-tech Manual before the workshop (see link below). Digital copies of the manual and pocket guide are available
 free of charge from the low-tech webpage.
 
+### How to Get There
+- We will meet for lectures at the Donald E. Young Sports and Fitness Center Monday, June 23rd from
+9:00am-2:00pm, and Thursday, June 26th from 8:30am-10:00am.
+  - 1625 St Joe St, Spearfish, SD 57799; classroom; park in public parking lot (no fee)
+- We will travel to field sites each day to conduct assessments and develop LTPBR designs (see map of sites
+and agenda below)
+- We may meet at the USFS offices in either Spearfish or Sundance Tuesday, Wednesday, and Friday
+mornings to go over logistics and clarify workshop topics as needed
+
+### *Map of Sites*
+[Via Google Maps](https://www.google.com/maps/d/edit?mid=1EHBvIDQqG5cqvtQWNAU40urV5MLkxNA&usp=sharing)
+
+### What's Provided
+- Lunch each day
+- Digital copies of presentations and background documents
+- Carpooling - please request ahead of time
+
+### What to Bring
+
+- Closed toe footwear, clothes you can get dirty in
+- Wading boots or waders
+- Water and snacks
+- PPE (sun protection, ear protection, work gloves, eye protection, hard hat)
+  - Some PPE will also be available on-site (please request ahead of time)
+
+### Reading Material
+[Nash et al. 2021] – Great expectations
+Wohl et al. 2019 – Wood regime
+
 ### Supporting Materials
 
 [General Low-tech PBR website](https://lowtechpbr.restoration.usu.edu)
-[2020 Complete Low-tech PBR online virtual workshop](https://lowtechpbr.restoration.usu.edu/resources/Topics/)
-
-
+[Low-tech PBR online virtual workshop](https://lowtechpbr.restoration.usu.edu/resources/Topics/)
+[Blackhills Workshop webpage]
 
 
 
@@ -51,7 +77,6 @@ free of charge from the low-tech webpage.
 <br>
 
 <li>Logistics, Agenda, Introductions, and Goals</li>
-</ul>
 
 
 #### 2. Background and Principles
@@ -63,7 +88,7 @@ free of charge from the low-tech webpage.
 <li>Questions/Discussions 5-10 mins</li>
 </ul>
 
-**9:30-9:45: Guiding Principles \((PG p.1, DM Ch.2)**
+**9:30-9:45: Guiding Principles \(PG p.1, DM Ch.2)**
 <br>
 <ul>
 <li>Process-based Restoration Principles</li>
@@ -80,7 +105,7 @@ Section Questions/Discussions 5-10 mins
 <ul>
 <li>Historic Imagery - Matt Scott </li>
 <li>Assessment and Interpretation</li>
-  <li>Setting - regimes \(flow, sediment, and wood/vegetation), beaver, geomorphic</li>
+  <li>Setting - regimes (flow, sediment, and wood/vegetation), beaver, geomorphic</li>
   <li>Uncertainty - risk, adaptive management, and expectation management</li>
 <li>Questions/Discussions/Exercises 10-15 mins</li>
 </ul>
@@ -97,7 +122,7 @@ Section Questions/Discussions 5-10 mins
 **10:45-11:00: Low-tech Approaches &amp; Implementation \(PG p.23, DM Ch.4&amp;6)**
 <br>
 <ul>
-<li>Low-tech toolbox \(beaver mgt, riparian mgt, forestry mgt, structures)</li>
+<li>Low-tech toolbox (beaver mgt, riparian mgt, forestry mgt, structures)</li>
 <li>Questions/Discussions 5 mins</li>
 </ul>
 
@@ -130,5 +155,72 @@ _Section Questions/Discussions 10-15 mins_
 
 #### 6. Monday Field Trip
 
+**14:00-16:30. Explore beaver and wood influenced site**
+- Practice reading the riverscape and identifying and describing the influence beaver have
+  - Two stops – Rod and Gun campsite and wider valley upstream (1-1.5 hrs)
+- Review role of wood in streams
+  - One stop where tornado blow down is significant (&lt; 0.5 hrs)
+
 -----
+
+### Tuesday, June 24
+
+#### Tuesday Field Trip
+
+**8:00-12:00 Beaver Creek. Assessment and Design**
+- Lower site
+    - Assess condition, observations, risk, and uncertainty
+    - Design LTPBR structures and approach for site
+    - Expectations and monitoring
+- River Left Trib
+    - Repeat above
+
+**13:00-16:00 Whitelaw Creek. Assessment, Design, and Implementation**
+- Implement LTPBR at Whitelaw
+    - Go over safety procedures
+    - Install large BDAs and 2-3 PALS
+- Review and discuss experience
+
+-----
+
+### Wednesday, June 25
+
+#### Wednesday Field Trip
+
+**08:00-16:00. East Fork Blacktail: Assessment and Design Tour**
+- Field visit to Whitelaw and East Fork Blacktail
+  - Observations, risk, and uncertainty
+  - Review structures … monitoring
+- Design approach
+  - Expectations and monitoring
+ 
+-----
+
+### Thursday, June 26
+
+#### Thursday Field Trip
+
+**08:00-10:00. Review in classroom at BHSC**
+
+**10:00-16:00. Rapid and Silver Creek: Assessment and Design Tour**
+- Rapid Creek
+  - Trailhead assessment
+  - Beaver and risk
+- Silver Creek and Green Gulch
+  - Review construction
+  - Review Experiment
+ 
+-----
+
+### Friday, June 27
+
+#### Friday Field Trip
+
+**08:00-13:00. Prairie streams: Assessment and Design Tour**
+- Field visit to Prairie streams
+  - Observations, risk, and uncertainty
+  - Review structures … monitoring
+- Design approach
+  - Expectations and monitoring
+ 
 
