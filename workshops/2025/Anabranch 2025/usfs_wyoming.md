@@ -1,4 +1,3 @@
-
 ---
 title:  USFW Wyoming Unlimited Assessment and Design Workshop
 weight:  1
@@ -39,7 +38,7 @@ and agenda below)
 - We may meet at the USFS offices in either Spearfish or Sundance Tuesday, Wednesday, and Friday
 mornings to go over logistics and clarify workshop topics as needed
 
-### *Map of Sites*
+### Map of Sites
 [Via Google Maps](https://www.google.com/maps/d/edit?mid=1I0_aXwqmrb5USs1ypWwkWLR_ANdZuN8&amp;usp=sharing)
 
 ### What's Provided
@@ -150,7 +149,6 @@ _Section Questions/Discussions 10-15 mins_
 **11:45-12:00 Permitting and Water Rights (MOD. 5c) – USFS Matt Scott**
 -Social, permitting, and legal aspects of low-tech design and implementation
 -Questions/Discussions 5-10 mins
-
 
 #### 5. Discussion & Questions
 
