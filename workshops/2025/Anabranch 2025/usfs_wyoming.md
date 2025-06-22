@@ -1,9 +1,9 @@
 ---
-title:  USFW Wyoming Unlimited Assessment and Design Workshop
+title:  USFW Wyoming Assessment and Design Workshop
 weight:  1
 ---
 
-# USFW Wyoming Unlimited Assessment and Design Workshop 
+# USFW Wyoming Assessment and Design Workshop 
 
 
 
@@ -57,7 +57,7 @@ mornings to go over logistics and clarify workshop topics as needed
 ### Reading Material
 Please review these papers for discussions throughout the workshop (available on the Black Hills workshop website linked below) 
 
-[Nash et al. 2021](https://watermark.silverchair.com/biaa165.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAA1owggNWBgkqhkiG9w0BBwagggNHMIIDQwIBADCCAzwGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMqOD14V37B-RQLArhAgEQgIIDDTlZCOu1jdMcpkfI9Ef0M--cqPuj2ire4i2b8E3Ku9J6CRfoaw6V70z0VTOgONIBbGkBUYkFdJQmSGlgtzOu0Y8tRCYdcs9NKQDSv7U1bvwXUI1ZZcILhEsZPldp-PKcPuchD-moE4MdQkn3mW1psk8NEsoceegJwpZzpuzmjqjUq2T--NOdtrIO1AvQ6OiTH7-X-6jethpAW5vZmIZP8g5wEXcCZj96bsRHrgf6CbE2f0RTyaA8gdTZhV8eVk_S5uBmsE7M4l-VnuQSVduBuRYtsbMPmoDuNcVw-SkC58M_izuX6h0ryDv-x2RkOfh4-gCvGyjcssHNm9-vnXdjH2L7KBhAvnggOSdeOPUCXBkoUOhQXhxlBoDWjHlhOlV5PzttS0KHZm26-cF4dlfTO_pnqWHCIvVELlSTPp2Frc4WmxDt9J7-OeplDusTmg17sKVlHeyuklps86ZOdrEHpIfpj9e3J3eH0ckBdI-1VZz0fKP91dLjRFXM1BKjgajy8HEEXpA4m9ygSEY_0Q-lFxlxMX4BeFyxYRiXrc384cvd9EuylWwCGrI8yXKrw6mfDUcCKNyYy4NBMVHPmRioa6xpJyNoEFYHQT5eZjpZ1W3QNxZ8l8IrqtkHkzuRrSUoMpg0bf6In5dd_Rx_9BwMMhhyNl8uCLecSENot9_rHHu_xHnz3QhuP4zGJWusrl2I43To9DUDchEBk8FvUai-n4zXrCgtSjDSCqGuFEklCPPVF9cN1sFueTCoRxeyH5S1j1xkxMd1K_dVx2oT7LDxtXdY9qVRnL3Z4GGECeucaRcpO6bcitfHRLa--wUZSbRNG459kR2SFsfyAawWopPwr0wE7pKKW7gJeucjw8madM9P61RSPw6URdouwo6wlGRd-mEoHwv-d8JrHW2I8XNfzs4KpouR5jwfpRPNF7l0xsgPns0T2SqZ9LmaRrz00_cg4GCYEQwEIwaquQR6l9K__JUftEa9n41U1SSDuD5vHZRdg7zJGO_L1fnkhyjyxxk_v82yNOZGPyHcKzUd4-M)
+[Nash et al. 2021](https://academic.oup.com/bioscience/article/71/3/249/6104136)
 
 
 [Wohl et al. 2019 – Wood regime](https://www.researchgate.net/publication/332182537_The_Natural_Wood_Regime_in_Rivers)
@@ -66,8 +66,8 @@ Please review these papers for discussions throughout the workshop (available on
 
 - [General Low-tech PBR website](https://lowtechpbr.restoration.usu.edu)
 - [Low-tech PBR online virtual workshop](https://lowtechpbr.restoration.usu.edu/resources/Topics/)
-- [Blackhills Workshop webpage]
-- [Riverscapes Models](tools.riverscapes.net)
+- [Riverscapes Models](https://tools.riverscapes.net)
+- [Riverscapes Quick Start Guide](https://d21hwc2yj2s6ok.cloudfront.net/assets/uploads/657522/asset/Riverscapes_Consortium_Quick_Start_Guide.pdf?1720636577)
 
 
 
@@ -173,12 +173,10 @@ _Section Questions/Discussions 10-15 mins_
 #### Tuesday Field Trip
 
 **8:00-12:00 Beaver Creek. Assessment and Design**
-- Lower site
+- Lower site and River Left Trib
     - Assess condition, observations, risk, and uncertainty
     - Design LTPBR structures and approach for site
     - Expectations and monitoring
-- River Left Trib
-    - Repeat above
 
 **13:00-16:00 Whitelaw Creek. Assessment, Design, and Implementation**
 - Implement LTPBR at Whitelaw
