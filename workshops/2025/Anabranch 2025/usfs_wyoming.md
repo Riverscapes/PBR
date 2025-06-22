@@ -57,7 +57,7 @@ mornings to go over logistics and clarify workshop topics as needed
 ### Reading Material
 Please review these papers for discussions throughout the workshop (available on the Black Hills workshop website linked below) 
 
-[Nash et al. 2021](https://academic.oup.com/bioscience/article/71/3/249/6104136)
+[Nash et al. 2021](https://academic.oup.com/bioscience/article-pdf/71/3/249/36413324/biaa165.pdf)
 
 
 [Wohl et al. 2019 – Wood regime](https://www.researchgate.net/publication/332182537_The_Natural_Wood_Regime_in_Rivers)
