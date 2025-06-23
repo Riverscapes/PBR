@@ -136,7 +136,7 @@ _Section Questions/Discussions 10-15 mins_
 
 #### 4. Science & Policy
 
-**11:30-11:45 Science behind Low-tech process-based restoration (MOD. 1) – Steve**
+**11:30-11:45 Science behind Low-tech process-based restoration – Steve**
 
 <ul><li>Case-studies of riparian &amp; beaver management, and low-tech structure projects</li>
 <ul>
@@ -146,7 +146,7 @@ _Section Questions/Discussions 10-15 mins_
 </ul>
 <br>
 
-**11:45-12:00 Permitting and Water Rights (MOD. 5c) – USFS Matt Scott**
+**11:45-12:00 Permitting and Water Rights – USFS Matt Scott**
 -Social, permitting, and legal aspects of low-tech design and implementation
 -Questions/Discussions 5-10 mins
 
@@ -191,7 +191,7 @@ _Section Questions/Discussions 10-15 mins_
 #### Wednesday Field Trip
 
 **08:00-16:00. East Fork Blacktail: Assessment and Design Tour**
-- Field visit to Whitelaw and East Fork Blacktail
+- Field visit to East Fork Blacktail
   - Observations, risk, and uncertainty
   - Review structures … monitoring
 - Design approach
