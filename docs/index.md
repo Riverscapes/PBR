@@ -1,9 +1,8 @@
 ---
 title: Riverscapes Restoration Design Manual - Home
 sidebar_label: Home
-position: 1
+sidebar_position: 1
 ---
-
 
 ## Manual
 [![cover image](/img/covers/Manual_Tilted_400.png)](/manual)

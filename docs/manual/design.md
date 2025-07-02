@@ -1,6 +1,6 @@
 ---
 title: Design Manual
-position: 1
+sidebar_position: 1
 ---
 
 [![Manual cover](/img/covers/Manual_Tilted_150.png)](http://dx.doi.org/10.13140/RG.2.2.19590.63049/2)

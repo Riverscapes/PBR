@@ -1,5 +1,6 @@
 ---
 title: Background & Purpose
+sidebar_position: 100
 ---
 
 ## Chapter 1: Background & Purpose

@@ -1,6 +1,6 @@
 ---
 title: Front Matter
-weight: 4
+sidebar_position: 4
 ---
 
 ## Manual Front Matter
