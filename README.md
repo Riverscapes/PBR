@@ -1,5 +1,58 @@
-# Low-Tech Process-Based Restoration of Riverscapes Website
+# 🧼 Clean Template Site
 
-This repository is simply a GitHub hosted website for Low Tech Process Based Restoration of Riverscapes. The site acts as a hub of information on LTPBR for students, practitioners, managers and researchers. It contains the [LTPBR Manual](https://lowtechpbr.restoration.usu.edu/manual/), [Workshop and Course pages](https://lowtechpbr.restoration.usu.edu/workshops/)), as well as [Resources](https://lowtechpbr.restoration.usu.edu/resources/). As of October, 2022, we began releasing versions of the website (updated periodically), to achieve better FAIR compliance and tracking. This includes the minting of a DOI via Zenodo to make it easier to cite content on the website, as well as indexing and discovery.
+This project demonstrates the smallest possible Docusaurus site setup. It is designed for simplicity and ease of use, requiring only essential files and folders.
 
-To cite content from this site use:<br>  [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7233916.svg)](https://doi.org/10.5281/zenodo.7233916)
+---
+
+## How It Works
+
+- **Write Content:**  
+  Add your documentation as Markdown (`.md`) or MDX (`.mdx`) files in the `docs` directory.
+
+- **Add Images:**  
+  Place any images you want to use in your docs inside the `img` folder.
+
+- **Custom Components:**  
+  You can automatically use React TSX components provided by the [Riverscapes Docusaurus Theme](https://github.com/Riverscapes/riverscapes-docusaurus-theme) directly in your MDX files—no extra setup required.
+
+---
+
+## Why This Structure?
+
+- **No unnecessary files:**  
+  Only the core configuration and content folders are included.
+
+- **Easy to maintain:**  
+  Just focus on writing docs and adding images.
+
+- **Extendable:**  
+  Leverage custom React components for richer documentation.
+
+---
+
+## Getting Started
+
+1. **Install dependencies:**
+
+```bash
+yarn install
+```
+
+Start the local development server:
+
+```bash
+yarn start
+```
+
+Build the static site:
+
+```bash
+yarn build
+```
+
+🔍 View Your Site
+Once the dev server is running, visit
+
+http://localhost:3000
+
+This will display your live documentation site with hot reloading enabled.
