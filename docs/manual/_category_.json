@@ -1,9 +1,3 @@
 {
-  "label": "Design Manual",
-  "position": 1,
-  "link": {
-    "type": "generated-index",
-    "slug": "manual",
-    "description": "The Low-Tech Process Based Restoration of Riverscapes Design Manual is organized into a series of chapters, each with its own page(s). Each chapter has its own citation and DOI, so that it is citable individually and can be updated and re-published without the entire design manual being re-issued."
-  }
+  "collapsed": false
 }

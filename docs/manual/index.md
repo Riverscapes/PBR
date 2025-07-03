@@ -9,9 +9,7 @@ The Low-Tech Process-Based Restoration of Riverscapes Design Manual is organized
 
 - [Low-Tech Process-Based Restoration of Riverscapes: Design Manual. Version 1.0](http://dx.doi.org/10.13140/RG.2.2.19590.63049/2). Wheaton J.M., Bennett S.N., Bouwes, N., Maestas J.D. and Shahverdian S.M. (Editors). 2019. Utah State University Restoration Consortium. Logan, UT. 286 pp. DOI: [10.13140/RG.2.2.19590.63049/2](http://dx.doi.org/10.13140/RG.2.2.19590.63049/2).
 
----
-
-## Ways to Get Manual
+## Ways to Get The Manual
 
 The manual is available for free as a PDF (see below), or print versions can be ordered online:
 

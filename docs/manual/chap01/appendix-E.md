@@ -23,8 +23,7 @@ sidebar_position: 102
 
 ---
 
-Joe’s slides from  
-[NRCS/SGI Wyoming Workshop on Partnering with Beaver in Restoration Design](http://beaver.joewheaton.org/nrcs---wyoming.html)  
+Joe’s slides from [NRCS/SGI Wyoming Workshop on Partnering with Beaver in Restoration Design](http://beaver.joewheaton.org/nrcs---wyoming.html)  
 on Riparian and Stream Health (see [here](http://beaver.joewheaton.org/lander-workshop-materials.html) for this and other workshop resources):
 
 

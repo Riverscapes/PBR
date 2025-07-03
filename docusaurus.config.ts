@@ -5,8 +5,8 @@ import type * as Preset from '@docusaurus/preset-classic'
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
 
 const config: Config = {
-  title: 'RIVERSCAPES TEMPLATE', // Site title displayed in the browser tab
-  tagline: 'This is a template for a riverscapes site.', // Short description shown in meta tags
+  title: 'Low-Tech Process-Based Restoration of Riverscapes', // Site title displayed in the browser tab
+  tagline: 'Design Manual, Resources, Workshops.', // Short description shown in meta tags
   favicon: 'favicon.ico', // Path to site favicon
 
   future: {
@@ -47,18 +47,18 @@ const config: Config = {
     image: 'img/logo.png', // Social sharing image
 
     navbar: {
-      title: 'RIVERSCAPES TEMPLATE', // Navbar title
+      title: 'Low-Tech Process-Based Restoration of Riverscapes', // Navbar title
       logo: {
         alt: 'Riverscapes Studio Logo', // Logo alt text
         src: 'img/logo.png', // Logo image path
       },
       items: [
-        {
-          type: 'docSidebar',
-          sidebarId: 'tutorialSidebar', // ID of the sidebar defined in sidebars.ts
-          position: 'left',
-          label: 'MENU1', // Label in the navbar
-        },
+        // {
+        //   type: 'docSidebar',
+        //   sidebarId: 'tutorialSidebar', // ID of the sidebar defined in sidebars.ts
+        //   position: 'left',
+        //   label: 'MENU1', // Label in the navbar
+        // },
         {
           href: 'https://github.com/Riverscapes/riverscapes-docs', // External GitHub link
           label: 'GitHub',

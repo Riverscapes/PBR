@@ -4,7 +4,8 @@ sidebar_label: Home
 sidebar_position: 1
 ---
 
-## Manual
+# Manual
+
 [![cover image](/img/covers/Manual_Tilted_400.png)](/manual)
 
 **The purpose of this [design manual](/manual) is to provide restoration practitioners with guidelines for implementing a subset of low-tech tools**—namely beaver dam analogues (BDAs) and post-assisted log structures (PALS)—for initiating process-based restoration in structurally-starved riverscapes. While the concept of process-based restoration in riverscapes has been advocated for at least two decades, details and specific examples on how to implement it remain sparse. Here, we describe ‘**low-tech process-based restoration**’ (LT-PBR) as a practice of using simple, low unit-cost, structural additions (e.g. wood and beaver dams) to riverscapes to mimic functions and initiate specific processes. Hallmarks of this approach include:

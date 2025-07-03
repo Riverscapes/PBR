@@ -107,11 +107,3 @@ While the institutions the contributors are affiliated with have not all officia
 
 [![CDFW](/img/sponsors/CDFW.png)](https://www.wildlife.ca.gov/)  
 7. [California Department of Fish and Wildlife](https://www.wildlife.ca.gov/) 
-
----
-
-## Return to Manual Home
-
-[⬅️ Back to Design Manual Home](/riverscapes-docs/manual/design)
-
-[![ETAL logo](/img/logos/ETAL@FHC_FullText_Blue_Wellsvilles_Brown_600.png)](http://etal.joewheaton.org)
