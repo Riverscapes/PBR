@@ -1,6 +1,6 @@
 ---
 title: LT-PBR Recipes
-sidebar_position: 2
+sidebar_position: 800
 ---
 
 # Recipes for You to Use and Adapt

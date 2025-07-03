@@ -1,6 +1,6 @@
 ---
 title: Free Learning Modules
-sidebar_position: 1
+sidebar_position: 700
 ---
 
 # Introductory PBR Workshop Modules

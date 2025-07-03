@@ -1,6 +1,6 @@
 ---
 title: PBR Resources
-
+sidebar_position: 100
 ---
 
 # Additional Low-Tech Process-Based Restoration Resources

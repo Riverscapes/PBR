@@ -1,6 +1,6 @@
 ---
 title: LT-PBR Talks
-sidebar_position: 11
+sidebar_position: 500
 ---
 
 This page contains a long, ever-growing and incomplete listing of talks on LTPBR you can scroll through and watch at your leisure. Let us know if you think other talks should/could be highlighted here. These are just listed in chronological order.

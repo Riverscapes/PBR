@@ -1,6 +1,6 @@
 ---
 title: Low-Tech PBR Case Studies
-sidebar_position: 2
+sidebar_position: 900
 ---
 
 # Case Studies of Low-Tech PBR
