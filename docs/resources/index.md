@@ -3,7 +3,7 @@ title: PBR Resources
 
 ---
 
-## Additional Low-Tech Process-Based Restoration Resources
+# Additional Low-Tech Process-Based Restoration Resources
 
 ### References and Training Resources
 

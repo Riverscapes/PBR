@@ -1,5 +1,5 @@
 ---
-title: Background & Purpose
+title: 1. Background & Purpose
 sidebar_position: 100
 ---
 
