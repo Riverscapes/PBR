@@ -1,6 +1,6 @@
 ---
 title: Appendix E
-weight: 5
+sidebar_position: 102
 ---
 
 # Appendix E

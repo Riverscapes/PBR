@@ -1,5 +1,6 @@
 ---
 title: Appendix A
+sidebar_position: 101
 ---
 
 ## Appendix A - Partial Selection of Past Literature Relevant to Low-Tech Restoration
