@@ -1,0 +1,57 @@
+---
+title: Station Creek - CANCELLED
+sidebar_position: 1
+---
+
+# Station Creek - 2023 Workshop Update
+
+> **UPDATE**  
+> *The 2023 Station Creek build day has been cancelled due to heavy snowfall and high flows.*
+
+---
+
+## About the Project
+
+The WATS/CEWA 5624 Spring 2023 class was scheduled to focus on Station Creek, a left-bank tributary to the Bear River near Oneida Narrows and the Mink Creek confluence, on landowner Terry Westerberg's property. Inspired by the success of Jay Wilde’s beaver reintroduction on nearby Birch Creek, Terry hoped for similar improvements using a BDA-assisted beaver translocation approach funded by Pacificorp.
+
+---
+
+## Course Logistics
+
+> **Cancelled** – Saturday, April 22, 2023 (9 AM–5 PM)
+
+*However, you can still review the project details, location, and resources below.*
+
+### Location
+
+- **Station Creek Trailhead**  
+  [5484 E Station Creek Rd, Preston, ID 83263](https://goo.gl/maps/AREJd8KgYuKtzT5L9)  
+  **Coordinates:** 42.162928, -111.743293
+
+> **Important:** Google Maps may lead you to a nearby but incorrect spot. Use the coordinates above for accuracy.
+
+**Nearest hospital**: [Franklin County Medical Center, Preston](https://goo.gl/maps/JwSKpEargiSLRPMA6) (~20 min away)
+
+**Transportation note:** Students must arrange their own transportation (carpooling encouraged). There is ample parking on-site and limited cell reception.
+
+---
+
+## What to Bring
+
+- **Field gear**: chest waders & wading boots recommended  
+  (email [Dominique Shore](mailto:dominique.shore@usu.edu) if you need help accessing gear)
+- Weather-appropriate layers, hats, gloves, sunglasses, sunscreen
+- Change of clothes for afterwards
+- No open-toed shoes permitted
+- Work clothes suitable for a construction site
+- Personal protective equipment (PPE) will be provided, but you can bring your own if preferred
+- Personal lunch, snacks, and water bottle
+
+---
+
+## Maps & Directions
+
+### Trailhead Map
+
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m22!1m8!1m3!1d1043.7323966491258!2d-111.74409105148973!3d42.16294751243285!3m2!1i1024!2i768!4f13.1!4m11!3e0!4m5!1s0x87547e7defa84bed%3A0xfc404de6d664bd1c!2sUtah%20State%20University%2C%20Logan%2C%20UT%2084322!3m2!1d41.745160999999996!2d-111.8097425!4m3!3m2!1d42.1631947!2d-111.74338999999999!5e1!3m2!1sen!2sus!4v1680209194167!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen loading="lazy"></iframe>

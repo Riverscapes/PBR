@@ -1,0 +1,37 @@
+---
+title: Summit Creek Volunteer Day
+sidebar_position: 100
+---
+
+# Summit Creek Volunteer Day
+
+Join us **June 1, 2024** to improve riverscape health along Summit Creek in Smithfield, Utah by building beaver dam analogs (BDAs) and post-assisted log structures (PALS). Summit Creek is a left-bank tributary of the Bear River, meeting the Bear River just upstream of Cutler Reservoir. The project landowner is the United States Forest Service.
+
+---
+
+## Course Logistics
+
+**Date & Time**  
+📅 **Saturday, June 1, 2024**  
+🕘 **9:00 AM – 3:00 PM**
+
+👉 [**Sign the Participant Waiver**](https://docs.google.com/forms/d/e/1FAIpQLSeTl3N3MMi2PSHMfmoBBrjkydbKdA_27vrb-1fi9DAA03bpQA/viewform?usp=sf_link)
+
+---
+
+## Getting There
+
+### Carpool (9:00 AM)
+
+Meet at **Smithfield Lee's Marketplace**:
+
+[Google Maps Location](https://maps.app.goo.gl/YM5PbXMJhAs7Ya4MA)
+
+
+<iframe
+  src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d40009.7474226166!2d-111.87653303585776!3d41.8123122232438!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x875462ca9efeeb81%3A0x20b6b4911c16be42!2sLee&#39;s%20Marketplace!5e0!3m2!1sen!2sus!4v1712849501998!5m2!1sen!2sus"
+  width="100%"
+  height="400"
+  style="border:0;"
+  allowfullscreen
+></iframe>

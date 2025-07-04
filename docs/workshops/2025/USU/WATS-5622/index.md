@@ -1,0 +1,159 @@
+---
+title: Planning LTPBR - Syllabus
+sidebar_position: 4
+---
+
+# WATS/CEWA 5622 - Course Syllabus
+
+![WATS 5622 Header](/img/courses/WATS-5622_header_C.png)
+
+---
+
+## Catalog Description
+
+This course introduces the planning process for Low-Tech Process-Based Restoration (LTPBR) of riverscapes. Students will learn how to map riverscapes, assess current conditions, and estimate recovery potential to support LTPBR projects.
+
+| **Title** | Planning for Low-Tech Process-Based Restoration of Riverscapes |
+|-----------|----------------------------------------------------------------|
+| **Semester Offered** | Spring |
+| **Credits** | 1.0 Credit (1.5 CEU) |
+| **Levels** | Graduate / Undergraduate |
+| **Schedule** | Hybrid Face-to-Face Lecture |
+| **Course Number** | WATS 5622 |
+| **Cross-listed** | CEWA 5622 |
+
+[← Back to Spring 2025 LTPBR Courses for Credit or CEU](/workshops/2025/USU/)
+
+---
+
+## Schedule
+
+### Spring 2025
+
+- Matriculated USU Students: WATS 5622  
+- Non-USU / Professional Students: [CEWA 5622](https://cpe.usu.edu/search/publicCourseSearchDetails.do?method=load&courseId=1073962)
+
+*Registration opens November 6, 2024*
+
+| Class | Time | Day | Dates | Instructor |
+|-------|------|-----|-------|------------|
+| Planning LTPBR | 1:30–4:15 pm | Tuesday | Jan 28, Feb 4, 11, 2025 | [Joe Wheaton](http://joewheaton.org) |
+
+> Course assignments and resources will be available in Canvas two weeks before the course start date.
+
+---
+
+### Course Meeting Outline
+
+Students will be expected to watch pre-recorded lectures and complete assigned readings before class. During class, group exercises and discussion will deepen understanding. Students will also take a virtual field trip and are encouraged to take a real field trip (self-guided).
+
+| Date | Module | Topics |
+|------|--------|--------|
+| 1/28/2025 | 3.1 & 3.2 | [Intro to Planning](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module3#b-overview-of-planning--nrcs-conservation-planning-process) and [Reading Riverscapes](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module3#c-valley-bottom-mapping--virtual-field-trip) |
+| 2/4/2025 | 3.3 | [Planning Phase](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module3#e-risk-assessment-condition-assessment--recovery-potential) |
+| 2/11/2025 | 3.4 | Planning Applied to Your Own Riverscape |
+
+This course is based on [Module 3](/workshops/2020/SGI/Modules/module3.html) from the self-paced LTPBR series.
+
+[Access Module 3 Materials (slides, recordings, exercises)](/workshops/2020/SGI/Modules/module3)
+
+---
+
+## Fees
+
+- **Matriculated Students**: pay USU [tuition rates](https://www.usu.edu/registrar/registration/payment/) for 1 credit  
+  *(no additional course fees)*
+
+- **Continuing Education Students**: $315 for 1.5 CEUs (includes $270 course fee + $45 processing)  
+  *Registration opens November 6*
+
+---
+
+## Course Objectives
+
+By the end of this course, students will be able to:
+
+1. **Differentiate** the collection & analysis phase of the NRCS Conservation Planning Process from other phases, and **recognize** its overlap with other restoration planning processes.
+2. **Read** and interpret riverscapes to identify valley bottom extents and understand zones of influence of structural forcing.
+3. **Evaluate** current conditions of a riverscape and **estimate** recovery potential using LTPBR.
+4. **Recast** restoration objectives by articulating realistic, S-M-A-R-T (Specific, Measurable, Achievable, Relevant, Time-bound) indicators.
+
+---
+
+## Instructor
+
+**Joe Wheaton**  
+[Professor of Riverscapes](https://qcnr.usu.edu/directory/wats/faculty/wheaton-joseph)  
+[Principal, Anabranch Solutions](https://www.anabranchsolutions.com/joe-wheaton.html)  
+
+- Office Hours: Tuesdays 11:00–12:00 MT (in-person NR360 or via [Zoom](https://usu-edu.zoom.us/j/83341579485?pwd=NVhTL01YNjJzRW1xTmRLbmxYS2hZUT09&from=addon))
+
+For questions, use Canvas discussion boards or direct email.
+
+---
+
+## Instructor Affiliations
+
+- [Utah State University Watershed Sciences](https://qcnr.usu.edu/wats/index)  
+- [Anabranch Solutions](https://www.anabranchsolutions.com/)
+
+---
+
+## Course Resources
+
+Course content includes:
+
+- Lecture slides (PDF)
+- Pre-recorded lectures (YouTube)
+- Readings (provided PDFs or textbook)
+
+Assignments will be posted in Canvas. Formative and graded assignments will have criteria and rubrics provided in the grade book.
+
+[Access Module 3 Materials](/workshops/2020/SGI/Modules/module3)
+
+---
+
+## Course Textbooks
+
+**Required Texts**
+
+- *Low-Tech Process-Based Restoration of Riverscapes: Design Manual*  
+  [Free PDF](/manual) or available in hard copy via [Amazon](https://www.amazon.com/Low-Tech-Process-Based-Restoration-Riverscapes-Design/dp/1543972993) or [BookBaby](https://store.bookbaby.com/bookshop/book/index.aspx?bookURL=Low-Tech-Process-Based-Restoration-of-Riverscapes)
+
+- *Pocket Field Guide*  
+  [Free PDF](/resources/pocket) or waterproof print version [available here](http://www.anabranchsolutions.com/store/p7/pocketguide.html)
+
+The focus will be on **Chapter 3** of the Design Manual.
+
+---
+
+## Grading
+
+| Grade | Range |
+|-------|-------|
+| A | 93–100% |
+| A- | 90–92.9% |
+| B+ | 87–89.9% |
+| B | 83–86.9% |
+| B- | 80–82.9% |
+| C+ | 77–79.9% |
+| C | 73–76.9% |
+| C- | 70–72.9% |
+| D+ | 67–69.9% |
+| D | 60–66.9% |
+| F | below 60% |
+
+---
+
+## University Policies
+
+- [USU Attendance Policy](https://catalog.usu.edu/content.php?catoid=12&navoid=3160)
+- [Student Conduct](https://studentconduct.usu.edu/studentcode/)
+- [Academic Integrity](https://studentconduct.usu.edu/studentcode/article6)
+- [Disability Resource Center](http://www.usu.edu/drc/)
+- [Counseling & Psychological Services](https://counseling.usu.edu/)
+- [Office of Equity](https://equity.usu.edu/)
+- [Emergency Procedures](https://www.usu.edu/emergency)
+
+---
+
