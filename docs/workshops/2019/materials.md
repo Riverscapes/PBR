@@ -1,6 +1,6 @@
 ---
 title: Old Intro LTPBR Workshop Materials
-sidebar_position: 500
+sidebar_position: 100
 ---
 
 Below you can find PDFs of the slides we covered in the intro to low-tech process-based restoration workshops for [2019](/workshops/2019/SGI/). Each is licensed with a [Creative Commons licence](https://creativecommons.org/), so you are free to re-use subject to the terms of the license.  
