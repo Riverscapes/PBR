@@ -93,7 +93,7 @@ For deeper study:
 
 ---
 
-# Day 3 – Building Low-Tech Restoration Structures
+# Day 3 - Building Low-Tech Restoration Structures
 
 ![Design Exercise](/img/workshops/2019/DesignForm.png)
 
