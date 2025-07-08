@@ -1,6 +1,7 @@
 ---
 title: Low-Tech PBR Virtual Field Trip
 sidebar_position: 3
+slug: /resources/Topics/03_Planning/birchcreek
 ---
 
 # Virtual Field Trip to Birch Creek

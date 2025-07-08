@@ -1,5 +1,6 @@
 ---
 title: Home Version Low-Tech Exercises
+slug: /resources/Topics/01_Overview/homeverson
 sidebar_position: 4
 ---
 

@@ -1,6 +1,7 @@
 ---
 title: Fire Resiliency
 sidebar_position: 1
+slug: /resources/Topics/02_Science/fire
 ---
 
 # Fire Resiliency

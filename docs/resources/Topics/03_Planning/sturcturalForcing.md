@@ -1,6 +1,7 @@
 ---
 title: Reading Riverscapes
 sidebar_position: 2
+slug: /resources/Topics/03_Planning/sturcturalForcing
 ---
 
 # Virtual Field Trip to Spawn Creek

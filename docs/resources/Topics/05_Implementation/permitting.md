@@ -1,6 +1,7 @@
 ---
 title: Consultation & Permitting
 sidebar_position: 1
+slug: /resources/Topics/05_Implementation/permitting
 ---
 
 # Consultation & Permitting

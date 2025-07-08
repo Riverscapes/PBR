@@ -1,6 +1,7 @@
 ---
 title: Parking Lot Low-Tech Exercises
 sidebar_position: 2
+slug: /resources/Topics/01_Overview/parkinglot
 ---
 
 # Parking Lot Low-Tech Structure Building

@@ -1,6 +1,7 @@
 ---
 title: Planning Topics
 sidebar_position: 3
+slug: /resources/Topics/03_Planning/
 ---
 
 # Planning Topics

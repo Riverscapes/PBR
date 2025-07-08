@@ -1,6 +1,7 @@
 ---
 title: Science & Case Studies
 sidebar_position: 2
+slug: /resources/Topics/02_Science/
 ---
 
 # Science & Case Studies

@@ -1,6 +1,7 @@
 ---
 title: BDA Construction
 sidebar_position: 3
+slug: /resources/Topics/05_Implementation/BDAs
 ---
 
 # BDA Construction

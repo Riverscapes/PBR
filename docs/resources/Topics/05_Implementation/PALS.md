@@ -1,6 +1,7 @@
 ---
 title: PALS Construction
 sidebar_position: 2
+slug: /resources/Topics/05_Implementation/PALS
 ---
 
 # PALS Construction

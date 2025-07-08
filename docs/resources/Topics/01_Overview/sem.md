@@ -1,6 +1,7 @@
 ---
 title: SEM Quiz
 sidebar_position: 1
+slug: /resources/Topics/01_Overview/sem
 ---
 
 # Stream Evolution Model Quiz

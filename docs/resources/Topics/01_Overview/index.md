@@ -1,6 +1,7 @@
 ---
 title: Introductory LTPBR Topics
 sidebar_position: 1
+slug: /resources/Topics/01_Overview/
 ---
 
 Related to the LTPBR workshop [Module 1 - Introduction to Low-Tech Process-Based Restoration of Riverscapes](/workshops/2020/SGI/Modules/module1), here are a couple of Module 1 exercises.

@@ -1,6 +1,7 @@
 ---
 title: Adaptive Management Topics
 sidebar_position: 6
+slug: /resources/Topics/06_AdaptiveMgt/
 ---
 
 # Adaptive Management Topics

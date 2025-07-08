@@ -1,6 +1,7 @@
 ---
 title: Implementation Topics
 sidebar_position: 5
+slug: /resources/Topics/05_Implementation/
 ---
 
 # Implementation Topics

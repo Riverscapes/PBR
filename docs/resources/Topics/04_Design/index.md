@@ -1,6 +1,7 @@
 ---
 title: Design Topics
 sidebar_position: 4
+slug: /resources/Topics/04_Design/
 ---
 
 # Design Topics

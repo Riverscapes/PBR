@@ -1,6 +1,7 @@
 ---
 title: Fish and Beaver
 sidebar_position: 3
+slug: /resources/Topics/02_Science/fish
 ---
 
 # Beaver Dam Activity Impacts on Fish
