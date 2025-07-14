@@ -96,6 +96,9 @@ Please review these resources beforehand for workshop discussions:
 - [Low-tech PBR virtual workshop resources](https://lowtechpbr.restoration.usu.edu/resources/Topics/)
 - [Riverscapes Tools](https://tools.riverscapes.net)
 - [Riverscapes Quick Start Guide (PDF)](https://d21hwc2yj2s6ok.cloudfront.net/assets/uploads/657522/asset/Riverscapes_Consortium_Quick_Start_Guide.pdf?1720636577)
+- [Black Bills Riverscapes Memos](https://drive.google.com/drive/folders/1orqtCfYQORCBau7D6PEhUoBflyh7lhHd)
+- [Google Photo Album](https://photos.app.goo.gl/WeigZwVpFtW9PvES6)
+
 
 ---
 
