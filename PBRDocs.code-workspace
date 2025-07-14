@@ -8,8 +8,7 @@
     "settings": {
       "window.title": "LTPBR Manual -${separator}${activeEditorShort}${separator}${rootName}",
       "[mdx]": {
-        "editor.wordWrap": "bounded",
-        "editor.wordWrapColumn": 80
+        "editor.wordWrap": "on"
       },
       "css.lint.validProperties": ["composes"],
       "workbench.colorCustomizations": {
