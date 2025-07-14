@@ -13,12 +13,8 @@ const config: Config = {
     v4: true, // Enables compatibility with upcoming Docusaurus v4 features
   },
 
-  url: 'https://your-docusaurus-site.example.com', // The base URL of your site (no trailing slash)
-  baseUrl: '/riverscapes-docs', // The sub-path where your site is served (used in GitHub Pages)
-
-  // GitHub pages deployment config
-  organizationName: 'Riverscapes', // GitHub org/user name
-  projectName: 'riverscapes-docs', // GitHub repo name
+  url: 'https://lowtechpbr.restoration.usu.edu', // The base URL of your site (no trailing slash)
+  baseUrl: '/', // The sub-path where your site is served (used in GitHub Pages)
 
   onBrokenLinks: 'throw', // Throw an error on broken links
   onBrokenMarkdownLinks: 'warn', // Warn instead of throwing for broken markdown links
@@ -37,7 +33,7 @@ const config: Config = {
         docs: {
           sidebarPath: './sidebars.ts', // Path to sidebar config
           routeBasePath: '/', // Serve docs at site root
-          editUrl: 'https://github.com/Riverscapes/riverscapes-docs/tree/main/sites/template', // "Edit this page" link
+          editUrl: 'https://github.com/Riverscapes/PBR/tree/master/sites/template', // "Edit this page" link
         },
       } satisfies Preset.Options,
     ],
@@ -60,7 +56,7 @@ const config: Config = {
         //   label: 'MENU1', // Label in the navbar
         // },
         {
-          href: 'https://github.com/Riverscapes/riverscapes-docs', // External GitHub link
+          href: 'https://github.com/Riverscapes/PBR', // External GitHub link
           label: 'GitHub',
           position: 'right',
         },
