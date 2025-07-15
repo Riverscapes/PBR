@@ -49,7 +49,7 @@ Students are expected to complete the pre-recorded lectures and readings before 
 | 4/11/2023 | 5.2–5.5 | [Overview](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module5#b-low-tech-implementation-overview), [Consultation & Permitting](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module5#c-consultation--permitting), [Logistics, Equipment & Safety](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module5#d-logistics-equipment--safety), [Construction of PALS & BDAs](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module5#e-construction-of-pals--bdas) |
 | 4/15/2023 | 5.6 | Field Day (Saturday) - Building an LTPBR Project |
 
-> This course is based on [Module 5](/workshops/2020/SGI/Modules/module5.html) from the self-paced materials.  
+> This course is based on [Module 5](/workshops/2020/SGI/Modules/module5) from the self-paced materials.  
 > [Module 5 - Implementation Materials](/workshops/2020/SGI/Modules/module5)
 
 ---

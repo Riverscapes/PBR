@@ -39,7 +39,7 @@ This course provides an introduction to the planning process for Low-Tech Proces
 |-------|------|------|----------|-------|------------|
 | [Planning LTPBR](/workshops/2021/USU/WATS-5622/) | 1:30–3:30 pm | Tuesdays | [Zoom](https://usu-edu.zoom.us/s/85735561749) | Jan 31 & Feb 7, 14, 2023 | [Stephen Nicholas Bennett](/workshops/2020/SGI/#instruction-team) |
 
-> This course uses [Module 3](/workshops/2020/SGI/Modules/module3.html) from the self-paced materials.  
+> This course uses [Module 3](/workshops/2020/SGI/Modules/module3) from the self-paced materials.  
 
 [Access Module 3 Materials](/workshops/2020/SGI/Modules/module3)
 

@@ -10,15 +10,15 @@ Related to the LTPBR workshop [Module 1 - Introduction to Low-Tech Process-Based
 
 <div align="center">
 
-[Stream Evolution Model Quiz](/resources/Topics/01_Overview/sem.html)  
-**[Stream Evolution Model Quiz →](/resources/Topics/01_Overview/sem.html)**
+[Stream Evolution Model Quiz](/resources/Topics/01_Overview/sem)  
+**[Stream Evolution Model Quiz →](/resources/Topics/01_Overview/sem)**
 
-[Parking Lot Exercise](/resources/Topics/01_Overview/parkinglot.html)  
-**[Parking Lot Exercise →](/resources/Topics/01_Overview/parkinglot.html)**  
+[Parking Lot Exercise](/resources/Topics/01_Overview/parkinglot)  
+**[Parking Lot Exercise →](/resources/Topics/01_Overview/parkinglot)**  
 *Build your first PALS or BDAs*
 
-[Home Grown Low-Tech Structures](/resources/Topics/01_Overview/homeversion.html)  
-**[Home Grown Low-Tech Structures →](/resources/Topics/01_Overview/homeversion.html)**  
+[Home Grown Low-Tech Structures](/resources/Topics/01_Overview/homeversion)  
+**[Home Grown Low-Tech Structures →](/resources/Topics/01_Overview/homeversion)**  
 *Build your first PALS or BDAs alone*
 
 </div>

@@ -47,20 +47,20 @@ University Credit or Professional CEU 🎓
 
 ### [Module 1 - Introduction Additional Resources](/resources/Topics/01_Overview/)
 
-- [Parking Lot Exercise](/resources/Topics/01_Overview/parkinglot.html)
-- [Home Low-Tech Structure Exercise](/resources/Topics/01_Overview/homeversion.html)
-- [Stream Evolution Model Quiz](/resources/Topics/01_Overview/sem.html)
+- [Parking Lot Exercise](/resources/Topics/01_Overview/parkinglot)
+- [Home Low-Tech Structure Exercise](/resources/Topics/01_Overview/homeversion)
+- [Stream Evolution Model Quiz](/resources/Topics/01_Overview/sem)
 - [Additional Introductory Lectures from WATS 5350 Capstone](http://capstone.restoration.usu.edu/Course_Topics/WATS_5350/Low-Tech/intro.html)
 
 ### [Module 2 - Science & Case Studies Additional Resources](/resources/Topics/02_Science/)
 
-- [Fire Resiliency](/resources/Topics/02_Science/fire.html)
-- [Fish and Beaver](/resources/Topics/02_Science/fish.html)
+- [Fire Resiliency](/resources/Topics/02_Science/fire)
+- [Fish and Beaver](/resources/Topics/02_Science/fish)
 
 ### [Module 3 - Planning Additional Resources](/resources/Topics/03_Planning/)
 
-- [Virtual Field Trip Reading Riverscapes](/resources/Topics/03_Planning/sturcturalForcing.html)
-- [Virtual Field to Birch Creek LTPBR Project](/resources/Topics/03_Planning/birchcreek.html)
+- [Virtual Field Trip Reading Riverscapes](/resources/Topics/03_Planning/sturcturalForcing)
+- [Virtual Field to Birch Creek LTPBR Project](/resources/Topics/03_Planning/birchcreek)
 - [Additional Intro Lectures on Planning from WATS 5350 Capstone](http://capstone.restoration.usu.edu/Course_Topics/WATS_5350/Low-Tech/planning.html)
 - [Extra Planning Assignment for Birch Creek](http://capstone.restoration.usu.edu/Course_Topics/WATS_5350/Low-Tech/Projects/birch/birchplanning.html)
 
@@ -71,13 +71,13 @@ University Credit or Professional CEU 🎓
 
 ### [Module 5 - Implementation Additional Resources](/resources/Topics/05_Implementation/)
 
-- [Consultation & Permitting](/resources/Topics/05_Implementation/permitting.html)
-- [PALS Construction](/resources/Topics/05_Implementation/PALS.html)
-- [BDA Construction](/resources/Topics/05_Implementation/BDAs.html)
+- [Consultation & Permitting](/resources/Topics/05_Implementation/permitting)
+- [PALS Construction](/resources/Topics/05_Implementation/PALS)
+- [BDA Construction](/resources/Topics/05_Implementation/BDAs)
 
 ### [Module 6 - Adaptive Management Additional Resources](/resources/Topics/06_AdaptiveMgt/)
 
-- [Adaptive Management Examples](/resources/Topics/06_AdaptiveMgt/adaptivemgt.html)
+- [Adaptive Management Examples](/resources/Topics/06_AdaptiveMgt/adaptivemgt)
 
 ---
 

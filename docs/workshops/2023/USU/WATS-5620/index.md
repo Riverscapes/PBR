@@ -54,7 +54,7 @@ Students are expected to watch pre-recorded lectures and complete readings prior
 | 1/17/2023 | 1.2 | [Intro to Low-Tech Tools](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module1#g-broad-umbrella-of-low-tech-restoration), [Guiding Principles](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module1#j-principles) |
 | 1/24/2023 | 1.3 | [Partnering with Beaver](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module1#k-beaver-history--biology), [Synthesis](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module1#n-wrap-up-and-preview-of-remaining-modules) |
 
-This course is built on [Module 1](/workshops/2020/SGI/Modules/module1.html) of the self-paced materials.
+This course is built on [Module 1](/workshops/2020/SGI/Modules/module1) of the self-paced materials.
 
 [Module 1 Resources (Slides, Lectures, Exercises)](/workshops/2020/SGI/Modules/module1)
 

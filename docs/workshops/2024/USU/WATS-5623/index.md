@@ -55,7 +55,7 @@ Students are expected to conduct their own field trip to a riverscape of their c
 
 ---
 
-This course is based on [Module 4](/workshops/2020/SGI/Modules/module4.html) of the self-paced materials.  
+This course is based on [Module 4](/workshops/2020/SGI/Modules/module4) of the self-paced materials.  
 
 [Access Module 4 Materials (slides, videos, exercises)](/workshops/2020/SGI/Modules/module4)
 
