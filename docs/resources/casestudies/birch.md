@@ -5,11 +5,11 @@ sidebar_position: 4
 
 # Intro to Birch Creek, Idaho & Jay Wilde
 
-[![Birch Creek Virtual Field Trip](/img/pics/casestudies/BirchVirtualFieldTrip.png)](/riverscapes-docs/resources/Topics/03_Planning/birchcreek.html)
+[![Birch Creek Virtual Field Trip](/img/pics/casestudies/BirchVirtualFieldTrip.png)](/resources/Topics/03_Planning/birchcreek.html)
 
 [Birch Creek, Idaho](https://earth.app.goo.gl/n9RRA6) in southeast Idaho has become a poster-child case study for LTPBR. Birch Creek is a left-bank tributary to Mink Creek, which is tributary to the Bear River just downstream of Oneida Narrows.  
 
-For a [virtual tour](/riverscapes-docs/resources/Topics/03_Planning/birchcreek.html), meet landowner and rancher Jay Wilde, or see his talk further below.
+For a [virtual tour](/resources/Topics/03_Planning/birchcreek.html), meet landowner and rancher Jay Wilde, or see his talk further below.
 
 **The goals of this project were to improve riverscape health and restore perennial flow.** The means to achieving this were reintroducing beaver and letting the process of *beaver dam activity* take over. As of Fall 2020, there are over 165 beaver dams in the creek now.
 
@@ -37,7 +37,7 @@ This video is from the [Logan Workshop](http://beaver.joewheaton.org/logan-works
 
 - [A Rancher’s Story: Reintroducing Beaver to Bring Back Perennial Flow (PDF)](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2019/SGI/Wilde+-+Brich+Creek.pdf)
 
-If you'd like to see part of the story in a virtual field trip, check out the [Birch Creek Virtual Field Trip](/riverscapes-docs/resources/Topics/03_Planning/birchcreek.html).
+If you'd like to see part of the story in a virtual field trip, check out the [Birch Creek Virtual Field Trip](/resources/Topics/03_Planning/birchcreek.html).
 
 ---
 
