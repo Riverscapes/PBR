@@ -52,7 +52,7 @@ In in-person training, participants usually attend one or two field trips to pra
 
 [**FM-LTPBR Design App** (Research Grade)](http://fmltpbr.riverscapes.xyz/)  
 ![FM-LTPBR App](/img/fmLTPBR_IconOnly.png)  
-![Research Grade](https://riverscapes.xyz/assets/images/tools/grade/TRL_3_32p.png)
+![Research Grade](https://riverscapes.xyz/img/tools/grade/TRL_3_32p.png)
 
 </div>
 
