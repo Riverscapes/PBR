@@ -17,12 +17,12 @@ The [third chapter](http://dx.doi.org/10.13140/RG.2.2.15815.75680) covers planni
 
 Chapter 3 also has appendices on:
 
-- [Appendix 3A: Parallels Between Different Planning Frameworks for Restoration](/riverscapes-docs/manual/chap03/AppA_Parallel)  
+- [Appendix 3A: Parallels Between Different Planning Frameworks for Restoration](/manual/chap03/AppA_Parallel)  
 - Appendix 3B: Mapping Synthesis of Problems & Opportunities  
 - Appendix 3C: Mapping Valley Bottom for Assessing Space  
 - Appendix 3D: Assessing Risk to Property, Infrastructure, and Public Safety  
 - Appendix 3E: Assessing Riparian Conditions to Support Wood Accumulation  
-- [Appendix 3F: Assessing Potential for Beaver Dam Activity](/riverscapes-docs/manual/chap03/AppF_BRAT)  
+- [Appendix 3F: Assessing Potential for Beaver Dam Activity](/manual/chap03/AppF_BRAT)  
 - Appendix 3G: Structure Level Adaptive Management
 
 ---
