@@ -37,7 +37,7 @@ This course introduces the planning process for Low-Tech Process-Based Restorati
 |-------|------|-----|-------|------------|
 | Planning LTPBR | 1:30–4:15 pm | Tuesday | Jan 30, Feb 6, Feb 13, 2024 | Joe Wheaton |
 
-> This course is based on [Module 3](/workshops/2020/SGI/Modules/module3.html) from the self-paced materials.
+> This course is based on [Module 3](/workshops/2020/SGI/Modules/module3) from the self-paced materials.
 
 [Access Module 3 Materials (slides, videos, exercises)](/workshops/2020/SGI/Modules/module3)
 

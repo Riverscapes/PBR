@@ -53,7 +53,7 @@ Students will be expected to watch pre-recorded lectures and complete assigned r
 | 2/4/2025 | 3.3 | [Planning Phase](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module3#e-risk-assessment-condition-assessment--recovery-potential) |
 | 2/11/2025 | 3.4 | Planning Applied to Your Own Riverscape |
 
-This course is based on [Module 3](/workshops/2020/SGI/Modules/module3.html) from the self-paced LTPBR series.
+This course is based on [Module 3](/workshops/2020/SGI/Modules/module3) from the self-paced LTPBR series.
 
 [Access Module 3 Materials (slides, recordings, exercises)](/workshops/2020/SGI/Modules/module3)
 

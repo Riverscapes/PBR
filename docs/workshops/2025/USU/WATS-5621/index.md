@@ -38,7 +38,7 @@ Students explore the science and case studies that support Low-Tech Process-Base
 |-------|------|------|-------|-------|------------|
 | Science & Case Studies of LTPBR | 1:30–4:15 pm MST | Tuesdays | Zoom | Feb 18, 25, Mar 4, 2025 | [Nicolaas Bouwes](/workshops/2020/SGI/#instruction-team) |
 
-> This course is based on [Module 2](/workshops/2020/SGI/Modules/module2.html) of the self-paced materials.
+> This course is based on [Module 2](/workshops/2020/SGI/Modules/module2) of the self-paced materials.
 
 [Access Module 2 Materials (slides, videos, exercises)](/workshops/2020/SGI/Modules/module2)
 

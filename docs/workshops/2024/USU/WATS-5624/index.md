@@ -48,7 +48,7 @@ This course introduces Low-Tech Process-Based Restoration of Riverscapes impleme
 | 4/9/2024 | 5.2–5.5 | [Overview](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module5#b-low-tech-implementation-overview), [Consultation & Permitting](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module5#c-consultation--permitting), [Logistics & Safety](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module5#d-logistics-equipment--safety), [Construction of PALS & BDAs](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module5#e-construction-of-pals--bdas) |
 | 4/13/2024 | 5.6 | Field Day — Constructing an LTPBR Project |
 
-> This course is based on [Module 5](/workshops/2020/SGI/Modules/module5.html) of the self-paced materials.  
+> This course is based on [Module 5](/workshops/2020/SGI/Modules/module5) of the self-paced materials.  
 > [Module 5 Materials (slides, videos, exercises)](/workshops/2020/SGI/Modules/module5)
 
 ---
