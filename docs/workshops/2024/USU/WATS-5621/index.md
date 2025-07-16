@@ -41,9 +41,9 @@ Students explore the science and case studies that encouraged Low-Tech Process-B
 
 | Meeting Date | Module | Topics |
 |--------------|--------|--------|
-| 2/20/2024 | 2.1 | [Intro & Case Studies on Resilience](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module2.html#e-building-resilience-with-low-tech) |
-| 2/27/2024 | 2.2 | [Bridge Creek & Asotin Creek Case Studies](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module2.html#c-beaver-dam-analogues-bridge-creek--birch-creek) |
-| 3/5/2024 | 2.3 | [State of Supporting Science](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module2.html#f-where-science-is-at-ongoing--outstanding-science) |
+| 2/20/2024 | 2.1 | [Intro & Case Studies on Resilience](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module2#e-building-resilience-with-low-tech) |
+| 2/27/2024 | 2.2 | [Bridge Creek & Asotin Creek Case Studies](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module2#c-beaver-dam-analogues-bridge-creek--birch-creek) |
+| 3/5/2024 | 2.3 | [State of Supporting Science](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module2#f-where-science-is-at-ongoing--outstanding-science) |
 
 This course is based on [Module 2](/workshops/2020/SGI/Modules/module2) of the self-paced materials.
 

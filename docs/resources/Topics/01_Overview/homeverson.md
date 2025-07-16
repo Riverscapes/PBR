@@ -23,7 +23,7 @@ Normally we would do this together in a parking lot with provided materials and 
 - [Watch a video of the parking lot building exercise](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module1#f-what-you-came-for---your-first-bda)  
 - Read more detailed examples in the [Parking Lot Exercise page](http://lowtechpbr.restoration.usu.edu/resources/Topics/01_Overview/parkinglot)
 
-Detailed instructions are also on pages 25–48 of the [pocket guide](http://lowtechpbr.restoration.usu.edu/resources/pocket.html) — the Parking Lot Exercise is described on page 55.
+Detailed instructions are also on pages 25–48 of the [pocket guide](http://lowtechpbr.restoration.usu.edu/resources/pocket) — the Parking Lot Exercise is described on page 55.
 
 **Your assignment is to build at least one BDA or PALS** (or both!) and record your construction with a short video. Then submit your assignment as a URL to the course discussion. Your post should include:
 

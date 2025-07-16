@@ -37,7 +37,7 @@ In the 2020 Virtual Workshop, construction of PALS and BDAs was covered in [**Mo
 
 ### Doty Ravine
 
-Learn more about Doty Ravine in the [LTPBR project case studies](http://lowtechpbr.restoration.usu.edu/resources/casestudies/ltpbr_projects.html#Doty-ravine).
+Learn more about Doty Ravine in the [LTPBR project case studies](http://lowtechpbr.restoration.usu.edu/resources/casestudies/ltpbr_projects#Doty-ravine).
 
 ---
 
