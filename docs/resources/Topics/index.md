@@ -48,7 +48,7 @@ University Credit or Professional CEU 🎓
 ### [Module 1 - Introduction Additional Resources](/resources/Topics/01_Overview/)
 
 - [Parking Lot Exercise](/resources/Topics/01_Overview/parkinglot)
-- [Home Low-Tech Structure Exercise](/resources/Topics/01_Overview/homeversion)
+- [Home Low-Tech Structure Exercise](/resources/Topics/01_Overview/homeverson)
 - [Stream Evolution Model Quiz](/resources/Topics/01_Overview/sem)
 - [Additional Introductory Lectures from WATS 5350 Capstone](http://capstone.restoration.usu.edu/Course_Topics/WATS_5350/Low-Tech/intro.html)
 

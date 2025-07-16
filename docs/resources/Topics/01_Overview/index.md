@@ -17,8 +17,8 @@ Related to the LTPBR workshop [Module 1 - Introduction to Low-Tech Process-Based
 **[Parking Lot Exercise →](/resources/Topics/01_Overview/parkinglot)**  
 *Build your first PALS or BDAs*
 
-[Home Grown Low-Tech Structures](/resources/Topics/01_Overview/homeversion)  
-**[Home Grown Low-Tech Structures →](/resources/Topics/01_Overview/homeversion)**  
+[Home Grown Low-Tech Structures](/resources/Topics/01_Overview/homeverson)  
+**[Home Grown Low-Tech Structures →](/resources/Topics/01_Overview/homeverson)**  
 *Build your first PALS or BDAs alone*
 
 </div>
