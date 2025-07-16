@@ -36,7 +36,7 @@ This course introduces Adaptive Management and how it can be applied to Low-Tech
 |-------|------|------|----------|-------|------------|
 | [Adaptive Management of LTPBR](/workshops/2022/USU/WATS-5625/) | 1:30–3:30 pm | Tuesday | DE 204 | Apr 5, 12, 26, 2022 | [Nick Bouwes](/workshops/2020/SGI/#instruction-team) |
 
-> This course is based on [Module 6](/workshops/2020/SGI/Modules/module6.html) of the self-paced materials.
+> This course is based on [Module 6](/workshops/2020/SGI/Modules/module6) of the self-paced materials.
 
 [Access Module 6 Materials (slides, videos, exercises)](/workshops/2020/SGI/Modules/module6)
 

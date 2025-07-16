@@ -17,13 +17,13 @@ If you were part of or have completed a LTPBR project, please report it in the [
   *See LTPBR projects and register your own!*  
   ![LTPBR Explorer button](/img/logos/LTPBRexplorer_button.png)
 
-- [**LTPBR Stories, Anecdotes & Examples**](/resources/casestudies/ltpbr_projects.html)  
+- [**LTPBR Stories, Anecdotes & Examples**](/resources/casestudies/ltpbr_projects)  
   ![Stories button](/img/logos/social.png)
 
-- [**LTPBR Post-Fire Projects & Case Studies**](/resources/casestudies/firecasestudies.html)  
+- [**LTPBR Post-Fire Projects & Case Studies**](/resources/casestudies/firecasestudies)  
   ![Fire button](/img/logos/fire.png)
 
-- [**LTPBR Birch Creek, Utah — Jay Wilde's Story**](/resources/casestudies/birch.html)  
+- [**LTPBR Birch Creek, Utah — Jay Wilde's Story**](/resources/casestudies/birch)  
   ![Birch button](/img/logos/wilde.png)
 
 ---
