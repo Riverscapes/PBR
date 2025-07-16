@@ -59,7 +59,7 @@ Watch the entire playlist on YouTube:
 #### Virtual Field Trip
 
 We’ve also prepared a virtual field trip to Spawn Creek:  
-[→ Reading Riverscapes Virtual Field Trip](/resources/Topics/03_Planning/sturcturalForcing.html)
+[→ Reading Riverscapes Virtual Field Trip](/resources/Topics/03_Planning/sturcturalForcing)
 
 ---
 
@@ -76,7 +76,7 @@ We’ve also prepared a virtual field trip to Spawn Creek:
 - [Video](https://www.youtube.com/watch?v=Tpxj60utpfs)  
 - [Slides (PDF)](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2020/SGI/Materials/Module3/03_D_StructuralForcing.pdf)
 
-> Join the [virtual field trip](/resources/Topics/03_Planning/sturcturalForcing.html) for deeper exploration.
+> Join the [virtual field trip](/resources/Topics/03_Planning/sturcturalForcing) for deeper exploration.
 
 ---
 
