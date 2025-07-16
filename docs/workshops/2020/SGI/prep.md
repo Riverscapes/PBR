@@ -76,11 +76,11 @@ We will **avoid showing videos** live to protect lower-bandwidth participants. I
 
 Want to be *extra prepared*? We recommend previewing these chapters:
 
-- **Module 1**: Chapters [1](../manual/chap01) & [2](../manual/chap02)  
+- **Module 1**: Chapters [1](/manual/chap01) & [2](/manual/chap02)  
 - **Module 2**: (No advance reading assigned)  
-- **Module 3**: Chapter [3](../manual/chap03)  
-- **Module 4**: Chapters [4](../manual/chap04) & [5](../manual/chap05)  
-- **Module 5**: Chapters [4](../manual/chap04) & [6](../manual/chap06)
+- **Module 3**: Chapter [3](/manual/chap03)  
+- **Module 4**: Chapters [4](/manual/chap04) & [5](/manual/chap05)  
+- **Module 5**: Chapters [4](/manual/chap04) & [6](/manual/chap06)
 
 ---
 
