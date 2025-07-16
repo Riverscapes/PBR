@@ -26,7 +26,7 @@ If you want to see your own low-tech process based restoration case study added 
 
 ------
 <div align="center">
-	<a class="hollow button" href="{{ site.baseurl }}/"><i class="fa fa-arrow-circle-left" aria-hidden="true"></i>  Back to Design Manual Home <i class="fa fa-book" aria-hidden="true"></i></a>
-	<a class="hollow button" href="{{ site.baseurl }}/resources/"><i class="fa fa-arrow-circle-up" aria-hidden="true"></i>  Return to PBR Resources <i class="fa fa-thumbs-up" aria-hidden="true"></i></a>
+	<a class="hollow button" href="/"><i class="fa fa-arrow-circle-left" aria-hidden="true"></i>  Back to Design Manual Home <i class="fa fa-book" aria-hidden="true"></i></a>
+	<a class="hollow button" href="/resources/"><i class="fa fa-arrow-circle-up" aria-hidden="true"></i>  Return to PBR Resources <i class="fa fa-thumbs-up" aria-hidden="true"></i></a>
 
 </div>
