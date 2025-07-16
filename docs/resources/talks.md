@@ -104,7 +104,7 @@ Jon Grigg's story of Maggie Creek, Nevada (from SRM 2018 Emerald Isles):
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aI-bTr9JAng" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-See more [LTPBR Stories, Anecdotes & Examples](/resources/casestudies/ltpbr_projects.html).
+See more [LTPBR Stories, Anecdotes & Examples](/resources/casestudies/ltpbr_projects).
 
 ---
 

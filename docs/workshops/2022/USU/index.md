@@ -39,5 +39,5 @@ Non-matriculated students can take the classes for a direct fee through our Cont
 
 ---
 
-[![Back to LTPBR Courses for University Credit or CEU](/img/sponsors/USU.png)](/workshops/uni.html#professional-continuing-education-units)
+[![Back to LTPBR Courses for University Credit or CEU](/img/sponsors/USU.png)](/workshops/uni#professional-continuing-education-units)
 

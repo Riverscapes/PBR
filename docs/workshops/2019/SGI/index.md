@@ -37,7 +37,7 @@ In Summer 2019, workshops were held to connect NRCS conservationists and partner
 
 ## Slides & Handouts
 
-[Slides & Handouts as PDFs](/workshops/2019/materials.html)
+[Slides & Handouts as PDFs](/workshops/2019/materials)
 
 ---
 

@@ -19,7 +19,7 @@ Numerous recipes and conceptual diagrams exist for low-tech process-based restor
 - [**Post-Assisted Log Structures**](/resources/recipes/Wood/pals)  
   ![HDLWD](/img/hdLWD_100_Orange.png)
 
-- [**Rock-Based Erosion Control Structures**](/resources/recipes/Rock/erosionControl.html)  
+- [**Rock-Based Erosion Control Structures**](/resources/recipes/Rock/erosionControl)  
   *(Rock-based icon)*
 
 ---
@@ -61,7 +61,7 @@ Adapted from Appendix C (Table 4) in [Chapter 1 - Shahverdian et al. (2019)](/ma
 
 ### Promoting Root Mat Production in Wet Meadows with Erosion Control
 
-Many of these structures are commonly used in [erosion control](https://envirocert.org/cpesc/) intermittent and ephemeral channels, but not exclusively. These are used frequently in channels that have headcuts extending into wet meadows and threaten the continued key process of root mat production. In such situations, these meadows may have naturally had no channels, or less incised channels, or discontinuous channels. See [Kraebel and Pillsbury](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Workshops/CheapCheerful/2018/NRCS/Resources/Handbook+of+erosion+control+in+mountain+meadows.pdf) for brush, wood, and rock examples and [some rock-based examples](/resources/recipes/Rock/erosionControl.html).
+Many of these structures are commonly used in [erosion control](https://envirocert.org/cpesc/) intermittent and ephemeral channels, but not exclusively. These are used frequently in channels that have headcuts extending into wet meadows and threaten the continued key process of root mat production. In such situations, these meadows may have naturally had no channels, or less incised channels, or discontinuous channels. See [Kraebel and Pillsbury](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Workshops/CheapCheerful/2018/NRCS/Resources/Handbook+of+erosion+control+in+mountain+meadows.pdf) for brush, wood, and rock examples and [some rock-based examples](/resources/recipes/Rock/erosionControl).
 
 | Name | Helpful Reference(s) |
 |------|----------------------|

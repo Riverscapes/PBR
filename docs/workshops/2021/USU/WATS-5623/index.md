@@ -51,7 +51,7 @@ This course introduces students to designing Low-Tech Process-Based Restoration 
 | Apr 10 | Field | Optional field trip design project |
 | Apr 13 | [5](https://usu.instructure.com/courses/618194/modules/732308), [6](https://usu.instructure.com/courses/618194/modules/732309) | [Field Design Documentation](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module4#f-putting-it-all-together-in-the-field), Applying Design to Your Own Riverscape |
 
-This course is based on [Module 4](/workshops/2020/SGI/Modules/module4.html) of the self-paced materials.  
+This course is based on [Module 4](/workshops/2020/SGI/Modules/module4) of the self-paced materials.  
 [Module 4 – Design](/workshops/2020/SGI/Modules/module4) (slides, videos, exercises)
 
 ---

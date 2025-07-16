@@ -25,9 +25,9 @@ Over 2.5 days, participants were introduced to the principles underlying low-tec
 
 ## Slides & Handouts
 
-[![Slides & Handouts PDF](/img/diagrams/presentation.png)](/workshops/2019/materials.html)
+[![Slides & Handouts PDF](/img/diagrams/presentation.png)](/workshops/2019/materials)
 
-- [Slides & Handouts (PDF)](/workshops/2019/materials.html)
+- [Slides & Handouts (PDF)](/workshops/2019/materials)
 
 ---
 
