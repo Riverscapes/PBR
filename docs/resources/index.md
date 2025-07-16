@@ -10,7 +10,7 @@ sidebar_position: 100
 | | | | |
 |---|---|---|---|
 | [![LT-PBR Manual](/img/covers/Manual_Tilted_150.png)](/manual)<br />[**LT-PBR Manual**](/manual) | [![Pocket Guide](/img/covers/pocket_guide_cover_150w.png)](/resources/pocket)<br />[**Pocket Guide**](/resources/pocket) | [![Self-Paced Modules](/img/diagrams/presentation.png)](/resources/Topics/)<br />[**Modules & Materials**](/resources/Topics/) | [![Workshops](/img/logos/USU_RC.png)](/workshops)<br />[**Workshops & Classes**](/workshops) |
-| [Go on the Virtual Reading Riverscapes Field Trip](/resources/Topics/03_Planning/sturcturalForcing) | [Go on the Virtual LTPBR Birch Creek Field Trip](/resources/Topics/03_Planning/birchcreek.html) | [![ResearchGate](/img/RG.png)](https://www.researchgate.net/project/Low-Tech-Process-Based-Restoration)<br />[**LTPBR Publications**](https://www.researchgate.net/project/Low-Tech-Process-Based-Restoration) | [**Talks & Past Webinars**](/resources/talks) |
+| [Go on the Virtual Reading Riverscapes Field Trip](/resources/Topics/03_Planning/sturcturalForcing) | [Go on the Virtual LTPBR Birch Creek Field Trip](/resources/Topics/03_Planning/birchcreek) | [![ResearchGate](/img/RG.png)](https://www.researchgate.net/project/Low-Tech-Process-Based-Restoration)<br />[**LTPBR Publications**](https://www.researchgate.net/project/Low-Tech-Process-Based-Restoration) | [**Talks & Past Webinars**](/resources/talks) |
 
 ---
 
