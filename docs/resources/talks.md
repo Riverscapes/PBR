@@ -92,7 +92,7 @@ Land manager objections center around flooding, infrastructure clogging, and tre
 
 ## Idaho Example
 
-Jay Wilde’s story of [Birch Creek, Idaho](http://lowtechpbr.restoration.usu.edu/resources/Topics/03_Planning/birchcreek.html):
+Jay Wilde’s story of [Birch Creek, Idaho](http://lowtechpbr.restoration.usu.edu/resources/Topics/03_Planning/birchcreek):
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4j6R1JxG8M8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
