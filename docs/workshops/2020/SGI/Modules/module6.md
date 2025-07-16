@@ -62,6 +62,6 @@ Below you’ll find the videos and slides from this module, all licensed under [
 
 ## Additional Resources
 
-- [Low-Tech Adaptive Management Examples](/resources/adaptivemgt)
+- [Low-Tech Adaptive Management Examples](/resources/Topics/06_AdaptiveMgt/adaptivemgt)
 
 ---
