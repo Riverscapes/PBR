@@ -26,7 +26,7 @@ sidebar_position: 100
 
 | | | | |
 |---|---|---|---|
-| [![BDA Explorer](/img/logos/LTPBRexplorer_button.png)](http://bdaexplorer.com)<br />[**BDA-Explorer Map**](http://bdaexplorer.com)<br />See projects & register your own! | [**Case Studies & Reports**](/resources/casestudies) | [![Adaptive Management](/img/AM_Loop_40_Orange.png)](/resources/adaptivemgt)<br />[**Adaptive Management**](/resources/adaptivemgt)| [**Contractors**](/resources/contractors) |
+| [![BDA Explorer](/img/logos/LTPBRexplorer_button.png)](http://bdaexplorer.com)<br />[**BDA-Explorer Map**](http://bdaexplorer.com)<br />See projects & register your own! | [**Case Studies & Reports**](/resources/casestudies) | [![Adaptive Management](/img/AM_Loop_40_Orange.png)](/resources/Topics/06_AdaptiveMgt/adaptivemgt)<br />[**Adaptive Management**](/resources/Topics/06_AdaptiveMgt/adaptivemgt)| [**Contractors**](/resources/contractors) |
 [![PBR Recipes](/img/PBR-LT_round_30.png)](/resources/recipes)<br />[**PBR Recipes**](/resources/recipes) |  |  |  |
 
 ---

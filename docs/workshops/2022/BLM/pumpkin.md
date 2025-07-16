@@ -60,7 +60,7 @@ Licensed under [Creative Commons Attribution 4.0](https://creativecommons.org/).
 
 - [Google Doc LTPBR Report Template](http://capstone.restoration.usu.edu/Course_Topics/WATS_5350/Low-Tech/Projects/birch/birchplanning.html#report-template)  
 - [LTPBR Case Studies & Examples](/resources/casestudies)  
-- [Adaptive Management Examples](/resources/adaptivemgt)
+- [Adaptive Management Examples](/resources/Topics/06_AdaptiveMgt/adaptivemgt)
 
 ---
 
