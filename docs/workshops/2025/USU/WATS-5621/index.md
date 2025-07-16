@@ -50,9 +50,9 @@ Students will view pre-recorded lectures and complete readings before each discu
 
 | Date | Module | Topics |
 |------|--------|--------|
-| Feb 18 | 2.1 | [Review & Introduction](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module2.html#b-mimicking--promoting-wood-accumulation--beaver-dam-activity) + [Building Resilience Case Studies](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module2.html#e-building-resilience-with-low-tech) |
-| Feb 25 | 2.2 | [Bridge Creek & Birch Creek Case Studies](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module2.html#c-beaver-dam-analogues-bridge-creek--birch-creek) + [Asotin Creek](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module2.html#d-post-assisted-log-structures-case-study-asotin-creek) |
-| Mar 4 | 2.3 | [State of Supporting Science & Knowledge Gaps](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module2.html#f-where-science-is-at-ongoing--outstanding-science) |
+| Feb 18 | 2.1 | [Review & Introduction](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module2#b-mimicking--promoting-wood-accumulation--beaver-dam-activity) + [Building Resilience Case Studies](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module2#e-building-resilience-with-low-tech) |
+| Feb 25 | 2.2 | [Bridge Creek & Birch Creek Case Studies](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module2#c-beaver-dam-analogues-bridge-creek--birch-creek) + [Asotin Creek](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module2#d-post-assisted-log-structures-case-study-asotin-creek) |
+| Mar 4 | 2.3 | [State of Supporting Science & Knowledge Gaps](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module2#f-where-science-is-at-ongoing--outstanding-science) |
 
 ---
 

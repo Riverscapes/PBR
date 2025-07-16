@@ -6,9 +6,9 @@ slug: /resources/Topics/02_Science/fire
 
 # Fire Resiliency
 
-[![Fire Resilience](/img/pics/FireResilience.png)](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module1.html#j-principles)
+[![Fire Resilience](/img/pics/FireResilience.png)](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module1#j-principles)
 
-The idea that beaver dams can improve the resiliency of riverscapes to fire is common sense. That argument is made in [Module 1's Principles Lecture](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module1.html#j-principles). This page highlights examples, anecdotes, and the surprisingly [small amount (but convincing) of published scientific evidence](https://en.wikipedia.org/wiki/North_American_beaver#Beaver_ponds_as_wildlife_refugia_and_firebreaks_in_wildfires) behind the idea that *“It’s really not complicated: water doesn’t burn…”* ([National Geographic](https://www.nationalgeographic.com/animals/2020/09/beavers-firefighters-wildfires-california-oregon/)).
+The idea that beaver dams can improve the resiliency of riverscapes to fire is common sense. That argument is made in [Module 1's Principles Lecture](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module1#j-principles). This page highlights examples, anecdotes, and the surprisingly [small amount (but convincing) of published scientific evidence](https://en.wikipedia.org/wiki/North_American_beaver#Beaver_ponds_as_wildlife_refugia_and_firebreaks_in_wildfires) behind the idea that *“It’s really not complicated: water doesn’t burn…”* ([National Geographic](https://www.nationalgeographic.com/animals/2020/09/beavers-firefighters-wildfires-california-oregon/)).
 
 You will find resources on:
 
