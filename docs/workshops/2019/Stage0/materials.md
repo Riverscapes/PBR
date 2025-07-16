@@ -47,7 +47,7 @@ Sponsored by [River Restoration Northwest](http://www.rrnw.org/) and Portland St
 
 - [Intro to Low-Tech – Slides (PDF)](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Workshops/Stage0/2019/Slides/2019_PSU_Wheaton_LTPBR_Intro.pdf)
 
-Reference reading: [Design Manual Chapter 1](../manual/chap01) and [Chapter 2](../manual/chap02), plus the [Pocket Guide](../resources/pocket).
+Reference reading: [Design Manual Chapter 1](/manual/chap01) and [Chapter 2](/manual/chap02), plus the [Pocket Guide](/resources/pocket).
 
 ---
 
@@ -97,12 +97,12 @@ For deeper study:
 
 ![Design Exercise](/img/workshops/2019/DesignForm.png)
 
-- Reviewed **design objectives** (see [Design Manual Chapter 4](../manual/chap04) and [Pocket Guide](../resources/pocket))
+- Reviewed **design objectives** (see [Design Manual Chapter 4](/manual/chap04) and [Pocket Guide](/resources/pocket))
 - Split into groups to discuss, layout, and flag designs
-- Covered logistics, safety, and post pounding ([Design Manual Chapter 6](../manual/chap06))
+- Covered logistics, safety, and post pounding ([Design Manual Chapter 6](/manual/chap06))
 - Hands-on building of PALS, Post-Assisted BDAs, Postless BDAs
-- Adaptive management discussions ([Chapters 3, 4, 6](../manual/))
-- Final workshop synthesis and help resources ([Contractor Resources](../resources/contractors))
+- Adaptive management discussions ([Chapters 3, 4, 6](/manual/))
+- Final workshop synthesis and help resources ([Contractor Resources](/resources/contractors))
 
 ---
 

@@ -62,7 +62,7 @@ All course outline, modules, and assignments are in Canvas:
 | Jan 18, 2022 | 1.2 | [Intro to Low-Tech Tools](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module1#g-broad-umbrella-of-low-tech-restoration) & [Guiding Principles](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module1#j-principles) |
 | Jan 25, 2022 | 1.3 | [Partnering with Beaver](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module1#k-beaver-history--biology) & [Synthesis](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module1#n-wrap-up-and-preview-of-remaining-modules) |
 
-**Base materials**: [Module 1 Slides, Lectures, Exercises](../../workshops/2020/SGI/Modules/module1)
+**Base materials**: [Module 1 Slides, Lectures, Exercises](/workshops/2020/SGI/Modules/module1)
 
 ---
 
@@ -119,9 +119,9 @@ This course uses modules with slides, recorded lectures, and exercises. All are 
 ## Course Texts
 
 **Required Reading**  
-- [Design Manual](../../manual)  
+- [Design Manual](/manual)  
   - [Free PDF](https://www.researchgate.net/publication/332304757_Low-Tech_Process-Based_Restoration_of_Riverscapes_Design_Manual_Version_10)  
-- [Pocket Field Guide](../../resources/pocket)  
+- [Pocket Field Guide](/resources/pocket)  
   - [Free PDF](https://www.researchgate.net/publication/333827387_Low-Tech_Process-Based_Restoration_of_Riverscapes_Pocket_Field_Guide)
 
 > Printed copies available on Amazon, BookBaby, and Anabranch Solutions
