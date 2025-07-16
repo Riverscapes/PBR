@@ -27,7 +27,7 @@ Related to the LTPBR workshop [**Module 2 - Science & Case Studies**](/workshops
 
 - [**Low-Tech PBR Case Studies & Reports**](/resources/casestudies)
 
-- [**Low-Tech Adaptive Management Examples**](/resources/adaptivemgt)  
+- [**Low-Tech Adaptive Management Examples**](/resources/Topics/06_AdaptiveMgt/adaptivemgt)  
   ![Adaptive Management](/img/AM_Loop_40_Orange.png)
 
 - [**Post-Fire Restoration Case Studies**](/resources/contractors) 🔥
