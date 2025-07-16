@@ -1,6 +1,7 @@
 ---
 title: BLM/NRCS LTPBR Series | 2024
 sidebar_position: 200
+slug: /workshops/2024/federal_series
 ---
 
 # LTPBR Series Trainings for Federal Agencies
