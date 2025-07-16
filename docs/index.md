@@ -36,7 +36,7 @@ The [design manual](/manual) and  [Pocket Guide](/resources/pocket) are availabl
     See here for Self-Paced Resources
   </a>
 
-  <a className="button button--primary" href="/resources/Topics/03_Planning/sturcturalForcing.html" style={{ margin: "0.5rem", minWidth: "250px", minHeight: "75px", display: "inline-block" }}>
+  <a className="button button--primary" href="/resources/Topics/03_Planning/sturcturalForcing" style={{ margin: "0.5rem", minWidth: "250px", minHeight: "75px", display: "inline-block" }}>
     Take a Virtual<br />
     <b>Reading Riverscapes Field Trip</b>
   </a>
