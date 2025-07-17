@@ -42,6 +42,19 @@ const config: Config = {
   themeConfig: {
     image: 'img/logo.png', // Social sharing image
 
+    algolia: {
+      // The application ID provided by Algolia
+      appId: '4TGS8ZPIMY',
+
+      // Public API key: it is safe to commit it
+      apiKey: 'd084a7919fe7b5940d7125f14221eaca',
+
+      indexName: 'lowtechpbr.restoration.usu.edu',
+
+      // Optional: see doc section below
+      contextualSearch: true,
+    },
+
     navbar: {
       title: 'Low-Tech Process-Based Restoration of Riverscapes', // Navbar title
       logo: {
