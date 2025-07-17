@@ -33,7 +33,7 @@ const config: Config = {
         docs: {
           sidebarPath: './sidebars.ts', // Path to sidebar config
           routeBasePath: '/', // Serve docs at site root
-          editUrl: "https://github.com/Riverscapes/PBR/tree/master",
+          editUrl: 'https://github.com/Riverscapes/PBR/tree/master',
         },
       } satisfies Preset.Options,
     ],
