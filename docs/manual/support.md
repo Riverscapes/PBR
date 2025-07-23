@@ -9,6 +9,13 @@ This design manual was made possible with financial support from the [USDA-Natur
 
 ### Design Manual Sponsors
 
+<LogoWrapper
+  logos={[
+    { imageUrl: "/img/sponsors/WLFW_1.png", url: "https://www.nrcs.usda.gov/wps/portal/nrcs/detail/national/plantsanimals/fishwildlife/?cid=stelprdb1046975" },
+  size="sm"
+/>
+
+
 <div style={{ display: "flex", flexWrap: "wrap", justifyContent: "center", alignItems: "center", gap: "1rem" }}>
   <a href="https://www.nrcs.usda.gov/wps/portal/nrcs/detail/national/plantsanimals/fishwildlife/?cid=stelprdb1046975">
     ![WLFW logo](/img/sponsors/WLFW_1.png)
