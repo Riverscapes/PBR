@@ -5,12 +5,52 @@ sidebar_position: 100
 
 # Additional Low-Tech Process-Based Restoration Resources
 
-### References and Training Resources
 
-| | | | |
-|---|---|---|---|
-| [![LT-PBR Manual](/img/covers/Manual_Tilted_150.png)](/manual)<br />[**LT-PBR Manual**](/manual) | [![Pocket Guide](/img/covers/pocket_guide_cover_150w.png)](/resources/pocket)<br />[**Pocket Guide**](/resources/pocket) | [![Self-Paced Modules](/img/diagrams/presentation.png)](/resources/Topics/)<br />[**Modules & Materials**](/resources/Topics/) | [![Workshops](/img/logos/USU_RC.png)](/workshops)<br />[**Workshops & Classes**](/workshops) |
-| [Go on the Virtual Reading Riverscapes Field Trip](/resources/Topics/03_Planning/sturcturalForcing) | [Go on the Virtual LTPBR Birch Creek Field Trip](/resources/Topics/03_Planning/birchcreek) | [![ResearchGate](/img/RG.png)](https://www.researchgate.net/project/Low-Tech-Process-Based-Restoration)<br />[**LTPBR Publications**](https://www.researchgate.net/project/Low-Tech-Process-Based-Restoration) | [**Talks & Past Webinars**](/resources/talks) |
+<ToolsWrapper
+  sectionTitle="References and Training Resources"
+  cardsize="sm"
+  cards={[
+    {
+      title: "LT-PBR Manual",
+      description: "The 2019 Low-Tech Process-Based Restoration of Riverscapes Design Manual (Free)",
+      toolUrl: "/manual",
+      imageUrl: "/img/covers/Manual_Tilted_150.png",
+    },
+    {
+      title: "Pocket Guide",
+      description: "A LTPBR Pocket Guide to take with you into the field.",
+      toolUrl: "/resources/pocket",
+      imageUrl: "/img/covers/pocket_guide_cover_150w.png",
+    },
+    {
+      title: "Self-Paced Modules",
+      description: "LTPBR Modules on Introduction to LTPBR",
+      toolUrl: "/resources/Topics/",
+      imageUrl: "/img/diagrams/presentation.png",
+    },
+    {
+      title: "Workshops & Classes",
+      description: "Browse past and upcoming workshop and class syllabai and resources (primarily Utah State University)",
+      toolUrl: "/workshops",
+      imageUrl: "/img/logos/USU_RC.png",
+    },
+    {
+      title: "Reading Riverscapes - Virtual",
+      description: "Go on the Virtual Reading Riverscapes Field Trip on Spawn Creek, UT",
+      toolUrl: "/resources/Topics/03_Planning/sturcturalForcing",
+    },
+    {
+      title: "See an LTPBR Project - Virtual",
+      description: "Go on the Virtual LTPBR Birch Creek, ID Field Trip",
+      toolUrl: "/resources/Topics/03_Planning/sturcturalForcing",
+    },
+    {
+      title: "Talks & Past Webinars",
+      description: "Maintained upto 2022",
+      toolUrl: "/resources/talks",
+    }
+  ]}
+/>
 
 ---
 
