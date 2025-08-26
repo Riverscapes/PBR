@@ -15,7 +15,7 @@ Below you’ll find PDFs and video recordings for each topic from this virtual w
 
 Watch the entire playlist on YouTube:  
 [Module 1 Playlist](https://www.youtube.com/playlist?list=PLjhZYBVnXmga114fdPTOzh60t8lDUm_Mi)
-
+<YouTubeEmbed videoId="videoseries?si=ShLyh1OooBaksIn1&amp;list=PLjhZYBVnXmga114fdPTOzh60t8lDUm_Mi" />
 ---
 
 ## Topics
@@ -24,20 +24,62 @@ Watch the entire playlist on YouTube:
 
 ### A. Logistics
 
-**Presenter:** [Joe Wheaton](/workshops/2020/SGI/#instruction-team)  
-Introduces the presenters and explains the logistics of the virtual workshop.
+**Presenter:** 
+<LogoWrapper
+  size="sm"
+  logos={[
+    {
+      imageUrl: "/img/people/JoeWheaton_Circle.png",
+      name: "Joe Wheaton",
+      url: "/workshops/2020/SGI/#instruction-team"
+    },
+  ]}
+/>
 
-- [Slides (PDF)](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2020/SGI/Materials/Moudle1/01_A_Logistics.pdf)
+<ToolsWrapper
+    cardsize="sm"
+    cards={[
+    {
+      title: "Slides (PDF)",
+      description: "Introduces the presenters and explains the logistics of the virtual workshop.",
+      toolUrl: "https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2020/SGI/Materials/Moudle1/01_A_Logistics.pdf",
+      imageUrl: "/img/workshops/2020/modules/01_A.png",
+      imageLink: "https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2020/SGI/Materials/Moudle1/01_A_Logistics.pdf",
+    },
+  ]}
+/>
 
 ---
 
 ### B. Background & Why We’re Here
 
-**Presenter:** [Jeremy Maestas](/workshops/2020/SGI/#instruction-team)  
-Sets the stage for why we’re here, the scope of degradation, and a shared vision.
+**Presenter:**
+<LogoWrapper
+  size="sm"
+  logos={[
+    {
+      imageUrl: "/img/people/Maestas_round.png",
+      name: "Jeremy Maestas",
+      url: "/workshops/2020/SGI/#instruction-team"
+    },
+  ]}
+/> 
 
-- [Video](https://www.youtube.com/watch?v=pTGj84HeDvg)  
-- [Slides (PDF)](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2020/SGI/Materials/Moudle1/01_B_LowTech_Background%26Purpose.pdf)
+<ToolsWrapper
+    cardsize="sm"
+    cards={[
+    {
+      title: "Slides (PDF)",
+      description: "Sets the stage for why we’re here, the scope of degradation, and a shared vision.",
+      toolUrl: "https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2020/SGI/Materials/Moudle1/01_B_LowTech_Background%26Purpose.pdf",
+      imageUrl: "/img/workshops/2020/modules/01_B.png",
+      imageLink: "https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2020/SGI/Materials/Moudle1/01_B_LowTech_Background%26Purpose.pdf",
+    },
+  ]}
+/>
+
+<YouTubeEmbed videoId="pTGj84HeDvg" />
+
 
 ---
 
