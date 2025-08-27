@@ -3,8 +3,6 @@ title: Front Matter
 sidebar_position: 4
 ---
 
-## Manual Front Matter
-
 [![Front Matter Cover](/img/covers/Chap0_150.png)](https://usu.box.com/s/2ggngvl83zpvuohsj1b1t25mh6n11m0n)
 
 The [front matter](https://usu.box.com/s/2ggngvl83zpvuohsj1b1t25mh6n11m0n) for the manual contains:
