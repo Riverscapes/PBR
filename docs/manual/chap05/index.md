@@ -1,9 +1,9 @@
 ---
-title: 5. Design
+title: "Chapter 5: Designing Low-Tech Restoration Projects"
+sidebar_label: 5. Design
 sidebar_position: 500
 ---
 
-## Chapter 5: Designing Low-Tech Restoration Projects
 
 [![Chapter 5 Cover](/img/covers/Chap5.png)](http://dx.doi.org/10.13140/RG.2.2.11621.45286)
 

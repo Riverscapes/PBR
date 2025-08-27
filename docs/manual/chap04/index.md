@@ -1,9 +1,10 @@
 ---
-title: 4. PALS and BDAs
+title: "Chapter 4: Mimicking and Promoting Wood Accumulation and Beaver Dam Activity with Post-Assisted Log Structures and Beaver Dam Analogues"
+sidebar_label: 4. PALS and BDAs
 sidebar_position: 400
 ---
 
-## Chapter 4: Mimicking and Promoting Wood Accumulation and Beaver Dam Activity with Post-Assisted Log Structures and Beaver Dam Analogues
+
 
 [![Chapter 4 Cover](/img/covers/Chap4.png)](http://dx.doi.org/10.13140/RG.2.2.22526.64324)
 

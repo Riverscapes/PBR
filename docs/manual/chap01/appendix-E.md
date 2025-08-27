@@ -1,11 +1,8 @@
 ---
-title: Appendix E
+title: Related Resources
+sidebar_label: Appendix E
 sidebar_position: 102
 ---
-
-# Appendix E
-
-## Related Resources
 
 ### Some Talks from Joe on River Health
 

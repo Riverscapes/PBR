@@ -1,9 +1,10 @@
 ---
-title: 7. Conclusions
+title: "Chapter 7: Call to Action, Additional Resources & Conclusions"
+sidebar_label: 7. Conclusions
 sidebar_position: 700
 ---
 
-## Chapter 7: Call to Action, Additional Resources & Conclusions
+
 
 [![Chapter 7 Cover](/img/covers/Chap7.png)](http://dx.doi.org/10.13140/RG.2.2.18332.33922)
 
