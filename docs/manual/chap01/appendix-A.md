@@ -1,9 +1,10 @@
 ---
-title: Appendix A
+title: Appendix A - Partial Selection of Past Literature Relevant to Low-Tech Restoration
+sidebar_label: Appendix A
 sidebar_position: 101
 ---
 
-## Appendix A - Partial Selection of Past Literature Relevant to Low-Tech Restoration
+
 
 Based on Table 3 from [Chapter 1 – Shahverdian et al. (2019)](/manual/chap01), Appendix A. Below is a partial selection of other relevant manuals, books, and technical guidance on process-based restoration of riverscapes, and each reference’s relationship to helping restore riverscapes.
 

@@ -1,9 +1,9 @@
 ---
-title: 2. Principles
+title: "Chapter 2: Principles of Low-Tech Process-Based Restoration"
+sidebar_label: 2. Principles
 sidebar_position: 200
 ---
 
-## Chapter 2: Principles of Low-Tech Process-Based Restoration
 
 [![Chapter 2 Cover](/img/covers/Chap2_150.png)](http://dx.doi.org/10.13140/RG.2.2.34270.69447)
 

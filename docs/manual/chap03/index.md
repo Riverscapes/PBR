@@ -1,9 +1,9 @@
 ---
-title: Planning
+title: " Chapter 3: Planning for Low-Tech Process-Based Restoration"
+sidebar_label: Planning
 sidebar_position: 1
 ---
 
-# Chapter 3: Planning for Low-Tech Process-Based Restoration
 
 [![Chapter 3 Cover](/img/covers/Chap3.png)](http://dx.doi.org/10.13140/RG.2.2.15815.75680)
 

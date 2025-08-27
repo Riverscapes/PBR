@@ -1,9 +1,9 @@
 ---
-title: 1. Background & Purpose
+title: "Chapter 1: Background & Purpose"
+sidebar_label: 1. Background & Purpose
 sidebar_position: 100
 ---
 
-## Chapter 1: Background & Purpose
 
 [![Chapter 1 Cover](/img/covers/Chap1.png)](http://dx.doi.org/10.13140/RG.2.2.14138.03529)
 
