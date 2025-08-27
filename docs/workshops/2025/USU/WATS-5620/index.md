@@ -22,7 +22,6 @@ This course provides an introduction to the practice of Low-Tech Process-Based R
 | **Schedule** | Hybrid Face-to-Face Lecture |
 | **Cross-listed** | CEWA 5620 |
 
-[← Back to Spring 2025 LTPBR Courses](/workshops/2025/USU/)
 
 ---
 

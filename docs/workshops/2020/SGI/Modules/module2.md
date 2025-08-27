@@ -7,7 +7,6 @@ sidebar_position: 2
 
 Below you’ll find PDFs and videos from this virtual workshop. Licensed under [Creative Commons](https://creativecommons.org/), you are free to re-use under its terms.
 
-[← Back to all Modules](/resources/Topics/) &nbsp; | &nbsp; [→ Bonus Resources for Module 2](/resources/Topics/02_Science/)
 
 ---
 

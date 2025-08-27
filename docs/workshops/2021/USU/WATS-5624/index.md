@@ -21,7 +21,6 @@ This course introduces the implementation phase of Low-Tech Process-Based Restor
 | **Schedule Types** | Hybrid Face-to-Face Lecture |
 | **Cross-Listed As** | CEWA 5700 (WATS/CEWA 5624 from 2022 onward) |
 
-[← Back to Spring 2021 LTPBR Courses](/workshops/2021/USU/)
 
 ---
 

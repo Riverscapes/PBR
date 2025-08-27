@@ -22,7 +22,6 @@ This course introduces Adaptive Management and how it can be applied to Low-Tech
 | **Schedule** | Hybrid face-to-face / online |
 | **Cross-listed As** | CEWA 5625 |
 
-[← Back to Spring 2023 LTPBR Courses](/workshops/2023/USU/)
 
 ---
 

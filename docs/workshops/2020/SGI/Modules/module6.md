@@ -7,8 +7,6 @@ sidebar_position: 6
 
 Below you’ll find the videos and slides from this module, all licensed under [Creative Commons](https://creativecommons.org/) for re-use.
 
-[← Back to all Modules](/resources/Topics/) &nbsp; | &nbsp; [→ Bonus Resources for Module 6](/resources/Topics/06_AdaptiveMgt/)
-
 ---
 
 ## Topics

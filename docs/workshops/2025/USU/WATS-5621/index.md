@@ -21,7 +21,6 @@ Students explore the science and case studies that support Low-Tech Process-Base
 | **Schedule** | Hybrid Face-to-Face Lecture |
 | **Course Number** | WATS 5621 (cross-listed CEWA 5621) |
 
-[← Back to Spring 2025 LTPBR Courses](/workshops/2025/USU/)
 
 ---
 

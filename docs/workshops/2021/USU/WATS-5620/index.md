@@ -22,7 +22,7 @@ This course introduces the practice of **Low-Tech Process-Based Restoration of R
 | **Schedule Type**       | Hybrid Face-to-Face + Online                                      |
 | **Cross-Listed As**     | CEWA 5700 (to be CEWA 5620 from 2022)                             |
 
-[← Back to Spring 2021 LTPBR Courses for Credit or CEU](/workshops/2021/USU/)
+
 
 ---
 

@@ -21,7 +21,6 @@ This course introduces students to designing Low-Tech Process-Based Restoration 
 | **Schedule** | Hybrid Face-to-Face Lecture |
 | **Cross-listed** | CEWA 5700 (becomes WATS/CEWA 5623 in 2022) |
 
-[← Back to Spring 2021 LTPBR Courses](/workshops/2021/USU/)
 
 ---
 

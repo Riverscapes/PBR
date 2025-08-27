@@ -24,7 +24,6 @@ This course provides an introduction to designing Low-Tech Process-Based Restora
 | **Schedule** | Hybrid Face-to-Face Lecture |
 | **Cross-listed** | CEWA 5623 |
 
-[← Back to Spring 2025 LTPBR Courses for Credit or CEU](/workshops/2025/USU/)
 
 ---
 

@@ -24,7 +24,7 @@ This course provides an introduction to the planning process for Low-Tech Proces
 | **Schedule** | Hybrid Face-to-Face Lecture |
 | **Cross-listed** | CEWA 5622 |
 
-[← Back to Spring 2023 LTPBR Courses for Credit or CEU](/workshops/2023/USU/)
+
 
 ---
 

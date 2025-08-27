@@ -22,7 +22,6 @@ This course introduces the design of Low-Tech Process-Based Restoration (LTPBR) 
 | **Schedule** | Hybrid Face-to-Face |
 | **Cross-listed As** | CEWA 5623 |
 
-[← Back to Spring 2024 LTPBR Courses](/workshops/2024/USU/)
 
 ---
 

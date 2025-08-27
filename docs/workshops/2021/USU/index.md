@@ -37,7 +37,7 @@ Non-matriculated students can take the classes for a direct fee through our Cont
 
 ♣ Course numbers pending; Note for [Spring 2021](/workshops/2021/USU/), these were offered as CEWA 5700 Special Topics.
 
-[![Back to LTPBR Courses](/img/sponsors/USU.png)](/workshops/uni#professional-continuing-education-units)
+
 
 ---
 

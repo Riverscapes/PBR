@@ -24,7 +24,7 @@ This course provides an introduction to Low-Tech Process-Based Restoration of Ri
 | **Schedule** | Hybrid Face-to-Face Lecture |
 | **Cross-listed** | CEWA 5620 |
 
-[← Back to Spring 2024 LTPBR Courses for University Credit or Professional CEU](/workshops/2024/USU/)
+
 
 ---
 
