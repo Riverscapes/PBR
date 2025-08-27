@@ -22,7 +22,6 @@ This course introduces Low-Tech Process-Based Restoration of Riverscapes impleme
 | **Schedule** | Hybrid Face-to-Face Lecture |
 | **Cross-listed** | CEWA 5624 |
 
-[← Back to Spring 2025 LTPBR Courses](/workshops/2025/USU/)
 
 ---
 

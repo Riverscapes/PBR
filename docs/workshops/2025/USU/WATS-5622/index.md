@@ -22,7 +22,6 @@ This course introduces the planning process for Low-Tech Process-Based Restorati
 | **Course Number** | WATS 5622 |
 | **Cross-listed** | CEWA 5622 |
 
-[← Back to Spring 2025 LTPBR Courses for Credit or CEU](/workshops/2025/USU/)
 
 ---
 

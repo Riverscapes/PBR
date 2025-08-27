@@ -7,7 +7,7 @@ sidebar_position: 1
 
 Below you’ll find PDFs and video recordings for each topic from this virtual workshop. These materials are licensed under [Creative Commons](https://creativecommons.org/), so you are free to share, adapt, and re-use subject to its terms.
 
-[← Back to all Modules](/resources/Topics/) &nbsp; | &nbsp; [→ Bonus Resources for Module 1](/resources/Topics/01_Overview/)
+
 
 ---
 

@@ -7,7 +7,7 @@ sidebar_position: 5
 
 Below you’ll find videos and PDF slides from this module, licensed under [Creative Commons](https://creativecommons.org/), free to re-use under its terms.
 
-[← Back to all Modules](/resources/Topics/) &nbsp; | &nbsp; [→ Bonus Resources for Module 5](/resources/Topics/05_Implementation/)
+
 
 ---
 

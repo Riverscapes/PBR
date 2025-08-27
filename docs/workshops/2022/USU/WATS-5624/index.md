@@ -19,7 +19,6 @@ This course introduces Low-Tech Process-Based Restoration of Riverscapes impleme
 | **Schedule Type**                   | Hybrid Face-to-Face Lecture                                        |
 | **Cross-Listed As**                 | CEWA 5624                                                          |
 
-[← Back to Spring 2022 Courses](/workshops/2022/USU/)
 
 ---
 

@@ -21,7 +21,6 @@ Students explore the science and case studies that encouraged Low-Tech Process-B
 | **Schedule Types** | Hybrid Face-to-Face Lecture |
 | **Cross-Listed As** | CEWA 5700 (becomes WATS/CEWA 5621 in Spring 2022) |
 
-[← Back to Spring 2021 LTPBR Courses](/workshops/2021/USU/)
 
 ---
 

@@ -7,7 +7,6 @@ sidebar_position: 4
 
 Below you’ll find the videos and PDFs from this module, licensed under [Creative Commons](https://creativecommons.org/), free to re-use under its terms.
 
-[← Back to all Modules](/resources/Topics/) &nbsp; | &nbsp; [→ Bonus Resources for Module 4](/resources/Topics/04_Design/)
 
 ---
 

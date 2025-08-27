@@ -7,7 +7,7 @@ sidebar_position: 3
 
 Below you’ll find the videos and PDFs from this module, licensed under [Creative Commons](https://creativecommons.org/), free to re-use under its terms.
 
-[← Back to all Modules](/resources/Topics/) &nbsp; | &nbsp; [→ Bonus Resources for Module 3](/resources/Topics/03_Planning/)
+
 
 ---
 

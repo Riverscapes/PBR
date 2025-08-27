@@ -22,7 +22,7 @@ This course introduces the planning process for Low-Tech Process-Based Restorati
 | **Schedule** | Hybrid Face-to-Face |
 | **Cross-listed** | CEWA 5622 |
 
-[← Back to Spring 2024 LTPBR Courses for Credit or CEU](/workshops/2024/USU/)
+
 
 ---
 

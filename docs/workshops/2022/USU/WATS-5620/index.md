@@ -23,11 +23,6 @@ sidebar_position: 1
 | **Schedule** | Hybrid Face-to-Face Lecture |
 | **Cross-listed** | CEWA 5620 |
 
-<div align="center">
-
-[← Back to Spring 2022 Courses](/workshops/2022/USU/)
-
-</div>
 
 ---
 

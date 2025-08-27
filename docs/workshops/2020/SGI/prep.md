@@ -9,7 +9,6 @@ sidebar_position: 2
 
 This page will help you get ready for the virtual workshop.
 
-[← Back to Workshop Page](/workshops/2020/SGI/)
 
 ---
 

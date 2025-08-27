@@ -22,7 +22,6 @@ Students explore the science and case studies that encouraged Low-Tech Process-B
 | **Schedule** | Hybrid face-to-face lecture |
 | **Cross-listed** | CEWA 5621 |
 
-[← Back to Spring 2023 LTPBR Courses](/workshops/2023/USU/)
 
 ---
 
