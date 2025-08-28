@@ -3,34 +3,37 @@ title: Low-Tech PBR Workshops
 sidebar_position: 100
 ---
 
-## Formats
 
-![Teaching workshops](/img/workshops/teaching.jpg)
+<div>
+  <div style={{ float: "right", marginLeft: "1.5em", marginBottom: "1em" }}>
+    <img src="/img/workshops/teaching.jpg" alt="Teaching workshops" />
+  </div>
+  <div>
+    We have taught over 30 workshops, short-courses, and full semester-long classes since 2010 on low-tech process-based restoration (see table below). There are a variety of ways in which we have offered this training:
 
-We have taught over 30 workshops, short-courses, and full semester-long classes since 2010 on low-tech process-based restoration (see table below). There are a variety of ways in which we have offered this training:
+    - **[University courses](/workshops/uni)** through Utah State [University Department of Watershed Sciences](https://qcnr.usu.edu/wats/) for matriculated graduate students (e.g. WATS 5620, 5621, 5622, 5623, 5624, 6900, 6860) or professionals as continuing education units (CEUs; e.g. CEWA 5620, 5621, 5622, 5623, 5624, 6900) — *tuition fee charged per unit*  
+    - **Short courses & workshops** open to public enrollment administered through the Utah State University [Restoration Consortium](http://restoration.usu.edu) — *workshop fee charged*  
+    - **Custom short course for a private audience** — Virtual Workshops (e.g. [WLFW 2020](/workshops/2020/SGI)) and In-Person Workshops *(paid for by workshop sponsor(s))*  
+    - **[Self-Paced Modules](/resources/Topics/)** — *Free*
+  </div>
+  <div style={{ clear: "both" }} />
+</div>
 
-- **[University courses](/workshops/uni)** through Utah State [University Department of Watershed Sciences](https://qcnr.usu.edu/wats/) for matriculated graduate students (e.g. WATS 5620, 5621, 5622, 5623, 5624, 6900, 6860) or professionals as continuing education units (CEUs; e.g. CEWA 5620, 5621, 5622, 5623, 5624, 6900) — *tuition fee charged per unit*  
-- **Short courses & workshops** open to public enrollment administered through the Utah State University [Restoration Consortium](http://restoration.usu.edu) — *workshop fee charged*  
-- **Custom short course for a private audience** — Virtual Workshops (e.g. [WLFW 2020](/workshops/2020/SGI)) and In-Person Workshops *(paid for by workshop sponsor(s))*  
-- **[Self-Paced Modules](/resources/Topics/)** — *Free*
+:::note
+Undergraduates in the [Department of Watershed Sciences](https://qcnr.usu.edu/wats/) [Management and Restoration of Aquatic Ecosystems](https://qcnr.usu.edu/undergraduates/prospective/degrees/aquatic_ecosystems) major get a full year of training on low-tech process-based restoration in the [Capstone Classes (WATS 5340 & 5350)](http://capstone.restoration.usu.edu).
+:::
 
-Note that undergraduates in the [Department of Watershed Sciences](https://qcnr.usu.edu/wats/) [Management and Restoration of Aquatic Ecosystems](https://qcnr.usu.edu/undergraduates/prospective/degrees/aquatic_ecosystems) major get a full year of training on low-tech process-based restoration in the [Capstone Classes (WATS 5340 & 5350)](http://capstone.restoration.usu.edu).
+<!-- ![USU Restoration Consortium](/img/logos/Restoration-PAIRED-05_Horizontal_BlueOnWhite.png) -->
 
-![USU Restoration Consortium](/img/logos/Restoration-PAIRED-05_Horizontal_BlueOnWhite.png)
+## Workshops & Short-Courses
 
------
-
-# Workshops & Short-Courses
-
-## University Courses on LTPBR
+### University Courses on LTPBR
 
 See our [University courses](/workshops/uni) for a full listing.
 
 [**LTPBR Courses** for University Credit or Professional CEU](/workshops/uni)
 
----------------------
-
-## Public Enrollment Workshops
+### Public Enrollment Workshops
 
 | Year               | Workshop                                                     | Location           | Audience                                                     |
 | ------------------ | ------------------------------------------------------------ | ------------------ | ------------------------------------------------------------ |
@@ -45,9 +48,7 @@ See our [University courses](/workshops/uni) for a full listing.
 | 2016, October     | Beaver Restoration Class                                     | Prineville, Oregon | [Portland State University](https://www.pdx.edu/environmental-professional-program/river-restoration-certificate) |
 | 2013, February     | Working with Beaver in Restoration                           | Skamania, WA       | [River Restoration Northwest Annual Symposium](http://restoration.usu.edu/) |
 
----------------------
-
-## Custom Private Workshops
+### Custom Private Workshops
 
 | Year  | Workshop | Location(s) | Sponsor(s) |
 | ------ | ------ | ------ | ------ |
@@ -72,9 +73,7 @@ See our [University courses](/workshops/uni) for a full listing.
 | 2013, Aug | Working with Beaver in Restoration | Logan, UT | Utah NRCS |
 | 2012, Oct | Partnering with Beaver in Restoration | Logan, UT | Utah Watersheds Coordinating Council |
 
------
-
-# Workshop Locations
+## Workshop Locations
 
 In addition to teaching these workshops at the [Utah State University campus](https://www.usu.edu/map/) in Logan, we have taught LTPBR workshops in a variety of locations:
 

@@ -27,8 +27,6 @@ These courses are assessed, and you will receive feedback and a letter grade bas
 | CEWA 6628 | [**Riverscape Monitoring**](https://cpe.usu.edu/search/publicCourseSearchDetails.do?method=load&courseId=1467564) | **Oct 27 - Oct 30, 2025** | All Day | $315 | [Register](https://cpe.usu.edu/search/publicCourseSearchDetails.do?method=load&courseId=1467564) |
 | CEWA 6629 | [**Screening & Prioritization**](https://cpe.usu.edu/search/publicCourseSearchDetails.do?method=load&courseId=1467566) of Riverscapes | **Nov 10 - Nov 13, 2025** | All Day | $315 | [Register](https://cpe.usu.edu/search/publicCourseSearchDetails.do?method=load&courseId=1467566) |
 
----
-
 ## CERP - Compliant
 
 Our program and the LTPBR curriculum have undergone a review by the Society of Ecological Restoration so that these courses count towards their [Certified Ecological Restoration Practitioner Program](https://www.ser.org/page/Certification).

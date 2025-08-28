@@ -3,7 +3,7 @@ title: Volunteer for LTPBR Construction
 sidebar_position: 300
 ---
 
-![Volunteer](/img/pics/volunteer.png)
+<!-- ![Volunteer](/img/pics/volunteer.png) -->
 
 For [USU-administered short courses and workshops](/workshops/uni/), we often allow and/or invite volunteers to participate in construction days and activities. To participate as a volunteer in construction, you need to:
 
@@ -12,8 +12,6 @@ For [USU-administered short courses and workshops](/workshops/uni/), we often al
     - [Video](#video)
 
 If you are a registered [matriculated student](/workshops/uni) or non-matriculated student registered for [continuing education units](/workshops/uni#professional-continuing-education-units), you do **not** need to separately register as a volunteer.
-
----
 
 ## A. Safety and Construction Background
 
@@ -27,8 +25,7 @@ Building BDAs and PALS is part of a Low-Tech Process-Based Restoration (LTPBR) t
 
 **Background:** This talk is based on [Chapter 6](/manual/chap06) of the design manual.
 
-#### Video
-
+### Video
 
 <iframe
   width="560"
