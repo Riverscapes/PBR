@@ -18,19 +18,13 @@ The [second chapter](http://dx.doi.org/10.13140/RG.2.2.34270.69447) covers the u
 [![ResearchGate PDF](/img/RG.png)](http://dx.doi.org/10.13140/RG.2.2.34270.69447)  
 **Full PDF available for free at ResearchGate**, but requires a [free account](https://www.researchgate.net/signup.SignUp.html?hdrsu=1).
 
----
-
 ## Riverscapes Principles
 
 ![Riverscapes Principles](/img/RiverscapesPrinciples.png)
 
----
-
 ## Restoration Principles
 
 ![Restoration Principles](/img/RestorationPrinciples.png)
-
----
 
 ## Implications for Practice
 
@@ -43,8 +37,6 @@ The [second chapter](http://dx.doi.org/10.13140/RG.2.2.34270.69447) covers the u
   - **Restoration Principles** – influencing how to plan, design, and implement restoration  
 - Since this manual focuses on structurally-starved riverscapes, principles emphasizing processes like wood accumulation and beaver dam activity are highlighted.
 
----
-
 ## Recommended Citation
 
 Wheaton, J.M., Bennett, S.N., Bouwes, N., Camp, R., Maestas, J.D., and Shahverdian, S.M. 2019.  
@@ -52,8 +44,6 @@ Wheaton, J.M., Bennett, S.N., Bouwes, N., Camp, R., Maestas, J.D., and Shahverdi
 In: J.M. Wheaton, S.N. Bennett, N. Bouwes, J.D. Maestas and S.M. Shahverdian (Editors), [Low-Tech Process-Based Restoration of Riverscapes: Design Manual](/manual).  
 Utah State University Wheaton Restoration Consortium, Logan, Utah. 30 pp.  
 DOI: [10.13140/RG.2.2.34270.69447](http://dx.doi.org/10.13140/RG.2.2.34270.69447)
-
----
 
 ## Related Resources
 

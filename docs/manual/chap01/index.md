@@ -22,16 +22,12 @@ Chapter 1 also has appendices on:
 - Appendix D: Nothing is Really New
 - [Appendix E](/manual/chap01/appendix-E): River Health Analogy
 
----
+## Download
 
-[⬇️ Download Chapter 1 (PDF)](http://dx.doi.org/10.13140/RG.2.2.14138.03529)
+[Download Chapter 1 (PDF)](http://dx.doi.org/10.13140/RG.2.2.14138.03529)
 
----
-
-[![ResearchGate PDF](/img/RG.png)](http://dx.doi.org/10.13140/RG.2.2.19590.63049)  
+<!-- [![ResearchGate PDF](/img/RG.png)](http://dx.doi.org/10.13140/RG.2.2.19590.63049)   -->
 **Full PDF available for free at ResearchGate**, but requires a [free account](https://www.researchgate.net/signup.SignUp.html?hdrsu=1).
-
----
 
 ## Implications for Practice
 
@@ -48,8 +44,6 @@ Chapter 1 also has appendices on:
 - Low-cost, simple, hand-built structures have been used for over a century. Restoration principles are needed to guide the use of low-tech structures in order to address the scope of degradation, which will require that practitioners “let the system do the work.”
 - The overarching goal of low-tech restoration is to improve the health of as many miles of riverscapes as possible and to promote and maintain the full range of self-sustaining riverscape processes.
 
----
-
 ## Recommended Chapter Citation
 
 Shahverdian, S., Wheaton, J.M., Bennett, S.N., Bouwes, N. and Maestas, J.D. 2019.  
@@ -58,8 +52,6 @@ In: J.M. Wheaton, S.N. Bennett, N. Bouwes, J.D. Maestas and S.M. Shahverdian (Ed
 Utah State University Wheaton Restoration Consortium, Logan, Utah. 29 pp.  
 DOI: [10.13140/RG.2.2.14138.03529](http://dx.doi.org/10.13140/RG.2.2.14138.03529)
 
----
-
 ## Related Resources
 
 ### Chapter One Figures
@@ -67,25 +59,23 @@ DOI: [10.13140/RG.2.2.14138.03529](http://dx.doi.org/10.13140/RG.2.2.14138.03529
 All *original* figures are downloadable and citeable with DOI:  
 [10.6084/m9.figshare.14515461.v3](https://doi.org/10.6084/m9.figshare.14515461.v3)
 
-> Note: Figures 1.2 and 1.5 were modified to correct minor typos and terminology inconsistencies.
-
+:::note
+Figures 1.2 and 1.5 were modified to correct minor typos and terminology inconsistencies.
+:::
 
 
 ## PBR Literature
 
 Perhaps the two most definitive resources on Process-Based Restoration for riverscapes are:
 
----
-
-[![Beechie PBR](/img/covers/Beechie_PBR.png)](https://www.fs.fed.us/rm/pubs_other/rmrs_2010_beechie_t001.pdf)
+<!-- [![Beechie PBR](/img/covers/Beechie_PBR.png)](https://www.fs.fed.us/rm/pubs_other/rmrs_2010_beechie_t001.pdf) -->
 
 **Beechie T, Sear DA, Olden JD, Pess GR, Buffington JM, Moir H, Roni P and Pollock MM. 2010.**
 [*Process-based principles for river restoration*](https://www.fs.fed.us/rm/pubs_other/rmrs_2010_beechie_t001.pdf).
 *Bioscience*, 60(3): 209–222. DOI: [10.1525/bio.2010.60.3.7](http://dx.doi.org/10.1525/bio.2010.60.3.7)
 
----
 
-[![Roni & Beechie PBR](/img/covers/RoniBeechiePBR.png)](https://onlinelibrary.wiley.com/doi/book/10.1002/9781118406618)
+<!-- [![Roni & Beechie PBR](/img/covers/RoniBeechiePBR.png)](https://onlinelibrary.wiley.com/doi/book/10.1002/9781118406618) -->
 
 **Roni P and Beechie T (Eds). 2013.**
 *Stream and Watershed Restoration: A Guide to Restoring Riverine Processes and Habitats*.

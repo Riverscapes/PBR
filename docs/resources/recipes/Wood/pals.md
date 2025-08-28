@@ -17,8 +17,6 @@ We encourage practitioners to experiment with different recipes and ingredients,
 
 [![Chapter 4: PALS & BDAs](/img/PBR-LT_round_30.png)](/manual/chap04)
 
----
-
 # Recipes
 
 ### Appendix D - Typical Schematics and General Suggestions for Placement and Construction of PALS
@@ -26,6 +24,3 @@ We encourage practitioners to experiment with different recipes and ingredients,
 All of the figures and recipes in [Appendix D of Chapter 4](/manual/chap04) are downloadable and citable with DOI: [10.6084/m9.figshare.14445564.v1](https://doi.org/10.6084/m9.figshare.14445564.v1).
 
 [View figures on Figshare](https://figshare.com/articles/figure/LTPBR_Manual_-_Chapter_4_-_Appendix_D_-_Typical_Schematics_of_PALS/14445564)
-
----
-

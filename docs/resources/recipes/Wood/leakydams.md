@@ -14,8 +14,6 @@ With these types of structures, some practitioners and designers tend to focus a
 
 [Additional reference from Wild Trout Trust](https://www.therrc.co.uk/MOT/References/WT_Managing_woody_debris.pdf)
 
----
-
 ## References
 
 - DeVries, P., Fetherston, K.L., Vitale, A., and Madsen, S. (2012). *Emulating Riverine Landscape Controls of Beaver in Stream Restoration.* Fisheries 37(6): 246-255. DOI: [10.1080/03632415.2012.687263](http://dx.doi.org/10.1080/03632415.2012.687263)  
@@ -28,6 +26,3 @@ With these types of structures, some practitioners and designers tend to focus a
   _[Related News](https://www.ceh.ac.uk/news-and-media/news/trees-flood-alleviation-natural-flood-management-report)_
 
 - Wheaton, J., Fryirs, K., Brierley, G.J., Bangen, S.G., Bouwes, N., and O'Brien, G. (2015). *Geomorphic Mapping and Taxonomy of Fluvial Landforms.* Geomorphology 248: 273–295. DOI: [10.1016/j.geomorph.2015.07.010](http://dx.doi.org/10.1016/j.geomorph.2015.07.010)
-
----
-

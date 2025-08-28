@@ -9,8 +9,6 @@ Case studies are critical for grounding the concepts in this [design manual](/ma
 
 If you were part of or have completed a LTPBR project, please report it in the [LTPBR Explorer](http://bdaexplorer.com)!
 
----
-
 ## Explore Case Studies
 
 - [**LTPBR Explorer Map**](http://bdaexplorer.com)  
@@ -26,8 +24,6 @@ If you were part of or have completed a LTPBR project, please report it in the [
 - [**LTPBR Birch Creek, Utah — Jay Wilde's Story**](/resources/casestudies/birch)  
   ![Birch button](/img/logos/wilde.png)
 
----
-
 The two case studies that gave LTPBR its initial credibility were:
 
 1. [Bridge Creek IMW](/workshops/2020/SGI/Modules/module2#c-beaver-dam-analogues-bridge-creek--birch-creek), Oregon for BDAs  
@@ -37,15 +33,11 @@ These are also covered in [Module 2](/workshops/2020/SGI/Modules/module2).
 
 If you have a report on the planning, design, or evaluation of your own LTPBR case study and would like it added to the list below, [**Submit your Project as Case Study**](https://goo.gl/forms/Ol0FQsz9W4QoU4ME3).
 
----
-
 ## From [Authors](/manual/people)
 
 [![ResearchGate Project](/img/RG.png)](https://www.researchgate.net/project/Low-Tech-Process-Based-Restoration)
 
 We add our reports, presentations, and publications to our [ResearchGate Project on Low-Tech Process-Based Restoration](https://www.researchgate.net/project/Low-Tech-Process-Based-Restoration) regularly.
-
----
 
 ### Examples of Resource Inventories & Prioritization Plans
 
@@ -63,8 +55,6 @@ We add our reports, presentations, and publications to our [ResearchGate Project
 | O'Brien G, Wheaton JM 2015. [River Styles Report for Middle Fork John Day](https://www.researchgate.net/publication/270959675) | Complete geomorphic assessment | Middle Fork John Day, Oregon (Network-Scale) |
 | Wheaton JM et al. 2012. [Asotin Creek Restoration Plan](http://etal.usu.edu/Asotin/AsotinRestorationPlan_v1.pdf) | Original HDLWD & PALS report | Asotin Creek, WA (Project-Scale) |
 
----
-
 ### Examples of Design & Implementation Reports
 
 | Report Citation | Description | Location |
@@ -77,8 +67,6 @@ We add our reports, presentations, and publications to our [ResearchGate Project
 | Portugal, E. et al. 2015. [Pine Creek Pilot Design Report](http://dx.doi.org/10.13140/2.1.1209.9367) | Pilot BDA | Pine Creek, Oregon |
 | Pollock, M. et al. 2011. [Bridge Creek Design Memo](http://etal.usu.edu/BridgeCreek/NOAA/BDSS_Tech_Memo_6.07.11.pdf) | NOAA tech memo | Bridge Creek, Oregon |
 
----
-
 ## From Others
 
 If you have or know of a great example, you can [**Submit your Project as Case Study**](https://goo.gl/forms/Ol0FQsz9W4QoU4ME3).
@@ -87,5 +75,3 @@ If you have or know of a great example, you can [**Submit your Project as Case S
 |-----------------|-------------|----------|
 | [Three Mile Creek - WATS 5350 Capstone Class - 2018](http://capstone.restoration.usu.edu/Course_Topics/WATS_5350/Low-Tech/Projects/3mile.html) | Designed and built by USU students | Three Mile Creek, Utah |
 | Gregory Lewallen et al. 2017. [Chapter 11—Beaver Restoration Case Studies](https://www.fws.gov/oregonfwo/promo.cfm?id=177175812) in The Beaver Restoration Guidebook | Collection of examples | Throughout Western US |
-
----

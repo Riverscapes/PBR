@@ -12,8 +12,6 @@ Also commonly referred to as **"Zeedyk" structures** (Zeedyk & Clothier, 2009), 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLJqWFxuSPC1dgUyxDuVQE8vKQE981ROhP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
----
-
 ## Helpful References
 
 | Cover | Reference |
@@ -23,8 +21,6 @@ Also commonly referred to as **"Zeedyk" structures** (Zeedyk & Clothier, 2009), 
 | ![](/img/covers/nrcs-zeedyk-technote-2018.png) | **Maestas, J.D., Conner, S., Zeedyk, B., Neely, B., Rondeau, R., Seward, N., Chapman, T., With, L. and Murph, R., 2018.** [*Hand-built structures for restoring degraded meadows in sagebrush rangelands: Examples and lessons learned from the Upper Gunnison River Basin, Colorado*](http://www.sagegrouseinitiative.com/wp-content/uploads/2018/05/CO-NRCS_Range_Technical_Note_40_Gunnison_Zeedyk-Structures_5-18.pdf). USDA, NRCS, Range Technical Note No. 40. |
 | ![](/img/covers/1967WI_Guidelines.png) | **White, R.J. and Brynildson, O.M., 1967.** [*Guidelines for management of trout stream habitat in Wisconsin*](https://dnr.wi.gov/files/PDF/pubs/ss/SS0039.pdf). Wisconsin DNR, Madison, WI, 68 pp |
 | ![](/img/covers/Swanson2015.png) | **Swanson, S., Wyman, S., Evans, C., 2015.** [*Practical Grazing Management to Maintain or Restore Riparian Functions and Values on Rangelands*](https://naes.agnt.unr.edu/PMS/Pubs/61_2015_18.pdf). Journal of Range Management 2: 28 pp |
-
----
 
 ## Recipes
 
@@ -49,5 +45,3 @@ The [Quivira Coalition's Erosion Control Field Guide](https://s3-us-west-2.amazo
 [Watch on YouTube](https://www.youtube.com/watch?v=koVtu3FsKww)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/koVtu3FsKww" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
----
