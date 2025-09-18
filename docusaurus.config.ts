@@ -75,6 +75,32 @@ const config: Config = {
         },
       ],
     },
+    footer: {
+      links: [
+        {
+          // Note that this NEEDS to match what's in the default template or we get another column
+          title: 'User Resources',
+          items: [
+            {
+              label: 'Join this User Community',
+              href: 'https://www.riverscapes.net/topics/44339/feed',
+            },
+            {
+              label: 'Search the Data Exchange',
+              href: 'https://data.riverscapes.net/s?type=Project&projectTypeId=ltpbrprojects&view=map',
+            },
+            {
+              label: 'Developers & Code Repository',
+              href: 'https://github.com/Riverscapes/PBR',
+            },
+            {
+              label: 'Knowledge Base',
+              href: 'https://riverscapes.freshdesk.com/a/solutions/categories/153000027560/folders/153000161803?view=all',
+            },
+          ],
+        },
+      ],
+    },
 
     prism: {
       theme: prismThemes.github, // Code block theme for light mode
