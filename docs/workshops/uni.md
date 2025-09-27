@@ -1,6 +1,6 @@
 ---
 title: Utah State University Courses
-sidebar_position: 200
+sidebar_position: 1
 ---
 
 # Utah State University Administered Courses
