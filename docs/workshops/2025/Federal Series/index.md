@@ -1,13 +1,13 @@
 ---
 title: BLM/NRCS LTPBR Series | 2025
-sidebar_position: 1
+sidebar_position: 2
 ---
 
 # LTPBR Series Trainings for Federal Agencies
 
 The [USU Restoration Consortium](https://restoration.usu.edu) has partnered with the [NRCS West National Technology Support Center](https://www.nrcs.usda.gov/west-national-technology-support-center) and the [BLM Aquatic Resources Program](https://www.blm.gov/programs/aquatics) to develop a standardized Low-Tech Process-Based Restoration training series. These courses are pending incorporation into [AgLearn](https://aglearn.usda.gov/) and [DOI Talent](https://www.doi.gov/doitalent). Students will also receive continuing education units ([CEUs](https://cpe.usu.edu/contentManagement.do?method=load&code=PG0020)) and a professional transcript from Utah State University.  
 
-In Spring 2025, we will offer the **LTPBR Level I and II** trainings. **Level III** will follow in Fall 2025.
+In Spring 2025, we offered the **LTPBR Level I and II** trainings. [**Level III** follow in Fall 2025](/workshops/2025/USU/).
 
 ![NRCS logo](/img/sponsors/NRCS-Logo.png)
 ![BLM logo](/img/sponsors/blm.png)
@@ -22,7 +22,7 @@ Students will:
 - Explore the scientific foundations and current state of LTPBR  
 - Learn to assess riverscape conditions & estimate recovery potential
 
-**Registration opens November 6, 2024**
+**Registration opened November 6, 2024**
 
 | Course #  | Course Title  | Dates | Time (MST) | Cost | Link |
 |-----------|---------------|-------|------------|------|------|
