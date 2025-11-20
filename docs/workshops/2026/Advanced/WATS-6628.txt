@@ -1,0 +1,188 @@
+---
+title: Riverscape Monitoring - Syllabus
+sidebar_position: 3
+---
+
+# WATS/CEWA 6628 - Syllabus
+
+:::warning
+This course was originally advertised as in-person. Due to travel restrictions for many of our professional target audience, it was switched to **fully online**.  
+:::
+---
+## Course Information
+
+
+
+|**Course Title** | **Course Number** | **Credits** |**Term** | 
+|----|----|----|----|
+  Intro to Action-Effectiveness Monitoring of Riverscape Restoration Projects| WATS/CEWA 6628| 1 Graduate Credit (1.5 CEUs) - 20 contact hours| Fall 2025|
+
+### [Catalog Description](https://usu.catalog.acalog.com/content.php?filter%5B27%5D=WATS&filter%5B29%5D=6628&filter%5Bcourse_type%5D=-1&filter%5Bkeyword%5D=&filter%5B32%5D=1&filter%5Bcpage%5D=1&cur_cat_oid=40&expand=&navoid=30491&search_database=Filter#acalog_template_course_filter)
+
+
+Students learn how to monitor and assess riverscape health through a mix of desktop and field work. They conduct assessments in Riverscapes Studio, publish their findings, and present to peers.
+<details closed>
+
+### Prerequisite Recommendations
+Students are recommended to be proficient in GIS (See: [getting started in QGIS](https://riverscapes.freshdesk.com/support/solutions/articles/153000083973-getting-oriented-in-qgis) for self-paced; see [USU's Geospatial Collective](https://www.usu.edu/geospatial/) for more formal training options).
+
+
+### Registration
+
+- **Matriculated USU Students**: [Register via Banner](https://ss.banner.usu.edu/StudentRegistrationSsb/ssb/classSearch/classSearch)
+- **Continuing Ed/Professional Students**: [CEWA](https://cpe.usu.edu/search/publicCourseSearchDetails.do?method=load&courseId=1467564)
+
+### Schedule
+
+| Class | Time | Days | Location | Dates | Instructor(s) |
+|-------|------|------|----------|-------|------------|
+| Online - Google Meet | 9:00 am - 12:00 noon; 2:00 to 4:00 pm | Mon, Tue, Wed, Thu | [Google Meet](https://meet.google.com/ypf-oqgr-pdz) | Oct 27 - 30, 2025 | Professor [Joe Wheaton](https://www.riverscapes.net/users/5826874), [Josh Gilbert](https://www.riverscapes.net/users/6783409), [Zach Burgert](https://www.riverscapes.net/users/5923003), [Phlip Bailey](https://www.riverscapes.net/users/5571099) |
+
+
+
+#### Instructor of Record
+<LogoWrapper
+    size="sm"
+    logos={[
+        {
+        imageUrl: "/img/people/JoeWheaton_Circle.png",
+        name: "Joe Wheaton, Professor of Riverscapes, Utah State University",
+        url: "https://qcnr.usu.edu/directory/wats/faculty/wheaton-joseph"
+        },
+    ]}
+    />
+
+*Office Hours* - By appointment this semester. 
+### Fees
+
+- **Matriculated Students**: pay standard USU [tuition](https://www.usu.edu/registrar/registration/payment/).  No additional fees.
+- **Continuing Education Students**: $315 (includes $45 CEU processing fee).  
+
+</details>
+---
+
+## Course Objectives
+
+By the end of this course, students will be able to:
+
+1. **Use** [Riverscapes Studio](https://qris.riverscapes.net) to **populate** [Data Capture Events](https://qris.riverscapes.net/category/data-capture-events) and **produce** raw monitoring observations at snapshots in time. 
+2. **Develop** a field monitoring form that aligns with a protocol in QRiS and learn how to import data from field forms as well as existing datasets into QRiS. 
+2. **Apply** different [protocols](https://qris.riverscapes.net/technical-reference/protocols/) within [Data Capture Events](https://qris.riverscapes.net/category/data-capture-events).  
+3. **Analyze** monitoring data through time and space, by building riverscape appropriate [sample frames](https://qris.riverscapes.net/software-help/inputs/sample-frames/) and performing [analyses](https://qris.riverscapes.net/software-help/analyses) to calculate [metrics](https://qris.riverscapes.net/technical-reference/metric_calculations/) of data produced in data capture events.    
+4. Develop and **understanding** and familiarity with differences between evaluation of riverscape inventory, assesssment and monitoring for status and trend monitoring, versus baseline monitoring, versus action-effectiveness monitoring of riverscape restoration or management actions.
+5. **Create** a monitoring report, and supporting QRiS Project and post to the [Data Exchange](https://data.riverscapes.net).
+
+
+
+---
+
+## Course Resources
+
+The course will use:
+<ToolsWrapper
+  cardsize="md"
+  cards={[
+    {
+      title: "Main Course Resources Page",
+      description: "The main page for course materials and resources is on the QRiS Webiste.",
+      toolUrl: "https://qris.riverscapes.net/tutorials/trainings-workshops/usu-ltpbr-level3/cewa6628",
+      logoUrl: "/img/icons/qris-icon.svg",
+    },
+    {
+      title: "QRiS & QGIS",
+      description: "Riverscapes Studio plugin to QGIS will be the software used in this course.",
+      toolUrl: "https://qris.riverscapes.net",
+      logoUrl: "/img/icons/qris-icon.svg",
+    },
+ 
+  ]}
+/>
+
+
+:::note
+We will NOT be using Canvas for this class. All communication outside of class time will be on our [Advanced LTPBR Series Community](https://www.riverscapes.net/topics/45485/feed) on the Riverscapes Consortium. Assignments will be submitted by sharing your [Riverscapes Studio Projects](https://data.riverscapes.net/pt/riverscapesstudio) and as posts in our community. 
+:::
+
+
+
+
+## Community Resources
+    These communities from the [Riverscapes Consortium](https://www.riverscapes.net) are great places to ask questions, connect with colleagues and share your work.
+  
+ <ToolsWrapper
+    cardsize="sm"
+    cards={[
+        {
+        title: "Advanced CEWA LTPBR Series Community",
+        description: "The community for connecting with others in this class and the advanced series of Adavanced LTPBR courses. This is in lieu of Canvas.",
+        imageUrl: "/img/cards/ADV-CEWA-RCC.png",
+        logoUrl: "/img/icons/GetInovled.png",
+        toolUrl: "https://www.riverscapes.net/topics/45485/feed",
+        },
+        {
+        title: "Riverscapes Studio Users",
+        description: "Community of QRiS Users. Stay up to date on latest releases, webinars, trainings, ask questions and share your work.",
+        imageUrl: "/img/cards/QRiS_RCC.png",
+        logoUrl: "/img/icons/qris-icon.svg",
+        toolUrl: "https://www.riverscapes.net/topics/33160/feed",
+        },
+                {
+        title: "LTPBR of Riverscapes - Practitioner Community",
+        description: "This community is intended to facilitate exchange between practitioners of LTPBR anywhere in the world.",
+        imageUrl: "/img/cards/LTPBR-RCC.png",
+        logoUrl: "/img/icons/lt-pbr-icon-256x256-@2x.png",
+        toolUrl: "https://www.riverscapes.net/topics/34422/feed",
+        },
+
+    ]}
+    />
+
+---
+
+## Textbook
+
+<ToolsWrapper
+  cardsize="sm"
+  cards={[
+    {
+      title: "LT-PBR Manual",
+      description: "The 2019 Low-Tech Process-Based Restoration of Riverscapes Design Manual (Free/Required). Focus on Chapter 3 of the Design Manual.",
+      toolUrl: "/manual",
+      logoUrl: "/img/covers/Manual_Tilted_150.png",
+    },
+    {
+      title: "Pocket Guide",
+      description: "A LTPBR Pocket Guide to take with you into the field (Optional)",
+      toolUrl: "/resources/pocket",
+      logoUrl: "/img/covers/pocket_guide_cover_150w.png",
+    },
+
+ 
+  ]}
+/>
+
+
+
+---
+
+## Course Grading
+
+Pass / Fail Grading based on completion of [project assignment](https://qris.riverscapes.net/tutorials/trainings-workshops/usu-ltpbr-level3/cewa6626#main-assignment) and participation. Simple: do the work - pass. 
+
+---
+
+## University Policies
+
+USU policies apply, including:
+
+- [Attendance](https://catalog.usu.edu/content.php?catoid=12&navoid=3160)
+- [Academic Integrity](https://studentconduct.usu.edu/studentcode/article6)
+- [Student Code](https://studentconduct.usu.edu/studentcode/)
+- [Library Services](http://libguides.usu.edu/rc)
+- [Disability Resource Center](http://www.usu.edu/drc/)
+- [Counseling & Mental Health](https://counseling.usu.edu/)
+- [Title IX & Equity](https://equity.usu.edu/)
+
+If you experience barriers or need accommodations, please reach out to the instructor or [DRC](http://www.usu.edu/drc/) as early as possible.
+
+---

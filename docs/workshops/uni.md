@@ -5,27 +5,11 @@ sidebar_position: 1
 
 # Utah State University Administered Courses
 
-[![Fall 2025 Course Header](/img/courses/fall%202025%20uni%20course%20header.jpg)](/workshops/2025/USU)
+# Spring 2026 LTPBR Course Overview
 
-In Fall 2025, we will be offering an advanced LTPBR course series for the first time. These courses are meant to be a continuation of your existing LTPBR training and are available to take individually or as a series. 
+All six of our popular LTPBR courses are offered in series during Spring 2026 for 1 credit (1.5 CEU) each. Matriculated students can register through [Banner](http://banner.usu.edu) and professional students can find courses [listed here](https://qanr.usu.edu/wats/restoration/courses/upcoming-courses-and-workshops). 
 
-Participants will build on existing LTPBR planning, implementation, and monitoring skills. Practitioners will gain the advanced screening, planning, design, and monitoring skills to lead watershed and riverscape scope projects.  
-
-- Advance the skills to plan LTPBR restoration projects  
-- Use Riverscapes Studio to prepare a design report and regulatory permit application  
-- Learn how to monitor and assess riverscape health  
-- Practice advanced geospatial analysis of riverscape network models to screen, filter, contextualize, and prioritize restoration actions
-
-These courses fulfill graduate-level University Credit or University [Continuing Education Units](https://www.usu.edu/ais/ceu/about).
-
-These courses are assessed, and you will receive feedback and a letter grade based on your assessed work.
-
-| Course #  | Course Title | Dates | Time | Cost | Registration |
-| --------- | ------------ | ----- | ---- | ---- | ------------ |
-| CEWA 6626 | [**Advanced LTPBR Planning**](https://cpe.usu.edu/search/publicCourseSearchDetails.do?method=load&courseId=1467560) of Riverscapes | **Sep 29 - Oct 2, 2025** | All Day | $315 | [Register](https://cpe.usu.edu/search/publicCourseSearchDetails.do?method=load&courseId=1467560) |
-| CEWA 6627 | [**Advanced LTPBR Design**](https://cpe.usu.edu/search/publicCourseSearchDetails.do?method=load&courseId=1467562) of Riverscapes | **Oct 6 - Oct 9, 2025** | All Day | $315 | [Register](https://cpe.usu.edu/search/publicCourseSearchDetails.do?method=load&courseId=1467562) |
-| CEWA 6628 | [**Riverscape Monitoring**](https://cpe.usu.edu/search/publicCourseSearchDetails.do?method=load&courseId=1467564) | **Oct 27 - Oct 30, 2025** | All Day | $315 | [Register](https://cpe.usu.edu/search/publicCourseSearchDetails.do?method=load&courseId=1467564) |
-| CEWA 6629 | [**Screening & Prioritization**](https://cpe.usu.edu/search/publicCourseSearchDetails.do?method=load&courseId=1467566) of Riverscapes | **Nov 10 - Nov 13, 2025** | All Day | $315 | [Register](https://cpe.usu.edu/search/publicCourseSearchDetails.do?method=load&courseId=1467566) |
+![Spring 2026 Courses](/img/courses/Spring.png)
 
 ## CERP - Compliant
 
