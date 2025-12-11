@@ -1,9 +1,10 @@
 {
-  "label": "Intro LTPBR Series",
+  "label": "Intro LTPBR Series - 2026",
   "position": 1,
   "link": {
     "type": "generated-index",
-     "description": "Spring 2026",
-     "slug": "workshops/2026/Intro"
+    "title": "Intro LTPBR Series",
+    "description": "Spring 2026",
+    "slug": "workshops/2026/Intro"
   }
 }
