@@ -7,7 +7,7 @@ import type * as Preset from '@docusaurus/preset-classic'
 const config: Config = {
   title: 'Low-Tech Process-Based Restoration of Riverscapes', // Site title displayed in the browser tab
   tagline: 'Design Manual, Resources, Workshops.', // Short description shown in meta tags
-  favicon: 'favicon.ico', // Path to site favicon
+  favicon: '/img/icons/pbr.svg', // Path to site favicon
 
   future: {
     v4: true, // Enables compatibility with upcoming Docusaurus v4 features
@@ -40,7 +40,7 @@ const config: Config = {
   ],
 
   themeConfig: {
-    image: 'img/logo.png', // Social sharing image
+    image: '/img/icons/pbr.svg', // Social sharing image
 
     algolia: {
       // The application ID provided by Algolia
@@ -59,7 +59,7 @@ const config: Config = {
       title: 'Low-Tech Process-Based Restoration of Riverscapes', // Navbar title
       logo: {
         alt: 'Riverscapes Studio Logo', // Logo alt text
-        src: 'img/logo.png', // Logo image path
+        src: '/img/icons/pbr.svg', // Logo image path
       },
       items: [
         // {
