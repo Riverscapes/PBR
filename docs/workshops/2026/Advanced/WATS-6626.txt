@@ -44,7 +44,7 @@ Students are recommended to be proficient in GIS (See: [getting started in QGIS]
     size="sm"
     logos={[
         {
-        imageUrl: "/img/people/JoeWheaton_Circle.png",
+        imageUrl: "https://docs.riverscapes.net/img/people/joe_wheaton.png",
         name: "Joe Wheaton, Professor of Riverscapes, Utah State University",
         url: "https://qcnr.usu.edu/directory/wats/faculty/wheaton-joseph"
         },

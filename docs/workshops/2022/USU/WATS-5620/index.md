@@ -88,7 +88,7 @@ By the end of the course, you will be able to:
 
 ## Instructor
 
-![Joe Wheaton](/img/people/Wheaton_round.png)
+![Joe Wheaton](https://docs.riverscapes.net/img/people/joe_wheaton.png)
 
 **[Joseph Wheaton](http://joewheaton.org)**  
 Professor of Riverscapes  
