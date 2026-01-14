@@ -20,15 +20,23 @@ Related to the LTPBR workshop [**Module 4 - LTPBR Design**](/workshops/2020/SGI/
 
 ## Tools & Protocols
 
-- [**Riverscapes Consortium Models & Tools**](http://riverscapes.xyz/Tools)  
-  ![Riverscapes Logo](/img/RiverscapesLogo_40.png)
+<ToolsWrapper
+cardsize="md"
+  cards={[{
+    title: "Riverscapes Consortium Models & Tools",
+    toolUrl: "[/manual](http://riverscapes.xyz/Tools)",
+    logoUrl: "https://cdn.riverscapes.net/icons/consortium/consortium.svg",
+  }, {
+    title: "LTPBR Implementation and Monitoring Protocol",
+    toolUrl: "[/resources/Topics/](http://fmltpbr.riverscapes.xyz/)",
+    logoUrl: "/img/fmLTPBR_Protocol.png",
+  }, {
+    title: "FM-LTPBR Design App",
+    toolUrl: "http://fmltpbr.riverscapes.xyz",
+    logoUrl: "/img/fmLTPBR_IconOnly.png",
+  }]}
+/>
 
-- [**LTPBR Implementation and Monitoring Protocol**](http://fmltpbr.riverscapes.xyz/)  
-  ![LTPBR Protocol](/img/fmLTPBR_Protocol.png)
-
-- [**FM-LTPBR Design App** (Research Grade)](http://fmltpbr.riverscapes.xyz/)  
-  ![FM-LTPBR Icon](/img/fmLTPBR_IconOnly.png)  
-  
 
 ---
 

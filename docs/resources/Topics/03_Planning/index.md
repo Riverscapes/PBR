@@ -32,31 +32,22 @@ In in-person training, participants usually attend one or two field trips to pra
 
 ## Tools & Protocols
 
-<div class="row">
-
-<div class="col">
-
-[**Riverscapes Consortium Models & Tools**](http://riverscapes.xyz/Tools)  
-![Riverscapes logo](/img/RiverscapesLogo_40.png)
-
-</div>
-
-<div class="col">
-
-[**LTPBR Implementation and Monitoring Protocol**](http://fmltpbr.riverscapes.xyz/)  
-![LTPBR Protocol](/img/fmLTPBR_Protocol.png)
-
-</div>
-
-<div class="col">
-
-[**FM-LTPBR Design App** (Research Grade)](http://fmltpbr.riverscapes.xyz/)  
-![FM-LTPBR App](/img/fmLTPBR_IconOnly.png)  
-![Research Grade](https://riverscapes.xyz/img/tools/grade/TRL_3_32p.png)
-
-</div>
-
-</div>
+<ToolsWrapper
+cardsize="md"
+  cards={[{
+    title: "Riverscapes Consortium Models & Tools",
+    toolUrl: "[/manual](http://riverscapes.xyz/Tools)",
+    logoUrl: "https://cdn.riverscapes.net/icons/consortium/consortium.svg",
+  }, {
+    title: "LTPBR Implementation and Monitoring Protocol",
+    toolUrl: "[/resources/Topics/](http://fmltpbr.riverscapes.xyz/)",
+    logoUrl: "/img/fmLTPBR_Protocol.png",
+  }, {
+    title: "FM-LTPBR Design App",
+    toolUrl: "http://fmltpbr.riverscapes.xyz",
+    logoUrl: "/img/fmLTPBR_IconOnly.png",
+  }]}
+/>
 
 ---
 
