@@ -31,7 +31,7 @@ The scope of degraded rivers and streams is difficult to overstate. However, the
 
 ## Instructors
 
-[![Joe Wheaton](/img/people/Wheaton_round.png)](http://www.joewheaton.org)  
+[![Joe Wheaton](https://docs.riverscapes.net/img/people/joe_wheaton.png)](http://www.joewheaton.org)  
 Joe Wheaton will lead the GCD portion of class.  
 **Office Hours:** Mondays from 12:30 - 1:20 PM in NR 360
 
