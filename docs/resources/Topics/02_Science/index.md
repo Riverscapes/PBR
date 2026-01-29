@@ -21,7 +21,7 @@ Related to the LTPBR workshop [**Module 2 - Science & Case Studies**](/workshops
 
 ## Specific Case Studies
 
-- [**BDA Explorer Map**](http://bdaexplorer.com)  
+- [**PBR Explorer Map**](http://pbr.riverscapes.net)  
   ![BDA Explorer Logo](/img/logos/LTPBRexplorer_button.png)  
   *See LTPBR projects & register your own!*
 

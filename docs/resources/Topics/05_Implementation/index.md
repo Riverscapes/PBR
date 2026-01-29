@@ -22,7 +22,7 @@ Related to the LTPBR workshop [**Module 5 - Implementation**](/workshops/2020/SG
 
 ## Implementation Tools & Examples
 
-- [**BDA-Explorer Map**](http://bdaexplorer.com)  
+- [**PBR Explorer Map**](http://pbr.riverscapes.net)  
   See LTPBR projects, and register your own.
 
 - [Low-Tech PBR Case Studies & Reports](/resources/casestudies)

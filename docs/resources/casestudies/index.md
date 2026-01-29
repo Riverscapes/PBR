@@ -7,11 +7,11 @@ sidebar_position: 900
 
 Case studies are critical for grounding the concepts in this [design manual](/manual/). As the list of case studies is always growing, we do not summarize them in a static chapter but instead refer the reader below to an annotated bibliography of case studies maintained on this website. Note most PDFs are available for download from [ResearchGate](https://www.researchgate.net/project/Low-Tech-Process-Based-Restoration) for free if you create an account.
 
-If you were part of or have completed a LTPBR project, please report it in the [LTPBR Explorer](http://bdaexplorer.com)!
+If you were part of or have completed a LTPBR project, please report it in the [PBR Explorer](http://pbr.riverscapes.net)!
 
 ## Explore Case Studies
 
-- [**LTPBR Explorer Map**](http://bdaexplorer.com)  
+- [**PBR Explorer Map**](http://pbr.riverscapes.net)  
   *See LTPBR projects and register your own!*  
   ![LTPBR Explorer button](/img/logos/LTPBRexplorer_button.png)
 
