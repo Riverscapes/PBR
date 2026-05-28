@@ -3,7 +3,29 @@ title: LT-PBR in News
 sidebar_position: 600
 ---
 
-# Latest News Coverage for LTPBR
+With the launch of the [Riverscapes Consortium community platform](https://riverscapes.net), we now use the [News](https://www.riverscapes.net/news) and [Feed](https://www.riverscapes.net/feed) features to share LT-PBR in the news. This allows the entire community to share relevant LT-PBR in the News updates. 
+
+<ToolsWrapper
+    cardsize="sm"
+    cards={[
+        {
+        title: "News",
+        description: "Read, Search and Post LTPBR News",
+        logoUrl: "https://cdn.riverscapes.net/icons/miscellaneous/community/community.svg",
+        toolUrl: "https://www.riverscapes.net/news",
+        },
+        {
+        title: "Your Feed",
+        description: "Customize your own feed on RC and make posts to share",
+        logoUrl: "https://cdn.riverscapes.net/icons/consortium/consortium.svg",
+        toolUrl: "https://www.riverscapes.net/feed",
+                },
+    ]}
+    />
+
+
+
+# News Coverage for LTPBR (pre 2022)
 
 | Date | Title | Source |
 |------|-------|--------|
