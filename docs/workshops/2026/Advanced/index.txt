@@ -1,0 +1,19 @@
+---
+title: Advanced LTPBR Series
+sidebar_position: 7
+---
+
+# Advanced LTPBR Courses
+
+![Fall 2025 Header](/img/courses/fall%202025%20uni%20course%20header.jpg)
+
+{
+  "label": "Advanced LTPBR Series - 2026",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "title": "Advanced LTPBR Series",
+    "description": "Fall 2026",
+    "slug": "workshops/2026/Advanced"
+  }
+}
