@@ -35,7 +35,7 @@ This course introduces adaptive management and how it can be applied to Low-Tech
 
 | Class | Time | Day | Location | Dates | Instructor |
 |-------|------|-----|----------|-------|------------|
-| Adaptive Management of LTPBR | 1:30–4:15 pm | Tuesday | Online via Zoom | Apr 16 & Apr 23, 2024 | [Nick Bouwes](/workshops/2020/SGI/#instruction-team) |
+| Adaptive Management of LTPBR | 1:30–4:15 pm | Tuesday | Online via Zoom | Apr 16 & Apr 23, 2024 | [Nick Bouwes](/workshops/past-workshops/2020/SGI/#instruction-team) |
 
 This course is based on [Module 6](/workshops/2020/SGI/Modules/module6) of the self-paced materials.
 

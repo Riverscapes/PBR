@@ -33,7 +33,7 @@ This course introduces the implementation phase of Low-Tech Process-Based Restor
 
 | Class | Time | Days | Where | Dates | Instructors |
 | ----- | ---- | ---- | ----- | ----- | ----------- |
-| [Implementing LTPBR](/workshops/2021/USU/WATS-5624/) | 1:30–3:30 pm | Tuesday | Zoom | Apr 20, 2021 | [Scott Shahverdian, Joe Wheaton, Stephen Bennett, Nicolaas Bouwes](/workshops/2020/SGI/#instruction-team) |
+| [Implementing LTPBR](/workshops/2021/USU/WATS-5624/) | 1:30–3:30 pm | Tuesday | Zoom | Apr 20, 2021 | [Scott Shahverdian, Joe Wheaton, Stephen Bennett, Nicolaas Bouwes](/workshops/past-workshops/2020/SGI/#instruction-team) |
 | [Implementing LTPBR](/workshops/2021/USU/WATS-5624/) | 7:30 am–5:30 pm | Saturday | Field Trip | Apr 24, 2021 | Same instructors |
 
 **Canvas Link:**  

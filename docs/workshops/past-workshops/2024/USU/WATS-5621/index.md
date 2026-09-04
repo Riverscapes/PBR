@@ -34,7 +34,7 @@ Students explore the science and case studies that encouraged Low-Tech Process-B
 
 | Class | Time | Days | Location | Dates | Instructor |
 |-------|------|------|----------|-------|------------|
-| LTPBR Science & Case Studies | 1:30–4:15 pm MST | Tuesdays | Zoom | Feb 20, 27, Mar 5, 2024 | [Nicolaas Bouwes](/workshops/2020/SGI/#instruction-team) |
+| LTPBR Science & Case Studies | 1:30–4:15 pm MST | Tuesdays | Zoom | Feb 20, 27, Mar 5, 2024 | [Nicolaas Bouwes](/workshops/past-workshops/2020/SGI/#instruction-team) |
 
 **Course discussion meetings**:  
 

@@ -33,7 +33,7 @@ Students explore the planning process for Low-Tech Process-Based Restoration (LT
 
 | Class | Time | Days | Where | Dates | Instructors |
 | ----- | ---- | ---- | ----- | ----- | ----------- |
-| [Planning LTPBR](/workshops/2021/USU/WATS-5622/) | 1:30–3:30 pm | Tuesdays | Zoom | Mar 9, 16, 23, 2021 | [Joseph Wheaton, Stephen Bennett](/workshops/2020/SGI/#instruction-team) |
+| [Planning LTPBR](/workshops/2021/USU/WATS-5622/) | 1:30–3:30 pm | Tuesdays | Zoom | Mar 9, 16, 23, 2021 | [Joseph Wheaton, Stephen Bennett](/workshops/past-workshops/2020/SGI/#instruction-team) |
 
 **Canvas Link:**  
 [Canvas Course Page](https://usu.instructure.com/courses/618192)

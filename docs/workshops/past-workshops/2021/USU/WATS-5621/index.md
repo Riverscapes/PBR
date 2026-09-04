@@ -33,7 +33,7 @@ Students explore the science and case studies that encouraged Low-Tech Process-B
 
 | Class | Time | Days | Where | Dates | Instructors |
 | ----- | ---- | ---- | ----- | ----- | ----------- |
-| [LTPBR Science & Case Studies](/workshops/2021/USU/WATS-5621/) | 1:30–3:30 pm | Tuesdays | Zoom | Feb 9, 23 & Mar 2, 2021 | [Nicolaas Bouwes, Stephen Bennett, Joe Wheaton](/workshops/2020/SGI/#instruction-team) |
+| [LTPBR Science & Case Studies](/workshops/2021/USU/WATS-5621/) | 1:30–3:30 pm | Tuesdays | Zoom | Feb 9, 23 & Mar 2, 2021 | [Nicolaas Bouwes, Stephen Bennett, Joe Wheaton](/workshops/past-workshops/2020/SGI/#instruction-team) |
 
 **Canvas Link:**  
 [Canvas Course Page](https://usu.instructure.com/courses/639115)

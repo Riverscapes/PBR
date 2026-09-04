@@ -33,7 +33,7 @@ This course introduces the design process for Low-Tech Process-Based Restoration
 
 | Class | Time | Days | Location | Dates | Instructor |
 |-------|------|------|----------|-------|------------|
-| [Designing LTPBR](/workshops/2023/USU/WATS-5623/) | 1:30–3:30 pm | Tuesdays | [Zoom](https://usu-edu.zoom.us/s/85735561749) | Mar 21, 28 & Apr 4, 2023 | [Stephen Nicholas Bennett](/workshops/2020/SGI/#instruction-team) |
+| [Designing LTPBR](/workshops/2023/USU/WATS-5623/) | 1:30–3:30 pm | Tuesdays | [Zoom](https://usu-edu.zoom.us/s/85735561749) | Mar 21, 28 & Apr 4, 2023 | [Stephen Nicholas Bennett](/workshops/past-workshops/2020/SGI/#instruction-team) |
 
 > This course is based on [Module 4](/workshops/2020/SGI/Modules/module4) of the self-paced materials.
 

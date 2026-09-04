@@ -33,7 +33,7 @@ This course introduces students to designing Low-Tech Process-Based Restoration 
 
 | Class | Time | Days | Where | Dates | Instructors |
 | ----- | ---- | ---- | ----- | ----- | ----------- |
-| [Designing LTPBR](/workshops/2021/USU/WATS-5623/) | 1:30–3:30 pm | Tuesdays | Zoom | Mar 30, Apr 6, Apr 13, 2021 | [Joseph Wheaton, Stephen Bennett, Scott Shahverdian](/workshops/2020/SGI/#instruction-team) |
+| [Designing LTPBR](/workshops/2021/USU/WATS-5623/) | 1:30–3:30 pm | Tuesdays | Zoom | Mar 30, Apr 6, Apr 13, 2021 | [Joseph Wheaton, Stephen Bennett, Scott Shahverdian](/workshops/past-workshops/2020/SGI/#instruction-team) |
 | [Design Field Trip](/workshops/2021/USU/WATS-5623/) | 8:30 am–5:30 pm | Saturday | Field Trip | Apr 10, 2021 | Same instructors as above |
 
 **Canvas Link**  

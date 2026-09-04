@@ -34,8 +34,8 @@ This course introduces Low-Tech Process-Based Restoration of Riverscapes impleme
 
 | Class | Time | Day | Where | Date | Instructor |
 |-------|------|-----|-------|------|------------|
-| Implementing LTPBR | 1:30–4:15 pm | Tuesday | Zoom | April 9, 2024 | [Stephen Bennett](/workshops/2020/SGI/#instruction-team) |
-| Field Trip | 7:30 am–5:30 pm | Saturday | Field | April 13, 2024 | [Stephen Bennett](/workshops/2020/SGI/#instruction-team) |
+| Implementing LTPBR | 1:30–4:15 pm | Tuesday | Zoom | April 9, 2024 | [Stephen Bennett](/workshops/past-workshops/2020/SGI/#instruction-team) |
+| Field Trip | 7:30 am–5:30 pm | Saturday | Field | April 13, 2024 | [Stephen Bennett](/workshops/past-workshops/2020/SGI/#instruction-team) |
 
 > Outline dates and assignments will be posted on Canvas:  
 > [Canvas Course Page (Spring 2024)](https://usu.instructure.com/courses/754450)

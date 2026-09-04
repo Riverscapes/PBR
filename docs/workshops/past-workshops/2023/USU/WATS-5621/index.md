@@ -34,7 +34,7 @@ Students explore the science and case studies that encouraged Low-Tech Process-B
 
 | Class | Time | Day | Location | Dates | Instructor |
 |-------|------|-----|----------|-------|------------|
-| [LTPBR Science & Case Studies](/workshops/2023/USU/WATS-5621/) | 1:30–3:30 pm MST | Tuesday | Zoom | Feb 21, 28 & Mar 14, 2023 | [Nicolaas Bouwes](/workshops/2020/SGI/#instruction-team) |
+| [LTPBR Science & Case Studies](/workshops/2023/USU/WATS-5621/) | 1:30–3:30 pm MST | Tuesday | Zoom | Feb 21, 28 & Mar 14, 2023 | [Nicolaas Bouwes](/workshops/past-workshops/2020/SGI/#instruction-team) |
 
 > Recurring Zoom link:  
 [Join Zoom Meeting](https://usu-edu.zoom.us/j/84727348167?pwd=NkZaZ254andOaUorWmkzdkpGb0pIdz09)

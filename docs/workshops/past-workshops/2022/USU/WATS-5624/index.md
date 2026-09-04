@@ -31,8 +31,8 @@ This course introduces Low-Tech Process-Based Restoration of Riverscapes impleme
 
 | Class              | Time               | Day       | Where       | Dates       | Instructor                                                                                       |
 | ------------------ | ------------------ | --------- | ----------- | ----------- | ------------------------------------------------------------------------------------------------ |
-| Implementing LTPBR | 1:30–3:30 pm       | Tuesday   | [Zoom](https://usu-edu.zoom.us/j/88041118826?pwd=d2JqUE1NQWlrWnk0YVExVTgxdHN3dz09) | Apr 19, 2022 | [Stephen Nicholas Bennett](/workshops/2020/SGI/#instruction-team)                               |
-| Field Trip         | 7:30 am–5:30 pm    | Saturday  | Field Trip  | Apr 23, 2022 | [Stephen Nicholas Bennett](/workshops/2020/SGI/#instruction-team)                               |
+| Implementing LTPBR | 1:30–3:30 pm       | Tuesday   | [Zoom](https://usu-edu.zoom.us/j/88041118826?pwd=d2JqUE1NQWlrWnk0YVExVTgxdHN3dz09) | Apr 19, 2022 | [Stephen Nicholas Bennett](/workshops/past-workshops/2020/SGI/#instruction-team)                               |
+| Field Trip         | 7:30 am–5:30 pm    | Saturday  | Field Trip  | Apr 23, 2022 | [Stephen Nicholas Bennett](/workshops/past-workshops/2020/SGI/#instruction-team)                               |
 
 ### Course Outline
 

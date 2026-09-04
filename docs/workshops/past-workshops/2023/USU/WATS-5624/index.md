@@ -31,8 +31,8 @@ This course introduces the implementation of Low-Tech Process-Based Restoration 
 
 | Class | Time | Day | Location | Date | Instructor |
 |-------|------|-----|----------|------|------------|
-| [Implementing LTPBR](/workshops/2022/USU/WATS-5624/) | 1:30–3:30 pm | Tuesday | [via Zoom](https://usu-edu.zoom.us/s/85735561749) | Apr 11, 2023 | [Stephen N. Bennett](/workshops/2020/SGI/#instruction-team) |
-| Field Trip | 7:30 am–5:30 pm | Saturday | In the field | Apr 15, 2023 | [Stephen N. Bennett](/workshops/2020/SGI/#instruction-team) |
+| [Implementing LTPBR](/workshops/2022/USU/WATS-5624/) | 1:30–3:30 pm | Tuesday | [via Zoom](https://usu-edu.zoom.us/s/85735561749) | Apr 11, 2023 | [Stephen N. Bennett](/workshops/past-workshops/2020/SGI/#instruction-team) |
+| Field Trip | 7:30 am–5:30 pm | Saturday | In the field | Apr 15, 2023 | [Stephen N. Bennett](/workshops/past-workshops/2020/SGI/#instruction-team) |
 
 > Outline dates and assignments will be posted on Canvas:  
 > [Spring 2023 Canvas](https://usu.instructure.com/courses/727012)
