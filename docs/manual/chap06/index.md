@@ -52,6 +52,6 @@ DOI: [10.13140/RG.2.2.25043.22567](http://dx.doi.org/10.13140/RG.2.2.25043.22567
 ## Related Resources
 
 👉 [Low-Tech PBR Recipes](/resources/recipes)  
-👉 [Low-Tech PBR Contractors](/resources/contractors)
+
 
 ---
