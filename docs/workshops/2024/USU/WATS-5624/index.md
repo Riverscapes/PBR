@@ -34,8 +34,8 @@ This course introduces Low-Tech Process-Based Restoration of Riverscapes impleme
 
 | Class | Time | Day | Where | Date | Instructor |
 |-------|------|-----|-------|------|------------|
-| Implementing LTPBR | 1:30–4:15 pm | Tuesday | Zoom | April 9, 2024 | [Stephen Bennett](/workshops/past-workshops/2020/SGI/#instruction-team) |
-| Field Trip | 7:30 am–5:30 pm | Saturday | Field | April 13, 2024 | [Stephen Bennett](/workshops/past-workshops/2020/SGI/#instruction-team) |
+| Implementing LTPBR | 1:30–4:15 pm | Tuesday | Zoom | April 9, 2024 | [Stephen Bennett](/workshops/2020/SGI/overview#instruction-team) |
+| Field Trip | 7:30 am–5:30 pm | Saturday | Field | April 13, 2024 | [Stephen Bennett](/workshops/2020/SGI/overview#instruction-team) |
 
 > Outline dates and assignments will be posted on Canvas:  
 > [Canvas Course Page (Spring 2024)](https://usu.instructure.com/courses/754450)
@@ -44,7 +44,7 @@ This course introduces Low-Tech Process-Based Restoration of Riverscapes impleme
 
 | Meeting Date | Modules | Topics |
 |--------------|---------|--------|
-| 4/9/2024 | 5.2–5.5 | [Overview](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module5#b-low-tech-implementation-overview), [Consultation & Permitting](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module5#c-consultation--permitting), [Logistics & Safety](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module5#d-logistics-equipment--safety), [Construction of PALS & BDAs](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module5#e-construction-of-pals--bdas) |
+| 4/9/2024 | 5.2–5.5 | [Overview](/workshops/2020/SGI/Modules/module5#b-low-tech-implementation-overview), [Consultation & Permitting](/workshops/2020/SGI/Modules/module5#c-consultation--permitting), [Logistics & Safety](/workshops/2020/SGI/Modules/module5#d-logistics-equipment--safety), [Construction of PALS & BDAs](/workshops/2020/SGI/Modules/module5#e-construction-of-pals--bdas) |
 | 4/13/2024 | 5.6 | Field Day — Constructing an LTPBR Project |
 
 > This course is based on [Module 5](/workshops/2020/SGI/Modules/module5) of the self-paced materials.  

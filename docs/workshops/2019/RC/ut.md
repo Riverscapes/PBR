@@ -124,7 +124,7 @@ Vegetarian/vegan options were available, but other dietary restrictions should b
 
 # Workshop Participants
 
-This workshop drew participants from 14 different states, showing growing interest in [Low-Tech PBR](http://lowtechpbr.restoration.usu.edu).
+This workshop drew participants from 14 different states, showing growing interest in [Low-Tech PBR](/).
 
 [Participant Map](https://www.google.com/maps/d/embed?mid=168QgFKSNTklVYaoKLONoRGWKXAgRFViQ)
 

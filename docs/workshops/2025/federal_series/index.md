@@ -8,7 +8,7 @@ sidebar_label: Federal Series
 
 The [USU Restoration Consortium](https://restoration.usu.edu) has partnered with the [NRCS West National Technology Support Center](https://www.nrcs.usda.gov/west-national-technology-support-center) and the [BLM Aquatic Resources Program](https://www.blm.gov/programs/aquatics) to develop a standardized Low-Tech Process-Based Restoration training series. These courses are pending incorporation into [AgLearn](https://aglearn.usda.gov/) and [DOI Talent](https://www.doi.gov/doitalent). Students will also receive continuing education units ([CEUs](https://cpe.usu.edu/contentManagement.do?method=load&code=PG0020)) and a professional transcript from Utah State University.  
 
-In Spring 2025, we offered the **LTPBR Level I and II** trainings. [**Level III** follow in Fall 2025](/workshops/2025/USU/).
+In Spring 2025, we offered the **LTPBR Level I and II** trainings. [**Level III** follow in Fall 2025](/category/usu-ltpbr-courses).
 
 ![NRCS logo](/img/sponsors/NRCS-Logo.png)
 ![BLM logo](/img/sponsors/blm.png)
@@ -27,9 +27,9 @@ Students will:
 
 | Course #  | Course Title  | Dates | Time (MST) | Cost | Link |
 |-----------|---------------|-------|------------|------|------|
-| CEWA 5620 | [Introduction to LTPBR](/workshops/2025/USU/WATS-5620/) | Jan 7, 14, 21 | 1:30–4:15 | $315 | [Register](https://cpe.usu.edu/public/category/programArea.do?method=load&selectedProgramAreaId=1134103) |
-| CEWA 5621 | [Science & Case Studies](/workshops/2025/USU/WATS-5621/) | Feb 18, 25, Mar 4 | 1:30–4:15 | $315 | [Register](https://cpe.usu.edu/public/category/programArea.do?method=load&selectedProgramAreaId=1134103) |
-| CEWA 5622 | [Planning LTPBR](/workshops/2025/USU/WATS-5622/) | Jan 28, Feb 4, 11 | 1:30–4:15 | $315 | [Register](https://cpe.usu.edu/public/category/programArea.do?method=load&selectedProgramAreaId=1134103) |
+| CEWA 5620 | [Introduction to LTPBR](/workshops/2025/USU/Intro/WATS-5620/) | Jan 7, 14, 21 | 1:30–4:15 | $315 | [Register](https://cpe.usu.edu/public/category/programArea.do?method=load&selectedProgramAreaId=1134103) |
+| CEWA 5621 | [Science & Case Studies](/workshops/2025/USU/Intro/WATS-5621/) | Feb 18, 25, Mar 4 | 1:30–4:15 | $315 | [Register](https://cpe.usu.edu/public/category/programArea.do?method=load&selectedProgramAreaId=1134103) |
+| CEWA 5622 | [Planning LTPBR](/workshops/2025/USU/Intro/WATS-5622/) | Jan 28, Feb 4, 11 | 1:30–4:15 | $315 | [Register](https://cpe.usu.edu/public/category/programArea.do?method=load&selectedProgramAreaId=1134103) |
 
 > **Note:** Students must register for all three courses to satisfy Level I requirements.
 
@@ -46,9 +46,9 @@ Participants will:
 
 | Course #  | Course Title  | Dates | Time | Cost | Link |
 |-----------|---------------|-------|------|------|------|
-| CEWA 5623 | [Design LTPBR](/workshops/2025/USU/WATS-5623/) | Mar 18, 25, Apr 1 | 1:30–4:15 | $315 | [Register](https://cpe.usu.edu/public/category/programArea.do?method=load&selectedProgramAreaId=1134103) |
-| CEWA 5624 | [Implementing LTPBR](/workshops/2025/USU/WATS-5624/) | Apr 8 (classroom), Apr 12 (field day in Logan) | Apr 9: 1:30–3:30, Apr 13: 9–5 | $415 | [Register](https://cpe.usu.edu/public/category/programArea.do?method=load&selectedProgramAreaId=1134103) |
-| CEWA 5625 | [Adaptive Management](/workshops/2025/USU/WATS-5625/) | Apr 15, 22 | 1:30–4:15 | $315 | [Register](https://cpe.usu.edu/public/category/programArea.do?method=load&selectedProgramAreaId=1134103) |
+| CEWA 5623 | [Design LTPBR](/workshops/2025/USU/Intro/WATS-5623/) | Mar 18, 25, Apr 1 | 1:30–4:15 | $315 | [Register](https://cpe.usu.edu/public/category/programArea.do?method=load&selectedProgramAreaId=1134103) |
+| CEWA 5624 | [Implementing LTPBR](/workshops/2025/USU/Intro/WATS-5624/) | Apr 8 (classroom), Apr 12 (field day in Logan) | Apr 9: 1:30–3:30, Apr 13: 9–5 | $415 | [Register](https://cpe.usu.edu/public/category/programArea.do?method=load&selectedProgramAreaId=1134103) |
+| CEWA 5625 | [Adaptive Management](/workshops/2025/USU/Intro/WATS-5625/) | Apr 15, 22 | 1:30–4:15 | $315 | [Register](https://cpe.usu.edu/public/category/programArea.do?method=load&selectedProgramAreaId=1134103) |
 
 > **Note:** Students must complete Level I before enrolling in Level II and take all three courses for completion.
 

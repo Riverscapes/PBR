@@ -49,9 +49,9 @@ Students are expected to watch pre-recorded lectures and complete readings prior
 
 | Meeting Date | Module | Topics |
 |--------------|--------|--------|
-| 1/10/2023 | 1.1 | [Background & Scope of Degradation](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module1#b-background--why-were-here), [Build your First BDA](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module1#f-what-you-came-for---your-first-bda) |
-| 1/17/2023 | 1.2 | [Intro to Low-Tech Tools](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module1#g-broad-umbrella-of-low-tech-restoration), [Guiding Principles](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module1#j-principles) |
-| 1/24/2023 | 1.3 | [Partnering with Beaver](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module1#k-beaver-history--biology), [Synthesis](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module1#n-wrap-up-and-preview-of-remaining-modules) |
+| 1/10/2023 | 1.1 | [Background & Scope of Degradation](/workshops/2020/SGI/Modules/module1#b-background--why-were-here), [Build your First BDA](/workshops/2020/SGI/Modules/module1#f-what-you-came-for--your-first-bda) |
+| 1/17/2023 | 1.2 | [Intro to Low-Tech Tools](/workshops/2020/SGI/Modules/module1#g-broad-umbrella-of-low-tech-restoration), [Guiding Principles](/workshops/2020/SGI/Modules/module1#j-principles-of-healthy-riverscapes) |
+| 1/24/2023 | 1.3 | [Partnering with Beaver](/workshops/2020/SGI/Modules/module1#k-beaver-history--biology), [Synthesis](/workshops/2020/SGI/Modules/module1#n-wrap-up--preview) |
 
 This course is built on [Module 1](/workshops/2020/SGI/Modules/module1) of the self-paced materials.
 
@@ -82,8 +82,8 @@ By the end of this course, students will:
 1. Understand the scope and seriousness of riverscape degradation.  
 2. Identify a vision for healthy riverscapes.  
 3. Recognize various low-tech treatments and practices for riverscape restoration.  
-4. Use [Principles of Riverscape Health](http://lowtechpbr.restoration.usu.edu/manual/chap02/) to evaluate conditions.  
-5. Distinguish [Low-Tech Process-Based Restoration principles](http://lowtechpbr.restoration.usu.edu/manual/chap02/) from traditional restoration methods.  
+4. Use [Principles of Riverscape Health](/manual/chap02/) to evaluate conditions.  
+5. Distinguish [Low-Tech Process-Based Restoration principles](/manual/chap02/) from traditional restoration methods.  
 6. Articulate why and where **beaver dam activity** is important for riverscape restoration.
 
 ---

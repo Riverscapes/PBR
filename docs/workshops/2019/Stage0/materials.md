@@ -139,7 +139,7 @@ For deeper study:
 
 ### Low-Tech Process-Based Restoration
 
-- [Wheaton et al. (2019) – Design Manual (PDF)](http://lowtechpbr.restoration.usu.edu/manual)
+- [Wheaton et al. (2019) – Design Manual (PDF)](/manual)
 
 And more supporting studies (click to expand):
 

@@ -37,7 +37,7 @@ This course provides an introduction to the planning process for Low-Tech Proces
 
 | Class | Time | Days | Location | Dates | Instructor |
 |-------|------|------|----------|-------|------------|
-| [Planning LTPBR](/workshops/2021/USU/WATS-5622/) | 1:30–3:30 pm | Tuesdays | [Zoom](https://usu-edu.zoom.us/s/85735561749) | Jan 31 & Feb 7, 14, 2023 | [Stephen Nicholas Bennett](/workshops/past-workshops/2020/SGI/#instruction-team) |
+| [Planning LTPBR](/workshops/2021/USU/WATS-5622/) | 1:30–3:30 pm | Tuesdays | [Zoom](https://usu-edu.zoom.us/s/85735561749) | Jan 31 & Feb 7, 14, 2023 | [Stephen Nicholas Bennett](/workshops/2020/SGI/overview#instruction-team) |
 
 > This course uses [Module 3](/workshops/2020/SGI/Modules/module3) from the self-paced materials.  
 
@@ -54,8 +54,8 @@ Students should review pre-recorded lectures and complete reading assignments be
 
 | Meeting Date | Module | Topics |
 |--------------|--------|--------|
-| 1/31/2023 | 3.1 & 3.2 | [Intro to Planning Process](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module3#b-overview-of-planning--nrcs-conservation-planning-process), [Reading Riverscapes](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module3#c-valley-bottom-mapping--virtual-field-trip) |
-| 2/07/2023 | 3.3 | [Planning Phase](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module3#e-risk-assessment-condition-assessment--recovery-potential) |
+| 1/31/2023 | 3.1 & 3.2 | [Intro to Planning Process](/workshops/2020/SGI/Modules/module3#b-overview-of-planning--nrcs-conservation-planning-process), [Reading Riverscapes](/workshops/2020/SGI/Modules/module3#c-valley-bottom-mapping--virtual-field-trip) |
+| 2/07/2023 | 3.3 | [Planning Phase](/workshops/2020/SGI/Modules/module3#e-risk-assessment-condition-assessment--recovery-potential) |
 | 2/14/2023 | 3.4 | Applying Planning to Your Own Riverscape |
 
 ---

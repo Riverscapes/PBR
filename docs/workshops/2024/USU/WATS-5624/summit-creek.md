@@ -66,6 +66,6 @@ For additional background or resources, check:
 
 - [Low-Tech Process-Based Restoration Design Manual](/manual)
 - [Pocket Field Guide](/resources/pocket)
-- [Personal Protective Equipment Guidance](https://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module5#d-logistics-equipment--safety)
+- [Personal Protective Equipment Guidance](/workshops/2020/SGI/Modules/module5#d-logistics-equipment--safety)
 
 ---

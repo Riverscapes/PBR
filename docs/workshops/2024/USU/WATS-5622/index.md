@@ -52,8 +52,8 @@ Students should review recorded lectures and reading before class discussions an
 
 | Date | Modules | Topics |
 |------|---------|--------|
-| 1/30/2024 | 3.1 & 3.2 | [Intro to Planning Process](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module3#b-overview-of-planning--nrcs-conservation-planning-process); [Reading Riverscapes](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module3#c-valley-bottom-mapping--virtual-field-trip) |
-| 2/6/2024 | 3.3 | [Planning Phase](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module3#e-risk-assessment-condition-assessment--recovery-potential) |
+| 1/30/2024 | 3.1 & 3.2 | [Intro to Planning Process](/workshops/2020/SGI/Modules/module3#b-overview-of-planning--nrcs-conservation-planning-process); [Reading Riverscapes](/workshops/2020/SGI/Modules/module3#c-valley-bottom-mapping--virtual-field-trip) |
+| 2/6/2024 | 3.3 | [Planning Phase](/workshops/2020/SGI/Modules/module3#e-risk-assessment-condition-assessment--recovery-potential) |
 | 2/13/2024 | 3.4 | Planning Applied to Your Own Riverscape |
 
 ---

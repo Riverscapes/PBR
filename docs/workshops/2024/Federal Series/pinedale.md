@@ -13,7 +13,7 @@ sidebar_position: 1
 
 The [USU Restoration Consortium](https://restoration.usu.edu) has partnered with the [NRCS West National Technology Support Center](https://www.nrcs.usda.gov/west-national-technology-support-center) and the [Bureau of Land Management's Aquatic Resources Program](https://www.blm.gov/programs/aquatics) to develop a standardized training series for Low-Tech Process-Based Restoration (LTPBR).
 
-This course is part of **CEWA 5624** (Implementation of LTPBR) for NRCS & BLM employees to satisfy [LTPBR Level 2](/workshops/2024/federal_series) requirements.  
+This course is part of **CEWA 5624** (Implementation of LTPBR) for NRCS & BLM employees to satisfy [LTPBR Level 2](/workshops/2024/Federal%20Series/) requirements.  
 
 For students who have not completed Level 1 & 2 trainings, Day 1 will introduce LTPBR, while Day 2 will feature hands-on construction of LTPBR structures near Pinedale.
 

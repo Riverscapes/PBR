@@ -33,7 +33,7 @@ This course introduces the implementation phase of Low-Tech Process-Based Restor
 
 | Class | Time | Days | Where | Dates | Instructors |
 | ----- | ---- | ---- | ----- | ----- | ----------- |
-| [Implementing LTPBR](/workshops/2021/USU/WATS-5624/) | 1:30–3:30 pm | Tuesday | Zoom | Apr 20, 2021 | [Scott Shahverdian, Joe Wheaton, Stephen Bennett, Nicolaas Bouwes](/workshops/past-workshops/2020/SGI/#instruction-team) |
+| [Implementing LTPBR](/workshops/2021/USU/WATS-5624/) | 1:30–3:30 pm | Tuesday | Zoom | Apr 20, 2021 | [Scott Shahverdian, Joe Wheaton, Stephen Bennett, Nicolaas Bouwes](/workshops/2020/SGI/overview#instruction-team) |
 | [Implementing LTPBR](/workshops/2021/USU/WATS-5624/) | 7:30 am–5:30 pm | Saturday | Field Trip | Apr 24, 2021 | Same instructors |
 
 **Canvas Link:**  
@@ -43,7 +43,7 @@ This course introduces the implementation phase of Low-Tech Process-Based Restor
 
 | Date | Modules | Topics |
 | ---- | ------- | ------ |
-| Apr 20 | 5.2–5.5 | [Overview](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module5#b-low-tech-implementation-overview), [Consultation & Permitting](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module5#c-consultation--permitting), [Logistics & Safety](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module5#d-logistics-equipment--safety), [PALS & BDA Construction](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module5#e-construction-of-pals--bdas), [Adaptive Management](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module5#f-adaptive-management) |
+| Apr 20 | 5.2–5.5 | [Overview](/workshops/2020/SGI/Modules/module5#b-low-tech-implementation-overview), [Consultation & Permitting](/workshops/2020/SGI/Modules/module5#c-consultation--permitting), [Logistics & Safety](/workshops/2020/SGI/Modules/module5#d-logistics-equipment--safety), [PALS & BDA Construction](/workshops/2020/SGI/Modules/module5#e-construction-of-pals--bdas), [Adaptive Management](/workshops/2020/SGI/Modules/module5#f-adaptive-management) |
 | Apr 24 | 5.6 | Field Day – Practical Project Construction |
 
 **Module 5 resources** (slides, lectures, and exercises):  

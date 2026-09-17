@@ -34,7 +34,7 @@ Students explore the science and case studies that encouraged Low-Tech Process-B
 
 | Class | Time | Day | Location | Dates | Instructor |
 |-------|------|-----|----------|-------|------------|
-| [LTPBR Science & Case Studies](/workshops/2023/USU/WATS-5621/) | 1:30–3:30 pm MST | Tuesday | Zoom | Feb 21, 28 & Mar 14, 2023 | [Nicolaas Bouwes](/workshops/past-workshops/2020/SGI/#instruction-team) |
+| [LTPBR Science & Case Studies](/workshops/2023/USU/WATS-5621/) | 1:30–3:30 pm MST | Tuesday | Zoom | Feb 21, 28 & Mar 14, 2023 | [Nicolaas Bouwes](/workshops/2020/SGI/overview#instruction-team) |
 
 > Recurring Zoom link:  
 [Join Zoom Meeting](https://usu-edu.zoom.us/j/84727348167?pwd=NkZaZ254andOaUorWmkzdkpGb0pIdz09)
@@ -50,9 +50,9 @@ Students are expected to complete readings and view pre-recorded lectures prior 
 
 | Meeting Date | Module | Topics |
 |--------------|--------|--------|
-| 2/21/2023 | 2.1 | [Review & Introduction](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module2#b-mimicking--promoting-wood-accumulation--beaver-dam-activity) + Case Studies on [Resilience](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module2#e-building-resilience-with-low-tech) |
-| 2/28/2023 | 2.2 | Case Studies supporting LTPBR: [Bridge Creek](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module2#c-beaver-dam-analogues-bridge-creek--birch-creek) & [Asotin Creek](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module2#d-post-assisted-log-structures-case-study-asotin-creek) |
-| 3/14/2023 | 2.3 | [Current Science & Outstanding Knowledge Gaps](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module2#f-where-science-is-at-ongoing--outstanding-science) |
+| 2/21/2023 | 2.1 | [Review & Introduction](/workshops/2020/SGI/Modules/module2#b-mimicking--promoting-wood-accumulation--beaver-dam-activity) + Case Studies on [Resilience](/workshops/2020/SGI/Modules/module2#e-building-resilience-with-low-tech) |
+| 2/28/2023 | 2.2 | Case Studies supporting LTPBR: [Bridge Creek](/workshops/2020/SGI/Modules/module2#c-beaver-dam-analogues-case-studies-bridge-creek--birch-creek) & [Asotin Creek](/workshops/2020/SGI/Modules/module2#d-post-assisted-log-structures-case-study-asotin-creek) |
+| 3/14/2023 | 2.3 | [Current Science & Outstanding Knowledge Gaps](/workshops/2020/SGI/Modules/module2#f-where-science-is-at-ongoing--outstanding-science) |
 
 This course is based on [Module 2](/workshops/2020/SGI/Modules/module2) from the self-paced workshop materials.
 

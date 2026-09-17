@@ -27,13 +27,13 @@ This workshop provides advanced instruction on riverscape assessment and the des
 
 **Recommended Pre-Workshop Review:**
 
-- [Module 1](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module1)
-- Chapter 1 of the [Low-Tech Manual](http://lowtechpbr.restoration.usu.edu/manual/)
+- [Module 1](/workshops/2020/SGI/Modules/module1)
+- Chapter 1 of the [Low-Tech Manual](/manual/)
 
 **Free resources:**
 
-- [Low-tech Manual](http://lowtechpbr.restoration.usu.edu/manual/)
-- [Pocket Guide](http://lowtechpbr.restoration.usu.edu/resources/pocket)
+- [Low-tech Manual](/manual/)
+- [Pocket Guide](/resources/pocket)
 
 ---
 
@@ -92,8 +92,8 @@ Please review these resources beforehand for workshop discussions:
 
 ## Supporting Materials
 
-- [General Low-tech PBR website](https://lowtechpbr.restoration.usu.edu)
-- [Low-tech PBR virtual workshop resources](https://lowtechpbr.restoration.usu.edu/resources/Topics/)
+- [General Low-tech PBR website](/)
+- [Low-tech PBR virtual workshop resources](/resources/Topics/)
 - [Riverscapes Tools](https://tools.riverscapes.net)
 - [Riverscapes Quick Start Guide (PDF)](https://d21hwc2yj2s6ok.cloudfront.net/assets/uploads/657522/asset/Riverscapes_Consortium_Quick_Start_Guide.pdf?1720636577)
 - [Black Bills Riverscapes Memos](https://drive.google.com/drive/folders/1orqtCfYQORCBau7D6PEhUoBflyh7lhHd)
