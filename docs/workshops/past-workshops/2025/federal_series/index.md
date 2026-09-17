@@ -1,6 +1,7 @@
 ---
-title: BLM/NRCS LTPBR Series | 2025
+title: BLM/NRCS LTPBR Series
 sidebar_position: 2
+sidebar_label: Federal Series
 ---
 
 # LTPBR Series Trainings for Federal Agencies
