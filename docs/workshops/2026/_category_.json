@@ -1,9 +1,8 @@
 {
-  "label":"2026 Courses and Workshops",
+  "label":"2026",
   "position": 2,
   "link": {
     "type": "generated-index",
-    "description": "LTPBR Workshop(s) and/or Course(s) from 2026.",
-    "slug": "/workshops/2026/"
+    "description": "LTPBR Workshop(s) and/or Course(s) from 2026."
   }
 }

@@ -1,6 +1,6 @@
 ---
 title: BLM/NRCS LTPBR Series
-sidebar_position: 200
+sidebar_position: 2
 ---
 
 # LTPBR Series Trainings for Federal Agencies

@@ -1,9 +1,9 @@
 ---
 title: USU LTPBR Courses 2024
-sidebar_position: 300
+sidebar_position: 1
 ---
 
-# Spring 2024 LTPBR Course Overview
+# Spring 2024 LTPBR Courses Overview
 
 All six of our popular LTPBR courses are offered in series during Spring 2024 for 1 credit (1.5 CEU) each. Matriculated students can register through [Banner](http://banner.usu.edu).
 
