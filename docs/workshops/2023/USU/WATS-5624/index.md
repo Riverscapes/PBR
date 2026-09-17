@@ -31,8 +31,8 @@ This course introduces the implementation of Low-Tech Process-Based Restoration 
 
 | Class | Time | Day | Location | Date | Instructor |
 |-------|------|-----|----------|------|------------|
-| [Implementing LTPBR](/workshops/2022/USU/WATS-5624/) | 1:30–3:30 pm | Tuesday | [via Zoom](https://usu-edu.zoom.us/s/85735561749) | Apr 11, 2023 | [Stephen N. Bennett](/workshops/past-workshops/2020/SGI/#instruction-team) |
-| Field Trip | 7:30 am–5:30 pm | Saturday | In the field | Apr 15, 2023 | [Stephen N. Bennett](/workshops/past-workshops/2020/SGI/#instruction-team) |
+| [Implementing LTPBR](/workshops/2022/USU/WATS-5624/) | 1:30–3:30 pm | Tuesday | [via Zoom](https://usu-edu.zoom.us/s/85735561749) | Apr 11, 2023 | [Stephen N. Bennett](/workshops/2020/SGI/overview#instruction-team) |
+| Field Trip | 7:30 am–5:30 pm | Saturday | In the field | Apr 15, 2023 | [Stephen N. Bennett](/workshops/2020/SGI/overview#instruction-team) |
 
 > Outline dates and assignments will be posted on Canvas:  
 > [Spring 2023 Canvas](https://usu.instructure.com/courses/727012)
@@ -45,7 +45,7 @@ Students are expected to complete the pre-recorded lectures and readings before 
 
 | Date | Modules | Topics |
 |------|---------|--------|
-| 4/11/2023 | 5.2–5.5 | [Overview](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module5#b-low-tech-implementation-overview), [Consultation & Permitting](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module5#c-consultation--permitting), [Logistics, Equipment & Safety](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module5#d-logistics-equipment--safety), [Construction of PALS & BDAs](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module5#e-construction-of-pals--bdas) |
+| 4/11/2023 | 5.2–5.5 | [Overview](/workshops/2020/SGI/Modules/module5#b-low-tech-implementation-overview), [Consultation & Permitting](/workshops/2020/SGI/Modules/module5#c-consultation--permitting), [Logistics, Equipment & Safety](/workshops/2020/SGI/Modules/module5#d-logistics-equipment--safety), [Construction of PALS & BDAs](/workshops/2020/SGI/Modules/module5#e-construction-of-pals--bdas) |
 | 4/15/2023 | 5.6 | Field Day (Saturday) - Building an LTPBR Project |
 
 > This course is based on [Module 5](/workshops/2020/SGI/Modules/module5) from the self-paced materials.  

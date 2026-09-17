@@ -26,7 +26,7 @@ If you were part of or have completed a LTPBR project, please report it in the [
 
 The two case studies that gave LTPBR its initial credibility were:
 
-1. [Bridge Creek IMW](/workshops/2020/SGI/Modules/module2#c-beaver-dam-analogues-bridge-creek--birch-creek), Oregon for BDAs  
+1. [Bridge Creek IMW](/workshops/2020/SGI/Modules/module2#c-beaver-dam-analogues-case-studies-bridge-creek--birch-creek), Oregon for BDAs  
 2. [Asotin Creek IMW](/workshops/2020/SGI/Modules/module2#d-post-assisted-log-structures-case-study-asotin-creek), Washington for PALS
 
 These are also covered in [Module 2](/workshops/2020/SGI/Modules/module2).

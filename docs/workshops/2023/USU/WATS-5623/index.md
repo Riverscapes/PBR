@@ -33,7 +33,7 @@ This course introduces the design process for Low-Tech Process-Based Restoration
 
 | Class | Time | Days | Location | Dates | Instructor |
 |-------|------|------|----------|-------|------------|
-| [Designing LTPBR](/workshops/2023/USU/WATS-5623/) | 1:30–3:30 pm | Tuesdays | [Zoom](https://usu-edu.zoom.us/s/85735561749) | Mar 21, 28 & Apr 4, 2023 | [Stephen Nicholas Bennett](/workshops/past-workshops/2020/SGI/#instruction-team) |
+| [Designing LTPBR](/workshops/2023/USU/WATS-5623/) | 1:30–3:30 pm | Tuesdays | [Zoom](https://usu-edu.zoom.us/s/85735561749) | Mar 21, 28 & Apr 4, 2023 | [Stephen Nicholas Bennett](/workshops/2020/SGI/overview#instruction-team) |
 
 > This course is based on [Module 4](/workshops/2020/SGI/Modules/module4) of the self-paced materials.
 
@@ -45,9 +45,9 @@ This course introduces the design process for Low-Tech Process-Based Restoration
 
 | Meeting Date | Module | Topics |
 |--------------|--------|--------|
-| 3/21/2023 | 4.1 | [Intro to Design Process](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module4#b-designing-low-tech-restoration-projects), [Leading Design with Recovery Potential](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module4#c-leading-design-with-recovery-potential) |
-| 3/28/2023 | 4.2 | [Design Standards of Practice @ Complex-Scale](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module4#d-design-standards-of-practice--designing-at-complex-scale), [Learning to Design @ Structure-Scale](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module4#e-learning-how-to-design-at-structure-scale) |
-| 4/4/2023 | 4.3 | [Field Design Documentation](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module4#f-putting-it-all-together-in-the-field), [Designing at Your Own Riverscape](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module4#f-putting-it-all-together-in-the-field) |
+| 3/21/2023 | 4.1 | [Intro to Design Process](/workshops/2020/SGI/Modules/module4#b-designing-low-tech-restoration-projects), [Leading Design with Recovery Potential](/workshops/2020/SGI/Modules/module4#c-leading-design-with-recovery-potential) |
+| 3/28/2023 | 4.2 | [Design Standards of Practice @ Complex-Scale](/workshops/2020/SGI/Modules/module4#d-design-standards-of-practice--designing-at-complex-scale), [Learning to Design @ Structure-Scale](/workshops/2020/SGI/Modules/module4#e-learning-how-to-design-at-structure-scale) |
+| 4/4/2023 | 4.3 | [Field Design Documentation](/workshops/2020/SGI/Modules/module4#f-putting-it-all-together-in-the-field), [Designing at Your Own Riverscape](/workshops/2020/SGI/Modules/module4#f-putting-it-all-together-in-the-field) |
 
 Students will be expected to visit a real riverscape of their choosing and complete a design assignment.
 
@@ -70,7 +70,7 @@ Students will be expected to visit a real riverscape of their choosing and compl
 
 By the end of this course, students will:  
 
-1. Develop familiarity with the [LTPBR design process](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module4#d-design-standards-of-practice--designing-at-complex-scale).  
+1. Develop familiarity with the [LTPBR design process](/workshops/2020/SGI/Modules/module4#d-design-standards-of-practice--designing-at-complex-scale).  
 2. Understand differences between engineering-based vs. LTPBR design processes.  
 3. Create a complete low-tech PBR field design for a first-phase riverscape restoration.  
 4. Learn how to use **zones of influence** to express design hypotheses associated with structural forcing.  

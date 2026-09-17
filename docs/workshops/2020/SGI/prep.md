@@ -5,7 +5,7 @@ sidebar_position: 2
 
 # Preparation for the August 11–14, 2020 Virtual Workshop
 
-**Congratulations!** You are one of 1000 registrants for the live [2020 NRCS WLFW Low-Tech Riverscape Restoration Workshop](/workshops/2020/SGI/). Registration is now full.  
+**Congratulations!** You are one of 1000 registrants for the live [2020 NRCS WLFW Low-Tech Riverscape Restoration Workshop](/workshops/2020/SGI/overview). Registration is now full.  
 
 This page will help you get ready for the virtual workshop.
 
@@ -16,10 +16,10 @@ This page will help you get ready for the virtual workshop.
 
 If you’re a seasoned webinar pro, just scan these essentials:
 
-1. Attend any or all of the [five modules](/workshops/2020/SGI/#agenda). We **strongly recommend** everyone attend Module 1.  
+1. Attend any or all of the [five modules](/workshops/2020/SGI/overview#agenda). We **strongly recommend** everyone attend Module 1.  
 2. Look for emails from [GoTo Webinar](https://support.goto.com/webinar/how-to-join-attendees), sent via the Association of State Wetland Managers (ASWM) and Laura Burchill. These emails include your join links. Log in **10 minutes early** to test your connection.  
-3. Download or buy a hard copy of both the [LTPBR Manual and Pocket Guide](/workshops/2020/SGI/#workshop-textbooks) — we will reference these constantly.  
-4. Check for [module materials](/workshops/2020/SGI/#course-materials) the day before each session. These include slides, handouts, and exercises.  
+3. Download or buy a hard copy of both the [LTPBR Manual and Pocket Guide](/workshops/2020/SGI/overview#workshop-textbooks) — we will reference these constantly.  
+4. Check for [module materials](/workshops/2020/SGI/overview#course-materials) the day before each session. These include slides, handouts, and exercises.  
 5. **Print out exercises and bring colored markers or pencils.** Modules 3 and 4 will have mapping exercises better done on paper.  
 6. Expect **regular breaks**. Four days of webinars is a marathon. Stretch, move, and refresh when needed. We’ll announce breaks in each module.
 
@@ -38,7 +38,7 @@ Large virtual meetings can be imperfect, but we’ll keep them lively and engagi
 - If you are still stuck, contact Laura Burchill:
   - Email: laura@aswm.org  
   - Phone: 207-892-3399
-- Or catch up on [module materials](/workshops/2020/SGI/#course-materials) afterward.
+- Or catch up on [module materials](/workshops/2020/SGI/overview#course-materials) afterward.
 
 **Don’t panic** — most issues resolve with a simple restart.
 

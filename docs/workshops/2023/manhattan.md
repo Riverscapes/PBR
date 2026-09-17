@@ -7,7 +7,7 @@ sidebar_position: 1
 
 **October 24–26, 2023**
 
-Hosted by Ducks Unlimited, Kansas Alliance for Wetland & Streams, and Juniper Environmental, with support from the Natural Resource Conservation Service. Workshop content is based on more than 20 [LTPBR workshops](/workshops/) taught by Utah State University and supported by [2020 online modules](/workshops/2020/SGI/).
+Hosted by Ducks Unlimited, Kansas Alliance for Wetland & Streams, and Juniper Environmental, with support from the Natural Resource Conservation Service. Workshop content is based on more than 20 [LTPBR workshops](/workshops/) taught by Utah State University and supported by [2020 online modules](/workshops/2020/SGI/overview).
 
 ---
 

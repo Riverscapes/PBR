@@ -17,7 +17,7 @@ sidebar_position: 1
 
 **May 9–10, 2024**
 
-Hosted by the Nevada Association of Conservation Districts, US Fish & Wildlife Service, and the Nevada Conservation Districts Program, and taught by Anabranch Solutions. Workshop content was adapted from over 20 [LTPBR workshops](/workshops/) developed by Utah State University and the 2020 NRCS Working Lands for Wildlife [online modules](/workshops/2020/SGI/).
+Hosted by the Nevada Association of Conservation Districts, US Fish & Wildlife Service, and the Nevada Conservation Districts Program, and taught by Anabranch Solutions. Workshop content was adapted from over 20 [LTPBR workshops](/workshops/) developed by Utah State University and the 2020 NRCS Working Lands for Wildlife [online modules](/workshops/2020/SGI/overview).
 
 ---
 

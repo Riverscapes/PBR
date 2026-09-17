@@ -33,7 +33,7 @@ Students explore the science and case studies that encouraged Low-Tech Process-B
 
 | Class | Time | Days | Where | Dates | Instructors |
 | ----- | ---- | ---- | ----- | ----- | ----------- |
-| [LTPBR Science & Case Studies](/workshops/2021/USU/WATS-5621/) | 1:30–3:30 pm | Tuesdays | Zoom | Feb 9, 23 & Mar 2, 2021 | [Nicolaas Bouwes, Stephen Bennett, Joe Wheaton](/workshops/past-workshops/2020/SGI/#instruction-team) |
+| [LTPBR Science & Case Studies](/workshops/2021/USU/WATS-5621/) | 1:30–3:30 pm | Tuesdays | Zoom | Feb 9, 23 & Mar 2, 2021 | [Nicolaas Bouwes, Stephen Bennett, Joe Wheaton](/workshops/2020/SGI/overview#instruction-team) |
 
 **Canvas Link:**  
 [Canvas Course Page](https://usu.instructure.com/courses/639115)
@@ -44,9 +44,9 @@ Students are expected to complete pre-recorded lectures and reading before each 
 
 | Date | Modules | Topics |
 | ---- | ------- | ------ |
-| Feb 9 | [2.1](https://usu.instructure.com/courses/618152/modules#module_731682), [2.2](https://usu.instructure.com/courses/618152/modules#module_731683) | [Intro & Resilience](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module2.html#b-mimicking--promoting-wood-accumulation--beaver-dam-activity) |
-| Feb 23 | [2.2](https://usu.instructure.com/courses/618152/modules#module_731683) | Case Studies ([Bridge Creek](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module2.html#c-beaver-dam-analogues-bridge-creek--birch-creek), [Asotin Creek](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module2.html#d-post-assisted-log-structures-case-study-asotin-creek)) |
-| Mar 2 | [2.3](https://usu.instructure.com/courses/618152/modules#module_731684) | [State of the Science](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module2.html#f-where-science-is-at-ongoing--outstanding-science) |
+| Feb 9 | [2.1](https://usu.instructure.com/courses/618152/modules#module_731682), [2.2](https://usu.instructure.com/courses/618152/modules#module_731683) | [Intro & Resilience](/workshops/2020/SGI/Modules/module2#b-mimicking--promoting-wood-accumulation--beaver-dam-activity) |
+| Feb 23 | [2.2](https://usu.instructure.com/courses/618152/modules#module_731683) | Case Studies ([Bridge Creek](/workshops/2020/SGI/Modules/module2#c-beaver-dam-analogues-case-studies-bridge-creek--birch-creek), [Asotin Creek](/workshops/2020/SGI/Modules/module2#d-post-assisted-log-structures-case-study-asotin-creek)) |
+| Mar 2 | [2.3](https://usu.instructure.com/courses/618152/modules#module_731684) | [State of the Science](/workshops/2020/SGI/Modules/module2#f-where-science-is-at-ongoing--outstanding-science) |
 
 **Module 2 resources** (slides, lectures, and exercises):  
 [Module 2 – Science](/workshops/2020/SGI/Modules/module2)

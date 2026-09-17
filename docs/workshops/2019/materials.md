@@ -174,7 +174,7 @@ Idaho rancher Jay Wilde shares his experience:
 
 - [A Rancher’s Story - Slides (PDF)](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2019/SGI/Wilde+-+Brich+Creek.pdf)
 
-If you missed it, see a version on [the talks page](/resources/talks).  
+If you missed it, see a version on [the talks page](/category/lt-pbr-talks--webinars).  
 
 ---
 

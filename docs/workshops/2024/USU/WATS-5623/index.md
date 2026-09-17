@@ -46,9 +46,9 @@ This course introduces the design of Low-Tech Process-Based Restoration (LTPBR) 
 
 | Date | Module | Topics |
 |------|--------|--------|
-| 3/19/2024 | 4.1 | [Intro to Design Process](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module4#b-designing-low-tech-restoration-projects), [Leading Design with Recovery Potential](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module4#c-leading-design-with-recovery-potential) |
-| 3/26/2024 | 4.2 | [Design Standards of Practice @ Complex-Scale](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module4#d-design-standards-of-practice--designing-at-complex-scale), [Learning How to Design @ Structure-Scale](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module4#e-learning-how-to-design-at-structure-scale) |
-| 4/2/2024 | 4.3 | [Field Design Documentation](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module4#f-putting-it-all-together-in-the-field), Designing at Your Own Riverscape |
+| 3/19/2024 | 4.1 | [Intro to Design Process](/workshops/2020/SGI/Modules/module4#b-designing-low-tech-restoration-projects), [Leading Design with Recovery Potential](/workshops/2020/SGI/Modules/module4#c-leading-design-with-recovery-potential) |
+| 3/26/2024 | 4.2 | [Design Standards of Practice @ Complex-Scale](/workshops/2020/SGI/Modules/module4#d-design-standards-of-practice--designing-at-complex-scale), [Learning How to Design @ Structure-Scale](/workshops/2020/SGI/Modules/module4#e-learning-how-to-design-at-structure-scale) |
+| 4/2/2024 | 4.3 | [Field Design Documentation](/workshops/2020/SGI/Modules/module4#f-putting-it-all-together-in-the-field), Designing at Your Own Riverscape |
 
 Students are expected to conduct their own field trip to a riverscape of their choosing and complete a field design assignment.
 

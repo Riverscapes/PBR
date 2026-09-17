@@ -33,7 +33,7 @@ Students explore the planning process for Low-Tech Process-Based Restoration (LT
 
 | Class | Time | Days | Where | Dates | Instructors |
 | ----- | ---- | ---- | ----- | ----- | ----------- |
-| [Planning LTPBR](/workshops/2021/USU/WATS-5622/) | 1:30–3:30 pm | Tuesdays | Zoom | Mar 9, 16, 23, 2021 | [Joseph Wheaton, Stephen Bennett](/workshops/past-workshops/2020/SGI/#instruction-team) |
+| [Planning LTPBR](/workshops/2021/USU/WATS-5622/) | 1:30–3:30 pm | Tuesdays | Zoom | Mar 9, 16, 23, 2021 | [Joseph Wheaton, Stephen Bennett](/workshops/2020/SGI/overview#instruction-team) |
 
 **Canvas Link:**  
 [Canvas Course Page](https://usu.instructure.com/courses/618192)
@@ -44,8 +44,8 @@ Students are expected to complete pre-recorded lectures and readings before each
 
 | Date | Modules | Topics |
 | ---- | ------- | ------ |
-| Mar 9 | [3.1](https://usu.instructure.com/courses/618192/modules/732290), [3.2](https://usu.instructure.com/courses/618192/modules/732291) | [Intro to Planning Process](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module3#b-overview-of-planning--nrcs-conservation-planning-process), [Reading Riverscapes](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module3#c-valley-bottom-mapping--virtual-field-trip) |
-| Mar 16 | [3.3](https://usu.instructure.com/courses/618192/modules/732292) | [Planning Phase](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module3#e-risk-assessment-condition-assessment--recovery-potential) |
+| Mar 9 | [3.1](https://usu.instructure.com/courses/618192/modules/732290), [3.2](https://usu.instructure.com/courses/618192/modules/732291) | [Intro to Planning Process](/workshops/2020/SGI/Modules/module3#b-overview-of-planning--nrcs-conservation-planning-process), [Reading Riverscapes](/workshops/2020/SGI/Modules/module3#c-valley-bottom-mapping--virtual-field-trip) |
+| Mar 16 | [3.3](https://usu.instructure.com/courses/618192/modules/732292) | [Planning Phase](/workshops/2020/SGI/Modules/module3#e-risk-assessment-condition-assessment--recovery-potential) |
 | Mar 23 | [3.4](https://usu.instructure.com/courses/618192/modules/732293) | Planning Applied to Your Own Riverscape |
 
 **Module 3 resources** (slides, lectures, and exercises):  

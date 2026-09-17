@@ -33,7 +33,7 @@ This course introduces students to designing Low-Tech Process-Based Restoration 
 
 | Class | Time | Days | Where | Dates | Instructors |
 | ----- | ---- | ---- | ----- | ----- | ----------- |
-| [Designing LTPBR](/workshops/2021/USU/WATS-5623/) | 1:30–3:30 pm | Tuesdays | Zoom | Mar 30, Apr 6, Apr 13, 2021 | [Joseph Wheaton, Stephen Bennett, Scott Shahverdian](/workshops/past-workshops/2020/SGI/#instruction-team) |
+| [Designing LTPBR](/workshops/2021/USU/WATS-5623/) | 1:30–3:30 pm | Tuesdays | Zoom | Mar 30, Apr 6, Apr 13, 2021 | [Joseph Wheaton, Stephen Bennett, Scott Shahverdian](/workshops/2020/SGI/overview#instruction-team) |
 | [Design Field Trip](/workshops/2021/USU/WATS-5623/) | 8:30 am–5:30 pm | Saturday | Field Trip | Apr 10, 2021 | Same instructors as above |
 
 **Canvas Link**  
@@ -45,10 +45,10 @@ This course introduces students to designing Low-Tech Process-Based Restoration 
 
 | Date | Modules | Topics |
 | ---- | ------- | ------ |
-| Mar 30 | [1](https://usu.instructure.com/courses/618194/modules/732304), [2](https://usu.instructure.com/courses/618194/modules/732305) | [Intro to Design Process](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module4#b-designing-low-tech-restoration-projects), [Leading Design with Recovery Potential](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module4#c-leading-design-with-recovery-potential) |
-| Apr 6 | [3](https://usu.instructure.com/courses/618194/modules/732306), [4](https://usu.instructure.com/courses/618194/modules/732307) | [Design Standards of Practice @ Complex Scale](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module4#d-design-standards-of-practice--designing-at-complex-scale), [Learning to Design @ Structure Scale](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module4#e-learning-how-to-design-at-structure-scale) |
+| Mar 30 | [1](https://usu.instructure.com/courses/618194/modules/732304), [2](https://usu.instructure.com/courses/618194/modules/732305) | [Intro to Design Process](/workshops/2020/SGI/Modules/module4#b-designing-low-tech-restoration-projects), [Leading Design with Recovery Potential](/workshops/2020/SGI/Modules/module4#c-leading-design-with-recovery-potential) |
+| Apr 6 | [3](https://usu.instructure.com/courses/618194/modules/732306), [4](https://usu.instructure.com/courses/618194/modules/732307) | [Design Standards of Practice @ Complex Scale](/workshops/2020/SGI/Modules/module4#d-design-standards-of-practice--designing-at-complex-scale), [Learning to Design @ Structure Scale](/workshops/2020/SGI/Modules/module4#e-learning-how-to-design-at-structure-scale) |
 | Apr 10 | Field | Optional field trip design project |
-| Apr 13 | [5](https://usu.instructure.com/courses/618194/modules/732308), [6](https://usu.instructure.com/courses/618194/modules/732309) | [Field Design Documentation](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module4#f-putting-it-all-together-in-the-field), Applying Design to Your Own Riverscape |
+| Apr 13 | [5](https://usu.instructure.com/courses/618194/modules/732308), [6](https://usu.instructure.com/courses/618194/modules/732309) | [Field Design Documentation](/workshops/2020/SGI/Modules/module4#f-putting-it-all-together-in-the-field), Applying Design to Your Own Riverscape |
 
 This course is based on [Module 4](/workshops/2020/SGI/Modules/module4) of the self-paced materials.  
 [Module 4 – Design](/workshops/2020/SGI/Modules/module4) (slides, videos, exercises)
@@ -68,7 +68,7 @@ This course is based on [Module 4](/workshops/2020/SGI/Modules/module4) of the s
 
 By the end of this course, you will be able to:
 
-1. Develop familiarity with the core components of the [LTPBR design process](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module4#d-design-standards-of-practice--designing-at-complex-scale).
+1. Develop familiarity with the core components of the [LTPBR design process](/workshops/2020/SGI/Modules/module4#d-design-standards-of-practice--designing-at-complex-scale).
 2. Understand the difference between engineering-based design and LTPBR design.  
 3. Create a complete LTPBR field design for a first-phase restoration of an impaired riverscape.  
 4. Learn how to use a **zone of influence** to convey design hypotheses associated with structural forcing.  
