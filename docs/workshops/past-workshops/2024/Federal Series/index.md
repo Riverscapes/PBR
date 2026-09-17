@@ -1,7 +1,6 @@
 ---
-title: BLM/NRCS LTPBR Series | 2024
+title: BLM/NRCS LTPBR Series
 sidebar_position: 200
-slug: /workshops/2024/federal_series
 ---
 
 # LTPBR Series Trainings for Federal Agencies
@@ -24,7 +23,7 @@ In the Level I training, participants will:
 - Assess current riverscape conditions and estimate recovery potential
 
 | Course # | Course Title | Dates | Time (MST) | Cost | Registration |
-|----------|--------------|-------|------------|------|--------------|
+| ---------- | -------------- | ------- | ------------ | ------ | -------------- |
 | CEWA 5620 | [Introduction to LTPBR](/workshops/2024/USU/WATS-5620/) | Jan 9, 16, 23 | 1:30–4:15 | $315 | **Registration Full** |
 | CEWA 5621 | [Science & Case Studies](/workshops/2024/USU/WATS-5621/) | Feb 20, 27, Mar 5 | 1:30–4:15 | $315 | [Register](https://cpe.usu.edu/search/publicCourseSearchDetails.do?method=load&courseId=1073960) *&lt;5 spots available* |
 | CEWA 5622 | [Planning for LTPBR](/workshops/2024/USU/WATS-5622/) | Jan 30, Feb 6, 13 | 1:30–4:15 | $315 | **Registration Full** |
@@ -42,7 +41,7 @@ In the Level II training, participants will:
 - Build adaptive management and monitoring plans
 
 | Course # | Course Title | Dates | Time (MST) | Cost | Registration |
-|----------|--------------|-------|------------|------|--------------|
+| ---------- | -------------- | ------- | ------------ | ------ | -------------- |
 | CEWA 5623 | [Design for LTPBR](/workshops/2024/USU/WATS-5623/) | Mar 19, 26, Apr 2 | 1:30–4:15 | $315 | **Registration Full** |
 | CEWA 5624 | [Implementing LTPBR](/workshops/2024/USU/WATS-5624/) | Apr 9 (classroom) <br />Apr 13 (field day in Logan, UT) <br />July 24 (field day in OR) <br />Aug 8 (field day in WY) | Apr 9: 1:30–3:30 <br />Apr 13: 9–5 | $415 | [Register](https://cpe.usu.edu/search/publicCourseSearchDetails.do?method=load&courseId=1015428) |
 | CEWA 5625 | [Adaptive Management for LTPBR](/workshops/2024/USU/WATS-5625/) | Apr 16 & 23 | 1:30–4:15 | $315 | [Register](https://cpe.usu.edu/search/publicCourseSearchDetails.do?method=load&courseId=1015430) |
