@@ -1,9 +1,9 @@
 {
   "label":"Past Courses and Workshops",
-  "position": 2,
+  "position": 3,
   "link": {
     "type": "generated-index",
     "description": "Past LTPBR Workshop(s) and/or Course(s).",
-    "slug": "workshops/"
+    "slug": "/workshops/"
   }
 }
