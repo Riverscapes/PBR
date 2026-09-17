@@ -1,0 +1,10 @@
+{
+  "label": "Low-Tech PBR Trainings",
+  "position": 3,
+  "link": {
+    "type": "generated-index",
+    "description": "Information on LTPBR Trainings & Workshops. Click on Overview below for more information, or Navigate by year.",
+    "slug": "training/"
+  }
+}
+
